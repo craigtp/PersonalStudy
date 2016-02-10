@@ -1,5 +1,4 @@
 # Videos To Watch
- - [Codemania 2015: Josh Robb - Connascence & Coupling](https://www.youtube.com/watch?v=Ip2o4vbAK3s)
  - [The SOLID Design Principles Deconstructed - Kevlin Henney](https://yow.eventer.com/yow-2013-1080/the-solid-design-principles-deconstructed-by-kevlin-henney-1386)
  - [Des Traynor - Product Strategy is About Saying “No” Revisited](https://vimeo.com/110270432)
  - [Something C# 7 This Way Comes - Bill Wagner](https://vimeo.com/154708153)
@@ -20,4 +19,5 @@
  - [Barry Schwartz: The paradox of choice](https://www.youtube.com/watch?v=VO6XEQIsCoM)
  - [Des Traynor at TNW Conference Europe 2015 - Product Strategy in a Growing Company](https://www.youtube.com/watch?v=ygUQNsn6iwU)
  - [Connascence Examined - Jim Weirich](https://yow.eventer.com/yow-2012-1012/connascence-examined-by-jim-weirich-1273)
+ - [Codemania 2015: Josh Robb - Connascence & Coupling](https://www.youtube.com/watch?v=Ip2o4vbAK3s)
  
