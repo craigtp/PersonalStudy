@@ -1,6 +1,6 @@
 # Videos To Watch
  - [Codemania 2015: Josh Robb - Connascence & Coupling](https://www.youtube.com/watch?v=Ip2o4vbAK3s)
-  - [Des Traynor - Product Strategy is About Saying “No” Revisited](https://vimeo.com/110270432)
+ - [Des Traynor - Product Strategy is About Saying “No” Revisited](https://vimeo.com/110270432)
  - [Something C# 7 This Way Comes - Bill Wagner](https://vimeo.com/154708153)
  - [Mark Rendle - ASP.NET 5 on Docker](https://vimeo.com/154588594)
  - [The changing state of immutability C# - Jon Skeet](https://vimeo.com/153745433)
