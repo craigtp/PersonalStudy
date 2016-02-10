@@ -19,4 +19,5 @@
  - [Dan Pink: The puzzle of motivation](https://www.youtube.com/watch?v=rrkrvAUbU9Y)
  - [Barry Schwartz: The paradox of choice](https://www.youtube.com/watch?v=VO6XEQIsCoM)
  - [Des Traynor at TNW Conference Europe 2015 - Product Strategy in a Growing Company](https://www.youtube.com/watch?v=ygUQNsn6iwU)
+ - [Connascence Examined - Jim Weirich](https://yow.eventer.com/yow-2012-1012/connascence-examined-by-jim-weirich-1273)
  
