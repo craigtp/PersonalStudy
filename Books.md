@@ -16,11 +16,4 @@
  
 # Books Already Read
  - The Pragmatic Programmer
- 
- 
- 
-
- 
-
-
-
+ - Software Estimation - Demystifying the black art
