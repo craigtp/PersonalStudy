@@ -13,6 +13,10 @@
  - Concurrency in C#
  - Managing Software Debt
  - Brownfield Application Development in .NET
+ - Designing evolvable Web APIs with .NET
+ - Lean Software Development
+ - Lean from the trenches
+ - Kanban - Success evolutionary change for your technology business
  - Refactoring to patterns
  - Beautiful Code: Leading Programmers Explain How They Think
  - Programming Pearls
