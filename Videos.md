@@ -20,4 +20,5 @@
  - [Connascence Examined - Jim Weirich](https://yow.eventer.com/yow-2012-1012/connascence-examined-by-jim-weirich-1273)
  - [Codemania 2015: Josh Robb - Connascence & Coupling](https://www.youtube.com/watch?v=Ip2o4vbAK3s)
  - [The SOLID Design Principles Deconstructed - Kevlin Henney](https://yow.eventer.com/yow-2013-1080/the-solid-design-principles-deconstructed-by-kevlin-henney-1386)
+ - [Connascence in Python](https://www.youtube.com/watch?v=iwADIlIgDNA)
  
