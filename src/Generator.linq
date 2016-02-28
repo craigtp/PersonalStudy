@@ -6,7 +6,7 @@
 
 void Main()
 {
-	var booksFilePath = @"D:\Books.md";
+	var booksFilePath = @"D:\Documents\Source Code\My Source Code\PersonalStudy\BooksTest.md";
 	var videosFilePath = @"D:\Videos.md";
 	
 	var booksToRead = new[]
