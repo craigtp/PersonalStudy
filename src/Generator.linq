@@ -52,7 +52,9 @@ void Main()
 	booksMarkdown.Append(booksToRead.ToMarkdownTable().WithHeaders("Title", ""));
 	booksMarkdown.Append(Environment.NewLine);
 	booksMarkdown.Append(@"Books Already Read".ToMarkdownHeader());
-	booksMarkdown.Append(booksAlreadyRead.OrderBy(ar => ar.LastRead).ToMarkdownTable());
+	booksMarkdown.Append(booksAlreadyRead.OrderBy(ar => ar.LastRead)
+		.ToMarkdownTable(c => c.Title, c => c.LastRead.ToLongDateString())
+		.WithHeaders("Title", "Last Read"));
 	File.WriteAllText(booksFilePath,booksMarkdown.ToString());
 	Console.WriteLine(booksMarkdown.ToString());
 }
