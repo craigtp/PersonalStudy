@@ -6,11 +6,11 @@
 
 void Main()
 {
-	var booksFilePath = @"D:\Documents\Source Code\My Source Code\PersonalStudy\BooksTest.md";
-	var videosFilePath = @"D:\Videos.md";
+	var booksFilePath = @"D:\Books.md";
 	
 	var booksToRead = new[]
 	{
+		new { Title = "Rebels At Work" },
 		new { Title = "Clean Code" },
 		new { Title = "Clean Coder" },
 		new { Title = "Domain-Driven Design: Tackling complexity in the heart of software" },
