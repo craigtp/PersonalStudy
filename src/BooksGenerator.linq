@@ -11,6 +11,7 @@ void Main()
 	var booksToRead = new[]
 	{
 		new { Title = "Rebels At Work" },
+		new { Title = "The Inmates Are Running The Asylum" },
 		new { Title = "Clean Code" },
 		new { Title = "Clean Coder" },
 		new { Title = "Domain-Driven Design: Tackling complexity in the heart of software" },

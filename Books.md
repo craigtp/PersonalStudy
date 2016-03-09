@@ -3,6 +3,7 @@ Books To Read
      Title                                                                           | 
      ------------------------------------------------------------------------------- |  
      Rebels At Work                                                                  | 
+     The Inmates Are Running The Asylum                                              | 
      Clean Code                                                                      | 
      Clean Coder                                                                     | 
      Domain-Driven Design: Tackling complexity in the heart of software              | 
