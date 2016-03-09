@@ -4,6 +4,7 @@ Books To Read
      ------------------------------------------------------------------------------- |  
      Rebels At Work                                                                  | 
      The Inmates Are Running The Asylum                                              | 
+     Zen and the Art of Motorcycle Maintenance                                       | 
      Clean Code                                                                      | 
      Clean Coder                                                                     | 
      Domain-Driven Design: Tackling complexity in the heart of software              | 
