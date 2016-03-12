@@ -6,7 +6,6 @@
  - [50 Shades of AppSec - Troy Hunt](https://vimeo.com/153220272)
  - [The psychology of self-motivation | Scott Geller | TEDxVirginiaTech](https://www.youtube.com/watch?v=7sxpKhIbr0E)
  - [Not Even Close: The State of Computer Security (with slides) - James Mickens](https://vimeo.com/135347162) 
- - [SOLID Architecture in Slices not Layers - Jimmy Bogard](https://vimeo.com/131633177)
  
 # Videos Already Watched
  - [Red, Green...What Now?!](https://www.youtube.com/watch?v=fSr8LDcb0Y0)
@@ -22,4 +21,5 @@
  - [Codemania 2015: Josh Robb - Connascence & Coupling](https://www.youtube.com/watch?v=Ip2o4vbAK3s)
  - [The SOLID Design Principles Deconstructed - Kevlin Henney](https://yow.eventer.com/yow-2013-1080/the-solid-design-principles-deconstructed-by-kevlin-henney-1386)
  - [Connascence in Python](https://www.youtube.com/watch?v=iwADIlIgDNA)
+ - [SOLID Architecture in Slices not Layers - Jimmy Bogard](https://vimeo.com/131633177)
  
