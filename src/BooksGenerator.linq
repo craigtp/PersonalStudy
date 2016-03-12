@@ -11,6 +11,7 @@ void Main()
 	var booksToRead = new[]
 	{
 		new { Title = "Rebels At Work" },
+		new { Title = "Lean Software Development, An Agile Toolkit" },
 		new { Title = "The Inmates Are Running The Asylum" },
 		new { Title = "Zen and the Art of Motorcycle Maintenance" },
 		new { Title = "Clean Code" },

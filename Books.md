@@ -3,6 +3,7 @@ Books To Read
      Title                                                                           | 
      ------------------------------------------------------------------------------- |  
      Rebels At Work                                                                  | 
+     Lean Software Development, An Agile Toolkit                                     | 
      The Inmates Are Running The Asylum                                              | 
      Zen and the Art of Motorcycle Maintenance                                       | 
      Clean Code                                                                      | 
