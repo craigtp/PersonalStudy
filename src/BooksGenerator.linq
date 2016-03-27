@@ -10,7 +10,6 @@ void Main()
 	
 	var booksToRead = new[]
 	{
-		new { Title = "Rebels At Work" },
 		new { Title = "Lean Software Development, An Agile Toolkit" },
 		new { Title = "The Inmates Are Running The Asylum" },
 		new { Title = "Zen and the Art of Motorcycle Maintenance" },
@@ -41,6 +40,7 @@ void Main()
 	
 	var booksAlreadyRead = new[]
 	{
+		new { Title = "Rebels At Work", LastRead = DateTime.Parse("27 March 2016") },
 		new { Title = "The Pragmatic Programmer", LastRead = DateTime.Parse("30 November 2015") },
 		new { Title = "Software Estimation - Demystifying the black art", LastRead = DateTime.Parse("20 February 2016") },
 		new { Title = "ASP.NET Web API 2 - Building a REST service from start to finish", LastRead = DateTime.Parse("01 September 2015") },

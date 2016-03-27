@@ -2,7 +2,6 @@ Books To Read
 =============
      Title                                                                           | 
      ------------------------------------------------------------------------------- |  
-     Rebels At Work                                                                  | 
      Lean Software Development, An Agile Toolkit                                     | 
      The Inmates Are Running The Asylum                                              | 
      Zen and the Art of Motorcycle Maintenance                                       | 
@@ -41,3 +40,4 @@ Books Already Read
      The Pragmatic Programmer                                         | 30 November 2015 
      Async In C#                                                      | 10 January 2016  
      Software Estimation - Demystifying the black art                 | 20 February 2016 
+     Rebels At Work                                                   | 27 March 2016    
