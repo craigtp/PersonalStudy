@@ -10,6 +10,7 @@ void Main()
 	
 	var booksToRead = new[]
 	{
+		new { Title = "The Nature Of Software Development" },
 		new { Title = "Lean Software Development, An Agile Toolkit" },
 		new { Title = "The Inmates Are Running The Asylum" },
 		new { Title = "Zen and the Art of Motorcycle Maintenance" },
