@@ -7,6 +7,7 @@
  - [The psychology of self-motivation | Scott Geller | TEDxVirginiaTech](https://www.youtube.com/watch?v=7sxpKhIbr0E)
  - [Not Even Close: The State of Computer Security (with slides) - James Mickens](https://vimeo.com/135347162) 
  - [Erlang Factroy SF 2016 - Keynote - John Hughes - Why Functional Programming Matters](https://www.youtube.com/watch?v=Z35Tt87pIpg)
+ - [What is the actual life expectancy of your code? - Karoline Klever](https://vimeo.com/142347209)
  - [.NET Overview - Scott Hanselman & Scott Hunter](https://channel9.msdn.com/Events/Build/2016/B891)
  
 # Videos Already Watched
