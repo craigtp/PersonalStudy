@@ -8,6 +8,9 @@
  - [Not Even Close: The State of Computer Security (with slides) - James Mickens](https://vimeo.com/135347162) 
  - [Erlang Factroy SF 2016 - Keynote - John Hughes - Why Functional Programming Matters](https://www.youtube.com/watch?v=Z35Tt87pIpg)
  - [What is the actual life expectancy of your code? - Karoline Klever](https://vimeo.com/142347209)
+ - [Introducing ASP.NET Core 1.0](https://channel9.msdn.com/Events/Build/2016/B810)
+ - [ASP.NET Core Deep Dive into MVC](https://channel9.msdn.com/Events/Build/2016/B812)
+ - [Deploying ASP.NET Core Applications](https://channel9.msdn.com/Events/Build/2016/B811)
  
 # Videos Already Watched
  - [Red, Green...What Now?!](https://www.youtube.com/watch?v=fSr8LDcb0Y0)
