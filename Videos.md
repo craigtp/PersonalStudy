@@ -8,9 +8,10 @@
  - [Not Even Close: The State of Computer Security (with slides) - James Mickens](https://vimeo.com/135347162) 
  - [Erlang Factroy SF 2016 - Keynote - John Hughes - Why Functional Programming Matters](https://www.youtube.com/watch?v=Z35Tt87pIpg)
  - [What is the actual life expectancy of your code? - Karoline Klever](https://vimeo.com/142347209)
- - [Introducing ASP.NET Core 1.0](https://channel9.msdn.com/Events/Build/2016/B810)
- - [ASP.NET Core Deep Dive into MVC](https://channel9.msdn.com/Events/Build/2016/B812)
- - [Deploying ASP.NET Core Applications](https://channel9.msdn.com/Events/Build/2016/B811)
+ - [ASP.NET Core Deep Dive into MVC - Dan Roth](https://channel9.msdn.com/Events/Build/2016/B812)
+ - [Deploying ASP.NET Core Applications - Dan Roth](https://channel9.msdn.com/Events/Build/2016/B811)
+ - [Cross-Platform Mobile with Xamarin](https://channel9.msdn.com/Events/Build/2016/B836)
+ - [Entity Framework Core 1.0 - Rowan Miller](https://channel9.msdn.com/Events/Build/2016/B852)
  
 # Videos Already Watched
  - [Red, Green...What Now?!](https://www.youtube.com/watch?v=fSr8LDcb0Y0)
@@ -29,3 +30,4 @@
  - [SOLID Architecture in Slices not Layers - Jimmy Bogard](https://vimeo.com/131633177)
  - [.NET Overview - Scott Hanselman & Scott Hunter](https://channel9.msdn.com/Events/Build/2016/B891)
  - [The Future of C# - Dustin Campbell & Mads Torgersen](https://channel9.msdn.com/Events/Build/2016/B889)
+ - [Introducing ASP.NET Core 1.0 - Scott Hanselman & Scott Hunter](https://channel9.msdn.com/Events/Build/2016/B810)
