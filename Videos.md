@@ -11,6 +11,7 @@
  - [Deploying ASP.NET Core Applications - Dan Roth](https://channel9.msdn.com/Events/Build/2016/B811)
  - [Cross-Platform Mobile with Xamarin](https://channel9.msdn.com/Events/Build/2016/B836)
  - [Entity Framework Core 1.0 - Rowan Miller](https://channel9.msdn.com/Events/Build/2016/B852)
+ - [Functional Programming You Already Know - Kevlin Henney](http://www.infoq.com/presentations/functional-declarative-style)
  
 # Videos Already Watched
  - [Red, Green...What Now?!](https://www.youtube.com/watch?v=fSr8LDcb0Y0)
