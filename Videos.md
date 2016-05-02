@@ -10,7 +10,6 @@
  - [What is the actual life expectancy of your code? - Karoline Klever](https://vimeo.com/142347209)
  - [Deploying ASP.NET Core Applications - Dan Roth](https://channel9.msdn.com/Events/Build/2016/B811)
  - [Cross-Platform Mobile with Xamarin](https://channel9.msdn.com/Events/Build/2016/B836)
- - [Entity Framework Core 1.0 - Rowan Miller](https://channel9.msdn.com/Events/Build/2016/B852)
  - [Functional Programming You Already Know - Kevlin Henney](http://www.infoq.com/presentations/functional-declarative-style)
  
 # Videos Already Watched
@@ -32,3 +31,4 @@
  - [The Future of C# - Dustin Campbell & Mads Torgersen](https://channel9.msdn.com/Events/Build/2016/B889)
  - [Introducing ASP.NET Core 1.0 - Scott Hanselman & Scott Hunter](https://channel9.msdn.com/Events/Build/2016/B810)
  - [ASP.NET Core Deep Dive into MVC - Dan Roth](https://channel9.msdn.com/Events/Build/2016/B812)
+ - [Entity Framework Core 1.0 - Rowan Miller](https://channel9.msdn.com/Events/Build/2016/B852)
