@@ -3,6 +3,7 @@ Books To Read
      Title                                                                           | 
      ------------------------------------------------------------------------------- |  
      The Nature Of Software Development                                              | 
+     The Goal - A Process of Ongoing Improvement                                     | 
      Lean Software Development, An Agile Toolkit                                     | 
      The Inmates Are Running The Asylum                                              | 
      Zen and the Art of Motorcycle Maintenance                                       | 
