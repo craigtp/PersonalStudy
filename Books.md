@@ -2,6 +2,8 @@ Books To Read
 =============
      Title                                                                           | 
      ------------------------------------------------------------------------------- |  
+     How Google Works                                                                | 
+     The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win     | 
      The Nature Of Software Development                                              | 
      The Goal - A Process of Ongoing Improvement                                     | 
      Lean Software Development, An Agile Toolkit                                     | 
