@@ -2,7 +2,6 @@ Books To Read
 =============
      Title                                                                           | 
      ------------------------------------------------------------------------------- |  
-     How Google Works                                                                | 
      The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win     | 
      The Nature Of Software Development                                              | 
      The Goal - A Process of Ongoing Improvement                                     | 
@@ -45,3 +44,4 @@ Books Already Read
      Async In C#                                                      | 10 January 2016  
      Software Estimation - Demystifying the black art                 | 20 February 2016 
      Rebels At Work                                                   | 27 March 2016    
+     How Google Works                                                 | 27 June 2016     

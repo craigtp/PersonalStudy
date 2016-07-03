@@ -10,7 +10,6 @@ void Main()
 	
 	var booksToRead = new[]
 	{
-		new { Title = "How Google Works" },
 		new { Title = "The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win" },
 		new { Title = "The Nature Of Software Development" },
 		new { Title = "The Goal - A Process of Ongoing Improvement" },
@@ -44,6 +43,7 @@ void Main()
 	
 	var booksAlreadyRead = new[]
 	{
+		new { Title = "How Google Works", LastRead = DateTime.Parse("27 June 2016") },
 		new { Title = "Rebels At Work", LastRead = DateTime.Parse("27 March 2016") },
 		new { Title = "The Pragmatic Programmer", LastRead = DateTime.Parse("30 November 2015") },
 		new { Title = "Software Estimation - Demystifying the black art", LastRead = DateTime.Parse("20 February 2016") },
@@ -51,7 +51,7 @@ void Main()
 		new { Title = "Async In C#", LastRead = DateTime.Parse("10 January 2016") },
 		new { Title = "Kanban in Action", LastRead = DateTime.Parse("10 March 2015") },
 		new { Title = "Professional Test-Driven Development with C#", LastRead = DateTime.Parse("16 December 2014") },
-		new { Title = "ServiceStack Succintly", LastRead = DateTime.Parse("10 July 2015") },
+		new { Title = "ServiceStack Succintly", LastRead = DateTime.Parse("10 July 2015") }
 	};
 	
 	var booksMarkdown = new StringBuilder();
