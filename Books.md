@@ -2,8 +2,8 @@ Books To Read
 =============
      Title                                                                           | 
      ------------------------------------------------------------------------------- |  
+     Driving Technical Change                                                        | 
      The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win     | 
-     The Nature Of Software Development                                              | 
      The Goal - A Process of Ongoing Improvement                                     | 
      Lean Software Development, An Agile Toolkit                                     | 
      The Inmates Are Running The Asylum                                              | 
@@ -45,3 +45,4 @@ Books Already Read
      Software Estimation - Demystifying the black art                 | 20 February 2016 
      Rebels At Work                                                   | 27 March 2016    
      How Google Works                                                 | 27 June 2016     
+     The Nature Of Software Development                               | 17 July 2016     

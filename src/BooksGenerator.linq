@@ -10,8 +10,8 @@ void Main()
 	
 	var booksToRead = new[]
 	{
+		new { Title = "Driving Technical Change" },
 		new { Title = "The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win" },
-		new { Title = "The Nature Of Software Development" },
 		new { Title = "The Goal - A Process of Ongoing Improvement" },
 		new { Title = "Lean Software Development, An Agile Toolkit" },
 		new { Title = "The Inmates Are Running The Asylum" },
@@ -43,6 +43,7 @@ void Main()
 	
 	var booksAlreadyRead = new[]
 	{
+		new { Title = "The Nature Of Software Development", LastRead = DateTime.Parse("17 July 2016") },
 		new { Title = "How Google Works", LastRead = DateTime.Parse("27 June 2016") },
 		new { Title = "Rebels At Work", LastRead = DateTime.Parse("27 March 2016") },
 		new { Title = "The Pragmatic Programmer", LastRead = DateTime.Parse("30 November 2015") },
