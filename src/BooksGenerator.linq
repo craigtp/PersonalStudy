@@ -6,7 +6,7 @@
 
 void Main()
 {
-	var booksFilePath = @"D:\Books.md";
+	var booksFilePath = Path.Combine(System.IO.Directory.GetCurrentDirectory(), @"..\Books.md");
 	
 	var booksToRead = new[]
 	{
