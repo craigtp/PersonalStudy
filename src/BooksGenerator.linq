@@ -43,16 +43,16 @@ void Main()
 	
 	var booksAlreadyRead = new[]
 	{
-		new { Title = "The Nature Of Software Development", LastRead = DateTime.Parse("17 July 2016") },
-		new { Title = "How Google Works", LastRead = DateTime.Parse("27 June 2016") },
-		new { Title = "Rebels At Work", LastRead = DateTime.Parse("27 March 2016") },
-		new { Title = "The Pragmatic Programmer", LastRead = DateTime.Parse("30 November 2015") },
-		new { Title = "Software Estimation - Demystifying the black art", LastRead = DateTime.Parse("20 February 2016") },
-		new { Title = "ASP.NET Web API 2 - Building a REST service from start to finish", LastRead = DateTime.Parse("01 September 2015") },
-		new { Title = "Async In C#", LastRead = DateTime.Parse("10 January 2016") },
-		new { Title = "Kanban in Action", LastRead = DateTime.Parse("10 March 2015") },
-		new { Title = "Professional Test-Driven Development with C#", LastRead = DateTime.Parse("16 December 2014") },
-		new { Title = "ServiceStack Succintly", LastRead = DateTime.Parse("10 July 2015") }
+		new { Title = "The Nature Of Software Development", LastRead = DateTime.Parse("17 July 2016"), NotesTaken = true },
+		new { Title = "How Google Works", LastRead = DateTime.Parse("27 June 2016"), NotesTaken = false },
+		new { Title = "Rebels At Work", LastRead = DateTime.Parse("27 March 2016"), NotesTaken = true },
+		new { Title = "The Pragmatic Programmer", LastRead = DateTime.Parse("30 November 2015"), NotesTaken = false },
+		new { Title = "Software Estimation - Demystifying the black art", LastRead = DateTime.Parse("20 February 2016"), NotesTaken = true },
+		new { Title = "ASP.NET Web API 2 - Building a REST service from start to finish", LastRead = DateTime.Parse("01 September 2015"), NotesTaken = false },
+		new { Title = "Async In C#", LastRead = DateTime.Parse("10 January 2016"), NotesTaken = false },
+		new { Title = "Kanban in Action", LastRead = DateTime.Parse("10 March 2015"), NotesTaken = false },
+		new { Title = "Professional Test-Driven Development with C#", LastRead = DateTime.Parse("16 December 2014"), NotesTaken = false },
+		new { Title = "ServiceStack Succintly", LastRead = DateTime.Parse("10 July 2015"), NotesTaken = false }
 	};
 	
 	var booksMarkdown = new StringBuilder();
@@ -61,8 +61,8 @@ void Main()
 	booksMarkdown.Append(Environment.NewLine);
 	booksMarkdown.Append(@"Books Already Read".ToMarkdownHeader());
 	booksMarkdown.Append(booksAlreadyRead.OrderBy(ar => ar.LastRead)
-		.ToMarkdownTable(c => c.Title, c => c.LastRead.ToLongDateString())
-		.WithHeaders("Title", "Last Read"));
+		.ToMarkdownTable(c => c.Title, c => c.LastRead.ToLongDateString(), c => c.NotesTaken)
+		.WithHeaders("Title", "Last Read", "Notes Taken"));
 	File.WriteAllText(booksFilePath,booksMarkdown.ToString());
 	Console.WriteLine(booksMarkdown.ToString());
 }
