@@ -1,5 +1,4 @@
 # Videos To Watch
-- [Chris Young - Full Stack Kanban](https://www.infoq.com/presentations/lean-kanban-graphite-graphana)
 - [Glenn Condron - ASP.NET Core – deep dive on building a real website with today’s bits](https://channel9.msdn.com/Events/dotnetConf/2016/ASPNET-Core--deep-dive-on-building-a-real-website-with-todays-bits)
 - [Something C# 7 This Way Comes - Bill Wagner](https://vimeo.com/154708153)
 - [Mark Rendle - ASP.NET 5 on Docker](https://vimeo.com/154588594)
@@ -35,3 +34,4 @@
 - [Entity Framework Core 1.0 - Rowan Miller](https://channel9.msdn.com/Events/Build/2016/B852)
 - [Cross-Platform Mobile with Xamarin](https://channel9.msdn.com/Events/Build/2016/B836)
 - [Des Traynor - Product Strategy is About Saying “No” Revisited](https://vimeo.com/110270432)
+- [Chris Young - Full Stack Kanban](https://www.infoq.com/presentations/lean-kanban-graphite-graphana)
