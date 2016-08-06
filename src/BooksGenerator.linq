@@ -10,6 +10,7 @@ void Main()
 	
 	var booksToRead = new[]
 	{
+		new { Title = "Becoming a better programmer" },
 		new { Title = "Driving Technical Change" },
 		new { Title = "The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win" },
 		new { Title = "The Goal - A Process of Ongoing Improvement" },

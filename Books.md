@@ -2,6 +2,7 @@ Books To Read
 =============
      Title                                                                           | 
      ------------------------------------------------------------------------------- |  
+     Becoming a better programmer                                                    | 
      Driving Technical Change                                                        | 
      The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win     | 
      The Goal - A Process of Ongoing Improvement                                     | 
