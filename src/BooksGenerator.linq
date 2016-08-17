@@ -7,12 +7,16 @@
 void Main()
 {
 	var booksFilePath = Path.Combine(System.IO.Directory.GetCurrentDirectory(), @"..\Books.md");
+
+	var currentlyReading = new[]
+	{
+		new { Title = "The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win" },
+	};
 	
 	var booksToRead = new[]
 	{
 		new { Title = "Becoming a better programmer" },
 		new { Title = "Driving Technical Change" },
-		new { Title = "The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win" },
 		new { Title = "The Goal - A Process of Ongoing Improvement" },
 		new { Title = "Lean Software Development, An Agile Toolkit" },
 		new { Title = "The Inmates Are Running The Asylum" },
@@ -57,6 +61,8 @@ void Main()
 	};
 	
 	var booksMarkdown = new StringBuilder();
+	booksMarkdown.Append(@"Currently Reading".ToMarkdownHeader());
+	booksMarkdown.Append(currentlyReading.ToMarkdownTable().WithHeaders("Title", ""));
 	booksMarkdown.Append(@"Books To Read".ToMarkdownHeader());
 	booksMarkdown.Append(booksToRead.ToMarkdownTable().WithHeaders("Title", ""));
 	booksMarkdown.Append(Environment.NewLine);

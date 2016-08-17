@@ -1,10 +1,14 @@
+Currently Reading
+=================
+     Title                                                                       | 
+     --------------------------------------------------------------------------- |  
+     The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win | 
 Books To Read
 =============
      Title                                                                           | 
      ------------------------------------------------------------------------------- |  
      Becoming a better programmer                                                    | 
      Driving Technical Change                                                        | 
-     The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win     | 
      The Goal - A Process of Ongoing Improvement                                     | 
      Lean Software Development, An Agile Toolkit                                     | 
      The Inmates Are Running The Asylum                                              | 
