@@ -12,13 +12,14 @@ void Main()
 	{
 		new { Title = "The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win" },
 	};
-	
+
 	var booksToRead = new[]
 	{
 		new { Title = "Becoming a better programmer" },
 		new { Title = "Driving Technical Change" },
 		new { Title = "The Goal - A Process of Ongoing Improvement" },
 		new { Title = "Lean Software Development, An Agile Toolkit" },
+		new { Title = "Agile Software Development: Principles, Patterns & Practices" },
 		new { Title = "The Inmates Are Running The Asylum" },
 		new { Title = "Zen and the Art of Motorcycle Maintenance" },
 		new { Title = "Clean Code" },

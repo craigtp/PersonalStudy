@@ -11,6 +11,7 @@ Books To Read
      Driving Technical Change                                                        | 
      The Goal - A Process of Ongoing Improvement                                     | 
      Lean Software Development, An Agile Toolkit                                     | 
+     Agile Software Development: Principles, Patterns & Practices                    | 
      The Inmates Are Running The Asylum                                              | 
      Zen and the Art of Motorcycle Maintenance                                       | 
      Clean Code                                                                      | 
