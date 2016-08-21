@@ -1,12 +1,13 @@
 Currently Reading
 =================
-     Title                    | 
-     ------------------------ |  
-     Driving Technical Change | 
+     Title                 | 
+     --------------------- |  
+     KnockoutJS Succinctly | 
 Books To Read
 =============
      Title                                                                           | 
      ------------------------------------------------------------------------------- |  
+     Driving Technical Change                                                        | 
      Becoming a better programmer                                                    | 
      The Goal - A Process of Ongoing Improvement                                     | 
      Lean Software Development, An Agile Toolkit                                     | 

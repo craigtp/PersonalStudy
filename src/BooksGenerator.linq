@@ -10,11 +10,12 @@ void Main()
 
 	var currentlyReading = new[]
 	{
-		new { Title = "Driving Technical Change" },
+		new { Title = "KnockoutJS Succinctly" },
 	};
 
 	var booksToRead = new[]
 	{
+		new { Title = "Driving Technical Change" },
 		new { Title = "Becoming a better programmer" },
 		new { Title = "The Goal - A Process of Ongoing Improvement" },
 		new { Title = "Lean Software Development, An Agile Toolkit" },
