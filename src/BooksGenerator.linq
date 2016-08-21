@@ -10,13 +10,12 @@ void Main()
 
 	var currentlyReading = new[]
 	{
-		new { Title = "The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win" },
+		new { Title = "Driving Technical Change" },
 	};
 
 	var booksToRead = new[]
 	{
 		new { Title = "Becoming a better programmer" },
-		new { Title = "Driving Technical Change" },
 		new { Title = "The Goal - A Process of Ongoing Improvement" },
 		new { Title = "Lean Software Development, An Agile Toolkit" },
 		new { Title = "Agile Software Development: Principles, Patterns & Practices" },
@@ -49,6 +48,7 @@ void Main()
 	
 	var booksAlreadyRead = new[]
 	{
+		new { Title = "The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win", LastRead = DateTime.Parse("20 August 2016"), NotesTaken = false },
 		new { Title = "The Nature Of Software Development", LastRead = DateTime.Parse("17 July 2016"), NotesTaken = true },
 		new { Title = "How Google Works", LastRead = DateTime.Parse("27 June 2016"), NotesTaken = false },
 		new { Title = "Rebels At Work", LastRead = DateTime.Parse("27 March 2016"), NotesTaken = true },

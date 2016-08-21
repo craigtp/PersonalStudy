@@ -1,14 +1,13 @@
 Currently Reading
 =================
-     Title                                                                       | 
-     --------------------------------------------------------------------------- |  
-     The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win | 
+     Title                    | 
+     ------------------------ |  
+     Driving Technical Change | 
 Books To Read
 =============
      Title                                                                           | 
      ------------------------------------------------------------------------------- |  
      Becoming a better programmer                                                    | 
-     Driving Technical Change                                                        | 
      The Goal - A Process of Ongoing Improvement                                     | 
      Lean Software Development, An Agile Toolkit                                     | 
      Agile Software Development: Principles, Patterns & Practices                    | 
@@ -40,15 +39,16 @@ Books To Read
 
 Books Already Read
 ==================
-     Title                                                            | Last Read         | Notes Taken
-     ---------------------------------------------------------------- | ----------------- | ----------- 
-     Professional Test-Driven Development with C#                     | 16 December 2014  | False      
-     Kanban in Action                                                 | 10 March 2015     | False      
-     ServiceStack Succintly                                           | 10 July 2015      | False      
-     ASP.NET Web API 2 - Building a REST service from start to finish | 01 September 2015 | False      
-     The Pragmatic Programmer                                         | 30 November 2015  | False      
-     Async In C#                                                      | 10 January 2016   | False      
-     Software Estimation - Demystifying the black art                 | 20 February 2016  | True       
-     Rebels At Work                                                   | 27 March 2016     | True       
-     How Google Works                                                 | 27 June 2016      | False      
-     The Nature Of Software Development                               | 17 July 2016      | True       
+     Title                                                                       | Last Read         | Notes Taken
+     --------------------------------------------------------------------------- | ----------------- | ----------- 
+     Professional Test-Driven Development with C#                                | 16 December 2014  | False      
+     Kanban in Action                                                            | 10 March 2015     | False      
+     ServiceStack Succintly                                                      | 10 July 2015      | False      
+     ASP.NET Web API 2 - Building a REST service from start to finish            | 01 September 2015 | False      
+     The Pragmatic Programmer                                                    | 30 November 2015  | False      
+     Async In C#                                                                 | 10 January 2016   | False      
+     Software Estimation - Demystifying the black art                            | 20 February 2016  | True       
+     Rebels At Work                                                              | 27 March 2016     | True       
+     How Google Works                                                            | 27 June 2016      | False      
+     The Nature Of Software Development                                          | 17 July 2016      | True       
+     The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win | 20 August 2016    | False      
