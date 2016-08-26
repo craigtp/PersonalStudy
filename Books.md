@@ -1,8 +1,8 @@
 Currently Reading
 =================
-     Title                 | 
-     --------------------- |  
-     KnockoutJS Succinctly | 
+     Title                        | 
+     ---------------------------- |  
+     Dependency Injection In .NET | 
 Books To Read
 =============
      Title                                                                           | 
@@ -53,3 +53,4 @@ Books Already Read
      How Google Works                                                            | 27 June 2016      | False      
      The Nature Of Software Development                                          | 17 July 2016      | True       
      The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win | 20 August 2016    | False      
+     KnockoutJS Succinctly                                                       | 26 August 2016    | False      

@@ -10,7 +10,7 @@ void Main()
 
 	var currentlyReading = new[]
 	{
-		new { Title = "KnockoutJS Succinctly" },
+		new { Title = "Dependency Injection In .NET" },
 	};
 
 	var booksToRead = new[]
@@ -49,6 +49,7 @@ void Main()
 	
 	var booksAlreadyRead = new[]
 	{
+		new { Title = "KnockoutJS Succinctly", LastRead = DateTime.Parse("26 August 2016"), NotesTaken = false },
 		new { Title = "The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win", LastRead = DateTime.Parse("20 August 2016"), NotesTaken = false },
 		new { Title = "The Nature Of Software Development", LastRead = DateTime.Parse("17 July 2016"), NotesTaken = true },
 		new { Title = "How Google Works", LastRead = DateTime.Parse("27 June 2016"), NotesTaken = false },
@@ -73,5 +74,6 @@ void Main()
 		.ToMarkdownTable(c => c.Title, c => c.LastRead.ToLongDateString(), c => c.NotesTaken)
 		.WithHeaders("Title", "Last Read", "Notes Taken"));
 	File.WriteAllText(booksFilePath,booksMarkdown.ToString());
+	Console.WriteLine("Writing ouuput file to {0}", booksFilePath);
 	Console.WriteLine(booksMarkdown.ToString());
 }
