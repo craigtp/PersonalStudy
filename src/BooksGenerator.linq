@@ -15,6 +15,7 @@ void Main()
 
 	var booksToRead = new[]
 	{
+		new { Title = "AngularJS Succinctly" },
 		new { Title = "Driving Technical Change" },
 		new { Title = "Becoming a better programmer" },
 		new { Title = "The Goal - A Process of Ongoing Improvement" },

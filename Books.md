@@ -7,6 +7,7 @@ Books To Read
 =============
      Title                                                                           | 
      ------------------------------------------------------------------------------- |  
+     AngularJS Succinctly                                                            | 
      Driving Technical Change                                                        | 
      Becoming a better programmer                                                    | 
      The Goal - A Process of Ongoing Improvement                                     | 
