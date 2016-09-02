@@ -1,5 +1,4 @@
 # Videos To Watch
-- [Demanding Professionalism in Software Development - Bob Martin](https://www.youtube.com/watch?v=p0O1VVqRSK0)
 - [Python for the C# Developer](https://www.youtube.com/watch?v=6TSvV2rsQHg)
 - [Glenn Condron - ASP.NET Core – deep dive on building a real website with today’s bits](https://channel9.msdn.com/Events/dotnetConf/2016/ASPNET-Core--deep-dive-on-building-a-real-website-with-todays-bits)
 - [Something C# 7 This Way Comes - Bill Wagner](https://vimeo.com/154708153)
@@ -37,3 +36,4 @@
 - [Cross-Platform Mobile with Xamarin](https://channel9.msdn.com/Events/Build/2016/B836)
 - [Des Traynor - Product Strategy is About Saying “No” Revisited](https://vimeo.com/110270432)
 - [Chris Young - Full Stack Kanban](https://www.infoq.com/presentations/lean-kanban-graphite-graphana)
+- [Demanding Professionalism in Software Development - Bob Martin](https://www.youtube.com/watch?v=p0O1VVqRSK0)
