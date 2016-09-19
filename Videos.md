@@ -1,5 +1,6 @@
 # Videos To Watch
 - [Python for the C# Developer](https://www.youtube.com/watch?v=6TSvV2rsQHg)
+- [Introduction to Angular 2.0 - Microsoft Virtual Academy](https://mva.microsoft.com/en-US/training-courses/introduction-to-angular-20-16540?l=cdKMEZyfC_906218965)
 - [Glenn Condron - ASP.NET Core – deep dive on building a real website with today’s bits](https://channel9.msdn.com/Events/dotnetConf/2016/ASPNET-Core--deep-dive-on-building-a-real-website-with-todays-bits)
 - [Something C# 7 This Way Comes - Bill Wagner](https://vimeo.com/154708153)
 - [Mark Rendle - ASP.NET 5 on Docker](https://vimeo.com/154588594)
