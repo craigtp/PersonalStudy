@@ -7,6 +7,7 @@ Books To Read
 =============
      Title                                                                           | 
      ------------------------------------------------------------------------------- |  
+     Pro ASP.NET Core MVC                                                            | 
      AngularJS Succinctly                                                            | 
      Driving Technical Change                                                        | 
      Becoming a better programmer                                                    | 
