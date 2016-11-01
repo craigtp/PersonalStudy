@@ -16,7 +16,11 @@ void Main()
 	var booksToRead = new[]
 	{
 		new { Title = "Pro ASP.NET Core MVC" },
+		new { Title = "C# 6 and .NET Core 1.0 Modern Cross Platform Development" },
+		new { Title = "Professional C# 6 and .NET Core 1.0" },
+		new { Title = "ASP.NET Core And Angular 2" },
 		new { Title = "AngularJS Succinctly" },
+		new { Title = "Beginning SOLID Principles And Design Patterns For ASP.NET Developers" },
 		new { Title = "Driving Technical Change" },
 		new { Title = "Becoming a better programmer" },
 		new { Title = "The Goal - A Process of Ongoing Improvement" },

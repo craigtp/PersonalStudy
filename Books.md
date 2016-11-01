@@ -8,7 +8,11 @@ Books To Read
      Title                                                                           | 
      ------------------------------------------------------------------------------- |  
      Pro ASP.NET Core MVC                                                            | 
+     C# 6 and .NET Core 1.0 Modern Cross Platform Development                        | 
+     Professional C# 6 and .NET Core 1.0                                             | 
+     ASP.NET Core And Angular 2                                                      | 
      AngularJS Succinctly                                                            | 
+     Beginning SOLID Principles And Design Patterns For ASP.NET Developers           | 
      Driving Technical Change                                                        | 
      Becoming a better programmer                                                    | 
      The Goal - A Process of Ongoing Improvement                                     | 
