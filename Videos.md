@@ -13,6 +13,7 @@
 - [Deploying ASP.NET Core Applications - Dan Roth](https://channel9.msdn.com/Events/Build/2016/B811)
 - [Functional Programming You Already Know - Kevlin Henney](http://www.infoq.com/presentations/functional-declarative-style)
 - [Agile is Dead - Pragmatic Dave Thomas](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
+- [The Principles of Clean Architecture by Uncle Bob Martin](https://www.youtube.com/watch?v=o_TH-Y78tt4)
 
 # Videos Already Watched
 - [Red, Green...What Now?!](https://www.youtube.com/watch?v=fSr8LDcb0Y0)
