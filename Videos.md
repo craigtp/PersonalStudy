@@ -1,4 +1,6 @@
 # Videos To Watch
+- [YOW! West 2016 Paul Rayner - EventStorming](https://www.youtube.com/watch?v=bXm8Cznyb_s)
+- [Event Storming - Alberto Brandolini - wroc_love.rb 2015](https://www.youtube.com/watch?v=veTVAN0oEkQ)
 - [Introduction to ASP.NET Core 1.0](https://mva.microsoft.com/en-US/training-courses/introduction-to-asp-net-core-1-0-16841?l=JWZaodE6C_5706218965)
 - [Introduction to Angular 2.0 - Microsoft Virtual Academy](https://mva.microsoft.com/en-US/training-courses/introduction-to-angular-20-16540?l=cdKMEZyfC_906218965)
 - [Glenn Condron - ASP.NET Core – deep dive on building a real website with today’s bits](https://channel9.msdn.com/Events/dotnetConf/2016/ASPNET-Core--deep-dive-on-building-a-real-website-with-todays-bits)
