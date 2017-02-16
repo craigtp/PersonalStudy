@@ -1,8 +1,10 @@
 # Videos To Watch
 - [Event Storming - Alberto Brandolini - wroc_love.rb 2015](https://www.youtube.com/watch?v=veTVAN0oEkQ)
 - [Introduction to ASP.NET Core 1.0](https://mva.microsoft.com/en-US/training-courses/introduction-to-asp-net-core-1-0-16841?l=JWZaodE6C_5706218965)
+- [Intermediate ASP.NET Core 1.0](https://mva.microsoft.com/en-US/training-courses/intermediate-asp-net-core-1-0-16964)
+- [ASP.NET Core 1.0 Cross-Platform](https://mva.microsoft.com/en-US/training-courses/aspnet-core-10-crossplatform-17039?l=xVagIgJOD_7201937555)
 - [Introduction to Angular 2.0 - Microsoft Virtual Academy](https://mva.microsoft.com/en-US/training-courses/introduction-to-angular-20-16540?l=cdKMEZyfC_906218965)
-- [Glenn Condron - ASP.NET Core – deep dive on building a real website with today’s bits](https://channel9.msdn.com/Events/dotnetConf/2016/ASPNET-Core--deep-dive-on-building-a-real-website-with-todays-bits)
+- [Glenn Condron - ASP.NET Core – deep dive on building a real website with today’s bits](https://channel9.msdn.com/Events/dotnetConf/2016/ASPNET-Core--deep-dive-on-building-a-real-website-with-todays-bits)
 - [Something C# 7 This Way Comes - Bill Wagner](https://vimeo.com/154708153)
 - [Mark Rendle - ASP.NET 5 on Docker](https://vimeo.com/154588594)
 - [The changing state of immutability C# - Jon Skeet](https://vimeo.com/153745433)
