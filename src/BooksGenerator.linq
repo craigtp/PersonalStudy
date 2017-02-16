@@ -79,7 +79,7 @@ void Main()
 	booksMarkdown.Append(Environment.NewLine);
 	booksMarkdown.Append(@"Books Already Read".ToMarkdownHeader());
 	booksMarkdown.Append(booksAlreadyRead.OrderBy(ar => ar.LastRead)
-		.ToMarkdownTable(c => c.Title, c => c.LastRead.ToLongDateString(), c => c.NotesTaken)
+		.ToMarkdownTable(c => c.Title, c => c.LastRead.ToLongDateString(), c => c.NotesTaken == true ? "Yes" : "No")
 		.WithHeaders("Title", "Last Read", "Notes Taken"));
 	File.WriteAllText(booksFilePath,booksMarkdown.ToString());
 	Console.WriteLine("Writing ouuput file to {0}", booksFilePath);

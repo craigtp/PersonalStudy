@@ -49,16 +49,16 @@ Books Already Read
 ==================
      Title                                                                       | Last Read         | Notes Taken
      --------------------------------------------------------------------------- | ----------------- | ----------- 
-     Professional Test-Driven Development with C#                                | 16 December 2014  | False      
-     Kanban in Action                                                            | 10 March 2015     | False      
-     ServiceStack Succintly                                                      | 10 July 2015      | False      
-     ASP.NET Web API 2 - Building a REST service from start to finish            | 01 September 2015 | False      
-     The Pragmatic Programmer                                                    | 30 November 2015  | False      
-     Async In C#                                                                 | 10 January 2016   | False      
-     Software Estimation - Demystifying the black art                            | 20 February 2016  | True       
-     Rebels At Work                                                              | 27 March 2016     | True       
-     How Google Works                                                            | 27 June 2016      | False      
-     The Nature Of Software Development                                          | 17 July 2016      | True       
-     The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win | 20 August 2016    | False      
-     KnockoutJS Succinctly                                                       | 26 August 2016    | False      
-     Domain Driven Design Quickly                                                | 15 February 2017  | False      
+     Professional Test-Driven Development with C#                                | 16 December 2014  | No         
+     Kanban in Action                                                            | 10 March 2015     | No         
+     ServiceStack Succintly                                                      | 10 July 2015      | No         
+     ASP.NET Web API 2 - Building a REST service from start to finish            | 01 September 2015 | No         
+     The Pragmatic Programmer                                                    | 30 November 2015  | No         
+     Async In C#                                                                 | 10 January 2016   | No         
+     Software Estimation - Demystifying the black art                            | 20 February 2016  | Yes        
+     Rebels At Work                                                              | 27 March 2016     | Yes        
+     How Google Works                                                            | 27 June 2016      | No         
+     The Nature Of Software Development                                          | 17 July 2016      | Yes        
+     The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win | 20 August 2016    | No         
+     KnockoutJS Succinctly                                                       | 26 August 2016    | No         
+     Domain Driven Design Quickly                                                | 15 February 2017  | No         
