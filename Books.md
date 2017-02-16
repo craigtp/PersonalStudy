@@ -7,6 +7,7 @@ Books To Read
 =============
      Title                                                                           | 
      ------------------------------------------------------------------------------- |  
+     Introducing Event Storming                                                      | 
      Pro ASP.NET Core MVC                                                            | 
      C# 6 and .NET Core 1.0 Modern Cross Platform Development                        | 
      Professional C# 6 and .NET Core 1.0                                             | 
@@ -60,3 +61,4 @@ Books Already Read
      The Nature Of Software Development                                          | 17 July 2016      | True       
      The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win | 20 August 2016    | False      
      KnockoutJS Succinctly                                                       | 26 August 2016    | False      
+     Domain Driven Design Quickly                                                | 15 February 2017  | False      

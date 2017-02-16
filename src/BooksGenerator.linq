@@ -15,6 +15,7 @@ void Main()
 
 	var booksToRead = new[]
 	{
+		new { Title = "Introducing Event Storming" },
 		new { Title = "Pro ASP.NET Core MVC" },
 		new { Title = "C# 6 and .NET Core 1.0 Modern Cross Platform Development" },
 		new { Title = "Professional C# 6 and .NET Core 1.0" },
@@ -55,6 +56,7 @@ void Main()
 	
 	var booksAlreadyRead = new[]
 	{
+		new { Title = "Domain Driven Design Quickly", LastRead = DateTime.Parse("15 February 2017"), NotesTaken = false },
 		new { Title = "KnockoutJS Succinctly", LastRead = DateTime.Parse("26 August 2016"), NotesTaken = false },
 		new { Title = "The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win", LastRead = DateTime.Parse("20 August 2016"), NotesTaken = false },
 		new { Title = "The Nature Of Software Development", LastRead = DateTime.Parse("17 July 2016"), NotesTaken = true },
