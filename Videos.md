@@ -1,5 +1,4 @@
 # Videos To Watch
-- [Event Storming - Alberto Brandolini - wroc_love.rb 2015](https://www.youtube.com/watch?v=veTVAN0oEkQ)
 - [Introduction to ASP.NET Core 1.0](https://mva.microsoft.com/en-US/training-courses/introduction-to-asp-net-core-1-0-16841?l=JWZaodE6C_5706218965)
 - [Intermediate ASP.NET Core 1.0](https://mva.microsoft.com/en-US/training-courses/intermediate-asp-net-core-1-0-16964)
 - [ASP.NET Core 1.0 Cross-Platform](https://mva.microsoft.com/en-US/training-courses/aspnet-core-10-crossplatform-17039?l=xVagIgJOD_7201937555)
@@ -17,6 +16,8 @@
 - [Functional Programming You Already Know - Kevlin Henney](http://www.infoq.com/presentations/functional-declarative-style)
 - [Agile is Dead - Pragmatic Dave Thomas](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
 - [The Principles of Clean Architecture by Uncle Bob Martin](https://www.youtube.com/watch?v=o_TH-Y78tt4)
+- [Crafting Wicked Domain Models - Jimmy Bogard](https://vimeo.com/43598193)
+- [Domain-Driven Design: The Good Parts - Jimmy Bogard](https://vimeo.com/179889630)
 
 # Videos Already Watched
 - [Red, Green...What Now?!](https://www.youtube.com/watch?v=fSr8LDcb0Y0)
@@ -44,3 +45,4 @@
 - [Demanding Professionalism in Software Development - Bob Martin](https://www.youtube.com/watch?v=p0O1VVqRSK0)
 - [Python for the C# Developer](https://www.youtube.com/watch?v=6TSvV2rsQHg)
 - [YOW! West 2016 Paul Rayner - EventStorming](https://www.youtube.com/watch?v=bXm8Cznyb_s)
+- [Event Storming - Alberto Brandolini - wroc_love.rb 2015](https://www.youtube.com/watch?v=veTVAN0oEkQ)
