@@ -10,12 +10,15 @@ void Main()
 
 	var currentlyReading = new[]
 	{
-		new { Title = "Dependency Injection In .NET" },
+		new { Title = "Domain-Driven Design Distilled" },
 	};
 
 	var booksToRead = new[]
 	{
 		new { Title = "Introducing Event Storming" },
+		new { Title = "Domain-Driven Design: Tackling complexity in the heart of software" },
+		new { Title = "Implementing Domain Driven Design" },
+		new { Title = "Dependency Injection In .NET" },
 		new { Title = "Pro ASP.NET Core MVC" },
 		new { Title = "C# 6 and .NET Core 1.0 Modern Cross Platform Development" },
 		new { Title = "Professional C# 6 and .NET Core 1.0" },
@@ -31,8 +34,6 @@ void Main()
 		new { Title = "Zen and the Art of Motorcycle Maintenance" },
 		new { Title = "Clean Code" },
 		new { Title = "Clean Coder" },
-		new { Title = "Domain-Driven Design: Tackling complexity in the heart of software" },
-		new { Title = "Implementing Domain Driven Design" },
 		new { Title = "Design Patterns: Elements of Reusable Object-Oriented Software" },
 		new { Title = "The Mythical Man Month"},
 		new { Title = "Refactoring: Improving the Design of Existing Code"},

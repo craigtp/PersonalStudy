@@ -1,13 +1,16 @@
 Currently Reading
 =================
-     Title                        | 
-     ---------------------------- |  
-     Dependency Injection In .NET | 
+     Title                          | 
+     ------------------------------ |  
+     Domain-Driven Design Distilled | 
 Books To Read
 =============
      Title                                                                           | 
      ------------------------------------------------------------------------------- |  
      Introducing Event Storming                                                      | 
+     Domain-Driven Design: Tackling complexity in the heart of software              | 
+     Implementing Domain Driven Design                                               | 
+     Dependency Injection In .NET                                                    | 
      Pro ASP.NET Core MVC                                                            | 
      C# 6 and .NET Core 1.0 Modern Cross Platform Development                        | 
      Professional C# 6 and .NET Core 1.0                                             | 
@@ -23,8 +26,6 @@ Books To Read
      Zen and the Art of Motorcycle Maintenance                                       | 
      Clean Code                                                                      | 
      Clean Coder                                                                     | 
-     Domain-Driven Design: Tackling complexity in the heart of software              | 
-     Implementing Domain Driven Design                                               | 
      Design Patterns: Elements of Reusable Object-Oriented Software                  | 
      The Mythical Man Month                                                          | 
      Refactoring: Improving the Design of Existing Code                              | 
