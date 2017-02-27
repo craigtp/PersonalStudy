@@ -1,4 +1,5 @@
 # Videos To Watch
+- [CQRS and Event Sourcing - Code on the Beach 2014 - Greg Young](https://www.youtube.com/watch?v=JHGkaShoyNs)
 - [Introduction to ASP.NET Core 1.0](https://mva.microsoft.com/en-US/training-courses/introduction-to-asp-net-core-1-0-16841?l=JWZaodE6C_5706218965)
 - [Intermediate ASP.NET Core 1.0](https://mva.microsoft.com/en-US/training-courses/intermediate-asp-net-core-1-0-16964)
 - [ASP.NET Core 1.0 Cross-Platform](https://mva.microsoft.com/en-US/training-courses/aspnet-core-10-crossplatform-17039?l=xVagIgJOD_7201937555)
