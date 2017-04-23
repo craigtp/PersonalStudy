@@ -83,6 +83,6 @@ void Main()
 		.ToMarkdownTable(c => c.Title, c => c.LastRead.ToLongDateString(), c => c.NotesTaken == true ? "Yes" : "No")
 		.WithHeaders("Title", "Last Read", "Notes Taken"));
 	File.WriteAllText(booksFilePath,booksMarkdown.ToString());
-	Console.WriteLine("Writing ouuput file to {0}", booksFilePath);
+	Console.WriteLine("Writing output file to {0}", booksFilePath);
 	Console.WriteLine(booksMarkdown.ToString());
 }
