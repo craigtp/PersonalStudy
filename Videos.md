@@ -7,7 +7,6 @@
 - [Glenn Condron - ASP.NET Core – deep dive on building a real website with today’s bits](https://channel9.msdn.com/Events/dotnetConf/2016/ASPNET-Core--deep-dive-on-building-a-real-website-with-todays-bits)
 - [Something C# 7 This Way Comes - Bill Wagner](https://vimeo.com/154708153)
 - [Mark Rendle - ASP.NET 5 on Docker](https://vimeo.com/154588594)
-- [The changing state of immutability C# - Jon Skeet](https://vimeo.com/153745433)
 - [50 Shades of AppSec - Troy Hunt](https://vimeo.com/153220272)
 - [The psychology of self-motivation | Scott Geller | TEDxVirginiaTech](https://www.youtube.com/watch?v=7sxpKhIbr0E)
 - [Not Even Close: The State of Computer Security (with slides) - James Mickens](https://vimeo.com/135347162) 
@@ -48,3 +47,4 @@
 - [YOW! West 2016 Paul Rayner - EventStorming](https://www.youtube.com/watch?v=bXm8Cznyb_s)
 - [Event Storming - Alberto Brandolini - wroc_love.rb 2015](https://www.youtube.com/watch?v=veTVAN0oEkQ)
 - [CQRS and Event Sourcing - Code on the Beach 2014 - Greg Young](https://www.youtube.com/watch?v=JHGkaShoyNs)
+- [The changing state of immutability C# - Jon Skeet](https://vimeo.com/153745433)
