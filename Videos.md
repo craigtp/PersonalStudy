@@ -13,7 +13,6 @@
 - [Erlang Factroy SF 2016 - Keynote - John Hughes - Why Functional Programming Matters](https://www.youtube.com/watch?v=Z35Tt87pIpg)
 - [What is the actual life expectancy of your code? - Karoline Klever](https://vimeo.com/142347209)
 - [Deploying ASP.NET Core Applications - Dan Roth](https://channel9.msdn.com/Events/Build/2016/B811)
-- [Functional Programming You Already Know - Kevlin Henney](http://www.infoq.com/presentations/functional-declarative-style)
 - [Agile is Dead - Pragmatic Dave Thomas](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
 - [The Principles of Clean Architecture by Uncle Bob Martin](https://www.youtube.com/watch?v=o_TH-Y78tt4)
 - [Crafting Wicked Domain Models - Jimmy Bogard](https://vimeo.com/43598193)
@@ -48,3 +47,4 @@
 - [Event Storming - Alberto Brandolini - wroc_love.rb 2015](https://www.youtube.com/watch?v=veTVAN0oEkQ)
 - [CQRS and Event Sourcing - Code on the Beach 2014 - Greg Young](https://www.youtube.com/watch?v=JHGkaShoyNs)
 - [The changing state of immutability C# - Jon Skeet](https://vimeo.com/153745433)
+- [Functional Programming You Already Know - Kevlin Henney](http://www.infoq.com/presentations/functional-declarative-style)
