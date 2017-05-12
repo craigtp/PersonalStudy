@@ -75,6 +75,7 @@ void Main()
 	var booksMarkdown = new StringBuilder();
 	booksMarkdown.Append(@"Currently Reading".ToMarkdownHeader());
 	booksMarkdown.Append(currentlyReading.ToMarkdownTable().WithHeaders("Title", ""));
+	booksMarkdown.Append(Environment.NewLine);
 	booksMarkdown.Append(@"Books To Read".ToMarkdownHeader());
 	booksMarkdown.Append(booksToRead.ToMarkdownTable().WithHeaders("Title", ""));
 	booksMarkdown.Append(Environment.NewLine);
