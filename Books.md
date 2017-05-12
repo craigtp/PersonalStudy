@@ -1,9 +1,9 @@
 Currently Reading
 =================
 
-     |Title                          | 
-     |-------------------------------|  
-     |Domain-Driven Design Distilled | 
+|Title                          | 
+|-------------------------------|  
+|Domain-Driven Design Distilled | 
 
 Books To Read
 =============
