@@ -72,33 +72,37 @@ void Main()
 		new BookRead { Title = "ServiceStack Succintly", LastRead = DateTime.Parse("10 July 2015"), NotesTaken = false }
 	};
 
-	// Fix up the Title of books to prepend a | (pipe) to the title.
-	// This is to fix the table rendering on Gituhb which seems to have recently changed and now only renders
-	// markdown tables for markdown table text that starts with a pipe character.  Previously the leading pipe
-	// character on each line was not required.
-	var fixTableMarkdownToIncludeLeadingPipe = true;
-	var titleHeadingText = "Title";
-	if (fixTableMarkdownToIncludeLeadingPipe)
-	{
-		foreach (var book in currentlyReading) { book.Title = "|" + book.Title; }
-		foreach (var book in booksToRead) { book.Title = "|" + book.Title; }
-		foreach (var book in booksAlreadyRead) { book.Title = "|" + book.Title; }
-		titleHeadingText = "|Title";		
-	}
-	
 	var booksMarkdown = new StringBuilder();
 	booksMarkdown.Append(@"Currently Reading".ToMarkdownHeader());
-	booksMarkdown.Append(currentlyReading.ToMarkdownTable().WithHeaders(titleHeadingText, ""));
+	booksMarkdown.Append(currentlyReading.ToMarkdownTable().WithHeaders("Title", ""));
 	booksMarkdown.Append(@"Books To Read".ToMarkdownHeader());
-	booksMarkdown.Append(booksToRead.ToMarkdownTable().WithHeaders(titleHeadingText, ""));
+	booksMarkdown.Append(booksToRead.ToMarkdownTable().WithHeaders("Title", ""));
 	booksMarkdown.Append(Environment.NewLine);
 	booksMarkdown.Append(@"Books Already Read".ToMarkdownHeader());
 	booksMarkdown.Append(booksAlreadyRead.OrderBy(ar => ar.LastRead)
 		.ToMarkdownTable(c => c.Title, c => c.LastRead.ToLongDateString(), c => c.NotesTaken == true ? "Yes" : "No")
-		.WithHeaders(titleHeadingText, "Last Read", "Notes Taken"));
-	File.WriteAllText(booksFilePath,booksMarkdown.ToString());
+		.WithHeaders("Title", "Last Read", "Notes Taken"));
+	var markdownText = booksMarkdown.ToString();
+
+	// Strip any leading spaces/tabs from each line of the string.
+	// This is required to ensure that GutHub will render the tables correctly.
+	var newMarkdownTextBuilder = new StringBuilder();
+	using (var reader = new StringReader(markdownText))
+	{
+		var line = string.Empty;
+		do
+		{
+			line = reader.ReadLine();
+			if (line != null)
+			{
+				newMarkdownTextBuilder.AppendLine(line.Trim());
+			}
+		} while(line!=null);
+	}
+	
+	File.WriteAllText(booksFilePath,newMarkdownTextBuilder.ToString());
 	Console.WriteLine("Writing output file to {0}", booksFilePath);
-	Console.WriteLine(booksMarkdown.ToString());
+	Console.WriteLine(newMarkdownTextBuilder.ToString());
 }
 
 public class BookToRead
