@@ -1,12 +1,12 @@
 Currently Reading
 =================
      |Title                          | 
-     ------------------------------- |  
+     |------------------------------- |  
      |Domain-Driven Design Distilled | 
 Books To Read
 =============
      |Title                                                                           | 
-     -------------------------------------------------------------------------------- |  
+     |-------------------------------------------------------------------------------- |  
      |Introducing Event Storming                                                      | 
      |Domain-Driven Design: Tackling complexity in the heart of software              | 
      |Implementing Domain Driven Design                                               | 
@@ -49,7 +49,7 @@ Books To Read
 Books Already Read
 ==================
      |Title                                                                       | Last Read         | Notes Taken
-     ---------------------------------------------------------------------------- | ----------------- | ----------- 
+     |---------------------------------------------------------------------------- | ----------------- | ----------- 
      |Professional Test-Driven Development with C#                                | 16 December 2014  | No         
      |Kanban in Action                                                            | 10 March 2015     | No         
      |ServiceStack Succintly                                                      | 10 July 2015      | No         
