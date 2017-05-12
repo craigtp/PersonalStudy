@@ -8,68 +8,68 @@ void Main()
 {
 	var booksFilePath = Path.Combine(System.IO.Directory.GetCurrentDirectory(), @"..\Books.md");
 
-	var currentlyReading = new BookToRead[]
+	var currentlyReading = new[]
 	{
-		new BookToRead { Title = "Domain-Driven Design Distilled" },
+		new { Title = "Domain-Driven Design Distilled" },
 	};
 
-	var booksToRead = new BookToRead[]
+	var booksToRead = new[]
 	{
-		new BookToRead { Title = "Introducing Event Storming" },
-		new BookToRead { Title = "Domain-Driven Design: Tackling complexity in the heart of software" },
-		new BookToRead { Title = "Implementing Domain Driven Design" },
-		new BookToRead { Title = "Dependency Injection In .NET" },
-		new BookToRead { Title = "Pro ASP.NET Core MVC" },
-		new BookToRead { Title = "C# 6 and .NET Core 1.0 Modern Cross Platform Development" },
-		new BookToRead { Title = "Professional C# 6 and .NET Core 1.0" },
-		new BookToRead { Title = "ASP.NET Core And Angular 2" },
-		new BookToRead { Title = "AngularJS Succinctly" },
-		new BookToRead { Title = "Beginning SOLID Principles And Design Patterns For ASP.NET Developers" },
-		new BookToRead { Title = "Driving Technical Change" },
-		new BookToRead { Title = "Becoming a better programmer" },
-		new BookToRead { Title = "The Goal - A Process of Ongoing Improvement" },
-		new BookToRead { Title = "Lean Software Development, An Agile Toolkit" },
-		new BookToRead { Title = "Agile Software Development: Principles, Patterns & Practices" },
-		new BookToRead { Title = "The Inmates Are Running The Asylum" },
-		new BookToRead { Title = "Zen and the Art of Motorcycle Maintenance" },
-		new BookToRead { Title = "Clean Code" },
-		new BookToRead { Title = "Clean Coder" },
-		new BookToRead { Title = "Design Patterns: Elements of Reusable Object-Oriented Software" },
-		new BookToRead { Title = "The Mythical Man Month"},
-		new BookToRead { Title = "Refactoring: Improving the Design of Existing Code"},
-		new BookToRead { Title = "Growing Object-Oriented Software Guided by Tests"},
-		new BookToRead { Title = "The Passionate Programmer: Creating a Remarkable Career in Software Development"},
-		new BookToRead { Title = "Patterns of Enterprise Application Architecture"},
-		new BookToRead { Title = "Working Effectively with Legacy Code"},
-		new BookToRead { Title = "Concurrency in C#"},
-		new BookToRead { Title = "Managing Software Debt"},
-		new BookToRead { Title = "Brownfield Application Development in .NET"},
-		new BookToRead { Title = "Designing evolvable Web APIs with .NET"},
-		new BookToRead { Title = "Lean Software Development"},
-		new BookToRead { Title = "Lean from the trenches"},
-		new BookToRead { Title = "Kanban - Success evolutionary change for your technology business"},
-		new BookToRead { Title = "Refactoring to patterns"},
-		new BookToRead { Title = "Beautiful Code: Leading Programmers Explain How They Think"},
-		new BookToRead { Title = "Programming Pearls"},
-		new BookToRead { Title = "Introduction to Algorithms 3rd Edition"},
-		new BookToRead { Title = "Object Oriented Software Construction"},
+		new { Title = "Introducing Event Storming" },
+		new { Title = "Domain-Driven Design: Tackling complexity in the heart of software" },
+		new { Title = "Implementing Domain Driven Design" },
+		new { Title = "Dependency Injection In .NET" },
+		new { Title = "Pro ASP.NET Core MVC" },
+		new { Title = "C# 6 and .NET Core 1.0 Modern Cross Platform Development" },
+		new { Title = "Professional C# 6 and .NET Core 1.0" },
+		new { Title = "ASP.NET Core And Angular 2" },
+		new { Title = "AngularJS Succinctly" },
+		new { Title = "Beginning SOLID Principles And Design Patterns For ASP.NET Developers" },
+		new { Title = "Driving Technical Change" },
+		new { Title = "Becoming a better programmer" },
+		new { Title = "The Goal - A Process of Ongoing Improvement" },
+		new { Title = "Lean Software Development, An Agile Toolkit" },
+		new { Title = "Agile Software Development: Principles, Patterns & Practices" },
+		new { Title = "The Inmates Are Running The Asylum" },
+		new { Title = "Zen and the Art of Motorcycle Maintenance" },
+		new { Title = "Clean Code" },
+		new { Title = "Clean Coder" },
+		new { Title = "Design Patterns: Elements of Reusable Object-Oriented Software" },
+		new { Title = "The Mythical Man Month"},
+		new { Title = "Refactoring: Improving the Design of Existing Code"},
+		new { Title = "Growing Object-Oriented Software Guided by Tests"},
+		new { Title = "The Passionate Programmer: Creating a Remarkable Career in Software Development"},
+		new { Title = "Patterns of Enterprise Application Architecture"},
+		new { Title = "Working Effectively with Legacy Code"},
+		new { Title = "Concurrency in C#"},
+		new { Title = "Managing Software Debt"},
+		new { Title = "Brownfield Application Development in .NET"},
+		new { Title = "Designing evolvable Web APIs with .NET"},
+		new { Title = "Lean Software Development"},
+		new { Title = "Lean from the trenches"},
+		new { Title = "Kanban - Success evolutionary change for your technology business"},
+		new { Title = "Refactoring to patterns"},
+		new { Title = "Beautiful Code: Leading Programmers Explain How They Think"},
+		new { Title = "Programming Pearls"},
+		new { Title = "Introduction to Algorithms 3rd Edition"},
+		new { Title = "Object Oriented Software Construction"},
 	};
 	
-	var booksAlreadyRead = new BookRead[]
+	var booksAlreadyRead = new[]
 	{
-		new BookRead { Title = "Domain Driven Design Quickly", LastRead = DateTime.Parse("15 February 2017"), NotesTaken = false },
-		new BookRead { Title = "KnockoutJS Succinctly", LastRead = DateTime.Parse("26 August 2016"), NotesTaken = false },
-		new BookRead { Title = "The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win", LastRead = DateTime.Parse("20 August 2016"), NotesTaken = false },
-		new BookRead { Title = "The Nature Of Software Development", LastRead = DateTime.Parse("17 July 2016"), NotesTaken = true },
-		new BookRead { Title = "How Google Works", LastRead = DateTime.Parse("27 June 2016"), NotesTaken = false },
-		new BookRead { Title = "Rebels At Work", LastRead = DateTime.Parse("27 March 2016"), NotesTaken = true },
-		new BookRead { Title = "The Pragmatic Programmer", LastRead = DateTime.Parse("30 November 2015"), NotesTaken = false },
-		new BookRead { Title = "Software Estimation - Demystifying the black art", LastRead = DateTime.Parse("20 February 2016"), NotesTaken = true },
-		new BookRead { Title = "ASP.NET Web API 2 - Building a REST service from start to finish", LastRead = DateTime.Parse("01 September 2015"), NotesTaken = false },
-		new BookRead { Title = "Async In C#", LastRead = DateTime.Parse("10 January 2016"), NotesTaken = false },
-		new BookRead { Title = "Kanban in Action", LastRead = DateTime.Parse("10 March 2015"), NotesTaken = false },
-		new BookRead { Title = "Professional Test-Driven Development with C#", LastRead = DateTime.Parse("16 December 2014"), NotesTaken = false },
-		new BookRead { Title = "ServiceStack Succintly", LastRead = DateTime.Parse("10 July 2015"), NotesTaken = false }
+		new { Title = "Domain Driven Design Quickly", LastRead = DateTime.Parse("15 February 2017"), NotesTaken = false },
+		new { Title = "KnockoutJS Succinctly", LastRead = DateTime.Parse("26 August 2016"), NotesTaken = false },
+		new { Title = "The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win", LastRead = DateTime.Parse("20 August 2016"), NotesTaken = false },
+		new { Title = "The Nature Of Software Development", LastRead = DateTime.Parse("17 July 2016"), NotesTaken = true },
+		new { Title = "How Google Works", LastRead = DateTime.Parse("27 June 2016"), NotesTaken = false },
+		new { Title = "Rebels At Work", LastRead = DateTime.Parse("27 March 2016"), NotesTaken = true },
+		new { Title = "The Pragmatic Programmer", LastRead = DateTime.Parse("30 November 2015"), NotesTaken = false },
+		new { Title = "Software Estimation - Demystifying the black art", LastRead = DateTime.Parse("20 February 2016"), NotesTaken = true },
+		new { Title = "ASP.NET Web API 2 - Building a REST service from start to finish", LastRead = DateTime.Parse("01 September 2015"), NotesTaken = false },
+		new { Title = "Async In C#", LastRead = DateTime.Parse("10 January 2016"), NotesTaken = false },
+		new { Title = "Kanban in Action", LastRead = DateTime.Parse("10 March 2015"), NotesTaken = false },
+		new { Title = "Professional Test-Driven Development with C#", LastRead = DateTime.Parse("16 December 2014"), NotesTaken = false },
+		new { Title = "ServiceStack Succintly", LastRead = DateTime.Parse("10 July 2015"), NotesTaken = false }
 	};
 
 	var booksMarkdown = new StringBuilder();
@@ -86,24 +86,25 @@ void Main()
 	var markdownText = booksMarkdown.ToString();
 
 	// Strip any leading spaces/tabs from each line of the string.
-	// This is required to ensure that GutHub will render the tables correctly.
+	// This is required to ensure that GitHub will render the Markdown tables correctly.
+	// By default, the MarkdownLog library will indent the rendered tables, this causes GitHub
+	// to render the Markdown tables as plain text, rather than a prettified table.
 	var newMarkdownTextBuilder = new StringBuilder();
 	using (var reader = new StringReader(markdownText))
 	{
-		var line = string.Empty;
+		string line;
 		do
 		{
 			line = reader.ReadLine();
-			if (line != null)
-			{
-				newMarkdownTextBuilder.AppendLine(line.Trim());
-			}
-		} while(line!=null);
+			if (line == null) continue;
+			newMarkdownTextBuilder.AppendLine(line.Trim());
+		} while (line != null);
 	}
-	
-	File.WriteAllText(booksFilePath,newMarkdownTextBuilder.ToString());
+	markdownText = newMarkdownTextBuilder.ToString();
+
+	File.WriteAllText(booksFilePath,markdownText);
 	Console.WriteLine("Writing output file to {0}", booksFilePath);
-	Console.WriteLine(newMarkdownTextBuilder.ToString());
+	Console.WriteLine(markdownText);
 }
 
 public class BookToRead
