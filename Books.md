@@ -1,10 +1,13 @@
 Currently Reading
 =================
+
      |Title                          | 
-     |------------------------------- |  
+     |-------------------------------|  
      |Domain-Driven Design Distilled | 
+
 Books To Read
 =============
+
      |Title                                                                           | 
      |-------------------------------------------------------------------------------- |  
      |Introducing Event Storming                                                      | 
@@ -48,6 +51,7 @@ Books To Read
 
 Books Already Read
 ==================
+
      |Title                                                                       | Last Read         | Notes Taken
      |---------------------------------------------------------------------------- | ----------------- | ----------- 
      |Professional Test-Driven Development with C#                                | 16 December 2014  | No         
