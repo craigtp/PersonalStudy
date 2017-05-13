@@ -1,5 +1,4 @@
 # Videos To Watch
-- [Abusing C# - Jon Skeet](https://www.youtube.com/watch?v=JIlO_EebEQI)
 - [Greg Young's CQRS Video Series](https://www.youtube.com/watch?v=JHGkaShoyNs&index=1&list=PL5XpN_ZVafKLePdxruDfdfi-IiZtXz-k9)
 - [Introduction to ASP.NET Core 1.0](https://mva.microsoft.com/en-US/training-courses/introduction-to-asp-net-core-1-0-16841?l=JWZaodE6C_5706218965)
 - [Intermediate ASP.NET Core 1.0](https://mva.microsoft.com/en-US/training-courses/intermediate-asp-net-core-1-0-16964)
@@ -49,3 +48,4 @@
 - [CQRS and Event Sourcing - Code on the Beach 2014 - Greg Young](https://www.youtube.com/watch?v=JHGkaShoyNs)
 - [The changing state of immutability C# - Jon Skeet](https://vimeo.com/153745433)
 - [Functional Programming You Already Know - Kevlin Henney](http://www.infoq.com/presentations/functional-declarative-style)
+- [Abusing C# - Jon Skeet](https://www.youtube.com/watch?v=JIlO_EebEQI)
