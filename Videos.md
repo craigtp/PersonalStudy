@@ -1,4 +1,6 @@
 # Videos To Watch
+- [Introducing ASP.NET Core 2.0](https://channel9.msdn.com/Events/Build/2017/B8048)
+- [The future of C#](https://channel9.msdn.com/Events/Build/2017/B8104)
 - [Greg Young's CQRS Video Series](https://www.youtube.com/watch?v=JHGkaShoyNs&index=1&list=PL5XpN_ZVafKLePdxruDfdfi-IiZtXz-k9)
 - [Introduction to ASP.NET Core 1.0](https://mva.microsoft.com/en-US/training-courses/introduction-to-asp-net-core-1-0-16841?l=JWZaodE6C_5706218965)
 - [Intermediate ASP.NET Core 1.0](https://mva.microsoft.com/en-US/training-courses/intermediate-asp-net-core-1-0-16964)
