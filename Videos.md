@@ -1,5 +1,4 @@
 # Videos To Watch
-- [The future of Visual Studio](https://channel9.msdn.com/events/Build/2017/B8083)
 - [Introducing ASP.NET Core 2.0](https://channel9.msdn.com/Events/Build/2017/B8048)
 - [The future of C#](https://channel9.msdn.com/Events/Build/2017/B8104)
 - [SignalR .NET Core: Realtime cross-platform open web communication](https://channel9.msdn.com/Events/Build/2017/B8078)
@@ -54,3 +53,4 @@
 - [Functional Programming You Already Know - Kevlin Henney](http://www.infoq.com/presentations/functional-declarative-style)
 - [Abusing C# - Jon Skeet](https://www.youtube.com/watch?v=JIlO_EebEQI)
 - [Entity Framework Core 2.0: data, mobile, server, IoT, and more - Rowan Miller](https://channel9.msdn.com/Events/Build/2017/B8050)
+- [The future of Visual Studio](https://channel9.msdn.com/events/Build/2017/B8083)
