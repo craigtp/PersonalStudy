@@ -1,4 +1,5 @@
 # Videos To Watch
+- [The future of Visual Studio](https://channel9.msdn.com/events/Build/2017/B8083)
 - [Introducing ASP.NET Core 2.0](https://channel9.msdn.com/Events/Build/2017/B8048)
 - [The future of C#](https://channel9.msdn.com/Events/Build/2017/B8104)
 - [SignalR .NET Core: Realtime cross-platform open web communication](https://channel9.msdn.com/Events/Build/2017/B8078)
