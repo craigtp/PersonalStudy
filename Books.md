@@ -64,3 +64,4 @@ The Nature Of Software Development                                          | 17
 The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win | 20 August 2016    | No
 KnockoutJS Succinctly                                                       | 26 August 2016    | No
 Domain Driven Design Quickly                                                | 15 February 2017  | No
+Remote: Office Not Required                                                 | 13 July 2017      | No

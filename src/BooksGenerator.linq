@@ -57,6 +57,7 @@ void Main()
 	
 	var booksAlreadyRead = new[]
 	{
+		new { Title = "Remote: Office Not Required", LastRead = DateTime.Parse("13 July 2017"), NotesTaken = false },
 		new { Title = "Domain Driven Design Quickly", LastRead = DateTime.Parse("15 February 2017"), NotesTaken = false },
 		new { Title = "KnockoutJS Succinctly", LastRead = DateTime.Parse("26 August 2016"), NotesTaken = false },
 		new { Title = "The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win", LastRead = DateTime.Parse("20 August 2016"), NotesTaken = false },
