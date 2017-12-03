@@ -8,6 +8,7 @@ Books To Read
 =============
 Title                                                                           |
 ------------------------------------------------------------------------------- |
+The Imposter's Handbook                                                         |
 Introducing Event Storming                                                      |
 Domain-Driven Design: Tackling complexity in the heart of software              |
 Implementing Domain Driven Design                                               |
