@@ -1,8 +1,8 @@
 Currently Reading
 =================
-Title                          |
------------------------------- |
-Domain-Driven Design Distilled |
+Title                                 |
+------------------------------------- |
+Agile Software Development Succinctly |
 
 Books To Read
 =============
@@ -65,3 +65,4 @@ The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win | 20
 KnockoutJS Succinctly                                                       | 26 August 2016    | No
 Domain Driven Design Quickly                                                | 15 February 2017  | No
 Remote: Office Not Required                                                 | 13 July 2017      | No
+Domain-Driven Design Distilled                                              | 19 November 2017  | Yes
