@@ -1,8 +1,8 @@
 Currently Reading
 =================
-Title                                 |
-------------------------------------- |
-Agile Software Development Succinctly |
+Title        |
+------------ |
+Broken Agile |
 
 Books To Read
 =============
@@ -67,3 +67,4 @@ KnockoutJS Succinctly                                                       | 26
 Domain Driven Design Quickly                                                | 15 February 2017  | No
 Remote: Office Not Required                                                 | 13 July 2017      | No
 Domain-Driven Design Distilled                                              | 19 November 2017  | Yes
+Agile Software Development Succinctly                                       | 03 December 2017  | No
