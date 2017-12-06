@@ -1,8 +1,8 @@
 Currently Reading
 =================
-Title        |
------------- |
-Broken Agile |
+Title                   |
+----------------------- |
+The Imposter's Handbook |
 
 Books To Read
 =============
@@ -68,3 +68,4 @@ Domain Driven Design Quickly                                                | 15
 Remote: Office Not Required                                                 | 13 July 2017      | No
 Domain-Driven Design Distilled                                              | 19 November 2017  | Yes
 Agile Software Development Succinctly                                       | 03 December 2017  | No
+Broken Agile                                                                | 06 December 2017  | No

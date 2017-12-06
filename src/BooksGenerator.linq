@@ -10,7 +10,7 @@ void Main()
 
 	var currentlyReading = new[]
 	{
-		new { Title = "Broken Agile" },
+		new { Title = "The Imposter's Handbook" }
 	};
 
 	var booksToRead = new[]
@@ -58,6 +58,7 @@ void Main()
 	
 	var booksAlreadyRead = new[]
 	{
+		new { Title = "Broken Agile", LastRead = DateTime.Parse("6 December 2017"), NotesTaken = false },
 		new { Title = "Agile Software Development Succinctly", LastRead = DateTime.Parse("3 December 2017"), NotesTaken = false },
 		new { Title = "Domain-Driven Design Distilled", LastRead = DateTime.Parse("19 November 2017"), NotesTaken = true },
 		new { Title = "Remote: Office Not Required", LastRead = DateTime.Parse("13 July 2017"), NotesTaken = false },
