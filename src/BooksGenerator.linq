@@ -15,7 +15,8 @@ void Main()
 
 	var booksToRead = new[]
 	{
-		new { Title = "The Imposter's Handbook" },
+		new { Title = "Clean Code" },
+		new { Title = "Agile Principles, Patterns, and Practices in C#" },
 		new { Title = "Introducing Event Storming" },
 		new { Title = "Domain-Driven Design: Tackling complexity in the heart of software" },
 		new { Title = "Implementing Domain Driven Design" },
@@ -30,15 +31,14 @@ void Main()
 		new { Title = "Becoming a better programmer" },
 		new { Title = "The Goal - A Process of Ongoing Improvement" },
 		new { Title = "Lean Software Development, An Agile Toolkit" },
-		new { Title = "Agile Software Development: Principles, Patterns & Practices" },
 		new { Title = "The Inmates Are Running The Asylum" },
 		new { Title = "Zen and the Art of Motorcycle Maintenance" },
-		new { Title = "Clean Code" },
 		new { Title = "Clean Coder" },
 		new { Title = "Design Patterns: Elements of Reusable Object-Oriented Software" },
 		new { Title = "The Mythical Man Month"},
 		new { Title = "Refactoring: Improving the Design of Existing Code"},
 		new { Title = "Growing Object-Oriented Software Guided by Tests"},
+		new { Title = "Agile Software Development: Principles, Patterns & Practices" },
 		new { Title = "The Passionate Programmer: Creating a Remarkable Career in Software Development"},
 		new { Title = "Patterns of Enterprise Application Architecture"},
 		new { Title = "Working Effectively with Legacy Code"},

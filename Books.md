@@ -8,7 +8,8 @@ Books To Read
 =============
 Title                                                                           |
 ------------------------------------------------------------------------------- |
-The Imposter's Handbook                                                         |
+Clean Code                                                                      |
+Agile Principles, Patterns, and Practices in C#                                 |
 Introducing Event Storming                                                      |
 Domain-Driven Design: Tackling complexity in the heart of software              |
 Implementing Domain Driven Design                                               |
@@ -23,15 +24,14 @@ Driving Technical Change                                                        
 Becoming a better programmer                                                    |
 The Goal - A Process of Ongoing Improvement                                     |
 Lean Software Development, An Agile Toolkit                                     |
-Agile Software Development: Principles, Patterns & Practices                    |
 The Inmates Are Running The Asylum                                              |
 Zen and the Art of Motorcycle Maintenance                                       |
-Clean Code                                                                      |
 Clean Coder                                                                     |
 Design Patterns: Elements of Reusable Object-Oriented Software                  |
 The Mythical Man Month                                                          |
 Refactoring: Improving the Design of Existing Code                              |
 Growing Object-Oriented Software Guided by Tests                                |
+Agile Software Development: Principles, Patterns & Practices                    |
 The Passionate Programmer: Creating a Remarkable Career in Software Development |
 Patterns of Enterprise Application Architecture                                 |
 Working Effectively with Legacy Code                                            |
