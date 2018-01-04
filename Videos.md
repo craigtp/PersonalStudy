@@ -1,4 +1,5 @@
 # Videos To Watch
+- [Oren Eini - Modeling in a Non Relational World](https://www.youtube.com/watch?v=FY0BiZaJwL4)
 - [Ruby Conf 12 - Y Not- Adventures in Functional Programming by Jim Weirich](https://www.youtube.com/watch?v=FITJMJjASUs)
 - [Introducing ASP.NET Core 2.0](https://channel9.msdn.com/Events/Build/2017/B8048)
 - [The future of C#](https://channel9.msdn.com/Events/Build/2017/B8104)
