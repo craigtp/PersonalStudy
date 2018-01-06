@@ -18,7 +18,6 @@
 - [Erlang Factroy SF 2016 - Keynote - John Hughes - Why Functional Programming Matters](https://www.youtube.com/watch?v=Z35Tt87pIpg)
 - [What is the actual life expectancy of your code? - Karoline Klever](https://vimeo.com/142347209)
 - [Deploying ASP.NET Core Applications - Dan Roth](https://channel9.msdn.com/Events/Build/2016/B811)
-- [Agile is Dead - Pragmatic Dave Thomas](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
 - [The Principles of Clean Architecture by Uncle Bob Martin](https://www.youtube.com/watch?v=o_TH-Y78tt4)
 - [Crafting Wicked Domain Models - Jimmy Bogard](https://vimeo.com/43598193)
 - [Domain-Driven Design: The Good Parts - Jimmy Bogard](https://vimeo.com/179889630)
@@ -59,3 +58,4 @@
 - [Oren Eini - Modeling in a Non Relational World](https://www.youtube.com/watch?v=FY0BiZaJwL4)
 - [Robert "Uncle Bob" Martin - Architecture: The Lost Years](https://www.youtube.com/watch?v=HhNIttd87xs)
 - ["Uncle" Bob Martin - "The Future of Programming"](https://www.youtube.com/watch?v=ecIWPzGEbFc)
+- [Agile is Dead - Pragmatic Dave Thomas](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
