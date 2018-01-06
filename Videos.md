@@ -34,7 +34,7 @@
 - [Des Traynor at TNW Conference Europe 2015 - Product Strategy in a Growing Company](https://www.youtube.com/watch?v=ygUQNsn6iwU)
 - [Connascence Examined - Jim Weirich](https://yow.eventer.com/yow-2012-1012/connascence-examined-by-jim-weirich-1273)
 - [Codemania 2015: Josh Robb - Connascence & Coupling](https://www.youtube.com/watch?v=Ip2o4vbAK3s)
-- [The SOLID Design Principles Deconstructed - Kevlin Henney](https://yow.eventer.com/yow-2013-1080/the-solid-design-principles-deconstructed-by-kevlin-henney-1386)
+- [The SOLID Design Principles Deconstructed - Kevlin Henney](https://www.youtube.com/watch?v=tMW08JkFrBA)
 - [Connascence in Python](https://www.youtube.com/watch?v=iwADIlIgDNA)
 - [SOLID Architecture in Slices not Layers - Jimmy Bogard](https://vimeo.com/131633177)
 - [.NET Overview - Scott Hanselman & Scott Hunter](https://channel9.msdn.com/Events/Build/2016/B891)
