@@ -1,5 +1,4 @@
 # Videos To Watch
-- [ITT 2016 - Kevlin Henney - Seven Ineffective Coding Habits of Many Programmers](https://www.youtube.com/watch?v=ZsHMHukIlJY)
 - [Frankenbuilds; if Agile is so good, why are our Products so bad? • Gabrielle Benefield](https://www.youtube.com/watch?v=2JNXx8VdbAE)
 - [Ruby Conf 12 - Y Not- Adventures in Functional Programming by Jim Weirich](https://www.youtube.com/watch?v=FITJMJjASUs)
 - [Introducing ASP.NET Core 2.0](https://channel9.msdn.com/Events/Build/2017/B8048)
@@ -60,3 +59,4 @@
 - [Robert "Uncle Bob" Martin - Architecture: The Lost Years](https://www.youtube.com/watch?v=HhNIttd87xs)
 - ["Uncle" Bob Martin - "The Future of Programming"](https://www.youtube.com/watch?v=ecIWPzGEbFc)
 - [Agile is Dead - Pragmatic Dave Thomas](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
+- [ITT 2016 - Kevlin Henney - Seven Ineffective Coding Habits of Many Programmers](https://www.youtube.com/watch?v=ZsHMHukIlJY)
