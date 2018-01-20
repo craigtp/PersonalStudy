@@ -14,7 +14,6 @@ Clean Code: A Handbook of Agile Software Craftsmanship                          
 Refactoring: Improving the Design of Existing Code                                                    |
 Test Driven Development By Example                                                                    |
 Working Effectively With Legacy Code                                                                  |
-Agile Software Development: Principles, Patterns & Practices                                          |
 Agile Principles, Patterns, and Practices in C#                                                       |
 Design Patterns: Elements of Reusable Object-Oriented Software                                        |
 Domain-Driven Design: Tackling complexity in the heart of software                                    |

@@ -21,7 +21,6 @@ void Main()
 		new { Title = "Refactoring: Improving the Design of Existing Code" },
 		new { Title = "Test Driven Development By Example" },
 		new { Title = "Working Effectively With Legacy Code" },
-		new { Title = "Agile Software Development: Principles, Patterns & Practices" },
 		new { Title = "Agile Principles, Patterns, and Practices in C#" },
 		new { Title = "Design Patterns: Elements of Reusable Object-Oriented Software" },
 		new { Title = "Domain-Driven Design: Tackling complexity in the heart of software" },
