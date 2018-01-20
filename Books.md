@@ -6,47 +6,47 @@ The Imposter's Handbook |
 
 Books To Read
 =============
-Title                                                                           |
-------------------------------------------------------------------------------- |
-Clean Code                                                                      |
-Agile Principles, Patterns, and Practices in C#                                 |
-Introducing Event Storming                                                      |
-Domain-Driven Design: Tackling complexity in the heart of software              |
-Implementing Domain Driven Design                                               |
-Dependency Injection In .NET                                                    |
-Pro ASP.NET Core MVC                                                            |
-C# 6 and .NET Core 1.0 Modern Cross Platform Development                        |
-Professional C# 6 and .NET Core 1.0                                             |
-ASP.NET Core And Angular 2                                                      |
-AngularJS Succinctly                                                            |
-Beginning SOLID Principles And Design Patterns For ASP.NET Developers           |
-Driving Technical Change                                                        |
-Becoming a better programmer                                                    |
-The Goal - A Process of Ongoing Improvement                                     |
-Lean Software Development, An Agile Toolkit                                     |
-The Inmates Are Running The Asylum                                              |
-Zen and the Art of Motorcycle Maintenance                                       |
-Clean Coder                                                                     |
-Design Patterns: Elements of Reusable Object-Oriented Software                  |
-The Mythical Man Month                                                          |
-Refactoring: Improving the Design of Existing Code                              |
-Growing Object-Oriented Software Guided by Tests                                |
-Agile Software Development: Principles, Patterns & Practices                    |
-The Passionate Programmer: Creating a Remarkable Career in Software Development |
-Patterns of Enterprise Application Architecture                                 |
-Working Effectively with Legacy Code                                            |
-Concurrency in C#                                                               |
-Managing Software Debt                                                          |
-Brownfield Application Development in .NET                                      |
-Designing evolvable Web APIs with .NET                                          |
-Lean Software Development                                                       |
-Lean from the trenches                                                          |
-Kanban - Success evolutionary change for your technology business               |
-Refactoring to patterns                                                         |
-Beautiful Code: Leading Programmers Explain How They Think                      |
-Programming Pearls                                                              |
-Introduction to Algorithms 3rd Edition                                          |
-Object Oriented Software Construction                                           |
+Title                                                                                                 |
+----------------------------------------------------------------------------------------------------- |
+Introduction to Algorithms 3rd Edition                                                                |
+Structure And Interpretation of Computer Programs                                                     |
+Clean Code: A Handbook of Agile Software Craftsmanship                                                |
+Refactoring: Improving the Design of Existing Code                                                    |
+Test Driven Development By Example                                                                    |
+Working Effectively With Legacy Code                                                                  |
+Agile Software Development: Principles, Patterns & Practices                                          |
+Agile Principles, Patterns, and Practices in C#                                                       |
+Design Patterns: Elements of Reusable Object-Oriented Software                                        |
+Domain-Driven Design: Tackling complexity in the heart of software                                    |
+Patterns Of Enterprise Application Architecture                                                       |
+Peopleware: Productive Projects and Teams (3rd Edition)                                               |
+The Mythical Man-Month: Essays on Software Engineering (Anniversary Edition)                          |
+Software Requirements (3rd Edition)                                                                   |
+Growing Object-Oriented Software Guided by Tests                                                      |
+Release It!: Design and Deploy Production-Ready Software                                              |
+Dependency Injection In .NET                                                                          |
+Implementing Domain Driven Design                                                                     |
+Refactoring to patterns                                                                               |
+AngularJS Succinctly                                                                                  |
+The Goal - A Process of Ongoing Improvement                                                           |
+The Clean Coder                                                                                       |
+The Passionate Programmer: Creating a Remarkable Career in Software Development                       |
+Concurrency in C#                                                                                     |
+Beautiful Code: Leading Programmers Explain How They Think                                            |
+Programming Pearls (2nd Edition)                                                                      |
+Object Oriented Software Construction                                                                 |
+The Passionate Programmer: Creating a Remarkable Career in Software Development                       |
+Introducing Event Storming                                                                            |
+Code: The Hidden Language of Computer Hardware and Software                                           |
+Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition)                |
+Practices of an Agile Developer: Working in the Real World                                            |
+Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation        |
+Debugging: The 9 Indispensable Rules for Finding Even the Most Elusive Software and Hardware Problems |
+Succeeding With Agile: Software Development Using Scrum                                               |
+Enterprise Integration Patterns: Designing. Building. and Deploying Messaging Solutions               |
+Pattern-Oriented Software Architecture, Vol. 2, Patterns for Concurrent and Networked Objects         |
+Code Complete: A Practical Handbook of Software Construction (2nd Edition)                            |
+The Pragmatic Programmer: From Journeyman to Master                                                   |
 
 Books Already Read
 ==================
