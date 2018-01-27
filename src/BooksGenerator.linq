@@ -10,7 +10,7 @@ void Main()
 
 	var currentlyReading = new[]
 	{
-		new { Title = "The Imposter's Handbook" }
+		new { Title = "Software Requirements (3rd Edition)" },
 	};
 
 	var booksToRead = new[]
@@ -27,7 +27,6 @@ void Main()
 		new { Title = "Patterns Of Enterprise Application Architecture" },
 		new { Title = "Peopleware: Productive Projects and Teams (3rd Edition)" },
 		new { Title = "The Mythical Man-Month: Essays on Software Engineering (Anniversary Edition)"},
-		new { Title = "Software Requirements (3rd Edition)" },
 		new { Title = "Growing Object-Oriented Software Guided by Tests"},
 		new { Title = "Release It!: Design and Deploy Production-Ready Software" },
 		new { Title = "Dependency Injection In .NET" },
@@ -73,7 +72,8 @@ void Main()
 		new { Title = "Async In C#", LastRead = DateTime.Parse("10 January 2016"), NotesTaken = false },
 		new { Title = "Kanban in Action", LastRead = DateTime.Parse("10 March 2015"), NotesTaken = false },
 		new { Title = "Professional Test-Driven Development with C#", LastRead = DateTime.Parse("16 December 2014"), NotesTaken = false },
-		new { Title = "ServiceStack Succintly", LastRead = DateTime.Parse("10 July 2015"), NotesTaken = false }
+		new { Title = "ServiceStack Succintly", LastRead = DateTime.Parse("10 July 2015"), NotesTaken = false },
+		new { Title = "The Imposter's Handbook", LastRead = DateTime.Parse("27 January 2018"), NotesTaken = false }
 	};
 
 	var booksMarkdown = new StringBuilder();

@@ -1,8 +1,8 @@
 Currently Reading
 =================
-Title                   |
------------------------ |
-The Imposter's Handbook |
+Title                               |
+----------------------------------- |
+Software Requirements (3rd Edition) |
 
 Books To Read
 =============
@@ -20,7 +20,6 @@ Domain-Driven Design: Tackling complexity in the heart of software              
 Patterns Of Enterprise Application Architecture                                                       |
 Peopleware: Productive Projects and Teams (3rd Edition)                                               |
 The Mythical Man-Month: Essays on Software Engineering (Anniversary Edition)                          |
-Software Requirements (3rd Edition)                                                                   |
 Growing Object-Oriented Software Guided by Tests                                                      |
 Release It!: Design and Deploy Production-Ready Software                                              |
 Dependency Injection In .NET                                                                          |
@@ -68,3 +67,4 @@ Remote: Office Not Required                                                 | 13
 Domain-Driven Design Distilled                                              | 19 November 2017  | Yes
 Agile Software Development Succinctly                                       | 03 December 2017  | No
 Broken Agile                                                                | 06 December 2017  | No
+The Imposter's Handbook                                                     | 27 January 2018   | No
