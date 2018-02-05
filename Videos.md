@@ -1,5 +1,4 @@
 # Videos To Watch
-- [Twelve Ways to Make Code Suck Less by Venkat Subramaniam](https://www.youtube.com/watch?v=nVZE53IYi4w)
 - [Look Mommy, No GC! - Dina Goldshtein](https://www.youtube.com/watch?v=G49baWvzCOI)
 - [Frankenbuilds; if Agile is so good, why are our Products so bad? • Gabrielle Benefield](https://www.youtube.com/watch?v=2JNXx8VdbAE)
 - [Ruby Conf 12 - Y Not- Adventures in Functional Programming by Jim Weirich](https://www.youtube.com/watch?v=FITJMJjASUs)
@@ -64,3 +63,4 @@
 - [ITT 2016 - Kevlin Henney - Seven Ineffective Coding Habits of Many Programmers](https://www.youtube.com/watch?v=ZsHMHukIlJY)
 - [SOLID Programming Principles in C# (with Guitars)](https://www.youtube.com/watch?v=P9Fg-llDA7I)
 - ["Teaching an old dog new tricks" by Ismail Mayat](https://www.youtube.com/watch?v=nc0ptbStYVY)
+- [Twelve Ways to Make Code Suck Less by Venkat Subramaniam](https://www.youtube.com/watch?v=nVZE53IYi4w)
