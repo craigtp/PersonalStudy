@@ -10,11 +10,13 @@ void Main()
 
 	var currentlyReading = new[]
 	{
-		new { Title = "Software Requirements (3rd Edition)" },
+		new { Title = "Architecting Modern Web Aplications With ASP.NET Core and Microsoft Azure" },
 	};
 
 	var booksToRead = new[]
 	{
+		new { Title = "Pro ASP.NET Core MVC 2" },
+		new { Title = "Modern API Design with ASP.NET Core 2" },
 		new { Title = "Introduction to Algorithms 3rd Edition"},
 		new { Title = "Structure And Interpretation of Computer Programs"},
 		new { Title = "Clean Code: A Handbook of Agile Software Craftsmanship" },
@@ -73,7 +75,8 @@ void Main()
 		new { Title = "Kanban in Action", LastRead = DateTime.Parse("10 March 2015"), NotesTaken = false },
 		new { Title = "Professional Test-Driven Development with C#", LastRead = DateTime.Parse("16 December 2014"), NotesTaken = false },
 		new { Title = "ServiceStack Succintly", LastRead = DateTime.Parse("10 July 2015"), NotesTaken = false },
-		new { Title = "The Imposter's Handbook", LastRead = DateTime.Parse("27 January 2018"), NotesTaken = false }
+		new { Title = "The Imposter's Handbook", LastRead = DateTime.Parse("27 January 2018"), NotesTaken = false },
+		new { Title = "Software Requirements (3rd Edition)", LastRead = DateTime.Parse("06 April 2018"), NotesTaken = true }
 	};
 
 	var booksMarkdown = new StringBuilder();
