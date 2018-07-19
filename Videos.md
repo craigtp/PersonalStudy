@@ -1,4 +1,5 @@
 # Videos To Watch
+- [Michael Feathers - The Deep Synergy Between Testability and Good Design](https://vimeo.com/15007792)
 - [Kevlin Henney - Engineering Software](https://www.youtube.com/watch?v=alNS01f6w68)
 - [Look Mommy, No GC! - Dina Goldshtein](https://www.youtube.com/watch?v=G49baWvzCOI)
 - [Frankenbuilds; if Agile is so good, why are our Products so bad? • Gabrielle Benefield](https://www.youtube.com/watch?v=2JNXx8VdbAE)
