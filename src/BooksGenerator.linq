@@ -16,6 +16,9 @@ void Main()
 	var booksToRead = new[]
 	{
 		new { Title = "Modern API Design with ASP.NET Core 2" },
+		new { Title = "ASP.NET Core In Action" },
+		new { Title = ".NET Core In Action" },
+		new { Title = "Entity Framework Core In Action" },
 		new { Title = "Introduction to Algorithms 3rd Edition"},
 		new { Title = "Structure And Interpretation of Computer Programs"},
 		new { Title = "Clean Code: A Handbook of Agile Software Craftsmanship" },
@@ -29,7 +32,7 @@ void Main()
 		new { Title = "Peopleware: Productive Projects and Teams (3rd Edition)" },
 		new { Title = "The Mythical Man-Month: Essays on Software Engineering (Anniversary Edition)"},
 		new { Title = "Growing Object-Oriented Software Guided by Tests"},
-		new { Title = "Release It!: Design and Deploy Production-Ready Software" },
+		new { Title = "Release It!: Design and Deploy Production-Ready Software 2nd Edition" },
 		new { Title = "Dependency Injection In .NET" },
 		new { Title = "Implementing Domain Driven Design" },
 		new { Title = "Refactoring to patterns"},

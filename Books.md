@@ -9,6 +9,9 @@ Books To Read
 Title                                                                                                 |
 ----------------------------------------------------------------------------------------------------- |
 Modern API Design with ASP.NET Core 2                                                                 |
+ASP.NET Core In Action                                                                                |
+.NET Core In Action                                                                                   |
+Entity Framework Core In Action                                                                       |
 Introduction to Algorithms 3rd Edition                                                                |
 Structure And Interpretation of Computer Programs                                                     |
 Clean Code: A Handbook of Agile Software Craftsmanship                                                |
@@ -22,7 +25,7 @@ Patterns Of Enterprise Application Architecture                                 
 Peopleware: Productive Projects and Teams (3rd Edition)                                               |
 The Mythical Man-Month: Essays on Software Engineering (Anniversary Edition)                          |
 Growing Object-Oriented Software Guided by Tests                                                      |
-Release It!: Design and Deploy Production-Ready Software                                              |
+Release It!: Design and Deploy Production-Ready Software 2nd Edition                                  |
 Dependency Injection In .NET                                                                          |
 Implementing Domain Driven Design                                                                     |
 Refactoring to patterns                                                                               |
