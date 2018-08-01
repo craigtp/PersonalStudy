@@ -73,3 +73,5 @@
 - [Refactoring to Immutability - Kevlin Henney](http://videos.ncrafts.io/video/276832516)
 - [Greg Young's CQRS Class](https://www.youtube.com/watch?v=whCk1Q87_ZI)
 - [Greg Young - "How to get productive in a project in 24h"](https://www.youtube.com/watch?v=KaLROwp-VDY)
+- [Udi Dahan - If (domain logic) then CQRS or Saga?](https://www.youtube.com/watch?v=fWU8ZK0Dmxs)
+- [Finding Service Boundaries - illustrated in healthcare by Udi Dahan](https://vimeo.com/113515335)
