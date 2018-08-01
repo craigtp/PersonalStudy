@@ -1,7 +1,6 @@
 # Videos To Watch
 - [Martin Fowler - Event Sourcing](https://www.youtube.com/watch?v=aweV9FLTZkU)
 - [Greg Young & James Nugent - Event Sourcing & Immutable Infrastructure](https://www.youtube.com/watch?v=y3kOCAiHr3A)
-- [Greg Young - The long, sad history of Microservices](https://www.youtube.com/watch?v=MjIfWe6bn40)
 - [Michael Feathers - The Deep Synergy Between Testability and Good Design](https://vimeo.com/15007792)
 - [Kevlin Henney - Engineering Software](https://www.youtube.com/watch?v=alNS01f6w68)
 - [Look Mommy, No GC! - Dina Goldshtein](https://www.youtube.com/watch?v=G49baWvzCOI)
@@ -72,6 +71,8 @@
 - [8 Lines Of Code - Greg Young](https://www.infoq.com/presentations/8-lines-code-refactoring)
 - [Refactoring to Immutability - Kevlin Henney](http://videos.ncrafts.io/video/276832516)
 - [Greg Young's CQRS Class](https://www.youtube.com/watch?v=whCk1Q87_ZI)
+- [Greg Young - A Decade of DDD, CQRS, Event Sourcing](https://www.youtube.com/watch?v=LDW0QWie21s)
 - [Greg Young - "How to get productive in a project in 24h"](https://www.youtube.com/watch?v=KaLROwp-VDY)
 - [Udi Dahan - If (domain logic) then CQRS or Saga?](https://www.youtube.com/watch?v=fWU8ZK0Dmxs)
 - [Finding Service Boundaries - illustrated in healthcare by Udi Dahan](https://www.youtube.com/watch?v=RhfyP8pEEc4)
+- [Greg Young - The long, sad history of Microservices](https://www.youtube.com/watch?v=MjIfWe6bn40)
