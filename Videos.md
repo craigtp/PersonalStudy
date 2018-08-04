@@ -76,3 +76,4 @@
 - [Udi Dahan - If (domain logic) then CQRS or Saga?](https://www.youtube.com/watch?v=fWU8ZK0Dmxs)
 - [Finding Service Boundaries - illustrated in healthcare by Udi Dahan](https://www.youtube.com/watch?v=RhfyP8pEEc4)
 - [Greg Young - The long, sad history of Microservices](https://www.youtube.com/watch?v=MjIfWe6bn40)
+- [Distributed Sagas: A Protocol for Coordinating Microservices - Caitie McCaffrey - JOTB17](https://www.youtube.com/watch?v=0UTOLRTwOX0)
