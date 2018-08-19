@@ -17,7 +17,6 @@
 - [Something C# 7 This Way Comes - Bill Wagner](https://vimeo.com/154708153)
 - [Mark Rendle - ASP.NET 5 on Docker](https://vimeo.com/154588594)
 - [50 Shades of AppSec - Troy Hunt](https://vimeo.com/153220272)
-- [The psychology of self-motivation | Scott Geller | TEDxVirginiaTech](https://www.youtube.com/watch?v=7sxpKhIbr0E)
 - [Not Even Close: The State of Computer Security (with slides) - James Mickens](https://vimeo.com/135347162) 
 - [Erlang Factroy SF 2016 - Keynote - John Hughes - Why Functional Programming Matters](https://www.youtube.com/watch?v=Z35Tt87pIpg)
 - [What is the actual life expectancy of your code? - Karoline Klever](https://vimeo.com/142347209)
@@ -77,3 +76,4 @@
 - [Finding Service Boundaries - illustrated in healthcare by Udi Dahan](https://www.youtube.com/watch?v=RhfyP8pEEc4)
 - [Greg Young - The long, sad history of Microservices](https://www.youtube.com/watch?v=MjIfWe6bn40)
 - [Distributed Sagas: A Protocol for Coordinating Microservices - Caitie McCaffrey - JOTB17](https://www.youtube.com/watch?v=0UTOLRTwOX0)
+- [The psychology of self-motivation | Scott Geller | TEDxVirginiaTech](https://www.youtube.com/watch?v=7sxpKhIbr0E)
