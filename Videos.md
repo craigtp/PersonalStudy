@@ -66,7 +66,7 @@
 - [SOLID Programming Principles in C# (with Guitars)](https://www.youtube.com/watch?v=P9Fg-llDA7I)
 - ["Teaching an old dog new tricks" by Ismail Mayat](https://www.youtube.com/watch?v=nc0ptbStYVY)
 - [Twelve Ways to Make Code Suck Less by Venkat Subramaniam](https://www.youtube.com/watch?v=nVZE53IYi4w)
-- [The Art Of Destroying Software - Greg Yound](https://vimeo.com/108441214)
+- [The Art Of Destroying Software - Greg Young](https://vimeo.com/108441214)
 - [8 Lines Of Code - Greg Young](https://www.infoq.com/presentations/8-lines-code-refactoring)
 - [Refactoring to Immutability - Kevlin Henney](http://videos.ncrafts.io/video/276832516)
 - [Greg Young's CQRS Class](https://www.youtube.com/watch?v=whCk1Q87_ZI)
