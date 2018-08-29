@@ -1,6 +1,13 @@
 # Videos To Watch
 - [Martin Fowler - Event Sourcing](https://www.youtube.com/watch?v=aweV9FLTZkU)
 - [Greg Young & James Nugent - Event Sourcing & Immutable Infrastructure](https://www.youtube.com/watch?v=y3kOCAiHr3A)
+- [An Introduction to CQRS and Event Sourcing Patterns - Mathew McLoughlin](https://www.youtube.com/watch?v=9a1PqwFrMP0)
+- [The Many Meanings of Event-Driven Architecture - Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)
+- [The Future of Event-driven Microservices - Kenny Bastani](https://youtu.be/0C7J7hFv_pk)
+- [Using sagas to maintain data consistency in a microservice architecture - Chris Richardson](https://youtu.be/YPbGW3Fnmbc)
+- [Applying the Saga Pattern - Caitie McCaffrey](https://youtu.be/xDuwrtwYHu8)
+- [Functional Programming with DDD - Greg Young](https://skillsmatter.com/skillscasts/3191-ddd-functional-programming)
+- [Document based messaging and analysis - Greg Young](https://skillsmatter.com/skillscasts/4081-greg-young-4081)
 - [Michael Feathers - The Deep Synergy Between Testability and Good Design](https://vimeo.com/15007792)
 - [Kevlin Henney - Engineering Software](https://www.youtube.com/watch?v=alNS01f6w68)
 - [Look Mommy, No GC! - Dina Goldshtein](https://www.youtube.com/watch?v=G49baWvzCOI)
