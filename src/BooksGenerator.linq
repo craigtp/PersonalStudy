@@ -10,11 +10,15 @@ void Main()
 
 	var currentlyReading = new[]
 	{
-		new { Title = "Pro ASP.NET Core MVC 2" }
+		new { Title = "RabbitMQ Succinctly" }
 	};
 
 	var booksToRead = new[]
 	{
+		new { Title = "Domain-Driven Design: Tackling complexity in the heart of software" },
+		new { Title = "Patterns, Principles and Practices of Domain Driven Design" },
+		new { Title = "Implementing Domain Driven Design" },
+		new { Title = "Pro ASP.NET Core MVC 2" },
 		new { Title = "Modern API Design with ASP.NET Core 2" },
 		new { Title = "ASP.NET Core In Action" },
 		new { Title = ".NET Core In Action" },
@@ -27,14 +31,12 @@ void Main()
 		new { Title = "Working Effectively With Legacy Code" },
 		new { Title = "Agile Principles, Patterns, and Practices in C#" },
 		new { Title = "Design Patterns: Elements of Reusable Object-Oriented Software" },
-		new { Title = "Domain-Driven Design: Tackling complexity in the heart of software" },
 		new { Title = "Patterns Of Enterprise Application Architecture" },
 		new { Title = "Peopleware: Productive Projects and Teams (3rd Edition)" },
 		new { Title = "The Mythical Man-Month: Essays on Software Engineering (Anniversary Edition)"},
 		new { Title = "Growing Object-Oriented Software Guided by Tests"},
 		new { Title = "Release It!: Design and Deploy Production-Ready Software 2nd Edition" },
 		new { Title = "Dependency Injection In .NET" },
-		new { Title = "Implementing Domain Driven Design" },
 		new { Title = "Refactoring to patterns"},
 		new { Title = "AngularJS Succinctly" },
 		new { Title = "The Goal - A Process of Ongoing Improvement" },

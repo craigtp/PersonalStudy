@@ -1,13 +1,17 @@
 Currently Reading
 =================
-Title                  |
----------------------- |
-Pro ASP.NET Core MVC 2 |
+Title               |
+------------------- |
+RabbitMQ Succinctly |
 
 Books To Read
 =============
 Title                                                                                                 |
 ----------------------------------------------------------------------------------------------------- |
+Domain-Driven Design: Tackling complexity in the heart of software                                    |
+Patterns, Principles and Practices of Domain Driven Design                                            |
+Implementing Domain Driven Design                                                                     |
+Pro ASP.NET Core MVC 2                                                                                |
 Modern API Design with ASP.NET Core 2                                                                 |
 ASP.NET Core In Action                                                                                |
 .NET Core In Action                                                                                   |
@@ -20,14 +24,12 @@ Test Driven Development By Example                                              
 Working Effectively With Legacy Code                                                                  |
 Agile Principles, Patterns, and Practices in C#                                                       |
 Design Patterns: Elements of Reusable Object-Oriented Software                                        |
-Domain-Driven Design: Tackling complexity in the heart of software                                    |
 Patterns Of Enterprise Application Architecture                                                       |
 Peopleware: Productive Projects and Teams (3rd Edition)                                               |
 The Mythical Man-Month: Essays on Software Engineering (Anniversary Edition)                          |
 Growing Object-Oriented Software Guided by Tests                                                      |
 Release It!: Design and Deploy Production-Ready Software 2nd Edition                                  |
 Dependency Injection In .NET                                                                          |
-Implementing Domain Driven Design                                                                     |
 Refactoring to patterns                                                                               |
 AngularJS Succinctly                                                                                  |
 The Goal - A Process of Ongoing Improvement                                                           |
