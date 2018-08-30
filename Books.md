@@ -1,14 +1,13 @@
 Currently Reading
 =================
-Title               |
-------------------- |
-RabbitMQ Succinctly |
+Title                                                              |
+------------------------------------------------------------------ |
+Domain-Driven Design: Tackling complexity in the heart of software |
 
 Books To Read
 =============
 Title                                                                                                 |
 ----------------------------------------------------------------------------------------------------- |
-Domain-Driven Design: Tackling complexity in the heart of software                                    |
 Patterns, Principles and Practices of Domain Driven Design                                            |
 Implementing Domain Driven Design                                                                     |
 Pro ASP.NET Core MVC 2                                                                                |
@@ -76,3 +75,4 @@ Broken Agile                                                                | 06
 The Imposter's Handbook                                                     | 27 January 2018   | No
 Software Requirements (3rd Edition)                                         | 06 April 2018     | Yes
 Architecting Modern Web Aplications With ASP.NET Core and Microsoft Azure   | 09 May 2018       | No
+RabbitMQ Succinctly                                                         | 30 August 2018    | No

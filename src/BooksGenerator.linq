@@ -10,12 +10,11 @@ void Main()
 
 	var currentlyReading = new[]
 	{
-		new { Title = "RabbitMQ Succinctly" }
+		new { Title = "Domain-Driven Design: Tackling complexity in the heart of software" }
 	};
 
 	var booksToRead = new[]
 	{
-		new { Title = "Domain-Driven Design: Tackling complexity in the heart of software" },
 		new { Title = "Patterns, Principles and Practices of Domain Driven Design" },
 		new { Title = "Implementing Domain Driven Design" },
 		new { Title = "Pro ASP.NET Core MVC 2" },
@@ -82,6 +81,7 @@ void Main()
 		new { Title = "The Imposter's Handbook", LastRead = DateTime.Parse("27 January 2018"), NotesTaken = false },
 		new { Title = "Software Requirements (3rd Edition)", LastRead = DateTime.Parse("06 April 2018"), NotesTaken = true },
 		new { Title = "Architecting Modern Web Aplications With ASP.NET Core and Microsoft Azure", LastRead = DateTime.Parse("09 May 2018"), NotesTaken = false },
+		new { Title = "RabbitMQ Succinctly", LastRead = DateTime.Parse("30 August 2018"), NotesTaken = false }
 	};
 
 	var booksMarkdown = new StringBuilder();
