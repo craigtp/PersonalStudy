@@ -31,6 +31,7 @@
 - [The Principles of Clean Architecture by Uncle Bob Martin](https://www.youtube.com/watch?v=o_TH-Y78tt4)
 - [Crafting Wicked Domain Models - Jimmy Bogard](https://vimeo.com/43598193)
 - [Domain-Driven Design: The Good Parts - Jimmy Bogard](https://vimeo.com/179889630)
+- [Building an event sourced system in .NET - Michiel Overeem](https://www.youtube.com/watch?v=9ZR4U6iSMbo)
 
 # Videos Already Watched
 - [Red, Green...What Now?!](https://www.youtube.com/watch?v=fSr8LDcb0Y0)
