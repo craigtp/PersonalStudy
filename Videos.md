@@ -6,7 +6,6 @@
 - [Using sagas to maintain data consistency in a microservice architecture - Chris Richardson](https://youtu.be/YPbGW3Fnmbc)
 - [Applying the Saga Pattern - Caitie McCaffrey](https://youtu.be/xDuwrtwYHu8)
 - [Functional Programming with DDD - Greg Young](https://skillsmatter.com/skillscasts/3191-ddd-functional-programming)
-- [Document based messaging and analysis - Greg Young](https://skillsmatter.com/skillscasts/4081-greg-young-4081)
 - [Design Patterns: Why Event Sourcing? - Greg Young](https://www.youtube.com/watch?v=rUDN40rdly8)
 - [Michael Feathers - The Deep Synergy Between Testability and Good Design](https://vimeo.com/15007792)
 - [Kevlin Henney - Engineering Software](https://www.youtube.com/watch?v=alNS01f6w68)
@@ -86,3 +85,4 @@
 - [Distributed Sagas: A Protocol for Coordinating Microservices - Caitie McCaffrey - JOTB17](https://www.youtube.com/watch?v=0UTOLRTwOX0)
 - [The psychology of self-motivation | Scott Geller | TEDxVirginiaTech](https://www.youtube.com/watch?v=7sxpKhIbr0E)
 - [An Introduction to CQRS and Event Sourcing Patterns - Mathew McLoughlin](https://www.youtube.com/watch?v=9a1PqwFrMP0)
+- [Document based messaging and analysis - Greg Young](https://skillsmatter.com/skillscasts/4081-greg-young-4081)
