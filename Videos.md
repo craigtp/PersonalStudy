@@ -1,6 +1,4 @@
 # Videos To Watch
-- [Martin Fowler - Event Sourcing](https://www.youtube.com/watch?v=aweV9FLTZkU)
-- [Greg Young & James Nugent - Event Sourcing & Immutable Infrastructure](https://www.youtube.com/watch?v=y3kOCAiHr3A)
 - [The Many Meanings of Event-Driven Architecture - Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)
 - [The Future of Event-driven Microservices - Kenny Bastani](https://youtu.be/0C7J7hFv_pk)
 - [Using sagas to maintain data consistency in a microservice architecture - Chris Richardson](https://youtu.be/YPbGW3Fnmbc)
@@ -86,3 +84,5 @@
 - [The psychology of self-motivation | Scott Geller | TEDxVirginiaTech](https://www.youtube.com/watch?v=7sxpKhIbr0E)
 - [An Introduction to CQRS and Event Sourcing Patterns - Mathew McLoughlin](https://www.youtube.com/watch?v=9a1PqwFrMP0)
 - [Document based messaging and analysis - Greg Young](https://skillsmatter.com/skillscasts/4081-greg-young-4081)
+- [Martin Fowler - Event Sourcing](https://www.youtube.com/watch?v=aweV9FLTZkU)
+- [Greg Young & James Nugent - Event Sourcing & Immutable Infrastructure](https://www.youtube.com/watch?v=y3kOCAiHr3A)
