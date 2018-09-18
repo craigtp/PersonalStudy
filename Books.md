@@ -1,13 +1,14 @@
 Currently Reading
 =================
-Title                                                              |
------------------------------------------------------------------- |
-Domain-Driven Design: Tackling complexity in the heart of software |
+Title            |
+---------------- |
+Git Pocket Guide |
 
 Books To Read
 =============
 Title                                                                                                 |
 ----------------------------------------------------------------------------------------------------- |
+Domain-Driven Design: Tackling complexity in the heart of software                                    |
 Patterns, Principles and Practices of Domain Driven Design                                            |
 Implementing Domain Driven Design                                                                     |
 Pro ASP.NET Core MVC 2                                                                                |

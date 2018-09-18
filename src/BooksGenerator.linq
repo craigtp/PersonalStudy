@@ -10,11 +10,12 @@ void Main()
 
 	var currentlyReading = new[]
 	{
-		new { Title = "Domain-Driven Design: Tackling complexity in the heart of software" }
+		new { Title = "Git Pocket Guide" }
 	};
 
 	var booksToRead = new[]
 	{
+		new { Title = "Domain-Driven Design: Tackling complexity in the heart of software" },
 		new { Title = "Patterns, Principles and Practices of Domain Driven Design" },
 		new { Title = "Implementing Domain Driven Design" },
 		new { Title = "Pro ASP.NET Core MVC 2" },
