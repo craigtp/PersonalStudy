@@ -1,4 +1,5 @@
 # Videos To Watch
+- [GOTO 2014 - Polyglot Data - Greg Young](https://www.youtube.com/watch?v=hv2dKtPq0ME)
 - [The Many Meanings of Event-Driven Architecture - Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)
 - [The Future of Event-driven Microservices - Kenny Bastani](https://youtu.be/0C7J7hFv_pk)
 - [Using sagas to maintain data consistency in a microservice architecture - Chris Richardson](https://youtu.be/YPbGW3Fnmbc)
