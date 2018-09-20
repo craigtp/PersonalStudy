@@ -1,4 +1,7 @@
 # Videos To Watch
+- [Modernizing Traditional .NET Apps with Docker - Elton Stoneman](https://skillsmatter.com/skillscasts/12028-modernizing-traditional-dot-net-apps-with-docker)
+- [Let's talk HTTP in .NET Core - Steve Gordon](https://skillsmatter.com/skillscasts/12016-let-s-talk-http-in-dot-net-core)
+- [Build Real-Time, High-Performing Software with ASP.NET Core - Rachel Apple](https://skillsmatter.com/skillscasts/12193-build-real-time-high-performing-software-with-aspdot-net-core)
 - [Architectural Innovation: Eventing, Event Sourcing - Greg Young](https://skillsmatter.com/skillscasts/1011-architectural-innovation-eventing-event-sourcing)
 - [Assert.That(We.Understand) - Greg Young](https://skillsmatter.com/skillscasts/1947-talk-from-greg-young)
 - [Analysis and DDD - Greg Young](https://skillsmatter.com/skillscasts/3048-mystery-ddd)
