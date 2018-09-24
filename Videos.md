@@ -1,5 +1,6 @@
 # Videos To Watch
 - [Functional Techniques for C# - Kathleen Dollard](https://www.youtube.com/watch?v=rHmIf5xmKQg)
+- [Eric Evans: What I've learned about DDD since the book](https://www.youtube.com/watch?v=lE6Hxz4yomA)
 - [Modernizing Traditional .NET Apps with Docker - Elton Stoneman](https://skillsmatter.com/skillscasts/12028-modernizing-traditional-dot-net-apps-with-docker)
 - [Let's talk HTTP in .NET Core - Steve Gordon](https://skillsmatter.com/skillscasts/12016-let-s-talk-http-in-dot-net-core)
 - [Build Real-Time, High-Performing Software with ASP.NET Core - Rachel Apple](https://skillsmatter.com/skillscasts/12193-build-real-time-high-performing-software-with-aspdot-net-core)
