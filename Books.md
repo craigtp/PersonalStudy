@@ -1,8 +1,8 @@
 Currently Reading
 =================
-Title            |
----------------- |
-Git Pocket Guide |
+Title                   |
+----------------------- |
+The Imposter's Handbook |
 
 Books To Read
 =============
@@ -77,3 +77,4 @@ The Imposter's Handbook                                                     | 27
 Software Requirements (3rd Edition)                                         | 06 April 2018     | Yes
 Architecting Modern Web Aplications With ASP.NET Core and Microsoft Azure   | 09 May 2018       | No
 RabbitMQ Succinctly                                                         | 30 August 2018    | No
+Git Pocket Guide                                                            | 25 September 2018 | No
