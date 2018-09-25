@@ -1,7 +1,6 @@
 # Videos To Watch
 - [Eric Evans: What I've learned about DDD since the book](https://www.youtube.com/watch?v=lE6Hxz4yomA)
 - [Functional Programming with DDD - Greg Young](https://skillsmatter.com/skillscasts/3191-ddd-functional-programming)
-- [Let's talk HTTP in .NET Core - Steve Gordon](https://skillsmatter.com/skillscasts/12016-let-s-talk-http-in-dot-net-core)
 - [Modernizing Traditional .NET Apps with Docker - Elton Stoneman](https://skillsmatter.com/skillscasts/12028-modernizing-traditional-dot-net-apps-with-docker)
 - [Build Real-Time, High-Performing Software with ASP.NET Core - Rachel Appel](https://skillsmatter.com/skillscasts/12193-build-real-time-high-performing-software-with-aspdot-net-core)
 - [Architectural Innovation: Eventing, Event Sourcing - Greg Young](https://skillsmatter.com/skillscasts/1011-architectural-innovation-eventing-event-sourcing)
@@ -114,3 +113,4 @@
 - [Document based messaging and analysis - Greg Young](https://skillsmatter.com/skillscasts/4081-greg-young-4081)
 - [Greg Young - The Long Sad History of MicroServices](https://www.youtube.com/watch?v=MjIfWe6bn40)
 - [Functional Techniques for C# - Kathleen Dollard](https://www.youtube.com/watch?v=rHmIf5xmKQg)
+- [Let's talk HTTP in .NET Core - Steve Gordon](https://skillsmatter.com/skillscasts/12016-let-s-talk-http-in-dot-net-core)
