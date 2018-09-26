@@ -1,4 +1,5 @@
 # Videos To Watch
+- [Mike Hadlow on Monads @ E-VAN](https://vimeo.com/21705972)
 - [Eric Evans: What I've learned about DDD since the book](https://www.youtube.com/watch?v=lE6Hxz4yomA)
 - [Modernizing Traditional .NET Apps with Docker - Elton Stoneman](https://skillsmatter.com/skillscasts/12028-modernizing-traditional-dot-net-apps-with-docker)
 - [Build Real-Time, High-Performing Software with ASP.NET Core - Rachel Appel](https://skillsmatter.com/skillscasts/12193-build-real-time-high-performing-software-with-aspdot-net-core)
