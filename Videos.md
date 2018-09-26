@@ -13,7 +13,6 @@
 - [Event Store Launch - Greg Young](https://skillsmatter.com/skillscasts/3528-event-store-launch)
 - [Event Store As a Read Model - Greg Young](https://skillsmatter.com/skillscasts/3836-event-store-as-a-read-model)
 - [Event Store - Greg Young](https://skillsmatter.com/skillscasts/5137-event-store)
-- [The Future of Microservices - Greg Young](https://skillsmatter.com/skillscasts/6019-the-future-of-microservices)
 - [Show and Tell with Greg Young](https://skillsmatter.com/skillscasts/6122-show-and-tell-with-greg-young)
 - [Keynote: "Microservices" - Greg Young](https://skillsmatter.com/skillscasts/7150-keynote-microservices)
 - [Stop Over-Engineering! - Greg Young](https://skillsmatter.com/skillscasts/8082-stop-over-engineering)
@@ -117,3 +116,4 @@
 - [Functional Techniques for C# - Kathleen Dollard](https://www.youtube.com/watch?v=rHmIf5xmKQg)
 - [Let's talk HTTP in .NET Core - Steve Gordon](https://skillsmatter.com/skillscasts/12016-let-s-talk-http-in-dot-net-core)
 - [Functional Programming with DDD - Greg Young](https://skillsmatter.com/skillscasts/3191-ddd-functional-programming)
+- [The Future of Microservices - Greg Young](https://skillsmatter.com/skillscasts/6019-the-future-of-microservices)
