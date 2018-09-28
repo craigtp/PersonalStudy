@@ -1,4 +1,5 @@
 # Videos To Watch
+- [.NET Debugging Techniques from a Real-World Investigation](https://www.youtube.com/watch?v=23E0JVmo9MM)
 - [Mike Hadlow on Monads @ E-VAN](https://vimeo.com/21705972)
 - [Eric Evans: What I've learned about DDD since the book](https://www.youtube.com/watch?v=lE6Hxz4yomA)
 - [50,000 Orange Stickies Later - Alberto Brandolini](https://www.youtube.com/watch?v=1i6QYvYhlYQ)
