@@ -3,7 +3,6 @@
 - [Mike Hadlow on Monads @ E-VAN](https://vimeo.com/21705972)
 - [Eric Evans: What I've learned about DDD since the book](https://www.youtube.com/watch?v=lE6Hxz4yomA)
 - [50,000 Orange Stickies Later - Alberto Brandolini](https://www.youtube.com/watch?v=1i6QYvYhlYQ)
-- [Modernizing Traditional .NET Apps with Docker - Elton Stoneman](https://skillsmatter.com/skillscasts/12028-modernizing-traditional-dot-net-apps-with-docker)
 - [Build Real-Time, High-Performing Software with ASP.NET Core - Rachel Appel](https://skillsmatter.com/skillscasts/12193-build-real-time-high-performing-software-with-aspdot-net-core)
 - [Architectural Innovation: Eventing, Event Sourcing - Greg Young](https://skillsmatter.com/skillscasts/1011-architectural-innovation-eventing-event-sourcing)
 - [Analysis and DDD - Greg Young](https://skillsmatter.com/skillscasts/3048-mystery-ddd)
@@ -118,3 +117,4 @@
 - [The Future of Microservices - Greg Young](https://skillsmatter.com/skillscasts/6019-the-future-of-microservices)
 - [Writing simpler ASP.NET Core - Jonathan Channon](https://www.youtube.com/watch?v=IROSd7uB-tg)
 - [Assert.That(We.Understand) - Greg Young](https://skillsmatter.com/skillscasts/1947-talk-from-greg-young)
+- [Modernizing Traditional .NET Apps with Docker - Elton Stoneman](https://skillsmatter.com/skillscasts/12028-modernizing-traditional-dot-net-apps-with-docker)
