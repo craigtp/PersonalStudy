@@ -1,5 +1,4 @@
 # Videos To Watch
-- [The future of C#](https://channel9.msdn.com/Events/Build/2017/B8104)
 - [SignalR .NET Core: Realtime cross-platform open web communication](https://channel9.msdn.com/Events/Build/2017/B8078)
 - [Implementing the Clean Architecture in .NET Core - Ian Cooper](https://www.youtube.com/watch?v=IAcxetnsiCQ)
 - [Adapting ASP.NET Core MVC to your needs - Filip W](https://www.youtube.com/watch?v=pGCHAJnJ1CA)
@@ -137,3 +136,4 @@
 - [Architectural Innovation: Eventing, Event Sourcing - Greg Young](https://skillsmatter.com/skillscasts/1011-architectural-innovation-eventing-event-sourcing)
 - [Build Real-Time, High-Performing Software with ASP.NET Core - Rachel Appel](https://skillsmatter.com/skillscasts/12193-build-real-time-high-performing-software-with-aspdot-net-core)
 - [Good Design is Imperfect Design - Eric Evans](https://skillsmatter.com/skillscasts/9171-good-design-is-imperfect-design)
+- [The future of C#](https://channel9.msdn.com/Events/Build/2017/B8104)
