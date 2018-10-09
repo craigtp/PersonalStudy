@@ -1,11 +1,10 @@
 # Videos To Watch
-- [SignalR .NET Core: Realtime cross-platform open web communication](https://channel9.msdn.com/Events/Build/2017/B8078)
+- [Mike Hadlow on Monads @ E-VAN](https://vimeo.com/21705972)
 - [Adapting ASP.NET Core MVC to your needs - Filip W](https://www.youtube.com/watch?v=pGCHAJnJ1CA)
 - [An Opinionated Approach to ASP.NET Core - Scott Allen](https://www.youtube.com/watch?v=qxb62AErRWw)
 - [Nginx for .NET Developers - Ian Cooper](https://www.youtube.com/watch?v=Z2dE7OpL0Fc)
 - [ASP.NET Core 2.0 - Microsoft Virtual Academy](https://mva.microsoft.com/learning-path/asp-net-core-2-0-23)
 - [.NET Debugging Techniques from a Real-World Investigation](https://www.youtube.com/watch?v=23E0JVmo9MM)
-- [Mike Hadlow on Monads @ E-VAN](https://vimeo.com/21705972)
 - [Eric Evans: What I've learned about DDD since the book](https://www.youtube.com/watch?v=lE6Hxz4yomA)
 - [50,000 Orange Stickies Later - Alberto Brandolini](https://www.youtube.com/watch?v=1i6QYvYhlYQ)
 - [Analysis and DDD - Greg Young](https://skillsmatter.com/skillscasts/3048-mystery-ddd)
@@ -137,3 +136,4 @@
 - [Good Design is Imperfect Design - Eric Evans](https://skillsmatter.com/skillscasts/9171-good-design-is-imperfect-design)
 - [The future of C#](https://channel9.msdn.com/Events/Build/2017/B8104)
 - [Implementing the Clean Architecture in .NET Core - Ian Cooper](https://www.youtube.com/watch?v=IAcxetnsiCQ)
+- [SignalR .NET Core: Realtime cross-platform open web communication](https://channel9.msdn.com/Events/Build/2017/B8078)
