@@ -1,5 +1,4 @@
 # Videos To Watch
-- [Mike Hadlow on Monads @ E-VAN](https://vimeo.com/21705972)
 - [Adapting ASP.NET Core MVC to your needs - Filip W](https://www.youtube.com/watch?v=pGCHAJnJ1CA)
 - [An Opinionated Approach to ASP.NET Core - Scott Allen](https://www.youtube.com/watch?v=qxb62AErRWw)
 - [Nginx for .NET Developers - Ian Cooper](https://www.youtube.com/watch?v=Z2dE7OpL0Fc)
@@ -137,3 +136,4 @@
 - [The future of C#](https://channel9.msdn.com/Events/Build/2017/B8104)
 - [Implementing the Clean Architecture in .NET Core - Ian Cooper](https://www.youtube.com/watch?v=IAcxetnsiCQ)
 - [SignalR .NET Core: Realtime cross-platform open web communication](https://channel9.msdn.com/Events/Build/2017/B8078)
+- [Mike Hadlow on Monads @ E-VAN](https://vimeo.com/21705972)
