@@ -1,5 +1,4 @@
 # Videos To Watch
-- [Get value out of your monad - Mark Seemann](https://www.youtube.com/watch?v=F9bznonKc64)
 - [Alistair in the "Hexagone"](https://www.youtube.com/watch?v=th4AgBcrEHA)
 - [Adapting ASP.NET Core MVC to your needs - Filip W](https://www.youtube.com/watch?v=pGCHAJnJ1CA)
 - [An Opinionated Approach to ASP.NET Core - Scott Allen](https://www.youtube.com/watch?v=qxb62AErRWw)
@@ -139,3 +138,4 @@
 - [SignalR .NET Core: Realtime cross-platform open web communication](https://channel9.msdn.com/Events/Build/2017/B8078)
 - [Mike Hadlow on Monads @ E-VAN](https://vimeo.com/21705972)
 - [50,000 Orange Stickies Later - Alberto Brandolini](https://www.youtube.com/watch?v=1i6QYvYhlYQ)
+- [Get value out of your monad - Mark Seemann](https://www.youtube.com/watch?v=F9bznonKc64)
