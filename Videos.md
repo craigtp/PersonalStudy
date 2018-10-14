@@ -1,4 +1,5 @@
 # Videos To Watch
+- [YOW! 2017 Gregor Hohpe - Enterprise Architecture = Architecting the Enterprise?](https://www.youtube.com/watch?v=mS0AJLqmnvQ)
 - [Deploying .NET Core App to AWS ECS w/ hands-on Demo - Onur Gurdamar](https://skillsmatter.com/skillscasts/11943-deploying-dot-net-core-app-to-aws-ecs-w-hands-on-demo#video)
 - [CQRS / DDD by Greg Young](https://www.youtube.com/watch?v=KXqrBySgX-s)
 - [Practical CQRS by Rinat Abdullin](https://www.youtube.com/watch?v=CnvO_nlvrps)
