@@ -1,5 +1,7 @@
 # Videos To Watch
-- [Alistair in the "Hexagone"](https://www.youtube.com/watch?v=th4AgBcrEHA)
+- [Deploying .NET Core App to AWS ECS w/ hands-on Demo - Onur Gurdamar](https://skillsmatter.com/skillscasts/11943-deploying-dot-net-core-app-to-aws-ecs-w-hands-on-demo#video)
+- [CQRS / DDD by Greg Young](https://www.youtube.com/watch?v=KXqrBySgX-s)
+- [Practical CQRS by Rinat Abdullin](https://www.youtube.com/watch?v=CnvO_nlvrps)
 - [Adapting ASP.NET Core MVC to your needs - Filip W](https://www.youtube.com/watch?v=pGCHAJnJ1CA)
 - [An Opinionated Approach to ASP.NET Core - Scott Allen](https://www.youtube.com/watch?v=qxb62AErRWw)
 - [Nginx for .NET Developers - Ian Cooper](https://www.youtube.com/watch?v=Z2dE7OpL0Fc)
@@ -139,3 +141,4 @@
 - [Mike Hadlow on Monads @ E-VAN](https://vimeo.com/21705972)
 - [50,000 Orange Stickies Later - Alberto Brandolini](https://www.youtube.com/watch?v=1i6QYvYhlYQ)
 - [Get value out of your monad - Mark Seemann](https://www.youtube.com/watch?v=F9bznonKc64)
+- [Alistair in the "Hexagone"](https://www.youtube.com/watch?v=th4AgBcrEHA)
