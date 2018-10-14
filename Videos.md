@@ -1,5 +1,4 @@
 # Videos To Watch
-- [YOW! 2017 Gregor Hohpe - Enterprise Architecture = Architecting the Enterprise?](https://www.youtube.com/watch?v=mS0AJLqmnvQ)
 - [Deploying .NET Core App to AWS ECS w/ hands-on Demo - Onur Gurdamar](https://skillsmatter.com/skillscasts/11943-deploying-dot-net-core-app-to-aws-ecs-w-hands-on-demo#video)
 - [CQRS / DDD by Greg Young](https://www.youtube.com/watch?v=KXqrBySgX-s)
 - [Practical CQRS by Rinat Abdullin](https://www.youtube.com/watch?v=CnvO_nlvrps)
@@ -143,3 +142,4 @@
 - [50,000 Orange Stickies Later - Alberto Brandolini](https://www.youtube.com/watch?v=1i6QYvYhlYQ)
 - [Get value out of your monad - Mark Seemann](https://www.youtube.com/watch?v=F9bznonKc64)
 - [Alistair in the "Hexagone"](https://www.youtube.com/watch?v=th4AgBcrEHA)
+- [YOW! 2017 Gregor Hohpe - Enterprise Architecture = Architecting the Enterprise?](https://www.youtube.com/watch?v=mS0AJLqmnvQ)
