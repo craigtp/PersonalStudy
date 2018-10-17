@@ -56,7 +56,7 @@
 - [EventStorming Recipes - Alberto Brandolini](https://skillsmatter.com/skillscasts/5193-alberto-brandolini)
 - [It’s not simple at all! - Alberto Brandolini](https://skillsmatter.com/skillscasts/3995-its-not-simple-at-all)
 - [What Lies Beneath - Alberto Brandolini](https://skillsmatter.com/skillscasts/7798-what-lies-beneath)
-
+- [Reactive DDD—Modeling Uncertainty by Vaughn Vernon](https://www.youtube.com/watch?v=f2EYaqzMlKQ)
 
 # Videos Already Watched
 - [Red, Green...What Now?!](https://www.youtube.com/watch?v=fSr8LDcb0Y0)
