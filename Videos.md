@@ -1,5 +1,4 @@
 # Videos To Watch
-- [Analysis and DDD - Greg Young](https://skillsmatter.com/skillscasts/3048-mystery-ddd)
 - [Adapting ASP.NET Core MVC to your needs - Filip W](https://www.youtube.com/watch?v=pGCHAJnJ1CA)
 - [Nginx for .NET Developers - Ian Cooper](https://www.youtube.com/watch?v=Z2dE7OpL0Fc)
 - [Stop Over-Engineering! - Greg Young](https://skillsmatter.com/skillscasts/8082-stop-over-engineering)
@@ -143,3 +142,4 @@
 - [CQRS / DDD by Greg Young](https://www.youtube.com/watch?v=KXqrBySgX-s)
 - [Practical CQRS by Rinat Abdullin](https://www.youtube.com/watch?v=CnvO_nlvrps)
 - [.NET Debugging Techniques from a Real-World Investigation](https://www.youtube.com/watch?v=23E0JVmo9MM)
+- [Analysis and DDD - Greg Young](https://skillsmatter.com/skillscasts/3048-mystery-ddd)
