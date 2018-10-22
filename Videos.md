@@ -1,7 +1,6 @@
 # Videos To Watch
 - [Adapting ASP.NET Core MVC to your needs - Filip W](https://www.youtube.com/watch?v=pGCHAJnJ1CA)
 - [Nginx for .NET Developers - Ian Cooper](https://www.youtube.com/watch?v=Z2dE7OpL0Fc)
-- [Replacement C# compiler and TDD - Greg Young](https://skillsmatter.com/skillscasts/3397-itb-greg-young)
 - [Event Store Launch - Greg Young](https://skillsmatter.com/skillscasts/3528-event-store-launch)
 - [Event Store As a Read Model - Greg Young](https://skillsmatter.com/skillscasts/3836-event-store-as-a-read-model)
 - [Event Store - Greg Young](https://skillsmatter.com/skillscasts/5137-event-store)
@@ -143,3 +142,5 @@
 - [Stop Over-Engineering! - Greg Young](https://skillsmatter.com/skillscasts/8082-stop-over-engineering)
 - [Show and Tell with Greg Young](https://skillsmatter.com/skillscasts/6122-show-and-tell-with-greg-young)
 - [An Opinionated Approach to ASP.NET Core - Scott Allen](https://www.youtube.com/watch?v=qxb62AErRWw)
+- [Replacement C# compiler and TDD - Greg Young](https://skillsmatter.com/skillscasts/3397-itb-greg-young)
+- [The Three Laws of TDD - Bob Martin](https://www.youtube.com/watch?v=AoIfc5NwRks)
