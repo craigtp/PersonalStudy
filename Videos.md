@@ -1,5 +1,4 @@
 # Videos To Watch
-- [Event Store Launch - Greg Young](https://skillsmatter.com/skillscasts/3528-event-store-launch)
 - [Event Store As a Read Model - Greg Young](https://skillsmatter.com/skillscasts/3836-event-store-as-a-read-model)
 - [Event Store - Greg Young](https://skillsmatter.com/skillscasts/5137-event-store)
 - [Keynote: "Microservices" - Greg Young](https://skillsmatter.com/skillscasts/7150-keynote-microservices)
@@ -144,3 +143,4 @@
 - [The Three Laws of TDD - Bob Martin](https://www.youtube.com/watch?v=AoIfc5NwRks)
 - [Adapting ASP.NET Core MVC to your needs - Filip W](https://www.youtube.com/watch?v=pGCHAJnJ1CA)
 - [Nginx for .NET Developers - Ian Cooper](https://www.youtube.com/watch?v=Z2dE7OpL0Fc)
+- [Event Store Launch - Greg Young](https://skillsmatter.com/skillscasts/3528-event-store-launch)
