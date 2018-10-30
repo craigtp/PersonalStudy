@@ -1,5 +1,6 @@
 # Videos To Watch
 - [Event Store - Greg Young](https://skillsmatter.com/skillscasts/5137-event-store)
+- [Refactoring to Functional - Hadi Hariri](https://skillsmatter.com/skillscasts/12202-keynote-refactoring-to-functional)
 - [Keynote: "Microservices" - Greg Young](https://skillsmatter.com/skillscasts/7150-keynote-microservices)
 - [The Elephant in the Room - Greg Young](https://skillsmatter.com/skillscasts/9652-the-elephant-in-the-room)
 - [Event Sourcing and Microservices - Greg Young](https://skillsmatter.com/skillscasts/11143-event-sourcing-and-microservices)
