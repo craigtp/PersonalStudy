@@ -1,5 +1,4 @@
 # Videos To Watch
- -[GOTO 2014 - Event Sourcing - Greg Young](https://www.youtube.com/watch?v=8JKjvY4etTY)
 - [A Deep Look at Event Store - Greg Young](https://vimeo.com/53153270)
 - [Refactoring to Functional - Hadi Hariri](https://skillsmatter.com/skillscasts/12202-keynote-refactoring-to-functional)
 - [Keynote: "Microservices" - Greg Young](https://skillsmatter.com/skillscasts/7150-keynote-microservices)
@@ -147,3 +146,4 @@
 - [Event Store Launch - Greg Young](https://skillsmatter.com/skillscasts/3528-event-store-launch)
 - [Event Store As a Read Model - Greg Young](https://skillsmatter.com/skillscasts/3836-event-store-as-a-read-model)
 - [Event Store - Greg Young](https://skillsmatter.com/skillscasts/5137-event-store)
+- [GOTO 2014 - Event Sourcing - Greg Young](https://www.youtube.com/watch?v=8JKjvY4etTY)
