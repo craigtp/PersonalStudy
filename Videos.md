@@ -1,5 +1,4 @@
 # Videos To Watch
-- [Event Store - Greg Young](https://skillsmatter.com/skillscasts/5137-event-store)
 - [Refactoring to Functional - Hadi Hariri](https://skillsmatter.com/skillscasts/12202-keynote-refactoring-to-functional)
 - [Keynote: "Microservices" - Greg Young](https://skillsmatter.com/skillscasts/7150-keynote-microservices)
 - [The Elephant in the Room - Greg Young](https://skillsmatter.com/skillscasts/9652-the-elephant-in-the-room)
@@ -145,3 +144,4 @@
 - [Nginx for .NET Developers - Ian Cooper](https://www.youtube.com/watch?v=Z2dE7OpL0Fc)
 - [Event Store Launch - Greg Young](https://skillsmatter.com/skillscasts/3528-event-store-launch)
 - [Event Store As a Read Model - Greg Young](https://skillsmatter.com/skillscasts/3836-event-store-as-a-read-model)
+- [Event Store - Greg Young](https://skillsmatter.com/skillscasts/5137-event-store)
