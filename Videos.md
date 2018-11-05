@@ -1,5 +1,4 @@
 # Videos To Watch
-- [A Deep Look at Event Store - Greg Young](https://vimeo.com/53153270)
 - [Keynote: "Microservices" - Greg Young](https://skillsmatter.com/skillscasts/7150-keynote-microservices)
 - [The Elephant in the Room - Greg Young](https://skillsmatter.com/skillscasts/9652-the-elephant-in-the-room)
 - [Event Sourcing and Microservices - Greg Young](https://skillsmatter.com/skillscasts/11143-event-sourcing-and-microservices)
@@ -147,3 +146,5 @@
 - [Event Store - Greg Young](https://skillsmatter.com/skillscasts/5137-event-store)
 - [GOTO 2014 - Event Sourcing - Greg Young](https://www.youtube.com/watch?v=8JKjvY4etTY)
 - [Refactoring to Functional - Hadi Hariri](https://skillsmatter.com/skillscasts/12202-keynote-refactoring-to-functional)
+- [A Deep Look at Event Store - Greg Young](https://vimeo.com/53153270)
+
