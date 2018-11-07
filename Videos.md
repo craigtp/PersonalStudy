@@ -1,4 +1,6 @@
 # Videos To Watch
+- [Frankenbuilds; if Agile is so good, why are our Products so bad? • Gabrielle Benefield](https://www.youtube.com/watch?v=2JNXx8VdbAE)
+- [Michael Feathers - The Deep Synergy Between Testability and Good Design](https://vimeo.com/15007792)
 - [Keynote: "Microservices" - Greg Young](https://skillsmatter.com/skillscasts/7150-keynote-microservices)
 - [Event Sourcing and Microservices - Greg Young](https://skillsmatter.com/skillscasts/11143-event-sourcing-and-microservices)
 - [Functional Data Storage - Greg Young](https://skillsmatter.com/skillscasts/4045-greg-young)
@@ -12,10 +14,8 @@
 - [Using sagas to maintain data consistency in a microservice architecture - Chris Richardson](https://youtu.be/YPbGW3Fnmbc)
 - [Applying the Saga Pattern - Caitie McCaffrey](https://youtu.be/xDuwrtwYHu8)
 - [Design Patterns: Why Event Sourcing? - Greg Young](https://www.youtube.com/watch?v=rUDN40rdly8)
-- [Michael Feathers - The Deep Synergy Between Testability and Good Design](https://vimeo.com/15007792)
 - [Kevlin Henney - Engineering Software](https://www.youtube.com/watch?v=alNS01f6w68)
 - [Look Mommy, No GC! - Dina Goldshtein](https://www.youtube.com/watch?v=G49baWvzCOI)
-- [Frankenbuilds; if Agile is so good, why are our Products so bad? • Gabrielle Benefield](https://www.youtube.com/watch?v=2JNXx8VdbAE)
 - [Ruby Conf 12 - Y Not- Adventures in Functional Programming by Jim Weirich](https://www.youtube.com/watch?v=FITJMJjASUs)
 - [50 Shades of AppSec - Troy Hunt](https://vimeo.com/153220272)
 - [Not Even Close: The State of Computer Security (with slides) - James Mickens](https://vimeo.com/135347162) 
