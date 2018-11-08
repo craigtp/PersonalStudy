@@ -1,5 +1,4 @@
 # Videos To Watch
-- [Frankenbuilds; if Agile is so good, why are our Products so bad? • Gabrielle Benefield](https://www.youtube.com/watch?v=2JNXx8VdbAE)
 - [Michael Feathers - The Deep Synergy Between Testability and Good Design](https://vimeo.com/15007792)
 - [Event Sourcing and Microservices - Greg Young](https://skillsmatter.com/skillscasts/11143-event-sourcing-and-microservices)
 - [Functional Data Storage - Greg Young](https://skillsmatter.com/skillscasts/4045-greg-young)
@@ -147,3 +146,4 @@
 - [A Deep Look at Event Store - Greg Young](https://vimeo.com/53153270)
 - [The Elephant in the Room - Greg Young](https://skillsmatter.com/skillscasts/9652-the-elephant-in-the-room)
 - [Keynote: "Microservices" - Greg Young](https://skillsmatter.com/skillscasts/7150-keynote-microservices)
+- [Frankenbuilds; if Agile is so good, why are our Products so bad? • Gabrielle Benefield](https://www.youtube.com/watch?v=2JNXx8VdbAE)
