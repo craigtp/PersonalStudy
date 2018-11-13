@@ -1,7 +1,5 @@
 # Videos To Watch
 - [Event Sourcing and Microservices - Greg Young](https://skillsmatter.com/skillscasts/11143-event-sourcing-and-microservices)
-- [Functional Data Storage - Greg Young](https://skillsmatter.com/skillscasts/4045-greg-young)
-- [GOTO 2014 - Polyglot Data - Greg Young](https://www.youtube.com/watch?v=hv2dKtPq0ME)
 - [Event Store and NServiceBus - Greg Young and Szymon Pobiega](https://skillsmatter.com/skillscasts/5037-event-store-and-nservicebus)
 - [Mighty Moose - Greg Young](https://skillsmatter.com/skillscasts/1780-mighty-moose)
 - [ASP.NET Core 2.0 - Microsoft Virtual Academy](https://mva.microsoft.com/learning-path/asp-net-core-2-0-23)
@@ -147,3 +145,5 @@
 - [Keynote: "Microservices" - Greg Young](https://skillsmatter.com/skillscasts/7150-keynote-microservices)
 - [Frankenbuilds; if Agile is so good, why are our Products so bad? • Gabrielle Benefield](https://www.youtube.com/watch?v=2JNXx8VdbAE)
 - [Michael Feathers - The Deep Synergy Between Testability and Good Design](https://vimeo.com/15007792)
+- [Functional Data Storage - Greg Young](https://skillsmatter.com/skillscasts/4045-greg-young)
+- [GOTO 2014 - Polyglot Data - Greg Young](https://www.youtube.com/watch?v=hv2dKtPq0ME)
