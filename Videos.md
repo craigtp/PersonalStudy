@@ -1,5 +1,4 @@
 # Videos To Watch
-- [Event Sourcing and Microservices - Greg Young](https://skillsmatter.com/skillscasts/11143-event-sourcing-and-microservices)
 - [Event Store and NServiceBus - Greg Young and Szymon Pobiega](https://skillsmatter.com/skillscasts/5037-event-store-and-nservicebus)
 - [Mighty Moose - Greg Young](https://skillsmatter.com/skillscasts/1780-mighty-moose)
 - [ASP.NET Core 2.0 - Microsoft Virtual Academy](https://mva.microsoft.com/learning-path/asp-net-core-2-0-23)
@@ -147,3 +146,4 @@
 - [Michael Feathers - The Deep Synergy Between Testability and Good Design](https://vimeo.com/15007792)
 - [Functional Data Storage - Greg Young](https://skillsmatter.com/skillscasts/4045-greg-young)
 - [GOTO 2014 - Polyglot Data - Greg Young](https://www.youtube.com/watch?v=hv2dKtPq0ME)
+- [Event Sourcing and Microservices - Greg Young](https://skillsmatter.com/skillscasts/11143-event-sourcing-and-microservices)
