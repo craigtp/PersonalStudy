@@ -1,4 +1,5 @@
 # Videos To Watch
+- [The gordian knot by Alberto Brandolini](https://www.youtube.com/watch?v=pXHqgt7ELLc)
 - [Event Store and NServiceBus - Greg Young and Szymon Pobiega](https://skillsmatter.com/skillscasts/5037-event-store-and-nservicebus)
 - [Mighty Moose - Greg Young](https://skillsmatter.com/skillscasts/1780-mighty-moose)
 - [APIs and Microservices in ASP.NET Core Today and Tomorrow - Glenn Condron](https://www.youtube.com/watch?v=dUdGcogYkss)
