@@ -1,6 +1,4 @@
 # Videos To Watch
-- [Event Store and NServiceBus - Greg Young and Szymon Pobiega](https://skillsmatter.com/skillscasts/5037-event-store-and-nservicebus)
-- [Mighty Moose - Greg Young](https://skillsmatter.com/skillscasts/1780-mighty-moose)
 - [APIs and Microservices in ASP.NET Core Today and Tomorrow - Glenn Condron](https://www.youtube.com/watch?v=dUdGcogYkss)
 - [Field Notes : .NET Core and Docker in Production - Damian MacLennan](https://www.youtube.com/watch?v=a5h2CxQzYaU)
 - [Introduction to ASP.NET Core Razor Pages - Damian Edwards](https://www.youtube.com/watch?v=yyBijyCI5Sk)
@@ -159,3 +157,5 @@
 - [GOTO 2014 - Polyglot Data - Greg Young](https://www.youtube.com/watch?v=hv2dKtPq0ME)
 - [Event Sourcing and Microservices - Greg Young](https://skillsmatter.com/skillscasts/11143-event-sourcing-and-microservices)
 - [The gordian knot by Alberto Brandolini](https://www.youtube.com/watch?v=pXHqgt7ELLc)
+- [Mighty Moose - Greg Young](https://skillsmatter.com/skillscasts/1780-mighty-moose)
+- [Event Store and NServiceBus - Greg Young and Szymon Pobiega](https://skillsmatter.com/skillscasts/5037-event-store-and-nservicebus)
