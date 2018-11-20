@@ -1,5 +1,5 @@
 # Personal Study
-A repository to hold lists of books, articles, videos etc. to read/watch for personal study.
+A repository to hold lists of books, articles, videos, courses etc. to read/watch for personal study.
 
 [List of Books to read and books already read.](Books.md)  
 
