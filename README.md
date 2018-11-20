@@ -6,3 +6,5 @@ A repository to hold lists of books, articles, videos etc. to read/watch for per
 [List of Articles to read and articles already read.](Articles.md)  
  
 [List of Videos to watch and videos already watched](Videos.md)
+
+[List of Pluralsight courses to watch and videos already watched](PluralsightCourses.md)
