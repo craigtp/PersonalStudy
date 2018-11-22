@@ -1,14 +1,13 @@
 Currently Watching
 ==================
-Title                                             |
-------------------------------------------------- |
-Building Applications with React and Redux in ES6 |
+Title                                     |
+----------------------------------------- |
+Building Applications with React and Flux |
 
 Courses To Watch
 ================
 Title                                                              |
 ------------------------------------------------------------------ |
-Building Applications with React and Flux                          |
 Building a Full-Stack App with React and Express                   |
 Building a Real-time App with React, Flux, Webpack, and Firebase   |
 Microservices Architectural Design Patterns Playbook               |
@@ -41,3 +40,4 @@ Modern Software Architecture Domain Models, CQRS, and Event Sourcing | 24 July 2
 Microservices Architecture                                           | 24 July 2018
 Patterns for Building Distributed Systems for The Enterprise         | 27 July 2018
 React.JS - Getting Started                                           | 09 November 2018
+Building Applications with React and Redux in ES6                    | 22 November 2018

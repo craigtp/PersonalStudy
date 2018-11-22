@@ -10,12 +10,11 @@ void Main()
 
 	var currentlyWatching = new []
 	{
-		new { Title = "Building Applications with React and Redux in ES6"}
+		new { Title = "Building Applications with React and Flux" }
 	};
 
 	var coursesToWatch = new[]
 	{
-		new { Title = "Building Applications with React and Flux" },
 		new { Title = "Building a Full-Stack App with React and Express" },
 		new { Title = "Building a Real-time App with React, Flux, Webpack, and Firebase" },
 		new { Title = "Microservices Architectural Design Patterns Playbook" },
@@ -47,6 +46,7 @@ void Main()
 		new { Title = "Microservices Architecture", LastWatched = DateTime.Parse("24 July 2018")},
 		new { Title = "Patterns for Building Distributed Systems for The Enterprise", LastWatched = DateTime.Parse("27 July 2018")},
 		new { Title = "React.JS - Getting Started", LastWatched = DateTime.Parse("09 November 2018")},
+		new { Title = "Building Applications with React and Redux in ES6", LastWatched = DateTime.Parse("22 November 2018")},
 	};
 
 	var coursesMarkdown = new StringBuilder();
