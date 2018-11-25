@@ -159,3 +159,4 @@
 - [The gordian knot by Alberto Brandolini](https://www.youtube.com/watch?v=pXHqgt7ELLc)
 - [Mighty Moose - Greg Young](https://skillsmatter.com/skillscasts/1780-mighty-moose)
 - [Event Store and NServiceBus - Greg Young and Szymon Pobiega](https://skillsmatter.com/skillscasts/5037-event-store-and-nservicebus)
+- [Agility != Speed - Kevlin Henney](https://www.youtube.com/watch?v=kmFcNyZrUNM)
