@@ -1,5 +1,4 @@
 # Videos To Watch
-- [AWS Serverless with .NET Core - Norm Johanson](https://www.youtube.com/watch?v=LaLUQFFvtDY)
 - [Cake + .NET Core = Write Once, Build Anywhere - Enrico Campidoglio]()
 - [Diagnosing issues in ASP.NET Core Applications - David Fowler & Damian Edwards](https://www.youtube.com/watch?v=RYI0DHoIVaA)
 - [Field Notes : .NET Core and Docker in Production - Damian MacLennan](https://www.youtube.com/watch?v=a5h2CxQzYaU)
@@ -160,3 +159,4 @@
 - [Agility != Speed - Kevlin Henney](https://www.youtube.com/watch?v=kmFcNyZrUNM)
 - [Introduction to ASP.NET Core Razor Pages - Damian Edwards](https://www.youtube.com/watch?v=yyBijyCI5Sk)
 - [Node.js Crash Course for .NET Developers - David Neal](https://www.youtube.com/watch?v=8d6kJYqFWoQ)
+- [AWS Serverless with .NET Core - Norm Johanson](https://www.youtube.com/watch?v=LaLUQFFvtDY)
