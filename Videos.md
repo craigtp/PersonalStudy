@@ -8,6 +8,7 @@
 - [Using Kafka for Real-Time Data Ingestion with .NET - Kevin Feasel](https://www.youtube.com/watch?v=UB6iROIB0d8)
 - [Writing high performance code in .NET - Bart De Smet](https://www.youtube.com/watch?v=fI1XGVIQjkA)
 - [APIs and Microservices in ASP.NET Core Today and Tomorrow - Glenn Condron](https://www.youtube.com/watch?v=dUdGcogYkss)
+- [Event Sourcing with Azure Cosmos DB - Roman Provaznik](https://www.youtube.com/watch?v=E2oVmA3QKpA)
 - [ASP.NET Core 2.0 - Microsoft Virtual Academy](https://mva.microsoft.com/learning-path/asp-net-core-2-0-23)
 - [Eric Evans: What I've learned about DDD since the book](https://www.youtube.com/watch?v=lE6Hxz4yomA)
 - [The Many Meanings of Event-Driven Architecture - Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)
