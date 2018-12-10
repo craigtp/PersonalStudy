@@ -1,5 +1,4 @@
 # Videos To Watch
-- [Cake + .NET Core = Write Once, Build Anywhere - Enrico Campidoglio]()
 - [Diagnosing issues in ASP.NET Core Applications - David Fowler & Damian Edwards](https://www.youtube.com/watch?v=RYI0DHoIVaA)
 - [Field Notes : .NET Core and Docker in Production - Damian MacLennan](https://www.youtube.com/watch?v=a5h2CxQzYaU)
 - [Look Mommy, No GC! - Dina Goldshtein](https://www.youtube.com/watch?v=G49baWvzCOI)
@@ -161,3 +160,4 @@
 - [AWS Serverless with .NET Core - Norm Johanson](https://www.youtube.com/watch?v=LaLUQFFvtDY)
 - [Using Kafka for Real-Time Data Ingestion with .NET - Kevin Feasel](https://www.youtube.com/watch?v=UB6iROIB0d8)
 - [Serilog: Instrumentation that Works for You - Nicholas Blumhardt](https://www.youtube.com/watch?v=f3pposukOSE)
+- [Cake + .NET Core = Write Once, Build Anywhere - Enrico Campidoglio]()
