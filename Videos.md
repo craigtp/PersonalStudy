@@ -1,4 +1,5 @@
 # Videos To Watch
+- [Probing the Mystery’s of Saturn’s E-Ring with PostgreSQL - Rob Conery](https://skillsmatter.com/skillscasts/11354-ldnug-january-2018-with-rob-conery-and-heather-downing)
 - [Diagnosing issues in ASP.NET Core Applications - David Fowler & Damian Edwards](https://www.youtube.com/watch?v=RYI0DHoIVaA)
 - [Field Notes : .NET Core and Docker in Production - Damian MacLennan](https://www.youtube.com/watch?v=a5h2CxQzYaU)
 - [Look Mommy, No GC! - Dina Goldshtein](https://www.youtube.com/watch?v=G49baWvzCOI)
