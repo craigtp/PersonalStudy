@@ -2,7 +2,6 @@
 - [7 Reasons why your microservices should use Event Sourcing & CQRS - Hugh McKee](https://www.youtube.com/watch?v=wBvH7foXXUY)
 - [Azure Messaging and event based architecture in the real world - Lessons learned rebuilding](https://www.youtube.com/watch?v=AbMyhxIK8Ug)
 - [Streaming Big Data in Azure with Kafka and Event Hubs - Build 2018](https://www.youtube.com/watch?v=iBHRlYFGLSM)
-- [Probing the Mystery’s of Saturn’s E-Ring with PostgreSQL - Rob Conery](https://skillsmatter.com/skillscasts/11354-ldnug-january-2018-with-rob-conery-and-heather-downing)
 - [Stream Data Processing for Fun and Profit - David Ostrovsky](https://www.youtube.com/watch?v=yEXJzRkq_Ug)
 - [Diagnosing issues in ASP.NET Core Applications - David Fowler & Damian Edwards](https://www.youtube.com/watch?v=RYI0DHoIVaA)
 - [Field Notes : .NET Core and Docker in Production - Damian MacLennan](https://www.youtube.com/watch?v=a5h2CxQzYaU)
@@ -166,3 +165,4 @@
 - [Serilog: Instrumentation that Works for You - Nicholas Blumhardt](https://www.youtube.com/watch?v=f3pposukOSE)
 - [Cake + .NET Core = Write Once, Build Anywhere - Enrico Campidoglio]()
 - [APIs and Microservices in ASP.NET Core Today and Tomorrow - Glenn Condron](https://www.youtube.com/watch?v=dUdGcogYkss)
+- [Probing the Mystery’s of Saturn’s E-Ring with PostgreSQL - Rob Conery](https://skillsmatter.com/skillscasts/11354-ldnug-january-2018-with-rob-conery-and-heather-downing)
