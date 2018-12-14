@@ -1,4 +1,5 @@
 # Videos To Watch
+- [Introduction to event sourcing and CQRS - Duncan Jones](https://www.youtube.com/watch?v=kpM5gCLF1Zc)
 - [7 Reasons why your microservices should use Event Sourcing & CQRS - Hugh McKee](https://www.youtube.com/watch?v=wBvH7foXXUY)
 - [Azure Messaging and event based architecture in the real world - Lessons learned rebuilding](https://www.youtube.com/watch?v=AbMyhxIK8Ug)
 - [Streaming Big Data in Azure with Kafka and Event Hubs - Build 2018](https://www.youtube.com/watch?v=iBHRlYFGLSM)
