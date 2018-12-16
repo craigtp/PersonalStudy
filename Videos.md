@@ -1,5 +1,7 @@
 # Videos To Watch
-- [Introduction to event sourcing and CQRS - Duncan Jones](https://www.youtube.com/watch?v=kpM5gCLF1Zc)
+- [Introduction to Apache Kafka by James Ward](https://www.youtube.com/watch?v=UEg40Te8pnE)
+- [Building Streaming Microservices with Apache Kafka - Tim Berglund](https://www.youtube.com/watch?v=Hlb-Ss3q3as)
+- [Building Event Driven Services with Apache Kafka and Kafka Streams by Ben Stopford](https://www.youtube.com/watch?v=p9wcx3aTjuo)
 - [7 Reasons why your microservices should use Event Sourcing & CQRS - Hugh McKee](https://www.youtube.com/watch?v=wBvH7foXXUY)
 - [Azure Messaging and event based architecture in the real world - Lessons learned rebuilding](https://www.youtube.com/watch?v=AbMyhxIK8Ug)
 - [Streaming Big Data in Azure with Kafka and Event Hubs - Build 2018](https://www.youtube.com/watch?v=iBHRlYFGLSM)
@@ -8,7 +10,6 @@
 - [Field Notes : .NET Core and Docker in Production - Damian MacLennan](https://www.youtube.com/watch?v=a5h2CxQzYaU)
 - [Look Mommy, No GC! - Dina Goldshtein](https://www.youtube.com/watch?v=G49baWvzCOI)
 - [Security in ASP.NET Core 2.1 - Barry Dorrans](https://www.youtube.com/watch?v=yMB-VSPKDPI)
-- [Writing high performance code in .NET - Bart De Smet](https://www.youtube.com/watch?v=fI1XGVIQjkA)
 - [Event Sourcing with Azure Cosmos DB - Roman Provaznik](https://www.youtube.com/watch?v=E2oVmA3QKpA)
 - [ASP.NET Core 2.0 - Microsoft Virtual Academy](https://mva.microsoft.com/learning-path/asp-net-core-2-0-23)
 - [Eric Evans: What I've learned about DDD since the book](https://www.youtube.com/watch?v=lE6Hxz4yomA)
@@ -167,3 +168,5 @@
 - [Cake + .NET Core = Write Once, Build Anywhere - Enrico Campidoglio]()
 - [APIs and Microservices in ASP.NET Core Today and Tomorrow - Glenn Condron](https://www.youtube.com/watch?v=dUdGcogYkss)
 - [Probing the Mystery’s of Saturn’s E-Ring with PostgreSQL - Rob Conery](https://skillsmatter.com/skillscasts/11354-ldnug-january-2018-with-rob-conery-and-heather-downing)
+- [Writing high performance code in .NET - Bart De Smet](https://www.youtube.com/watch?v=fI1XGVIQjkA)
+- [Introduction to event sourcing and CQRS - Duncan Jones](https://www.youtube.com/watch?v=kpM5gCLF1Zc)
