@@ -1,4 +1,5 @@
 # Videos To Watch
+- [Finding your service boundaries - a practical guide - Adam Ralph](https://www.youtube.com/watch?v=tVnIUZbsxWI)
 - [Introduction to Apache Kafka by James Ward](https://www.youtube.com/watch?v=UEg40Te8pnE)
 - [Building Streaming Microservices with Apache Kafka - Tim Berglund](https://www.youtube.com/watch?v=Hlb-Ss3q3as)
 - [Building Event Driven Services with Apache Kafka and Kafka Streams by Ben Stopford](https://www.youtube.com/watch?v=p9wcx3aTjuo)
