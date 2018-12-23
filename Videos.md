@@ -1,5 +1,4 @@
 # Videos To Watch
-- [Finding your service boundaries - a practical guide - Adam Ralph](https://www.youtube.com/watch?v=tVnIUZbsxWI)
 - [Introduction to Apache Kafka by James Ward](https://www.youtube.com/watch?v=UEg40Te8pnE)
 - [Building Streaming Microservices with Apache Kafka - Tim Berglund](https://www.youtube.com/watch?v=Hlb-Ss3q3as)
 - [Building Event Driven Services with Apache Kafka and Kafka Streams by Ben Stopford](https://www.youtube.com/watch?v=p9wcx3aTjuo)
@@ -171,3 +170,4 @@
 - [Probing the Mystery’s of Saturn’s E-Ring with PostgreSQL - Rob Conery](https://skillsmatter.com/skillscasts/11354-ldnug-january-2018-with-rob-conery-and-heather-downing)
 - [Writing high performance code in .NET - Bart De Smet](https://www.youtube.com/watch?v=fI1XGVIQjkA)
 - [Introduction to event sourcing and CQRS - Duncan Jones](https://www.youtube.com/watch?v=kpM5gCLF1Zc)
+- [Finding your service boundaries - a practical guide - Adam Ralph](https://www.youtube.com/watch?v=tVnIUZbsxWI)
