@@ -1,6 +1,4 @@
 # Videos To Watch
-- [Introduction to Apache Kafka by James Ward](https://www.youtube.com/watch?v=UEg40Te8pnE)
-- [Building Streaming Microservices with Apache Kafka - Tim Berglund](https://www.youtube.com/watch?v=Hlb-Ss3q3as)
 - [Building Event Driven Services with Apache Kafka and Kafka Streams by Ben Stopford](https://www.youtube.com/watch?v=p9wcx3aTjuo)
 - [7 Reasons why your microservices should use Event Sourcing & CQRS - Hugh McKee](https://www.youtube.com/watch?v=wBvH7foXXUY)
 - [Azure Messaging and event based architecture in the real world - Lessons learned rebuilding](https://www.youtube.com/watch?v=AbMyhxIK8Ug)
@@ -171,3 +169,5 @@
 - [Writing high performance code in .NET - Bart De Smet](https://www.youtube.com/watch?v=fI1XGVIQjkA)
 - [Introduction to event sourcing and CQRS - Duncan Jones](https://www.youtube.com/watch?v=kpM5gCLF1Zc)
 - [Finding your service boundaries - a practical guide - Adam Ralph](https://www.youtube.com/watch?v=tVnIUZbsxWI)
+- [Introduction to Apache Kafka by James Ward](https://www.youtube.com/watch?v=UEg40Te8pnE)
+- [Building Streaming Microservices with Apache Kafka - Tim Berglund](https://www.youtube.com/watch?v=Hlb-Ss3q3as)
