@@ -2,7 +2,6 @@
 - [Building Event Driven Services with Apache Kafka and Kafka Streams by Ben Stopford](https://www.youtube.com/watch?v=p9wcx3aTjuo)
 - [7 Reasons why your microservices should use Event Sourcing & CQRS - Hugh McKee](https://www.youtube.com/watch?v=wBvH7foXXUY)
 - [Azure Messaging and event based architecture in the real world - Lessons learned rebuilding](https://www.youtube.com/watch?v=AbMyhxIK8Ug)
-- [Streaming Big Data in Azure with Kafka and Event Hubs - Build 2018](https://www.youtube.com/watch?v=iBHRlYFGLSM)
 - [Stream Data Processing for Fun and Profit - David Ostrovsky](https://www.youtube.com/watch?v=yEXJzRkq_Ug)
 - [Diagnosing issues in ASP.NET Core Applications - David Fowler & Damian Edwards](https://www.youtube.com/watch?v=RYI0DHoIVaA)
 - [Field Notes : .NET Core and Docker in Production - Damian MacLennan](https://www.youtube.com/watch?v=a5h2CxQzYaU)
@@ -171,3 +170,4 @@
 - [Finding your service boundaries - a practical guide - Adam Ralph](https://www.youtube.com/watch?v=tVnIUZbsxWI)
 - [Introduction to Apache Kafka by James Ward](https://www.youtube.com/watch?v=UEg40Te8pnE)
 - [Building Streaming Microservices with Apache Kafka - Tim Berglund](https://www.youtube.com/watch?v=Hlb-Ss3q3as)
+- [Streaming Big Data in Azure with Kafka and Event Hubs - Build 2018](https://www.youtube.com/watch?v=iBHRlYFGLSM)
