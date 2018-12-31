@@ -1,5 +1,4 @@
 # Videos To Watch
-- [Building Event Driven Services with Apache Kafka and Kafka Streams by Ben Stopford](https://www.youtube.com/watch?v=p9wcx3aTjuo)
 - [7 Reasons why your microservices should use Event Sourcing & CQRS - Hugh McKee](https://www.youtube.com/watch?v=wBvH7foXXUY)
 - [Azure Messaging and event based architecture in the real world - Lessons learned rebuilding](https://www.youtube.com/watch?v=AbMyhxIK8Ug)
 - [Stream Data Processing for Fun and Profit - David Ostrovsky](https://www.youtube.com/watch?v=yEXJzRkq_Ug)
@@ -171,3 +170,4 @@
 - [Introduction to Apache Kafka by James Ward](https://www.youtube.com/watch?v=UEg40Te8pnE)
 - [Building Streaming Microservices with Apache Kafka - Tim Berglund](https://www.youtube.com/watch?v=Hlb-Ss3q3as)
 - [Streaming Big Data in Azure with Kafka and Event Hubs - Build 2018](https://www.youtube.com/watch?v=iBHRlYFGLSM)
+- [Building Event Driven Services with Apache Kafka and Kafka Streams by Ben Stopford](https://www.youtube.com/watch?v=p9wcx3aTjuo)
