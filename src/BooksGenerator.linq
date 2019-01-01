@@ -15,6 +15,7 @@ void Main()
 
 	var booksToRead = new[]
 	{
+		new { Title = "The Imposter's Handbook Season 2" },
 		new { Title = "Domain-Driven Design: Tackling complexity in the heart of software" },
 		new { Title = "Patterns, Principles and Practices of Domain Driven Design" },
 		new { Title = "Implementing Domain Driven Design" },

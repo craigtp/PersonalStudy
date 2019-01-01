@@ -8,6 +8,7 @@ Books To Read
 =============
 Title                                                                                                 |
 ----------------------------------------------------------------------------------------------------- |
+The Imposter's Handbook Season 2                                                                      |
 Domain-Driven Design: Tackling complexity in the heart of software                                    |
 Patterns, Principles and Practices of Domain Driven Design                                            |
 Implementing Domain Driven Design                                                                     |
