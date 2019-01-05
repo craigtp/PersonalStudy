@@ -1,13 +1,14 @@
 Currently Watching
 ==================
-Title                                         |
---------------------------------------------- |
-Getting Started with Azure Event Hubs with C# |
+Title                        |
+---------------------------- |
+Azure Functions Fundamentals |
 
 Courses To Watch
 ================
 Title                                                               |
 ------------------------------------------------------------------- |
+Refactoring from Anemic Domain Model Towards a Rich One             |
 Scaling applications with Microservices and NServiceBus 6           |
 Designing a Microsoft Azure Messaging Architecture                  |
 Azure Event Hubs for .NET Developers Fundamentals                   |
@@ -48,3 +49,4 @@ Patterns for Building Distributed Systems for The Enterprise         | 27 July 2
 React.JS - Getting Started                                           | 09 November 2018
 Building Applications with React and Redux in ES6                    | 22 November 2018
 Building Applications with React and Flux                            | 16 December 2018
+Getting Started with Azure Event Hubs with C#                        | 05 January 2019
