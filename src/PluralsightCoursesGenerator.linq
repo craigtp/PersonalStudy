@@ -10,19 +10,23 @@ void Main()
 
 	var currentlyWatching = new []
 	{
-		new { Title = "Building Applications with React and Flux" }
+		new { Title = "Getting Started with Azure Event Hubs with C#" }
 	};
 
 	var coursesToWatch = new[]
 	{
-		new { Title = "Building a Full-Stack App with React and Express" },
-		new { Title = "Building a Real-time App with React, Flux, Webpack, and Firebase" },
+		new { Title = "Scaling applications with Microservices and NServiceBus 6" },
+		new { Title = "Designing a Microsoft Azure Messaging Architecture" },
+		new { Title = "Azure Event Hubs for .NET Developers Fundamentals" },
 		new { Title = "Microservices Architectural Design Patterns Playbook" },
+		new { Title = "Understanding the Difference Between Microsoft Azure and Amazon AWS" },
+		new { Title = "Real World Big Data in Azure" },
+		new { Title = "Microsoft Azure Architecture for AWS Architects" },
+		new { Title = "Domain Driven Design Fundamentals" },
+		new { Title = "Domain-Driven Design in Practice" },
 		new { Title = "Docker Deep Dive" },
 		new { Title = "Docker in Production Using Amazon Web Services" },
 		new { Title = "Docker Swarm - Native Docker Clustering" },
-		new { Title = "Domain Driven Design Fundamentals" },
-		new { Title = "Domain-Driven Design in Practice" },
 		new { Title = "Getting Started with Docker" },
 		new { Title = "Getting Started with Docker on Windows" },
 		new { Title = "Getting Started with Kubernetes" },
@@ -31,6 +35,8 @@ void Main()
 		new { Title = "Play by Play - Docker for Web Developers" },
 		new { Title = "Implementing a Self-hosted Docker Registry" },
 		new { Title = "Scaling Applications with Microservices, MassTransit, and RabbitMQ" },
+		new { Title = "Building a Full-Stack App with React and Express" },
+		new { Title = "Building a Real-time App with React, Flux, Webpack, and Firebase" },
 	};
 	
 	var coursesAlreadyWatched = new[]
@@ -47,6 +53,7 @@ void Main()
 		new { Title = "Patterns for Building Distributed Systems for The Enterprise", LastWatched = DateTime.Parse("27 July 2018")},
 		new { Title = "React.JS - Getting Started", LastWatched = DateTime.Parse("09 November 2018")},
 		new { Title = "Building Applications with React and Redux in ES6", LastWatched = DateTime.Parse("22 November 2018")},
+		new { Title = "Building Applications with React and Flux", LastWatched = DateTime.Parse("16 December 2018") }
 	};
 
 	var coursesMarkdown = new StringBuilder();

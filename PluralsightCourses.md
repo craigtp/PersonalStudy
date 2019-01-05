@@ -1,29 +1,35 @@
 Currently Watching
 ==================
-Title                                     |
------------------------------------------ |
-Building Applications with React and Flux |
+Title                                         |
+--------------------------------------------- |
+Getting Started with Azure Event Hubs with C# |
 
 Courses To Watch
 ================
-Title                                                              |
------------------------------------------------------------------- |
-Building a Full-Stack App with React and Express                   |
-Building a Real-time App with React, Flux, Webpack, and Firebase   |
-Microservices Architectural Design Patterns Playbook               |
-Docker Deep Dive                                                   |
-Docker in Production Using Amazon Web Services                     |
-Docker Swarm - Native Docker Clustering                            |
-Domain Driven Design Fundamentals                                  |
-Domain-Driven Design in Practice                                   |
-Getting Started with Docker                                        |
-Getting Started with Docker on Windows                             |
-Getting Started with Kubernetes                                    |
-Mastering React Testing with Jest                                  |
-Monitoring Containerized Application Health with Docker            |
-Play by Play - Docker for Web Developers                           |
-Implementing a Self-hosted Docker Registry                         |
-Scaling Applications with Microservices, MassTransit, and RabbitMQ |
+Title                                                               |
+------------------------------------------------------------------- |
+Scaling applications with Microservices and NServiceBus 6           |
+Designing a Microsoft Azure Messaging Architecture                  |
+Azure Event Hubs for .NET Developers Fundamentals                   |
+Microservices Architectural Design Patterns Playbook                |
+Understanding the Difference Between Microsoft Azure and Amazon AWS |
+Real World Big Data in Azure                                        |
+Microsoft Azure Architecture for AWS Architects                     |
+Domain Driven Design Fundamentals                                   |
+Domain-Driven Design in Practice                                    |
+Docker Deep Dive                                                    |
+Docker in Production Using Amazon Web Services                      |
+Docker Swarm - Native Docker Clustering                             |
+Getting Started with Docker                                         |
+Getting Started with Docker on Windows                              |
+Getting Started with Kubernetes                                     |
+Mastering React Testing with Jest                                   |
+Monitoring Containerized Application Health with Docker             |
+Play by Play - Docker for Web Developers                            |
+Implementing a Self-hosted Docker Registry                          |
+Scaling Applications with Microservices, MassTransit, and RabbitMQ  |
+Building a Full-Stack App with React and Express                    |
+Building a Real-time App with React, Flux, Webpack, and Firebase    |
 
 Courses Already Watched
 =======================
@@ -41,3 +47,4 @@ Microservices Architecture                                           | 24 July 2
 Patterns for Building Distributed Systems for The Enterprise         | 27 July 2018
 React.JS - Getting Started                                           | 09 November 2018
 Building Applications with React and Redux in ES6                    | 22 November 2018
+Building Applications with React and Flux                            | 16 December 2018
