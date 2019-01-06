@@ -15,6 +15,7 @@ void Main()
 
 	var coursesToWatch = new[]
 	{
+		new { Title = "Azure Function Triggers Quick Start" },
 		new { Title = "Refactoring from Anemic Domain Model Towards a Rich One" },
 		new { Title = "Scaling applications with Microservices and NServiceBus 6" },
 		new { Title = "Designing a Microsoft Azure Messaging Architecture" },
