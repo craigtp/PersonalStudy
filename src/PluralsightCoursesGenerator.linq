@@ -10,12 +10,11 @@ void Main()
 
 	var currentlyWatching = new []
 	{
-		new { Title = "Azure Functions Fundamentals" }
+		new { Title = "Azure Function Triggers Quick Start" }	
 	};
 
 	var coursesToWatch = new[]
 	{
-		new { Title = "Azure Function Triggers Quick Start" },
 		new { Title = "Refactoring from Anemic Domain Model Towards a Rich One" },
 		new { Title = "Scaling applications with Microservices and NServiceBus 6" },
 		new { Title = "Designing a Microsoft Azure Messaging Architecture" },
@@ -56,7 +55,8 @@ void Main()
 		new { Title = "React.JS - Getting Started", LastWatched = DateTime.Parse("09 November 2018")},
 		new { Title = "Building Applications with React and Redux in ES6", LastWatched = DateTime.Parse("22 November 2018")},
 		new { Title = "Building Applications with React and Flux", LastWatched = DateTime.Parse("16 December 2018") },
-		new { Title = "Getting Started with Azure Event Hubs with C#", LastWatched = DateTime.Parse("5 January 2019") }
+		new { Title = "Getting Started with Azure Event Hubs with C#", LastWatched = DateTime.Parse("5 January 2019") },
+		new { Title = "Azure Functions Fundamentals",LastWatched = DateTime.Parse("7 January 2019") }
 	};
 
 	var coursesMarkdown = new StringBuilder();

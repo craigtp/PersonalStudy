@@ -1,14 +1,13 @@
 Currently Watching
 ==================
-Title                        |
----------------------------- |
-Azure Functions Fundamentals |
+Title                               |
+----------------------------------- |
+Azure Function Triggers Quick Start |
 
 Courses To Watch
 ================
 Title                                                               |
 ------------------------------------------------------------------- |
-Azure Function Triggers Quick Start                                 |
 Refactoring from Anemic Domain Model Towards a Rich One             |
 Scaling applications with Microservices and NServiceBus 6           |
 Designing a Microsoft Azure Messaging Architecture                  |
@@ -51,3 +50,4 @@ React.JS - Getting Started                                           | 09 Novemb
 Building Applications with React and Redux in ES6                    | 22 November 2018
 Building Applications with React and Flux                            | 16 December 2018
 Getting Started with Azure Event Hubs with C#                        | 05 January 2019
+Azure Functions Fundamentals                                         | 07 January 2019
