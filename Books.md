@@ -79,3 +79,4 @@ Software Requirements (3rd Edition)                                         | 06
 Architecting Modern Web Aplications With ASP.NET Core and Microsoft Azure   | 09 May 2018       | No
 RabbitMQ Succinctly                                                         | 30 August 2018    | No
 Git Pocket Guide                                                            | 25 September 2018 | No
+It Doesn't Have To Be Crazy At Work                                         | 26 January 2019   | No
