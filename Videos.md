@@ -174,3 +174,4 @@
 - [Azure Messaging and event based architecture in the real world - Lessons learned rebuilding](https://www.youtube.com/watch?v=AbMyhxIK8Ug)
 - [Stream Data Processing for Fun and Profit - David Ostrovsky](https://www.youtube.com/watch?v=yEXJzRkq_Ug)
 - [Microsoft Patterns & Practices - A Journey into CQRS](https://channel9.msdn.com/events/patterns-practices-symposium-online/patterns-practices-symposium-online-2012/a-journey-into-cqrs)
+- [95% of performance is about clean representative models - Martin Thompson](https://skillsmatter.com/skillscasts/5191-martin-thompson)
