@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [Crunching 'real-life stories' with DDD & Event Storming - Kenny Baas-Schwegler - KanDDDinsky 2018](https://www.youtube.com/watch?v=WvkBKvMnyuc)
 - [The Root Causes of Product Failure by Marty Cagan](https://www.youtube.com/watch?v=9dccd8lihpQ)
 - [Reactive DDD—When Concurrent Waxes Fluent - Vaughn Vernon](https://www.youtube.com/watch?v=JMdS_cHFaBY)
 - [Event Sourcing after launch - Michiel Overeem](https://www.youtube.com/watch?v=JzWJI8kW2kc)
