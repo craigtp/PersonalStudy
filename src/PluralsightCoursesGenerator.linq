@@ -10,11 +10,12 @@ void Main()
 
 	var currentlyWatching = new []
 	{
-		new { Title = "Azure Function Triggers Quick Start" }	
+		new { Title = "Domain-Driven Design in Practice" }
 	};
 
 	var coursesToWatch = new[]
 	{
+		new { Title = "Azure Function Triggers Quick Start" },
 		new { Title = "Refactoring from Anemic Domain Model Towards a Rich One" },
 		new { Title = "Scaling applications with Microservices and NServiceBus 6" },
 		new { Title = "Designing a Microsoft Azure Messaging Architecture" },
@@ -23,8 +24,6 @@ void Main()
 		new { Title = "Understanding the Difference Between Microsoft Azure and Amazon AWS" },
 		new { Title = "Real World Big Data in Azure" },
 		new { Title = "Microsoft Azure Architecture for AWS Architects" },
-		new { Title = "Domain Driven Design Fundamentals" },
-		new { Title = "Domain-Driven Design in Practice" },
 		new { Title = "Docker Deep Dive" },
 		new { Title = "Docker in Production Using Amazon Web Services" },
 		new { Title = "Docker Swarm - Native Docker Clustering" },
@@ -56,7 +55,8 @@ void Main()
 		new { Title = "Building Applications with React and Redux in ES6", LastWatched = DateTime.Parse("22 November 2018")},
 		new { Title = "Building Applications with React and Flux", LastWatched = DateTime.Parse("16 December 2018") },
 		new { Title = "Getting Started with Azure Event Hubs with C#", LastWatched = DateTime.Parse("5 January 2019") },
-		new { Title = "Azure Functions Fundamentals",LastWatched = DateTime.Parse("7 January 2019") }
+		new { Title = "Azure Functions Fundamentals",LastWatched = DateTime.Parse("7 January 2019") },
+		new { Title = "Domain Driven Design Fundamentals", LastWatched = DateTime.Parse("3 February 2019") },
 	};
 
 	var coursesMarkdown = new StringBuilder();

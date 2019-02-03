@@ -1,13 +1,14 @@
 Currently Watching
 ==================
-Title                               |
------------------------------------ |
-Azure Function Triggers Quick Start |
+Title                            |
+-------------------------------- |
+Domain-Driven Design in Practice |
 
 Courses To Watch
 ================
 Title                                                               |
 ------------------------------------------------------------------- |
+Azure Function Triggers Quick Start                                 |
 Refactoring from Anemic Domain Model Towards a Rich One             |
 Scaling applications with Microservices and NServiceBus 6           |
 Designing a Microsoft Azure Messaging Architecture                  |
@@ -16,8 +17,6 @@ Microservices Architectural Design Patterns Playbook                |
 Understanding the Difference Between Microsoft Azure and Amazon AWS |
 Real World Big Data in Azure                                        |
 Microsoft Azure Architecture for AWS Architects                     |
-Domain Driven Design Fundamentals                                   |
-Domain-Driven Design in Practice                                    |
 Docker Deep Dive                                                    |
 Docker in Production Using Amazon Web Services                      |
 Docker Swarm - Native Docker Clustering                             |
@@ -51,3 +50,4 @@ Building Applications with React and Redux in ES6                    | 22 Novemb
 Building Applications with React and Flux                            | 16 December 2018
 Getting Started with Azure Event Hubs with C#                        | 05 January 2019
 Azure Functions Fundamentals                                         | 07 January 2019
+Domain Driven Design Fundamentals                                    | 03 February 2019
