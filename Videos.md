@@ -1,7 +1,6 @@
 # Videos To Watch
 
 - [Crunching 'real-life stories' with DDD & Event Storming - Kenny Baas-Schwegler - KanDDDinsky 2018](https://www.youtube.com/watch?v=WvkBKvMnyuc)
-- [Reactive DDD - When Concurrent Waxes Fluent - Vaughn Vernon](https://www.youtube.com/watch?v=JMdS_cHFaBY)
 - [Event Sourcing after launch - Michiel Overeem](https://www.youtube.com/watch?v=JzWJI8kW2kc)
 - [Diagnosing issues in ASP.NET Core Applications - David Fowler & Damian Edwards](https://www.youtube.com/watch?v=RYI0DHoIVaA)
 - [Field Notes : .NET Core and Docker in Production - Damian MacLennan](https://www.youtube.com/watch?v=a5h2CxQzYaU)
@@ -178,3 +177,4 @@
 - [Microsoft Patterns & Practices - A Journey into CQRS](https://channel9.msdn.com/events/patterns-practices-symposium-online/patterns-practices-symposium-online-2012/a-journey-into-cqrs)
 - [95% of performance is about clean representative models - Martin Thompson](https://skillsmatter.com/skillscasts/5191-martin-thompson)
 - [The Root Causes of Product Failure by Marty Cagan](https://www.youtube.com/watch?v=9dccd8lihpQ)
+- [Reactive DDD - When Concurrent Waxes Fluent - Vaughn Vernon](https://www.youtube.com/watch?v=JMdS_cHFaBY)
