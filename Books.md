@@ -10,8 +10,13 @@ Title                                                                           
 ----------------------------------------------------------------------------------------------------- |
 The Imposter's Handbook Season 2                                                                      |
 Domain-Driven Design: Tackling complexity in the heart of software                                    |
-Patterns, Principles and Practices of Domain Driven Design                                            |
 Implementing Domain Driven Design                                                                     |
+Patterns, Principles and Practices of Domain Driven Design                                            |
+Exploring CQRS and Event Sourcing (CQRS Journey Guide)                                                |
+Designing Data Intensive Applications                                                                 |
+Enterprise Integration Patterns: Designing. Building. and Deploying Messaging Solutions               |
+Patterns Of Enterprise Application Architecture                                                       |
+Release It!: Design and Deploy Production-Ready Software 2nd Edition                                  |
 Pro ASP.NET Core MVC 2                                                                                |
 Modern API Design with ASP.NET Core 2                                                                 |
 ASP.NET Core In Action                                                                                |
@@ -25,11 +30,9 @@ Test Driven Development By Example                                              
 Working Effectively With Legacy Code                                                                  |
 Agile Principles, Patterns, and Practices in C#                                                       |
 Design Patterns: Elements of Reusable Object-Oriented Software                                        |
-Patterns Of Enterprise Application Architecture                                                       |
 Peopleware: Productive Projects and Teams (3rd Edition)                                               |
 The Mythical Man-Month: Essays on Software Engineering (Anniversary Edition)                          |
 Growing Object-Oriented Software Guided by Tests                                                      |
-Release It!: Design and Deploy Production-Ready Software 2nd Edition                                  |
 Dependency Injection In .NET                                                                          |
 Refactoring to patterns                                                                               |
 AngularJS Succinctly                                                                                  |
@@ -48,7 +51,6 @@ Practices of an Agile Developer: Working in the Real World                      
 Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation        |
 Debugging: The 9 Indispensable Rules for Finding Even the Most Elusive Software and Hardware Problems |
 Succeeding With Agile: Software Development Using Scrum                                               |
-Enterprise Integration Patterns: Designing. Building. and Deploying Messaging Solutions               |
 Pattern-Oriented Software Architecture, Vol. 2, Patterns for Concurrent and Networked Objects         |
 Code Complete: A Practical Handbook of Software Construction (2nd Edition)                            |
 The Pragmatic Programmer: From Journeyman to Master                                                   |
