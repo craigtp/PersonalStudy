@@ -1,5 +1,7 @@
 # Videos To Watch
 
+- ["Turning the database inside out with Apache Samza" by Martin Kleppmann](https://www.youtube.com/watch?v=fU9hR3kiOK0)
+- [Design in the small - Yves Reynhout - KanDDDinsky 2017](https://www.youtube.com/watch?v=3iLW4puXHvc)
 - [Crunching 'real-life stories' with DDD & Event Storming - Kenny Baas-Schwegler - KanDDDinsky 2018](https://www.youtube.com/watch?v=WvkBKvMnyuc)
 - [Event Sourcing after launch - Michiel Overeem](https://www.youtube.com/watch?v=JzWJI8kW2kc)
 - [Diagnosing issues in ASP.NET Core Applications - David Fowler & Damian Edwards](https://www.youtube.com/watch?v=RYI0DHoIVaA)
