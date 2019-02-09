@@ -1,7 +1,6 @@
 # Videos To Watch
 
 - [So You Wanna Do Security With Microservices, eh](https://www.youtube.com/watch?v=WNYaHJ9s3zM)
-- ["Turning the database inside out with Apache Samza" by Martin Kleppmann](https://www.youtube.com/watch?v=fU9hR3kiOK0)
 - [Design in the small - Yves Reynhout - KanDDDinsky 2017](https://www.youtube.com/watch?v=3iLW4puXHvc)
 - [Crunching 'real-life stories' with DDD & Event Storming - Kenny Baas-Schwegler - KanDDDinsky 2018](https://www.youtube.com/watch?v=WvkBKvMnyuc)
 - [Event Sourcing after launch - Michiel Overeem](https://www.youtube.com/watch?v=JzWJI8kW2kc)
@@ -181,3 +180,4 @@
 - [95% of performance is about clean representative models - Martin Thompson](https://skillsmatter.com/skillscasts/5191-martin-thompson)
 - [The Root Causes of Product Failure by Marty Cagan](https://www.youtube.com/watch?v=9dccd8lihpQ)
 - [Reactive DDD - When Concurrent Waxes Fluent - Vaughn Vernon](https://www.youtube.com/watch?v=JMdS_cHFaBY)
+- ["Turning the database inside out with Apache Samza" by Martin Kleppmann](https://www.youtube.com/watch?v=fU9hR3kiOK0)
