@@ -1,13 +1,14 @@
 Currently Watching
 ==================
-Title                            |
--------------------------------- |
-Domain-Driven Design in Practice |
+Title                       |
+--------------------------- |
+Terraform - Getting Started |
 
 Courses To Watch
 ================
 Title                                                               |
 ------------------------------------------------------------------- |
+Domain-Driven Design in Practice                                    |
 Azure Function Triggers Quick Start                                 |
 Refactoring from Anemic Domain Model Towards a Rich One             |
 Scaling applications with Microservices and NServiceBus 6           |
