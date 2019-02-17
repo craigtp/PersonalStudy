@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [Data on the Inside, Data on the Outside - Ian Cooper](https://www.youtube.com/watch?v=2YJpkl2uZ18)
 - [So You Wanna Do Security With Microservices, eh](https://www.youtube.com/watch?v=WNYaHJ9s3zM)
 - [Crunching 'real-life stories' with DDD & Event Storming - Kenny Baas-Schwegler - KanDDDinsky 2018](https://www.youtube.com/watch?v=WvkBKvMnyuc)
 - [Event Sourcing after launch - Michiel Overeem](https://www.youtube.com/watch?v=JzWJI8kW2kc)
