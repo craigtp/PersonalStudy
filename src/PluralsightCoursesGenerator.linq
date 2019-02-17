@@ -10,7 +10,7 @@ void Main()
 
 	var currentlyWatching = new []
 	{
-		new { Title = "Terraform - Getting Started" }
+		new { Title = "Deep Dive - Terraform" }
 	};
 
 	var coursesToWatch = new[]
@@ -58,6 +58,7 @@ void Main()
 		new { Title = "Getting Started with Azure Event Hubs with C#", LastWatched = DateTime.Parse("5 January 2019") },
 		new { Title = "Azure Functions Fundamentals",LastWatched = DateTime.Parse("7 January 2019") },
 		new { Title = "Domain Driven Design Fundamentals", LastWatched = DateTime.Parse("3 February 2019") },
+		new { Title = "Terraform - Getting Started", LastWatched = DateTime.Parse("17 February 2019") }
 	};
 
 	var coursesMarkdown = new StringBuilder();

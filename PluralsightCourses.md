@@ -1,8 +1,8 @@
 Currently Watching
 ==================
-Title                       |
---------------------------- |
-Terraform - Getting Started |
+Title                 |
+--------------------- |
+Deep Dive - Terraform |
 
 Courses To Watch
 ================
@@ -52,3 +52,4 @@ Building Applications with React and Flux                            | 16 Decemb
 Getting Started with Azure Event Hubs with C#                        | 05 January 2019
 Azure Functions Fundamentals                                         | 07 January 2019
 Domain Driven Design Fundamentals                                    | 03 February 2019
+Terraform - Getting Started                                          | 17 February 2019
