@@ -1,7 +1,6 @@
 # Videos To Watch
 
 - [Vaughn Vernon - GOTO, Berlin 2017 • DDD Today "Modeling Uncertainty"](https://www.youtube.com/watch?v=uhZx7Pim_tc)
-- [Why your ASP.NET Core application won't scale - Damian Edwards, David Fowler](https://www.youtube.com/watch?v=-cJjnVTJ5og)
 - [Async injection - Mark Seemann](https://www.youtube.com/watch?v=-ykrmDmVAHs)
 - [Life Beyond Distributed Transactions: An Apostate's Implementation - Jimmy Bogard](https://www.youtube.com/watch?v=IMvrg0bN9-o)
 - [Insecure Transit - Microservice Security - Sam Newman](https://www.youtube.com/watch?v=HpbO8mdSEyo)
@@ -188,3 +187,4 @@
 - [Design in the small - Yves Reynhout - KanDDDinsky 2017](https://www.youtube.com/watch?v=3iLW4puXHvc)
 - [Data on the Inside, Data on the Outside - Ian Cooper](https://www.youtube.com/watch?v=2YJpkl2uZ18)
 - [Domain-Driven Design: Hidden Lessons from the Big Blue Book - Nick Tune](https://www.youtube.com/watch?v=f7NnPxhuuck)
+- [Why your ASP.NET Core application won't scale - Damian Edwards, David Fowler](https://www.youtube.com/watch?v=-cJjnVTJ5og)
