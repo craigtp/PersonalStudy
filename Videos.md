@@ -1,6 +1,5 @@
 # Videos To Watch
 
-- [Domain-Driven Design: Hidden Lessons from the Big Blue Book - Nick Tune](https://www.youtube.com/watch?v=f7NnPxhuuck)
 - [Vaughn Vernon - GOTO, Berlin 2017 • DDD Today "Modeling Uncertainty"](https://www.youtube.com/watch?v=uhZx7Pim_tc)
 - [Why your ASP.NET Core application won't scale - Damian Edwards, David Fowler](https://www.youtube.com/watch?v=-cJjnVTJ5og)
 - [Async injection - Mark Seemann](https://www.youtube.com/watch?v=-ykrmDmVAHs)
@@ -188,3 +187,4 @@
 - ["Turning the database inside out with Apache Samza" by Martin Kleppmann](https://www.youtube.com/watch?v=fU9hR3kiOK0)
 - [Design in the small - Yves Reynhout - KanDDDinsky 2017](https://www.youtube.com/watch?v=3iLW4puXHvc)
 - [Data on the Inside, Data on the Outside - Ian Cooper](https://www.youtube.com/watch?v=2YJpkl2uZ18)
+- [Domain-Driven Design: Hidden Lessons from the Big Blue Book - Nick Tune](https://www.youtube.com/watch?v=f7NnPxhuuck)
