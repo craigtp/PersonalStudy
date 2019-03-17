@@ -1,6 +1,5 @@
 # Videos To Watch
 
-- [Developing Core Business Applications with Domain-Driven Design (DDD) and Microsoft .NET](https://channel9.msdn.com/Events/TechEd/NorthAmerica/2013/DEV-B311)
 - [Udi Dahan - Commands, Queries, and Consistency](https://vimeo.com/43612850)
 - [Event Modeling](https://www.youtube.com/watch?v=sASnWxC8ApY)
 - [Vaughn Vernon - GOTO, Berlin 2017 • DDD Today "Modeling Uncertainty"](https://www.youtube.com/watch?v=uhZx7Pim_tc)
@@ -191,3 +190,4 @@
 - [Data on the Inside, Data on the Outside - Ian Cooper](https://www.youtube.com/watch?v=2YJpkl2uZ18)
 - [Domain-Driven Design: Hidden Lessons from the Big Blue Book - Nick Tune](https://www.youtube.com/watch?v=f7NnPxhuuck)
 - [Why your ASP.NET Core application won't scale - Damian Edwards, David Fowler](https://www.youtube.com/watch?v=-cJjnVTJ5og)
+- [Developing Core Business Applications with Domain-Driven Design (DDD) and Microsoft .NET](https://channel9.msdn.com/Events/TechEd/NorthAmerica/2013/DEV-B311)
