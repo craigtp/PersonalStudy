@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [Udi Dahan - Commands, Queries, and Consistency](https://vimeo.com/43612850)
 - [Event Modeling](https://www.youtube.com/watch?v=sASnWxC8ApY)
 - [Vaughn Vernon - GOTO, Berlin 2017 • DDD Today "Modeling Uncertainty"](https://www.youtube.com/watch?v=uhZx7Pim_tc)
 - [Async injection - Mark Seemann](https://www.youtube.com/watch?v=-ykrmDmVAHs)
