@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [GOTO 2016 - Treat Your Code as a Crime Scene - Adam Tornhill](https://www.youtube.com/watch?v=7FApEq8wum4)
 - [Udi Dahan - Commands, Queries, and Consistency](https://vimeo.com/43612850)
 - [Vaughn Vernon - GOTO, Berlin 2017 • DDD Today "Modeling Uncertainty"](https://www.youtube.com/watch?v=uhZx7Pim_tc)
 - [Async injection - Mark Seemann](https://www.youtube.com/watch?v=-ykrmDmVAHs)
