@@ -1,6 +1,5 @@
 # Videos To Watch
 
-- [GOTO 2016 - Treat Your Code as a Crime Scene - Adam Tornhill](https://www.youtube.com/watch?v=7FApEq8wum4)
 - [Udi Dahan - Commands, Queries, and Consistency](https://vimeo.com/43612850)
 - [Vaughn Vernon - GOTO, Berlin 2017 • DDD Today "Modeling Uncertainty"](https://www.youtube.com/watch?v=uhZx7Pim_tc)
 - [Async injection - Mark Seemann](https://www.youtube.com/watch?v=-ykrmDmVAHs)
@@ -192,3 +191,4 @@
 - [Why your ASP.NET Core application won't scale - Damian Edwards, David Fowler](https://www.youtube.com/watch?v=-cJjnVTJ5og)
 - [Developing Core Business Applications with Domain-Driven Design (DDD) and Microsoft .NET](https://channel9.msdn.com/Events/TechEd/NorthAmerica/2013/DEV-B311)
 - [Event Modeling](https://www.youtube.com/watch?v=sASnWxC8ApY)
+- [GOTO 2016 - Treat Your Code as a Crime Scene - Adam Tornhill](https://www.youtube.com/watch?v=7FApEq8wum4)
