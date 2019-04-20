@@ -10,12 +10,13 @@ void Main()
 
 	var currentlyWatching = new []
 	{
-		new { Title = "Deep Dive - Terraform" }
+		new { Title = "Domain-Driven Design in Practice" },
 	};
 
 	var coursesToWatch = new[]
 	{
-		new { Title = "Domain-Driven Design in Practice" },
+		new { Title = "CQRS In Practice" },
+		new { Title = "Deep Dive - Terraform" },
 		new { Title = "Azure Function Triggers Quick Start" },
 		new { Title = "Refactoring from Anemic Domain Model Towards a Rich One" },
 		new { Title = "Scaling applications with Microservices and NServiceBus 6" },

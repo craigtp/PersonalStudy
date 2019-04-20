@@ -1,14 +1,15 @@
 Currently Watching
 ==================
-Title                 |
---------------------- |
-Deep Dive - Terraform |
+Title                            |
+-------------------------------- |
+Domain-Driven Design in Practice |
 
 Courses To Watch
 ================
 Title                                                               |
 ------------------------------------------------------------------- |
-Domain-Driven Design in Practice                                    |
+CQRS In Practice                                                    |
+Deep Dive - Terraform                                               |
 Azure Function Triggers Quick Start                                 |
 Refactoring from Anemic Domain Model Towards a Rich One             |
 Scaling applications with Microservices and NServiceBus 6           |
