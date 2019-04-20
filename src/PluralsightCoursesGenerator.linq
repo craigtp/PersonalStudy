@@ -10,12 +10,13 @@ void Main()
 
 	var currentlyWatching = new []
 	{
-		new { Title = "Domain-Driven Design in Practice" },
+		new { Title = "CQRS Theory and Practice" },
 	};
 
 	var coursesToWatch = new[]
 	{
 		new { Title = "CQRS In Practice" },
+		new { Title = "Domain-Driven Design in Practice" },
 		new { Title = "Deep Dive - Terraform" },
 		new { Title = "Azure Function Triggers Quick Start" },
 		new { Title = "Refactoring from Anemic Domain Model Towards a Rich One" },

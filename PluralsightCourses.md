@@ -1,14 +1,15 @@
 Currently Watching
 ==================
-Title                            |
--------------------------------- |
-Domain-Driven Design in Practice |
+Title                    |
+------------------------ |
+CQRS Theory and Practice |
 
 Courses To Watch
 ================
 Title                                                               |
 ------------------------------------------------------------------- |
 CQRS In Practice                                                    |
+Domain-Driven Design in Practice                                    |
 Deep Dive - Terraform                                               |
 Azure Function Triggers Quick Start                                 |
 Refactoring from Anemic Domain Model Towards a Rich One             |
