@@ -194,3 +194,4 @@
 - [GOTO 2016 - Treat Your Code as a Crime Scene - Adam Tornhill](https://www.youtube.com/watch?v=7FApEq8wum4)
 - [Scaling Event Sourcing for Netflix Downloads](https://www.youtube.com/watch?v=rsSld8NycCU)
 - [Yves Reynhout - Trench Talk: Evolving a Model](https://www.youtube.com/watch?v=7StN-vNjRSw)
+- [Greg Young - Stop Over-Engenering](https://www.youtube.com/watch?v=GRr4xeMn1uU)
