@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [Strategic Domain-Driven Design Patterns - Nick Tune](https://skillsmatter.com/skillscasts/13628-strategic-domain-driven-design-patterns)
 - [When Microservices Meet Event Sourcing - Vinicius Gomes](https://www.youtube.com/watch?v=cISNDnwlSgw)
 - [Udi Dahan - Commands, Queries, and Consistency](https://vimeo.com/43612850)
 - [Vaughn Vernon - GOTO, Berlin 2017 • DDD Today "Modeling Uncertainty"](https://www.youtube.com/watch?v=uhZx7Pim_tc)
