@@ -1,6 +1,5 @@
 # Videos To Watch
 
-- [Strategic Domain-Driven Design Patterns - Nick Tune](https://skillsmatter.com/skillscasts/13628-strategic-domain-driven-design-patterns)
 - [When Microservices Meet Event Sourcing - Vinicius Gomes](https://www.youtube.com/watch?v=cISNDnwlSgw)
 - [Udi Dahan - Commands, Queries, and Consistency](https://vimeo.com/43612850)
 - [Vaughn Vernon - GOTO, Berlin 2017 • DDD Today "Modeling Uncertainty"](https://www.youtube.com/watch?v=uhZx7Pim_tc)
@@ -197,3 +196,4 @@
 - [Scaling Event Sourcing for Netflix Downloads](https://www.youtube.com/watch?v=rsSld8NycCU)
 - [Yves Reynhout - Trench Talk: Evolving a Model](https://www.youtube.com/watch?v=7StN-vNjRSw)
 - [Greg Young - Stop Over-Engenering](https://www.youtube.com/watch?v=GRr4xeMn1uU)
+- [Strategic Domain-Driven Design Patterns - Nick Tune](https://skillsmatter.com/skillscasts/13628-strategic-domain-driven-design-patterns)
