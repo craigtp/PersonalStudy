@@ -1,15 +1,15 @@
 Currently Reading
 =================
-Title                   |
------------------------ |
-The Imposter's Handbook |
+Title                                                              |
+------------------------------------------------------------------ |
+Domain-Driven Design: Tackling complexity in the heart of software |
+The Imposter's Handbook                                            |
 
 Books To Read
 =============
 Title                                                                                                 |
 ----------------------------------------------------------------------------------------------------- |
 The Imposter's Handbook Season 2                                                                      |
-Domain-Driven Design: Tackling complexity in the heart of software                                    |
 Implementing Domain Driven Design                                                                     |
 Patterns, Principles and Practices of Domain Driven Design                                            |
 Exploring CQRS and Event Sourcing (CQRS Journey Guide)                                                |
