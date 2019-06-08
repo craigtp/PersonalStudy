@@ -15,7 +15,6 @@
 - [Security in ASP.NET Core 2.1 - Barry Dorrans](https://www.youtube.com/watch?v=yMB-VSPKDPI)
 - [Event Sourcing with Azure Cosmos DB - Roman Provaznik](https://www.youtube.com/watch?v=E2oVmA3QKpA)
 - [ASP.NET Core 2.0 - Microsoft Virtual Academy](https://mva.microsoft.com/learning-path/asp-net-core-2-0-23)
-- [Eric Evans: What I've learned about DDD since the book](https://www.youtube.com/watch?v=lE6Hxz4yomA)
 - [The Many Meanings of Event-Driven Architecture - Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)
 - [The Future of Event-driven Microservices - Kenny Bastani](https://youtu.be/0C7J7hFv_pk)
 - [Using sagas to maintain data consistency in a microservice architecture - Chris Richardson](https://youtu.be/YPbGW3Fnmbc)
@@ -197,3 +196,4 @@
 - [Yves Reynhout - Trench Talk: Evolving a Model](https://www.youtube.com/watch?v=7StN-vNjRSw)
 - [Greg Young - Stop Over-Engenering](https://www.youtube.com/watch?v=GRr4xeMn1uU)
 - [Strategic Domain-Driven Design Patterns - Nick Tune](https://skillsmatter.com/skillscasts/13628-strategic-domain-driven-design-patterns)
+- [Eric Evans: What I've learned about DDD since the book](https://www.youtube.com/watch?v=lE6Hxz4yomA)
