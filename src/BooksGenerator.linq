@@ -10,7 +10,6 @@ void Main()
 
 	var currentlyReading = new[]
 	{
-		new { Title = "Domain-Driven Design: Tackling complexity in the heart of software"},
 		new { Title = "The Imposter's Handbook"}
 	};
 
@@ -87,7 +86,8 @@ void Main()
 		new { Title = "Architecting Modern Web Aplications With ASP.NET Core and Microsoft Azure", LastRead = DateTime.Parse("09 May 2018"), NotesTaken = false },
 		new { Title = "RabbitMQ Succinctly", LastRead = DateTime.Parse("30 August 2018"), NotesTaken = false },
 		new { Title = "Git Pocket Guide", LastRead = DateTime.Parse("25 September 2018"), NotesTaken = false },
-		new { Title = "It Doesn't Have To Be Crazy At Work", LastRead = DateTime.Parse("26 January 2019"), NotesTaken = false }
+		new { Title = "It Doesn't Have To Be Crazy At Work", LastRead = DateTime.Parse("26 January 2019"), NotesTaken = false },
+		new { Title = "Domain-Driven Design: Tackling complexity in the heart of software", LastRead = DateTime.Parse("9 June 2019"), NotesTaken = true},
 	};
 
 	var booksMarkdown = new StringBuilder();
