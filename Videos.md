@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [DDD: Strategic Patterns and Microservices by Example - Erik Ashepa](https://skillsmatter.com/skillscasts/13506-ddd-strategic-patterns-and-microservices-by-example)
 - [When Microservices Meet Event Sourcing - Vinicius Gomes](https://www.youtube.com/watch?v=cISNDnwlSgw)
 - [Udi Dahan - Commands, Queries, and Consistency](https://vimeo.com/43612850)
 - [Vaughn Vernon - GOTO, Berlin 2017 • DDD Today "Modeling Uncertainty"](https://www.youtube.com/watch?v=uhZx7Pim_tc)
@@ -197,3 +198,4 @@
 - [Greg Young - Stop Over-Engenering](https://www.youtube.com/watch?v=GRr4xeMn1uU)
 - [Strategic Domain-Driven Design Patterns - Nick Tune](https://skillsmatter.com/skillscasts/13628-strategic-domain-driven-design-patterns)
 - [Eric Evans: What I've learned about DDD since the book](https://www.youtube.com/watch?v=lE6Hxz4yomA)
+- [Beyond Design Principles and Patterns: Writing Good Object-Oriented Code - Matthias Noback](https://skillsmatter.com/skillscasts/13872-beyond-design-principles-and-patterns-writing-good-object-oriented-code)
