@@ -1,6 +1,6 @@
 # Videos To Watch
 
-- [Hands-on: Master your Domain with Domain Storytelling - Henning Schwentner](https://skillsmatter.com/skillscasts/11579-hands-on-master-your-domain-with-domain-storytelling)
+- [Strategic Design – The Joy of Multiple Models - Henning Schwentner](https://skillsmatter.com/skillscasts/13525-strategic-design-the-joy-of-multiple-models)
 - [When Microservices Meet Event Sourcing - Vinicius Gomes](https://www.youtube.com/watch?v=cISNDnwlSgw)
 - [Udi Dahan - Commands, Queries, and Consistency](https://vimeo.com/43612850)
 - [Vaughn Vernon - GOTO, Berlin 2017 • DDD Today "Modeling Uncertainty"](https://www.youtube.com/watch?v=uhZx7Pim_tc)
@@ -199,3 +199,4 @@
 - [Strategic Domain-Driven Design Patterns - Nick Tune](https://skillsmatter.com/skillscasts/13628-strategic-domain-driven-design-patterns)
 - [Eric Evans: What I've learned about DDD since the book](https://www.youtube.com/watch?v=lE6Hxz4yomA)
 - [Beyond Design Principles and Patterns: Writing Good Object-Oriented Code - Matthias Noback](https://skillsmatter.com/skillscasts/13872-beyond-design-principles-and-patterns-writing-good-object-oriented-code)
+- [Hands-on: Master your Domain with Domain Storytelling - Henning Schwentner](https://skillsmatter.com/skillscasts/11579-hands-on-master-your-domain-with-domain-storytelling)
