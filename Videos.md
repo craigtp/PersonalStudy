@@ -1,6 +1,6 @@
 # Videos To Watch
 
-- [DDD: Strategic Patterns and Microservices by Example - Erik Ashepa](https://skillsmatter.com/skillscasts/13506-ddd-strategic-patterns-and-microservices-by-example)
+- [Hands-on: Master your Domain with Domain Storytelling - Henning Schwentner](https://skillsmatter.com/skillscasts/11579-hands-on-master-your-domain-with-domain-storytelling)
 - [When Microservices Meet Event Sourcing - Vinicius Gomes](https://www.youtube.com/watch?v=cISNDnwlSgw)
 - [Udi Dahan - Commands, Queries, and Consistency](https://vimeo.com/43612850)
 - [Vaughn Vernon - GOTO, Berlin 2017 • DDD Today "Modeling Uncertainty"](https://www.youtube.com/watch?v=uhZx7Pim_tc)
