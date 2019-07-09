@@ -1,7 +1,6 @@
 # Videos To Watch
 
 - [Deliberate Architecture - Robert Smallshire](https://www.youtube.com/watch?v=E3dSXDNEx7c)
-- [Introduction to Event Sourcing - Duncan Jones, HedgeFacts](https://www.youtube.com/watch?v=WYShrMYl1ww)
 - [Udi Dahan - Commands, Queries, and Consistency](https://vimeo.com/43612850)
 - [Vaughn Vernon - GOTO, Berlin 2017 • DDD Today "Modeling Uncertainty"](https://www.youtube.com/watch?v=uhZx7Pim_tc)
 - [Async injection - Mark Seemann](https://www.youtube.com/watch?v=-ykrmDmVAHs)
@@ -204,3 +203,4 @@
 - [JOTB19 - The Bizarre Mating Ritual Of The Whipnose Seadevil by Greg Young](https://www.youtube.com/watch?v=gpam7RGPFk8)
 - [When Microservices Meet Event Sourcing - Vinicius Gomes](https://www.youtube.com/watch?v=cISNDnwlSgw)
 - [Language in Context - Eric Evans - DDD Europe 2019](https://www.youtube.com/watch?v=xyuKx5HsGK8)
+- [Introduction to Event Sourcing - Duncan Jones, HedgeFacts](https://www.youtube.com/watch?v=WYShrMYl1ww)
