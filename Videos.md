@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [#11 Event Modeling with Adam Dymitruk](https://www.youtube.com/watch?v=9EQiozD9wgQ)
 - [Deliberate Architecture - Robert Smallshire](https://www.youtube.com/watch?v=E3dSXDNEx7c)
 - [Udi Dahan - Commands, Queries, and Consistency](https://vimeo.com/43612850)
 - [Vaughn Vernon - GOTO, Berlin 2017 • DDD Today "Modeling Uncertainty"](https://www.youtube.com/watch?v=uhZx7Pim_tc)
