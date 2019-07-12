@@ -1,6 +1,5 @@
 # Videos To Watch
 
-- [#11 Event Modeling with Adam Dymitruk](https://www.youtube.com/watch?v=9EQiozD9wgQ)
 - [Deliberate Architecture - Robert Smallshire](https://www.youtube.com/watch?v=E3dSXDNEx7c)
 - [Udi Dahan - Commands, Queries, and Consistency](https://vimeo.com/43612850)
 - [Vaughn Vernon - GOTO, Berlin 2017 • DDD Today "Modeling Uncertainty"](https://www.youtube.com/watch?v=uhZx7Pim_tc)
@@ -205,3 +204,4 @@
 - [When Microservices Meet Event Sourcing - Vinicius Gomes](https://www.youtube.com/watch?v=cISNDnwlSgw)
 - [Language in Context - Eric Evans - DDD Europe 2019](https://www.youtube.com/watch?v=xyuKx5HsGK8)
 - [Introduction to Event Sourcing - Duncan Jones, HedgeFacts](https://www.youtube.com/watch?v=WYShrMYl1ww)
+- [#11 Event Modeling with Adam Dymitruk](https://www.youtube.com/watch?v=9EQiozD9wgQ)
