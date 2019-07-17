@@ -1,4 +1,6 @@
 # Articles To Read
+- [Introducing DDD to your company](https://barryosull.com/blog/introducing-ddd-to-your-company/)
+- [Event Modeling](https://eventmodeling.org/posts/what-is-event-modeling/)
 - [Lots of CQRS links by Rinat Abdullin](https://abdullin.com/tags/cqrs/)
 
 # Articles Already Read
