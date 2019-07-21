@@ -1,5 +1,12 @@
 # Videos To Watch
 
+- [18 Heuristics to Discover your Contexts Boundaries - Cyrille Martraire](https://skillsmatter.com/skillscasts/13504-18-heuristics-to-discover-your-contexts-boundaries)
+- [Event Driven Collaboration - Ina Cooper](https://skillsmatter.com/skillscasts/13718-event-driven-collaboration)
+- [Lean and Functional Domain Modelling - Marcello Duarte](https://skillsmatter.com/skillscasts/13939-lean-and-functional-domain-modelling)
+- [Temporal Modelling - Mathias Verraes](https://skillsmatter.com/skillscasts/13787-keynote-temporal-modelling)
+- [Designing Towards Event Sourcing - Tugberk Ugurlu]https://skillsmatter.com/skillscasts/13542-designing-towards-event-sourcing)
+- [What Really Matters - Jimmy Nilsson](https://skillsmatter.com/skillscasts/13455-what-really-matters)
+- [Getting to DDD: Pragmatic or Principled? - Julie Lerman](https://skillsmatter.com/skillscasts/13290-keynote-julie-lerman)
 - [Field Notes : .NET Core and Docker in Production - Damian MacLennan](https://www.youtube.com/watch?v=a5h2CxQzYaU)
 - [Look Mommy, No GC! - Dina Goldshtein](https://www.youtube.com/watch?v=G49baWvzCOI)
 - [Security in ASP.NET Core 2.1 - Barry Dorrans](https://www.youtube.com/watch?v=yMB-VSPKDPI)
