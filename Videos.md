@@ -4,7 +4,7 @@
 - [Event Driven Collaboration - Ina Cooper](https://skillsmatter.com/skillscasts/13718-event-driven-collaboration)
 - [Lean and Functional Domain Modelling - Marcello Duarte](https://skillsmatter.com/skillscasts/13939-lean-and-functional-domain-modelling)
 - [Temporal Modelling - Mathias Verraes](https://skillsmatter.com/skillscasts/13787-keynote-temporal-modelling)
-- [Designing Towards Event Sourcing - Tugberk Ugurlu]https://skillsmatter.com/skillscasts/13542-designing-towards-event-sourcing)
+- [Designing Towards Event Sourcing - Tugberk Ugurlu](https://skillsmatter.com/skillscasts/13542-designing-towards-event-sourcing)
 - [What Really Matters - Jimmy Nilsson](https://skillsmatter.com/skillscasts/13455-what-really-matters)
 - [Getting to DDD: Pragmatic or Principled? - Julie Lerman](https://skillsmatter.com/skillscasts/13290-keynote-julie-lerman)
 - [Field Notes : .NET Core and Docker in Production - Damian MacLennan](https://www.youtube.com/watch?v=a5h2CxQzYaU)
