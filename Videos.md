@@ -1,6 +1,5 @@
 # Videos To Watch
 
-- [Long Running Processes In DDD - Bernd Rücker](https://skillsmatter.com/skillscasts/9853-long-running-processes-in-ddd)
 - [18 Heuristics to Discover your Contexts Boundaries - Cyrille Martraire](https://skillsmatter.com/skillscasts/13504-18-heuristics-to-discover-your-contexts-boundaries)
 - [Event Driven Collaboration - Ina Cooper](https://skillsmatter.com/skillscasts/13718-event-driven-collaboration)
 - [Lean and Functional Domain Modelling - Marcello Duarte](https://skillsmatter.com/skillscasts/13939-lean-and-functional-domain-modelling)
@@ -213,3 +212,4 @@
 - [Introduction to Event Sourcing - Duncan Jones, HedgeFacts](https://www.youtube.com/watch?v=WYShrMYl1ww)
 - [#11 Event Modeling with Adam Dymitruk](https://www.youtube.com/watch?v=9EQiozD9wgQ)
 - [Diagnosing issues in ASP.NET Core Applications - David Fowler & Damian Edwards](https://www.youtube.com/watch?v=RYI0DHoIVaA)
+- [Long Running Processes In DDD - Bernd Rücker](https://skillsmatter.com/skillscasts/9853-long-running-processes-in-ddd)
