@@ -1,6 +1,5 @@
 # Videos To Watch
 
-- [18 Heuristics to Discover your Contexts Boundaries - Cyrille Martraire](https://skillsmatter.com/skillscasts/13504-18-heuristics-to-discover-your-contexts-boundaries)
 - [Event Driven Collaboration - Ina Cooper](https://skillsmatter.com/skillscasts/13718-event-driven-collaboration)
 - [Lean and Functional Domain Modelling - Marcello Duarte](https://skillsmatter.com/skillscasts/13939-lean-and-functional-domain-modelling)
 - [Temporal Modelling - Mathias Verraes](https://skillsmatter.com/skillscasts/13787-keynote-temporal-modelling)
@@ -214,3 +213,4 @@
 - [Diagnosing issues in ASP.NET Core Applications - David Fowler & Damian Edwards](https://www.youtube.com/watch?v=RYI0DHoIVaA)
 - [Long Running Processes In DDD - Bernd Rücker](https://skillsmatter.com/skillscasts/9853-long-running-processes-in-ddd)
 - [Event Sourcing You are doing it wrong by David Schmitz](https://www.youtube.com/watch?v=GzrZworHpIk)
+- [18 Heuristics to Discover your Contexts Boundaries - Cyrille Martraire](https://skillsmatter.com/skillscasts/13504-18-heuristics-to-discover-your-contexts-boundaries)
