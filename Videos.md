@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [Type-Driven Development - Mark Seemann](https://skillsmatter.com/skillscasts/6289-type-driven-development)
 - [Lean and Functional Domain Modelling - Marcello Duarte](https://skillsmatter.com/skillscasts/13939-lean-and-functional-domain-modelling)
 - [Temporal Modelling - Mathias Verraes](https://skillsmatter.com/skillscasts/13787-keynote-temporal-modelling)
 - [Designing Towards Event Sourcing - Tugberk Ugurlu](https://skillsmatter.com/skillscasts/13542-designing-towards-event-sourcing)
