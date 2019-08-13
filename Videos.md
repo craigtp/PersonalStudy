@@ -1,6 +1,5 @@
 # Videos To Watch
 
-- [Type-Driven Development - Mark Seemann](https://skillsmatter.com/skillscasts/6289-type-driven-development)
 - [Lean and Functional Domain Modelling - Marcello Duarte](https://skillsmatter.com/skillscasts/13939-lean-and-functional-domain-modelling)
 - [Temporal Modelling - Mathias Verraes](https://skillsmatter.com/skillscasts/13787-keynote-temporal-modelling)
 - [Designing Towards Event Sourcing - Tugberk Ugurlu](https://skillsmatter.com/skillscasts/13542-designing-towards-event-sourcing)
@@ -215,3 +214,4 @@
 - [Event Sourcing You are doing it wrong by David Schmitz](https://www.youtube.com/watch?v=GzrZworHpIk)
 - [18 Heuristics to Discover your Contexts Boundaries - Cyrille Martraire](https://skillsmatter.com/skillscasts/13504-18-heuristics-to-discover-your-contexts-boundaries)
 - [Event Driven Collaboration - Ina Cooper](https://skillsmatter.com/skillscasts/13718-event-driven-collaboration)
+- [Type-Driven Development - Mark Seemann](https://skillsmatter.com/skillscasts/6289-type-driven-development)
