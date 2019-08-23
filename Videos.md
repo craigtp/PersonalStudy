@@ -215,3 +215,4 @@
 - [Event Driven Collaboration - Ina Cooper](https://skillsmatter.com/skillscasts/13718-event-driven-collaboration)
 - [Type-Driven Development - Mark Seemann](https://skillsmatter.com/skillscasts/6289-type-driven-development)
 - [Lean and Functional Domain Modelling - Marcello Duarte](https://skillsmatter.com/skillscasts/13939-lean-and-functional-domain-modelling)
+- [Reliable Messaging Without Distributed Transactions - Udi Dahan](https://vimeo.com/111998645)
