@@ -11,7 +11,6 @@
 - [Udi Dahan - Commands, Queries, and Consistency](https://vimeo.com/43612850)
 - [Vaughn Vernon - GOTO, Berlin 2017 • DDD Today "Modeling Uncertainty"](https://www.youtube.com/watch?v=uhZx7Pim_tc)
 - [Async injection - Mark Seemann](https://www.youtube.com/watch?v=-ykrmDmVAHs)
-- [Life Beyond Distributed Transactions: An Apostate's Implementation - Jimmy Bogard](https://www.youtube.com/watch?v=IMvrg0bN9-o)
 - [Insecure Transit - Microservice Security - Sam Newman](https://www.youtube.com/watch?v=HpbO8mdSEyo)
 - [So You Wanna Do Security With Microservices, eh](https://www.youtube.com/watch?v=WNYaHJ9s3zM)
 - [Crunching 'real-life stories' with DDD & Event Storming - Kenny Baas-Schwegler - KanDDDinsky 2018](https://www.youtube.com/watch?v=WvkBKvMnyuc)
@@ -217,3 +216,4 @@
 - [Lean and Functional Domain Modelling - Marcello Duarte](https://skillsmatter.com/skillscasts/13939-lean-and-functional-domain-modelling)
 - [Reliable Messaging Without Distributed Transactions - Udi Dahan](https://vimeo.com/111998645)
 - [Bob Moesta and Chris Spiek - Uncovering the Jobs to Be Done](https://vimeo.com/81153746)
+- [Life Beyond Distributed Transactions: An Apostate's Implementation - Jimmy Bogard](https://www.youtube.com/watch?v=IMvrg0bN9-o)
