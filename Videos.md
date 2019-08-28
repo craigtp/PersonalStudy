@@ -1,6 +1,5 @@
 # Videos To Watch
 
-- [Temporal Modelling - Mathias Verraes](https://skillsmatter.com/skillscasts/13787-keynote-temporal-modelling)
 - [Designing Towards Event Sourcing - Tugberk Ugurlu](https://skillsmatter.com/skillscasts/13542-designing-towards-event-sourcing)
 - [What Really Matters - Jimmy Nilsson](https://skillsmatter.com/skillscasts/13455-what-really-matters)
 - [Field Notes : .NET Core and Docker in Production - Damian MacLennan](https://www.youtube.com/watch?v=a5h2CxQzYaU)
@@ -217,3 +216,4 @@
 - [Bob Moesta and Chris Spiek - Uncovering the Jobs to Be Done](https://vimeo.com/81153746)
 - [Life Beyond Distributed Transactions: An Apostate's Implementation - Jimmy Bogard](https://www.youtube.com/watch?v=IMvrg0bN9-o)
 - [Getting to DDD: Pragmatic or Principled? - Julie Lerman](https://skillsmatter.com/skillscasts/13290-keynote-julie-lerman)
+- [Temporal Modelling - Mathias Verraes](https://skillsmatter.com/skillscasts/13787-keynote-temporal-modelling)
