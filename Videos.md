@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [Mauro Servienti - Talk Session: All Our Aggregates Are Wrong](https://www.youtube.com/watch?v=KkzvQSuYd5I)
 - [What Really Matters - Jimmy Nilsson](https://skillsmatter.com/skillscasts/13455-what-really-matters)
 - [Field Notes : .NET Core and Docker in Production - Damian MacLennan](https://www.youtube.com/watch?v=a5h2CxQzYaU)
 - [Look Mommy, No GC! - Dina Goldshtein](https://www.youtube.com/watch?v=G49baWvzCOI)
