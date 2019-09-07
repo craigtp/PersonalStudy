@@ -1,4 +1,6 @@
 # Articles To Read
+- [Domain-driven Design Example](https://www.mirkosertic.de/blog/2013/04/domain-driven-design-example/)
+- [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
 - [Event Modeling](https://eventmodeling.org/posts/what-is-event-modeling/)
 - [Lots of CQRS links by Rinat Abdullin](https://abdullin.com/tags/cqrs/)
 - [CQRS and Event Sourcing Intro For Developers - AltKom Software](https://altkomsoftware.pl/en/blog/cqrs-event-sourcing/)
