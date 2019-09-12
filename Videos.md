@@ -1,6 +1,5 @@
 # Videos To Watch
 
-- [Field Notes : .NET Core and Docker in Production - Damian MacLennan](https://www.youtube.com/watch?v=a5h2CxQzYaU)
 - [Look Mommy, No GC! - Dina Goldshtein](https://www.youtube.com/watch?v=G49baWvzCOI)
 - [Security in ASP.NET Core 2.1 - Barry Dorrans](https://www.youtube.com/watch?v=yMB-VSPKDPI)
 - [Deliberate Architecture - Robert Smallshire](https://www.youtube.com/watch?v=E3dSXDNEx7c)
@@ -218,3 +217,4 @@
 - [Designing Towards Event Sourcing - Tugberk Ugurlu](https://skillsmatter.com/skillscasts/13542-designing-towards-event-sourcing)
 - [What Really Matters - Jimmy Nilsson](https://skillsmatter.com/skillscasts/13455-what-really-matters)
 - [Mauro Servienti - Talk Session: All Our Aggregates Are Wrong](https://www.youtube.com/watch?v=KkzvQSuYd5I)
+- [Field Notes : .NET Core and Docker in Production - Damian MacLennan](https://www.youtube.com/watch?v=a5h2CxQzYaU)
