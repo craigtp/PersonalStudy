@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [Event Sourcing in Production - Real-Time CQRS/DDD .NET Apps with EventStore](https://www.youtube.com/watch?v=t2AI9hODJ2E)
 - [Look Mommy, No GC! - Dina Goldshtein](https://www.youtube.com/watch?v=G49baWvzCOI)
 - [Security in ASP.NET Core 2.1 - Barry Dorrans](https://www.youtube.com/watch?v=yMB-VSPKDPI)
 - [Deliberate Architecture - Robert Smallshire](https://www.youtube.com/watch?v=E3dSXDNEx7c)
