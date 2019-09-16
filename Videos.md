@@ -17,7 +17,6 @@
 - [The Future of Event-driven Microservices - Kenny Bastani](https://youtu.be/0C7J7hFv_pk)
 - [Using sagas to maintain data consistency in a microservice architecture - Chris Richardson](https://youtu.be/YPbGW3Fnmbc)
 - [Applying the Saga Pattern - Caitie McCaffrey](https://youtu.be/xDuwrtwYHu8)
-- [Design Patterns: Why Event Sourcing? - Greg Young](https://www.youtube.com/watch?v=rUDN40rdly8)
 - [Kevlin Henney - Engineering Software](https://www.youtube.com/watch?v=alNS01f6w68)
 - [Ruby Conf 12 - Y Not- Adventures in Functional Programming by Jim Weirich](https://www.youtube.com/watch?v=FITJMJjASUs)
 - [50 Shades of AppSec - Troy Hunt](https://vimeo.com/153220272)
@@ -221,3 +220,4 @@
 - [Field Notes : .NET Core and Docker in Production - Damian MacLennan](https://www.youtube.com/watch?v=a5h2CxQzYaU)
 - [Event Sourcing in Production - Real-Time CQRS/DDD .NET Apps with EventStore](https://www.youtube.com/watch?v=t2AI9hODJ2E)
 - [Domain Modeling Made Functional - Scott Wlaschin](https://www.youtube.com/watch?v=Up7LcbGZFuo)
+- [Design Patterns: Why Event Sourcing? - Greg Young](https://www.youtube.com/watch?v=rUDN40rdly8)
