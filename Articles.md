@@ -1,4 +1,5 @@
 # Articles To Read
+- ["Serverless" CQRS using Azure Event Grid and Durable Functions](https://www.codeproject.com/Articles/1202406/Serverless-CQRS-using-Azure-Event-Grid-and-Durable)
 - [Domain-driven Design Example](https://www.mirkosertic.de/blog/2013/04/domain-driven-design-example/)
 - [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
 - [Event Modeling](https://eventmodeling.org/posts/what-is-event-modeling/)
