@@ -1,6 +1,5 @@
 # Videos To Watch
 
-- [F# for C# programmers - Scott Wlaschin](https://www.youtube.com/watch?v=KPa8Yw_Navk)
 - [Not Just Events: Developing Asynchronous Microservices - Chris Richardson](https://www.youtube.com/watch?v=kyNL7yCvQQc)
 - ["Transactions: myths, surprises and opportunities" by Martin Kleppmann](https://www.youtube.com/watch?v=5ZjhNTM8XU8)
 - [Look Mommy, No GC! - Dina Goldshtein](https://www.youtube.com/watch?v=G49baWvzCOI)
@@ -223,3 +222,4 @@
 - [Event Sourcing in Production - Real-Time CQRS/DDD .NET Apps with EventStore](https://www.youtube.com/watch?v=t2AI9hODJ2E)
 - [Domain Modeling Made Functional - Scott Wlaschin](https://www.youtube.com/watch?v=Up7LcbGZFuo)
 - [Design Patterns: Why Event Sourcing? - Greg Young](https://www.youtube.com/watch?v=rUDN40rdly8)
+- [F# for C# programmers - Scott Wlaschin](https://www.youtube.com/watch?v=KPa8Yw_Navk)
