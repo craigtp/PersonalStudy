@@ -34,7 +34,7 @@ void Main()
 		new { Title = "Azure Kubernetes Service AKS  The Big Picture" },
 		new { Title = "Introduction to F#" },
 		new { Title = "A Functional Architecture with F#" },
-		new { Title = "F# Functional Dataa Structures" },
+		new { Title = "F# Functional Data Structures" },
 		new { Title = "F# Jumpstart" },
 		new { Title = "Accessing Data with F# Type Providers" },
 		new { Title = "Building Distributed Systems with Akka.NET Clustering" },
