@@ -27,7 +27,7 @@ Getting Started with Kubernetes                                     |
 Azure Kubernetes Service AKS  The Big Picture                       |
 Introduction to F#                                                  |
 A Functional Architecture with F#                                   |
-F# Functional Dataa Structures                                      |
+F# Functional Data Structures                                       |
 F# Jumpstart                                                        |
 Accessing Data with F# Type Providers                               |
 Building Distributed Systems with Akka.NET Clustering               |
