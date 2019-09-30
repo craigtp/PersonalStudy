@@ -10,8 +10,6 @@ Title                                                               |
 ------------------------------------------------------------------- |
 CQRS In Practice                                                    |
 Domain-Driven Design in Practice                                    |
-Deep Dive - Terraform                                               |
-Azure Function Triggers Quick Start                                 |
 Refactoring from Anemic Domain Model Towards a Rich One             |
 Scaling applications with Microservices and NServiceBus 6           |
 Designing a Microsoft Azure Messaging Architecture                  |
@@ -21,18 +19,28 @@ Understanding the Difference Between Microsoft Azure and Amazon AWS |
 Real World Big Data in Azure                                        |
 Microsoft Azure Architecture for AWS Architects                     |
 Docker Deep Dive                                                    |
-Docker in Production Using Amazon Web Services                      |
 Docker Swarm - Native Docker Clustering                             |
 Getting Started with Docker                                         |
 Getting Started with Docker on Windows                              |
-Getting Started with Kubernetes                                     |
-Mastering React Testing with Jest                                   |
 Monitoring Containerized Application Health with Docker             |
-Play by Play - Docker for Web Developers                            |
-Implementing a Self-hosted Docker Registry                          |
+Getting Started with Kubernetes                                     |
+Azure Kubernetes Service AKS  The Big Picture                       |
+Introduction to F#                                                  |
+A Functional Architecture with F#                                   |
+F# Functional Dataa Structures                                      |
+F# Jumpstart                                                        |
+Accessing Data with F# Type Providers                               |
+Building Distributed Systems with Akka.NET Clustering               |
+Implementing Logging and Dependency Injection in Akka.NET           |
+Building Concurrent Applications with the Actor Model in Akka.NET   |
+Improving Message Throughput in Akka NET                            |
+Go Fundamentals                                                     |
+Object-Oriented Programming With Go                                 |
+Building Distributed Applications With Go                           |
+Scaling Go Applications Horizontally                                |
+Concurrent Programming with Go                                      |
+Creating Web Applications with Go                                   |
 Scaling Applications with Microservices, MassTransit, and RabbitMQ  |
-Building a Full-Stack App with React and Express                    |
-Building a Real-time App with React, Flux, Webpack, and Firebase    |
 
 Courses Already Watched
 =======================
