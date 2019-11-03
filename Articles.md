@@ -1,4 +1,11 @@
 # Articles To Read
+
+- [Event Sourcing Projections Patterns: Deduplication Strategies](https://domaincentric.net/blog/event-sourcing-projection-patterns-deduplication-strategies)
+- [Event Sourcing Projections Patterns: Consumer Scaling](https://domaincentric.net/blog/event-sourcing-projections-patterns-consumer-scaling)
+- [Event Sourcing Projections Patterns: Side Effect Handling](https://domaincentric.net/blog/event-sourcing-projection-patterns-side-effect-handling)
+- [Microservices Patterns: Protocol Ownership](https://domaincentric.net/blog/microservices-patterns-protocol-ownership)
+- [Event Sourcing Patterns: Replay Side Effect Handling](https://domaincentric.net/blog/event-sourcing-projections-patterns-replay-side-effect-handling)
+- [Modelling Bounded Contexts with the Bounded Context Design Canvas: A Workshop Recipe](https://medium.com/nick-tune-tech-strategy-blog/modelling-bounded-contexts-with-the-bounded-context-design-canvas-a-workshop-recipe-1f123e592ab)
 - ["Serverless" CQRS using Azure Event Grid and Durable Functions](https://www.codeproject.com/Articles/1202406/Serverless-CQRS-using-Azure-Event-Grid-and-Durable)
 - [Domain-driven Design Example](https://www.mirkosertic.de/blog/2013/04/domain-driven-design-example/)
 - [DDD, Hexagonal, Onion, Clean, CQRS, … How I put it all together](https://herbertograca.com/2017/11/16/explicit-architecture-01-ddd-hexagonal-onion-clean-cqrs-how-i-put-it-all-together/)
