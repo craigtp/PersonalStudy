@@ -1,6 +1,5 @@
 # Videos To Watch
 
-- [Go & Microservices - Matt Heath](https://www.youtube.com/watch?v=ISSz344kJlU)
 - [Not Just Events: Developing Asynchronous Microservices - Chris Richardson](https://www.youtube.com/watch?v=kyNL7yCvQQc)
 - ["Transactions: myths, surprises and opportunities" by Martin Kleppmann](https://www.youtube.com/watch?v=5ZjhNTM8XU8)
 - [Look Mommy, No GC! - Dina Goldshtein](https://www.youtube.com/watch?v=G49baWvzCOI)
@@ -225,3 +224,4 @@
 - [Design Patterns: Why Event Sourcing? - Greg Young](https://www.youtube.com/watch?v=rUDN40rdly8)
 - [F# for C# programmers - Scott Wlaschin](https://www.youtube.com/watch?v=KPa8Yw_Navk)
 - [Vaughn Vernon - The Language of Actors](https://www.youtube.com/watch?v=muMP9RJHC_I)
+- [Go & Microservices - Matt Heath](https://www.youtube.com/watch?v=ISSz344kJlU)
