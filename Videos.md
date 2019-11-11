@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [The Art of Discovering Bounded Contexts by Nick Tune](https://www.youtube.com/watch?v=ez9GWESKG4I)
 - [Not Just Events: Developing Asynchronous Microservices - Chris Richardson](https://www.youtube.com/watch?v=kyNL7yCvQQc)
 - ["Transactions: myths, surprises and opportunities" by Martin Kleppmann](https://www.youtube.com/watch?v=5ZjhNTM8XU8)
 - [Look Mommy, No GC! - Dina Goldshtein](https://www.youtube.com/watch?v=G49baWvzCOI)
