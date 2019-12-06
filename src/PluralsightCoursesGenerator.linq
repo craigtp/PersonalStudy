@@ -39,7 +39,6 @@ void Main()
 		new { Title = "Accessing Data with F# Type Providers" },
 		new { Title = "Building Distributed Systems with Akka.NET Clustering" },
 		new { Title = "Implementing Logging and Dependency Injection in Akka.NET" },
-		new { Title = "Building Concurrent Applications with the Actor Model in Akka.NET" },
 		new { Title = "Improving Message Throughput in Akka NET" },
 		new { Title = "Go Fundamentals" },
 		new { Title = "Object-Oriented Programming With Go" },
@@ -68,7 +67,8 @@ void Main()
 		new { Title = "Getting Started with Azure Event Hubs with C#", LastWatched = DateTime.Parse("5 January 2019") },
 		new { Title = "Azure Functions Fundamentals",LastWatched = DateTime.Parse("7 January 2019") },
 		new { Title = "Domain Driven Design Fundamentals", LastWatched = DateTime.Parse("3 February 2019") },
-		new { Title = "Terraform - Getting Started", LastWatched = DateTime.Parse("17 February 2019") }
+		new { Title = "Terraform - Getting Started", LastWatched = DateTime.Parse("17 February 2019") },
+		new { Title = "Building Concurrent Applications with the Actor Model in Akka.NET", LastWatched = DateTime.Parse("3 December 2019") },
 	};
 
 	var coursesMarkdown = new StringBuilder();

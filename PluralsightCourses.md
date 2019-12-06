@@ -32,7 +32,6 @@ F# Jumpstart                                                        |
 Accessing Data with F# Type Providers                               |
 Building Distributed Systems with Akka.NET Clustering               |
 Implementing Logging and Dependency Injection in Akka.NET           |
-Building Concurrent Applications with the Actor Model in Akka.NET   |
 Improving Message Throughput in Akka NET                            |
 Go Fundamentals                                                     |
 Object-Oriented Programming With Go                                 |
@@ -63,3 +62,4 @@ Getting Started with Azure Event Hubs with C#                        | 05 Januar
 Azure Functions Fundamentals                                         | 07 January 2019
 Domain Driven Design Fundamentals                                    | 03 February 2019
 Terraform - Getting Started                                          | 17 February 2019
+Building Concurrent Applications with the Actor Model in Akka.NET    | 03 December 2019
