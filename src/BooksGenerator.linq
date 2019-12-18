@@ -10,26 +10,32 @@ void Main()
 
 	var currentlyReading = new[]
 	{
-		new { Title = "The Imposter's Handbook"}
+		new { Title = "Domain-Driven Design - The First 15 Years" }
 	};
 
 	var booksToRead = new[]
 	{
-		new { Title = "The Imposter's Handbook Season 2" },
+		new { Title = "The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win" },
+		new { Title = "The Unicorn Project" },
+		new { Title = "CQRS - The Example" },
+		new { Title = "Versioning In An Event Sourced System" },
+		new { Title = "Hands-On Domain-Driven Design With .NET Core"},
+		new { Title = "Exploring CQRS and Event Sourcing (CQRS Journey Guide)" },
 		new { Title = "Implementing Domain Driven Design" },
 		new { Title = "Patterns, Principles and Practices of Domain Driven Design" },
-		new { Title = "Exploring CQRS and Event Sourcing (CQRS Journey Guide)" },
+		new { Title = "Hands On Domain Driven Design By Example" },
+		new { Title = "Functional Programming In C# (Manning)" },
 		new { Title = "Designing Data Intensive Applications" },
 		new { Title = "Enterprise Integration Patterns: Designing. Building. and Deploying Messaging Solutions" },
 		new { Title = "Patterns Of Enterprise Application Architecture" },
 		new { Title = "Release It!: Design and Deploy Production-Ready Software 2nd Edition" },
-		new { Title = "Pro ASP.NET Core MVC 2" },
-		new { Title = "Modern API Design with ASP.NET Core 2" },
-		new { Title = "ASP.NET Core In Action" },
-		new { Title = ".NET Core In Action" },
-		new { Title = "Entity Framework Core In Action" },
-		new { Title = "Introduction to Algorithms 3rd Edition"},
-		new { Title = "Structure And Interpretation of Computer Programs"},
+		new { Title = "Monolith To Microservices" },
+		new { Title = "Functional And Reactive Domain Modeling" },
+		new { Title = "Domain Modeling Made Functional" },
+		new { Title = "Reactive Applications With Akka.Net" },
+		new { Title = "Hands-On Software Architecture With C# 8 and .NET Core 3" },
+		new { Title = "The Imposter's Handbook"},
+		new { Title = "The Imposter's Handbook Season 2" },
 		new { Title = "Clean Code: A Handbook of Agile Software Craftsmanship" },
 		new { Title = "Refactoring: Improving the Design of Existing Code" },
 		new { Title = "Test Driven Development By Example" },
@@ -60,6 +66,8 @@ void Main()
 		new { Title = "Pattern-Oriented Software Architecture, Vol. 2, Patterns for Concurrent and Networked Objects" },
 		new { Title = "Code Complete: A Practical Handbook of Software Construction (2nd Edition)" },
 		new { Title = "The Pragmatic Programmer: From Journeyman to Master" },
+		new { Title = "Introduction to Algorithms 3rd Edition"},
+		new { Title = "Structure And Interpretation of Computer Programs"}
 	};
 	
 	var booksAlreadyRead = new[]

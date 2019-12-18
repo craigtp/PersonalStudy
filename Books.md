@@ -1,28 +1,34 @@
 Currently Reading
 =================
-Title                   |
------------------------ |
-The Imposter's Handbook |
+Title                                     |
+----------------------------------------- |
+Domain-Driven Design - The First 15 Years |
 
 Books To Read
 =============
 Title                                                                                                 |
 ----------------------------------------------------------------------------------------------------- |
-The Imposter's Handbook Season 2                                                                      |
+The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win                           |
+The Unicorn Project                                                                                   |
+CQRS - The Example                                                                                    |
+Versioning In An Event Sourced System                                                                 |
+Hands-On Domain-Driven Design With .NET Core                                                          |
+Exploring CQRS and Event Sourcing (CQRS Journey Guide)                                                |
 Implementing Domain Driven Design                                                                     |
 Patterns, Principles and Practices of Domain Driven Design                                            |
-Exploring CQRS and Event Sourcing (CQRS Journey Guide)                                                |
+Hands On Domain Driven Design By Example                                                              |
+Functional Programming In C# (Manning)                                                                |
 Designing Data Intensive Applications                                                                 |
 Enterprise Integration Patterns: Designing. Building. and Deploying Messaging Solutions               |
 Patterns Of Enterprise Application Architecture                                                       |
 Release It!: Design and Deploy Production-Ready Software 2nd Edition                                  |
-Pro ASP.NET Core MVC 2                                                                                |
-Modern API Design with ASP.NET Core 2                                                                 |
-ASP.NET Core In Action                                                                                |
-.NET Core In Action                                                                                   |
-Entity Framework Core In Action                                                                       |
-Introduction to Algorithms 3rd Edition                                                                |
-Structure And Interpretation of Computer Programs                                                     |
+Monolith To Microservices                                                                             |
+Functional And Reactive Domain Modeling                                                               |
+Domain Modeling Made Functional                                                                       |
+Reactive Applications With Akka.Net                                                                   |
+Hands-On Software Architecture With C# 8 and .NET Core 3                                              |
+The Imposter's Handbook                                                                               |
+The Imposter's Handbook Season 2                                                                      |
 Clean Code: A Handbook of Agile Software Craftsmanship                                                |
 Refactoring: Improving the Design of Existing Code                                                    |
 Test Driven Development By Example                                                                    |
@@ -53,6 +59,8 @@ Succeeding With Agile: Software Development Using Scrum                         
 Pattern-Oriented Software Architecture, Vol. 2, Patterns for Concurrent and Networked Objects         |
 Code Complete: A Practical Handbook of Software Construction (2nd Edition)                            |
 The Pragmatic Programmer: From Journeyman to Master                                                   |
+Introduction to Algorithms 3rd Edition                                                                |
+Structure And Interpretation of Computer Programs                                                     |
 
 Books Already Read
 ==================
