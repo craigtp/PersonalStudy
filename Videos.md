@@ -228,3 +228,4 @@
 - [Go & Microservices - Matt Heath](https://www.youtube.com/watch?v=ISSz344kJlU)
 - [The Art of Discovering Bounded Contexts by Nick Tune](https://www.youtube.com/watch?v=ez9GWESKG4I)
 - [From Monolith to Microservices: Scaling out Your Architecture - Oren Eini](https://www.youtube.com/watch?v=OO3poxcEG8A)
+- [Jessica Kerr - Keynote: The Origins of Opera & the Future of Programming](https://www.youtube.com/watch?v=nVRUv30coyA)
