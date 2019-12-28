@@ -10,12 +10,11 @@ void Main()
 
 	var currentlyReading = new[]
 	{
-		new { Title = "Domain-Driven Design - The First 15 Years" }
+		new { Title = "The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win" }
 	};
 
 	var booksToRead = new[]
 	{
-		new { Title = "The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win" },
 		new { Title = "The Unicorn Project" },
 		new { Title = "CQRS - The Example" },
 		new { Title = "Versioning In An Event Sourced System" },
@@ -96,6 +95,7 @@ void Main()
 		new { Title = "Git Pocket Guide", LastRead = DateTime.Parse("25 September 2018"), NotesTaken = false },
 		new { Title = "It Doesn't Have To Be Crazy At Work", LastRead = DateTime.Parse("26 January 2019"), NotesTaken = false },
 		new { Title = "Domain-Driven Design: Tackling complexity in the heart of software", LastRead = DateTime.Parse("9 June 2019"), NotesTaken = true},
+		new { Title = "Domain-Driven Design - The First 15 Years", LastRead = DateTime.Parse("28 December 2019"), NotesTaken = false }
 	};
 
 	var booksMarkdown = new StringBuilder();
