@@ -1,6 +1,5 @@
 # Videos To Watch
 
-- [Greg Young - Unshackle Your Domain](https://www.infoq.com/presentations/greg-young-unshackle-qcon08/)
 - [Event-Driven Microservices, the Sense, the Non-sense and a Way Forward - Allard Buijze](https://www.youtube.com/watch?v=jrbWIS7BH70)
 - [Not Just Events: Developing Asynchronous Microservices - Chris Richardson](https://www.youtube.com/watch?v=kyNL7yCvQQc)
 - ["Transactions: myths, surprises and opportunities" by Martin Kleppmann](https://www.youtube.com/watch?v=5ZjhNTM8XU8)
@@ -230,3 +229,4 @@
 - [The Art of Discovering Bounded Contexts by Nick Tune](https://www.youtube.com/watch?v=ez9GWESKG4I)
 - [From Monolith to Microservices: Scaling out Your Architecture - Oren Eini](https://www.youtube.com/watch?v=OO3poxcEG8A)
 - [Jessica Kerr - Keynote: The Origins of Opera & the Future of Programming](https://www.youtube.com/watch?v=nVRUv30coyA)
+- [Greg Young - Unshackle Your Domain](https://www.infoq.com/presentations/greg-young-unshackle-qcon08/)
