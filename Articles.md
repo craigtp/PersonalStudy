@@ -1,5 +1,6 @@
 # Articles To Read
 
+- [Event Sourcing - May the source be with you.](https://arkwright.github.io/event-sourcing.html)
 - [Event Sourcing Projections Patterns: Deduplication Strategies](https://domaincentric.net/blog/event-sourcing-projection-patterns-deduplication-strategies)
 - [Event Sourcing Projections Patterns: Consumer Scaling](https://domaincentric.net/blog/event-sourcing-projections-patterns-consumer-scaling)
 - [Event Sourcing Projections Patterns: Side Effect Handling](https://domaincentric.net/blog/event-sourcing-projection-patterns-side-effect-handling)
