@@ -18,6 +18,10 @@ Patterns, Principles and Practices of Domain Driven Design                      
 Hands On Domain Driven Design By Example                                                              |
 Functional Programming In C# (Manning)                                                                |
 Designing Data Intensive Applications                                                                 |
+The Design Of Everyday Things                                                                         |
+Rework                                                                                                |
+The Lean Startup                                                                                      |
+Accelerate                                                                                            |
 Enterprise Integration Patterns: Designing. Building. and Deploying Messaging Solutions               |
 Patterns Of Enterprise Application Architecture                                                       |
 Release It!: Design and Deploy Production-Ready Software 2nd Edition                                  |
