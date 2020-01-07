@@ -1,5 +1,10 @@
 # Videos To Watch
 
+- [Chris Condron - Teaching Your Team CQRS/ES 2.0](https://www.youtube.com/watch?v=SPVnbYNnK4c)
+- [Chris Condron - Event Sourcing for the Cloud Developer](https://www.youtube.com/watch?v=5FU28fauHd4)
+- [Chris Condron - 7 fundamental principles for successful event sourced systems](https://www.youtube.com/watch?v=5Zrg9LfukLQ)
+- [Chris Condron Troubleshooting, Optimizing, and Managing Message Driven and Event Sourced Systems](https://www.youtube.com/watch?v=rxrDd9fMnLY)
+- [Chris Condron - Event Sourced Transformation in Financial Systems](https://www.youtube.com/watch?v=0G1eMM12sKM)
 - [Event-Driven Microservices, the Sense, the Non-sense and a Way Forward - Allard Buijze](https://www.youtube.com/watch?v=jrbWIS7BH70)
 - [Not Just Events: Developing Asynchronous Microservices - Chris Richardson](https://www.youtube.com/watch?v=kyNL7yCvQQc)
 - ["Transactions: myths, surprises and opportunities" by Martin Kleppmann](https://www.youtube.com/watch?v=5ZjhNTM8XU8)
