@@ -6,64 +6,58 @@ The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win |
 
 Books To Read
 =============
-Title                                                                                                 |
------------------------------------------------------------------------------------------------------ |
-The Unicorn Project                                                                                   |
-CQRS - The Example                                                                                    |
-Versioning In An Event Sourced System                                                                 |
-Hands-On Domain-Driven Design With .NET Core                                                          |
-Exploring CQRS and Event Sourcing (CQRS Journey Guide)                                                |
-Implementing Domain Driven Design                                                                     |
-Patterns, Principles and Practices of Domain Driven Design                                            |
-Hands On Domain Driven Design By Example                                                              |
-Functional Programming In C# (Manning)                                                                |
-Designing Data Intensive Applications                                                                 |
-The Design Of Everyday Things                                                                         |
-Rework                                                                                                |
-The Lean Startup                                                                                      |
-Accelerate                                                                                            |
-Enterprise Integration Patterns: Designing. Building. and Deploying Messaging Solutions               |
-Patterns Of Enterprise Application Architecture                                                       |
-Release It!: Design and Deploy Production-Ready Software 2nd Edition                                  |
-Monolith To Microservices                                                                             |
-Functional And Reactive Domain Modeling                                                               |
-Domain Modeling Made Functional                                                                       |
-Reactive Applications With Akka.Net                                                                   |
-Hands-On Software Architecture With C# 8 and .NET Core 3                                              |
-The Imposter's Handbook                                                                               |
-The Imposter's Handbook Season 2                                                                      |
-Clean Code: A Handbook of Agile Software Craftsmanship                                                |
-Refactoring: Improving the Design of Existing Code                                                    |
-Test Driven Development By Example                                                                    |
-Working Effectively With Legacy Code                                                                  |
-Agile Principles, Patterns, and Practices in C#                                                       |
-Design Patterns: Elements of Reusable Object-Oriented Software                                        |
-Peopleware: Productive Projects and Teams (3rd Edition)                                               |
-The Mythical Man-Month: Essays on Software Engineering (Anniversary Edition)                          |
-Growing Object-Oriented Software Guided by Tests                                                      |
-Dependency Injection In .NET                                                                          |
-Refactoring to patterns                                                                               |
-AngularJS Succinctly                                                                                  |
-The Goal - A Process of Ongoing Improvement                                                           |
-The Clean Coder                                                                                       |
-The Passionate Programmer: Creating a Remarkable Career in Software Development                       |
-Concurrency in C#                                                                                     |
-Beautiful Code: Leading Programmers Explain How They Think                                            |
-Programming Pearls (2nd Edition)                                                                      |
-Object Oriented Software Construction                                                                 |
-The Passionate Programmer: Creating a Remarkable Career in Software Development                       |
-Introducing Event Storming                                                                            |
-Code: The Hidden Language of Computer Hardware and Software                                           |
-Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition)                |
-Practices of an Agile Developer: Working in the Real World                                            |
-Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation        |
-Debugging: The 9 Indispensable Rules for Finding Even the Most Elusive Software and Hardware Problems |
-Succeeding With Agile: Software Development Using Scrum                                               |
-Pattern-Oriented Software Architecture, Vol. 2, Patterns for Concurrent and Networked Objects         |
-Code Complete: A Practical Handbook of Software Construction (2nd Edition)                            |
-The Pragmatic Programmer: From Journeyman to Master                                                   |
-Introduction to Algorithms 3rd Edition                                                                |
-Structure And Interpretation of Computer Programs                                                     |
+Title                                                                                          |
+---------------------------------------------------------------------------------------------- |
+The Unicorn Project                                                                            |
+CQRS - The Example                                                                             |
+Versioning In An Event Sourced System                                                          |
+Hands-On Domain-Driven Design With .NET Core                                                   |
+Exploring CQRS and Event Sourcing (CQRS Journey Guide)                                         |
+Implementing Domain Driven Design                                                              |
+Patterns, Principles and Practices of Domain Driven Design                                     |
+Hands On Domain Driven Design By Example                                                       |
+Functional Programming In C# (Manning)                                                         |
+Designing Data Intensive Applications                                                          |
+The Design Of Everyday Things                                                                  |
+Rework                                                                                         |
+The Lean Startup                                                                               |
+Accelerate                                                                                     |
+The Goal - A Process of Ongoing Improvement                                                    |
+Enterprise Integration Patterns: Designing. Building. and Deploying Messaging Solutions        |
+Patterns Of Enterprise Application Architecture                                                |
+Release It!: Design and Deploy Production-Ready Software 2nd Edition                           |
+Monolith To Microservices                                                                      |
+Functional And Reactive Domain Modeling                                                        |
+Domain Modeling Made Functional                                                                |
+Reactive Applications With Akka.Net                                                            |
+Hands-On Software Architecture With C# 8 and .NET Core 3                                       |
+The Imposter's Handbook                                                                        |
+The Imposter's Handbook Season 2                                                               |
+Clean Code: A Handbook of Agile Software Craftsmanship                                         |
+Refactoring: Improving the Design of Existing Code                                             |
+Test Driven Development By Example                                                             |
+Working Effectively With Legacy Code                                                           |
+Agile Principles, Patterns, and Practices in C#                                                |
+Design Patterns: Elements of Reusable Object-Oriented Software                                 |
+Peopleware: Productive Projects and Teams (3rd Edition)                                        |
+The Mythical Man-Month: Essays on Software Engineering (Anniversary Edition)                   |
+Growing Object-Oriented Software Guided by Tests                                               |
+Dependency Injection In .NET                                                                   |
+Refactoring to patterns                                                                        |
+The Clean Coder                                                                                |
+The Passionate Programmer: Creating a Remarkable Career in Software Development                |
+Concurrency in C#                                                                              |
+Beautiful Code: Leading Programmers Explain How They Think                                     |
+Programming Pearls (2nd Edition)                                                               |
+Object Oriented Software Construction                                                          |
+Introducing Event Storming                                                                     |
+Code: The Hidden Language of Computer Hardware and Software                                    |
+Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition)         |
+Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation |
+Code Complete: A Practical Handbook of Software Construction (2nd Edition)                     |
+The Pragmatic Programmer: From Journeyman to Master 2nd Edition                                |
+Introduction to Algorithms 3rd Edition                                                         |
+Structure And Interpretation of Computer Programs                                              |
 
 Books Already Read
 ==================
