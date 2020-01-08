@@ -26,6 +26,7 @@ The Goal - A Process of Ongoing Improvement                                     
 Enterprise Integration Patterns: Designing. Building. and Deploying Messaging Solutions        |
 Patterns Of Enterprise Application Architecture                                                |
 Release It!: Design and Deploy Production-Ready Software 2nd Edition                           |
+Building Microservices                                                                         |
 Monolith To Microservices                                                                      |
 Functional And Reactive Domain Modeling                                                        |
 Domain Modeling Made Functional                                                                |

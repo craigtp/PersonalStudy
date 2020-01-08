@@ -33,6 +33,7 @@ void Main()
 		new { Title = "Enterprise Integration Patterns: Designing. Building. and Deploying Messaging Solutions" },
 		new { Title = "Patterns Of Enterprise Application Architecture" },
 		new { Title = "Release It!: Design and Deploy Production-Ready Software 2nd Edition" },
+		new { Title = "Building Microservices" },
 		new { Title = "Monolith To Microservices" },
 		new { Title = "Functional And Reactive Domain Modeling" },
 		new { Title = "Domain Modeling Made Functional" },
