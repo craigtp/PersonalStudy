@@ -1,14 +1,13 @@
 Currently Reading
 =================
-Title                                                                       |
---------------------------------------------------------------------------- |
-The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win |
+Title               |
+------------------- |
+The Unicorn Project |
 
 Books To Read
 =============
 Title                                                                                          |
 ---------------------------------------------------------------------------------------------- |
-The Unicorn Project                                                                            |
 CQRS - The Example                                                                             |
 Versioning In An Event Sourced System                                                          |
 Hands-On Domain-Driven Design With .NET Core                                                   |
@@ -89,3 +88,4 @@ Git Pocket Guide                                                            | 25
 It Doesn't Have To Be Crazy At Work                                         | 26 January 2019   | No
 Domain-Driven Design: Tackling complexity in the heart of software          | 09 June 2019      | Yes
 Domain-Driven Design - The First 15 Years                                   | 28 December 2019  | No
+The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win | 08 January 2020   | No
