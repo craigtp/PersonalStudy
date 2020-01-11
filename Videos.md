@@ -1,6 +1,5 @@
 # Videos To Watch
 
-- [Real Software Engineering by Glenn Vanderburg](https://www.youtube.com/watch?v=NP9AIUT9nos)
 - [Chris Condron - 7 fundamental principles for successful event sourced systems](https://www.youtube.com/watch?v=5Zrg9LfukLQ)
 - [Chris Condron Troubleshooting, Optimizing, and Managing Message Driven and Event Sourced Systems](https://www.youtube.com/watch?v=rxrDd9fMnLY)
 - [Chris Condron - Event Sourced Transformation in Financial Systems](https://www.youtube.com/watch?v=0G1eMM12sKM)
@@ -236,3 +235,4 @@
 - [Greg Young - Unshackle Your Domain](https://www.infoq.com/presentations/greg-young-unshackle-qcon08/)
 - [Chris Condron - Teaching Your Team CQRS/ES 2.0](https://www.youtube.com/watch?v=SPVnbYNnK4c)
 - [Chris Condron - Event Sourcing for the Cloud Developer](https://www.youtube.com/watch?v=5FU28fauHd4)
+- [Real Software Engineering by Glenn Vanderburg](https://www.youtube.com/watch?v=NP9AIUT9nos)
