@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [Simple Made Easy - Rich Hickey](https://www.youtube.com/watch?v=oytL881p-nQ)
 - [Chris Condron - 7 fundamental principles for successful event sourced systems](https://www.youtube.com/watch?v=5Zrg9LfukLQ)
 - [Chris Condron Troubleshooting, Optimizing, and Managing Message Driven and Event Sourced Systems](https://www.youtube.com/watch?v=rxrDd9fMnLY)
 - [Chris Condron - Event Sourced Transformation in Financial Systems](https://www.youtube.com/watch?v=0G1eMM12sKM)
