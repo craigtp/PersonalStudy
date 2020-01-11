@@ -236,3 +236,4 @@
 - [Chris Condron - Teaching Your Team CQRS/ES 2.0](https://www.youtube.com/watch?v=SPVnbYNnK4c)
 - [Chris Condron - Event Sourcing for the Cloud Developer](https://www.youtube.com/watch?v=5FU28fauHd4)
 - [Real Software Engineering by Glenn Vanderburg](https://www.youtube.com/watch?v=NP9AIUT9nos)
+- [The Vaue of Values - Rich Hickey](https://www.youtube.com/watch?v=-6BsiVyC1kM)
