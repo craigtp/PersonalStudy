@@ -1,6 +1,5 @@
 # Videos To Watch
 
-- [Simple Made Easy - Rich Hickey](https://www.youtube.com/watch?v=oytL881p-nQ)
 - [Chris Condron - 7 fundamental principles for successful event sourced systems](https://www.youtube.com/watch?v=5Zrg9LfukLQ)
 - [Chris Condron Troubleshooting, Optimizing, and Managing Message Driven and Event Sourced Systems](https://www.youtube.com/watch?v=rxrDd9fMnLY)
 - [Chris Condron - Event Sourced Transformation in Financial Systems](https://www.youtube.com/watch?v=0G1eMM12sKM)
@@ -238,3 +237,4 @@
 - [Chris Condron - Event Sourcing for the Cloud Developer](https://www.youtube.com/watch?v=5FU28fauHd4)
 - [Real Software Engineering by Glenn Vanderburg](https://www.youtube.com/watch?v=NP9AIUT9nos)
 - [The Vaue of Values - Rich Hickey](https://www.youtube.com/watch?v=-6BsiVyC1kM)
+- [Simple Made Easy - Rich Hickey](https://www.youtube.com/watch?v=oytL881p-nQ)
