@@ -1,5 +1,7 @@
 # Videos To Watch
 
+- [Rob Ashton - Purescript on the BEAM; Typed OTP for greatness | Code Mesh LDN 19](https://www.youtube.com/watch?v=Lkh8nNwAEHA)
+- [Martin Kleppmann - Correctness proofs of distributed systems with Isabelle | Code Mesh LDN 19](https://www.youtube.com/watch?v=NfdP6wwjsGk)
 - [DDD Greece - Workshop: Practical Event-Sourcing with C# and EventStore with Alexey Zimareff](https://www.youtube.com/watch?v=0RGuoRRHWf8)
 - [Chris Condron - 7 fundamental principles for successful event sourced systems](https://www.youtube.com/watch?v=5Zrg9LfukLQ)
 - [Chris Condron Troubleshooting, Optimizing, and Managing Message Driven and Event Sourced Systems](https://www.youtube.com/watch?v=rxrDd9fMnLY)
