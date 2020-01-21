@@ -1,6 +1,5 @@
 # Videos To Watch
 
-- [Greg Young - want don't You consistency no stinking | Code Mesh LDN 19](https://www.youtube.com/watch?v=m1FhLPmiK9A)
 - [DDD Greece - Workshop: Practical Event-Sourcing with C# and EventStore with Alexey Zimareff](https://www.youtube.com/watch?v=0RGuoRRHWf8)
 - [Chris Condron - 7 fundamental principles for successful event sourced systems](https://www.youtube.com/watch?v=5Zrg9LfukLQ)
 - [Chris Condron Troubleshooting, Optimizing, and Managing Message Driven and Event Sourced Systems](https://www.youtube.com/watch?v=rxrDd9fMnLY)
@@ -240,3 +239,4 @@
 - [Real Software Engineering by Glenn Vanderburg](https://www.youtube.com/watch?v=NP9AIUT9nos)
 - [The Vaue of Values - Rich Hickey](https://www.youtube.com/watch?v=-6BsiVyC1kM)
 - [Simple Made Easy - Rich Hickey](https://www.youtube.com/watch?v=oytL881p-nQ)
+- [Greg Young - want don't You consistency no stinking | Code Mesh LDN 19](https://www.youtube.com/watch?v=m1FhLPmiK9A)
