@@ -1,14 +1,13 @@
 Currently Reading
 =================
-Title               |
-------------------- |
-The Unicorn Project |
+Title              |
+------------------ |
+CQRS - The Example |
 
 Books To Read
 =============
 Title                                                                                          |
 ---------------------------------------------------------------------------------------------- |
-CQRS - The Example                                                                             |
 Versioning In An Event Sourced System                                                          |
 Hands-On Domain-Driven Design With .NET Core                                                   |
 Exploring CQRS and Event Sourcing (CQRS Journey Guide)                                         |
@@ -61,31 +60,32 @@ Structure And Interpretation of Computer Programs                               
 
 Books Already Read
 ==================
-Title                                                                       | Last Read         | Notes Taken
---------------------------------------------------------------------------- | ----------------- | -----------
-Professional Test-Driven Development with C#                                | 16 December 2014  | No
-Kanban in Action                                                            | 10 March 2015     | No
-ServiceStack Succintly                                                      | 10 July 2015      | No
-ASP.NET Web API 2 - Building a REST service from start to finish            | 01 September 2015 | No
-The Pragmatic Programmer                                                    | 30 November 2015  | No
-Async In C#                                                                 | 10 January 2016   | No
-Software Estimation - Demystifying the black art                            | 20 February 2016  | Yes
-Rebels At Work                                                              | 27 March 2016     | Yes
-How Google Works                                                            | 27 June 2016      | No
-The Nature Of Software Development                                          | 17 July 2016      | Yes
-The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win | 20 August 2016    | No
-KnockoutJS Succinctly                                                       | 26 August 2016    | No
-Domain Driven Design Quickly                                                | 15 February 2017  | No
-Remote: Office Not Required                                                 | 13 July 2017      | No
-Domain-Driven Design Distilled                                              | 19 November 2017  | Yes
-Agile Software Development Succinctly                                       | 03 December 2017  | No
-Broken Agile                                                                | 06 December 2017  | No
-The Imposter's Handbook                                                     | 27 January 2018   | No
-Software Requirements (3rd Edition)                                         | 06 April 2018     | Yes
-Architecting Modern Web Aplications With ASP.NET Core and Microsoft Azure   | 09 May 2018       | No
-RabbitMQ Succinctly                                                         | 30 August 2018    | No
-Git Pocket Guide                                                            | 25 September 2018 | No
-It Doesn't Have To Be Crazy At Work                                         | 26 January 2019   | No
-Domain-Driven Design: Tackling complexity in the heart of software          | 09 June 2019      | Yes
-Domain-Driven Design - The First 15 Years                                   | 28 December 2019  | No
-The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win | 08 January 2020   | No
+Title                                                                                              | Last Read         | Notes Taken
+-------------------------------------------------------------------------------------------------- | ----------------- | -----------
+Professional Test-Driven Development with C#                                                       | 16 December 2014  | No
+Kanban in Action                                                                                   | 10 March 2015     | No
+ServiceStack Succintly                                                                             | 10 July 2015      | No
+ASP.NET Web API 2 - Building a REST service from start to finish                                   | 01 September 2015 | No
+The Pragmatic Programmer                                                                           | 30 November 2015  | No
+Async In C#                                                                                        | 10 January 2016   | No
+Software Estimation - Demystifying the black art                                                   | 20 February 2016  | Yes
+Rebels At Work                                                                                     | 27 March 2016     | Yes
+How Google Works                                                                                   | 27 June 2016      | No
+The Nature Of Software Development                                                                 | 17 July 2016      | Yes
+The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win                        | 20 August 2016    | No
+KnockoutJS Succinctly                                                                              | 26 August 2016    | No
+Domain Driven Design Quickly                                                                       | 15 February 2017  | No
+Remote: Office Not Required                                                                        | 13 July 2017      | No
+Domain-Driven Design Distilled                                                                     | 19 November 2017  | Yes
+Agile Software Development Succinctly                                                              | 03 December 2017  | No
+Broken Agile                                                                                       | 06 December 2017  | No
+The Imposter's Handbook                                                                            | 27 January 2018   | No
+Software Requirements (3rd Edition)                                                                | 06 April 2018     | Yes
+Architecting Modern Web Aplications With ASP.NET Core and Microsoft Azure                          | 09 May 2018       | No
+RabbitMQ Succinctly                                                                                | 30 August 2018    | No
+Git Pocket Guide                                                                                   | 25 September 2018 | No
+It Doesn't Have To Be Crazy At Work                                                                | 26 January 2019   | No
+Domain-Driven Design: Tackling complexity in the heart of software                                 | 09 June 2019      | Yes
+Domain-Driven Design - The First 15 Years                                                          | 28 December 2019  | No
+The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win                        | 08 January 2020   | No
+The Unicorn Project: A Novel About Developers, Digital Disruption, and Thriving in the Age of Data | 21 January 2020   | No
