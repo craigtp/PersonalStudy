@@ -1,6 +1,5 @@
 # Videos To Watch
 
-- [Virtual Domain-Driven Design - Trying out online EventStorming](https://www.youtube.com/watch?v=CbPEibNUe0s)
 - [Martin Kleppmann - Correctness proofs of distributed systems with Isabelle | Code Mesh LDN 19](https://www.youtube.com/watch?v=NfdP6wwjsGk)
 - [DDD Greece - Workshop: Practical Event-Sourcing with C# and EventStore with Alexey Zimareff](https://www.youtube.com/watch?v=0RGuoRRHWf8)
 - [Chris Condron - 7 fundamental principles for successful event sourced systems](https://www.youtube.com/watch?v=5Zrg9LfukLQ)
@@ -243,3 +242,4 @@
 - [Simple Made Easy - Rich Hickey](https://www.youtube.com/watch?v=oytL881p-nQ)
 - [Greg Young - want don't You consistency no stinking | Code Mesh LDN 19](https://www.youtube.com/watch?v=m1FhLPmiK9A)
 - [Rob Ashton - Purescript on the BEAM; Typed OTP for greatness | Code Mesh LDN 19](https://www.youtube.com/watch?v=Lkh8nNwAEHA)
+- [Virtual Domain-Driven Design - Trying out online EventStorming](https://www.youtube.com/watch?v=CbPEibNUe0s)
