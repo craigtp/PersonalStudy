@@ -21,3 +21,4 @@
 - [Introducing DDD to your company](https://barryosull.com/blog/introducing-ddd-to-your-company/)
 - [Sagas - Clemens Vasters](https://vasters.com/archive/Sagas.html)
 - [Event Modeling](https://eventmodeling.org/posts/what-is-event-modeling/)
+- [KPIs, Velocity, and Other Destructive Metrics](https://holub.com/kpis-velocity-and-other-destructive-metrics/)
