@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [Domain Architecture Isomorphism and the Inverse Conway Maneuver - Dylan Beattie](https://vimeo.com/189191029)
 - [GOTO 2016 - Conflict Resolution for Eventual Consistency - Martin Kleppmann](https://www.youtube.com/watch?v=yCcWpzY8dIA)
 - [Martin Kleppmann - Correctness proofs of distributed systems with Isabelle | Code Mesh LDN 19](https://www.youtube.com/watch?v=NfdP6wwjsGk)
 - [DDD Greece - Workshop: Practical Event-Sourcing with C# and EventStore with Alexey Zimareff](https://www.youtube.com/watch?v=0RGuoRRHWf8)
