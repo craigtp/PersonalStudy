@@ -1,13 +1,14 @@
 Currently Reading
 =================
-Title              |
------------------- |
-CQRS - The Example |
+Title                                       |
+------------------------------------------- |
+The Goal - A Process of Ongoing Improvement |
 
 Books To Read
 =============
 Title                                                                                          |
 ---------------------------------------------------------------------------------------------- |
+CQRS - The Example                                                                             |
 Versioning In An Event Sourced System                                                          |
 Hands-On Domain-Driven Design With .NET Core                                                   |
 Exploring CQRS and Event Sourcing (CQRS Journey Guide)                                         |
@@ -20,7 +21,6 @@ The Design Of Everyday Things                                                   
 Rework                                                                                         |
 The Lean Startup                                                                               |
 Accelerate                                                                                     |
-The Goal - A Process of Ongoing Improvement                                                    |
 Enterprise Integration Patterns: Designing. Building. and Deploying Messaging Solutions        |
 Patterns Of Enterprise Application Architecture                                                |
 Release It!: Design and Deploy Production-Ready Software 2nd Edition                           |

@@ -10,11 +10,12 @@ void Main()
 
 	var currentlyReading = new[]
 	{
-		new { Title = "CQRS - The Example" }
+		new { Title = "The Goal - A Process of Ongoing Improvement" }
 	};
 
 	var booksToRead = new[]
 	{
+		new { Title = "CQRS - The Example" },
 		new { Title = "Versioning In An Event Sourced System" },
 		new { Title = "Hands-On Domain-Driven Design With .NET Core"},
 		new { Title = "Exploring CQRS and Event Sourcing (CQRS Journey Guide)" },
@@ -27,7 +28,6 @@ void Main()
 		new { Title = "Rework" },
 		new { Title = "The Lean Startup" },
 		new { Title = "Accelerate" },
-		new { Title = "The Goal - A Process of Ongoing Improvement" },
 		new { Title = "Enterprise Integration Patterns: Designing. Building. and Deploying Messaging Solutions" },
 		new { Title = "Patterns Of Enterprise Application Architecture" },
 		new { Title = "Release It!: Design and Deploy Production-Ready Software 2nd Edition" },
