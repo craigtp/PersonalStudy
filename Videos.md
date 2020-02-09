@@ -1,6 +1,5 @@
 # Videos To Watch
 
-- [Bounded Contexts - Cyrille Martraire - DDD Europe 2019](https://www.youtube.com/watch?v=ZEJ2Vyk1HA0)
 - [GOTO 2016 - Conflict Resolution for Eventual Consistency - Martin Kleppmann](https://www.youtube.com/watch?v=yCcWpzY8dIA)
 - [Martin Kleppmann - Correctness proofs of distributed systems with Isabelle | Code Mesh LDN 19](https://www.youtube.com/watch?v=NfdP6wwjsGk)
 - [DDD Greece - Workshop: Practical Event-Sourcing with C# and EventStore with Alexey Zimareff](https://www.youtube.com/watch?v=0RGuoRRHWf8)
@@ -246,3 +245,4 @@
 - [Rob Ashton - Purescript on the BEAM; Typed OTP for greatness | Code Mesh LDN 19](https://www.youtube.com/watch?v=Lkh8nNwAEHA)
 - [Virtual Domain-Driven Design - Trying out online EventStorming](https://www.youtube.com/watch?v=CbPEibNUe0s)
 - [Domain Architecture Isomorphism and the Inverse Conway Maneuver - Dylan Beattie](https://vimeo.com/189191029)
+- [Bounded Contexts - Cyrille Martraire - DDD Europe 2019](https://www.youtube.com/watch?v=ZEJ2Vyk1HA0)
