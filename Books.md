@@ -10,6 +10,7 @@ Title                                                                           
 ---------------------------------------------------------------------------------------------- |
 CQRS - The Example                                                                             |
 Versioning In An Event Sourced System                                                          |
+The Art Of Readable Code                                                                       |
 Hands-On Domain-Driven Design With .NET Core                                                   |
 Exploring CQRS and Event Sourcing (CQRS Journey Guide)                                         |
 Implementing Domain Driven Design                                                              |

@@ -17,6 +17,7 @@ void Main()
 	{
 		new { Title = "CQRS - The Example" },
 		new { Title = "Versioning In An Event Sourced System" },
+		new { Title = "The Art Of Readable Code" },
 		new { Title = "Hands-On Domain-Driven Design With .NET Core"},
 		new { Title = "Exploring CQRS and Event Sourcing (CQRS Journey Guide)" },
 		new { Title = "Implementing Domain Driven Design" },
