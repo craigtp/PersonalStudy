@@ -1,14 +1,13 @@
 Currently Reading
 =================
-Title                                       |
-------------------------------------------- |
-The Goal - A Process of Ongoing Improvement |
+Title              |
+------------------ |
+CQRS - The Example |
 
 Books To Read
 =============
 Title                                                                                          |
 ---------------------------------------------------------------------------------------------- |
-CQRS - The Example                                                                             |
 Versioning In An Event Sourced System                                                          |
 The Art Of Readable Code                                                                       |
 Hands-On Domain-Driven Design With .NET Core                                                   |
@@ -90,3 +89,4 @@ Domain-Driven Design: Tackling complexity in the heart of software              
 Domain-Driven Design - The First 15 Years                                                          | 28 December 2019  | No
 The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win                        | 08 January 2020   | No
 The Unicorn Project: A Novel About Developers, Digital Disruption, and Thriving in the Age of Data | 21 January 2020   | No
+The Goal - A Process of Ongoing Improvement                                                        | 24 February 2020  | Yes
