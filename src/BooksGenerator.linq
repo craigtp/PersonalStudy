@@ -10,12 +10,11 @@ void Main()
 
 	var currentlyReading = new[]
 	{
-		new { Title = "CQRS - The Example" }
+		new { Title = "Versioning In An Event Sourced System" }
 	};
 
 	var booksToRead = new[]
 	{
-		new { Title = "Versioning In An Event Sourced System" },
 		new { Title = "The Art Of Readable Code" },
 		new { Title = "Hands-On Domain-Driven Design With .NET Core"},
 		new { Title = "Exploring CQRS and Event Sourcing (CQRS Journey Guide)" },
@@ -95,7 +94,8 @@ void Main()
 		new { Title = "Domain-Driven Design - The First 15 Years", LastRead = DateTime.Parse("28 December 2019"), NotesTaken = false },
 		new { Title = "The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win", LastRead = DateTime.Parse("08 January 2020"), NotesTaken = false },
 		new { Title = "The Unicorn Project: A Novel About Developers, Digital Disruption, and Thriving in the Age of Data", LastRead = DateTime.Parse("21 January 2020"), NotesTaken = false },
-		new { Title = "The Goal - A Process of Ongoing Improvement", LastRead = DateTime.Parse("24 February 2020"), NotesTaken = true }
+		new { Title = "The Goal - A Process of Ongoing Improvement", LastRead = DateTime.Parse("24 February 2020"), NotesTaken = true },
+		new { Title = "CQRS - The Example", LastRead = DateTime.Parse("01 March 2020"), NotesTaken = false}
 	};
 
 	var booksMarkdown = new StringBuilder();
