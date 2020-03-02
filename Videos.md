@@ -1,6 +1,5 @@
 # Videos To Watch
 
-- [GOTO 2018 - Modular Monoliths - Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE)
 - [GOTO 2016 - Conflict Resolution for Eventual Consistency - Martin Kleppmann](https://www.youtube.com/watch?v=yCcWpzY8dIA)
 - [Martin Kleppmann - Correctness proofs of distributed systems with Isabelle | Code Mesh LDN 19](https://www.youtube.com/watch?v=NfdP6wwjsGk)
 - [DDD Greece - Workshop: Practical Event-Sourcing with C# and EventStore with Alexey Zimareff](https://www.youtube.com/watch?v=0RGuoRRHWf8)
@@ -248,3 +247,4 @@
 - [Domain Architecture Isomorphism and the Inverse Conway Maneuver - Dylan Beattie](https://vimeo.com/189191029)
 - [Bounded Contexts - Cyrille Martraire - DDD Europe 2019](https://www.youtube.com/watch?v=ZEJ2Vyk1HA0)
 - [Majestic Modular Monoliths by Axel Fontaine](https://www.youtube.com/watch?v=BOvxJaklcr0)
+- [GOTO 2018 - Modular Monoliths - Simon Brown](https://www.youtube.com/watch?v=5OjqD-ow8GE)
