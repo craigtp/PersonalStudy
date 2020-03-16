@@ -1,5 +1,6 @@
 # Articles To Read
 
+- [Eventual Consistency Today: Limitations, Extensions, and Beyond](https://queue.acm.org/detail.cfm?id=2462076)
 - [Accountants Don't Use Erasers - Pat Helland](https://docs.microsoft.com/en-gb/archive/blogs/pathelland/accountants-dont-use-erasers)
 - [Modular Monolith: A Primer](http://www.kamilgrzybek.com/design/modular-monolith-primer/)
 - [Event Sourcing - May the source be with you.](https://arkwright.github.io/event-sourcing.html)
