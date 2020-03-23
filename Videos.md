@@ -1,6 +1,5 @@
 # Videos To Watch
 
-- [Visualising software architecture with the C4 model - Simon Brown, Agile on the Beach 2019](https://www.youtube.com/watch?v=x2-rSnhpw0g)
 - [GOTO 2016 - Conflict Resolution for Eventual Consistency - Martin Kleppmann](https://www.youtube.com/watch?v=yCcWpzY8dIA)
 - [Martin Kleppmann - Correctness proofs of distributed systems with Isabelle | Code Mesh LDN 19](https://www.youtube.com/watch?v=NfdP6wwjsGk)
 - [DDD Greece - Workshop: Practical Event-Sourcing with C# and EventStore with Alexey Zimareff](https://www.youtube.com/watch?v=0RGuoRRHWf8)
@@ -252,3 +251,4 @@
 - [Change your habits: Modern techniques for modern C# - Bill Wagner](https://www.youtube.com/watch?v=aUbXGs7YTGo)
 - [YOW! 2019 - Arty Starr - The Ultimate Metric](https://www.youtube.com/watch?v=fty6-Jpx-3I)
 - [Roy Hosts Adam Dymitruk on Event Sourcing, Event Modeling and Event Storming )](https://www.youtube.com/watch?v=OYtEwBunk2A)
+- [Visualising software architecture with the C4 model - Simon Brown, Agile on the Beach 2019](https://www.youtube.com/watch?v=x2-rSnhpw0g)
