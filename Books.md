@@ -1,14 +1,13 @@
 Currently Reading
 =================
-Title                                 |
-------------------------------------- |
-Versioning In An Event Sourced System |
+Title                    |
+------------------------ |
+The Art Of Readable Code |
 
 Books To Read
 =============
 Title                                                                                          |
 ---------------------------------------------------------------------------------------------- |
-The Art Of Readable Code                                                                       |
 Hands-On Domain-Driven Design With .NET Core                                                   |
 Exploring CQRS and Event Sourcing (CQRS Journey Guide)                                         |
 Implementing Domain Driven Design                                                              |
@@ -90,3 +89,4 @@ The Phoenix Project: A Novel about IT, DevOps and Helping Your Business Win     
 The Unicorn Project: A Novel About Developers, Digital Disruption, and Thriving in the Age of Data | 21 January 2020   | No
 The Goal - A Process of Ongoing Improvement                                                        | 24 February 2020  | Yes
 CQRS - The Example                                                                                 | 01 March 2020     | No
+Versioning In An Event Sourced System                                                              | 28 March 2020     | No
