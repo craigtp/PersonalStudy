@@ -1,5 +1,8 @@
 # Articles To Read
 
+- [Designing an event-driven business process at scale: A health management example, Part 1](https://developers.redhat.com/blog/2020/02/19/designing-an-event-driven-business-process-at-scale-a-health-management-example-part-1/)
+- [Designing an event-driven process at scale: Part 2](https://developers.redhat.com/blog/2020/02/20/designing-an-event-driven-process-at-scale-part-2/)
+- [Designing an event-driven process at scale: Part 3](https://developers.redhat.com/blog/2020/02/21/designing-an-event-driven-process-at-scale-part-3/)
 - [Istio by example](https://istiobyexample.dev/)
 - [The Service Mesh: What Every Software Engineer Needs to Know about the World's Most Over-Hyped Technology](https://servicemesh.io/)
 - [Accountants Don't Use Erasers - Pat Helland](https://docs.microsoft.com/en-gb/archive/blogs/pathelland/accountants-dont-use-erasers)
