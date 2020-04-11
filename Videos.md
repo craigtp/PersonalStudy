@@ -252,3 +252,4 @@
 - [Roy Hosts Adam Dymitruk on Event Sourcing, Event Modeling and Event Storming )](https://www.youtube.com/watch?v=OYtEwBunk2A)
 - [Visualising software architecture with the C4 model - Simon Brown, Agile on the Beach 2019](https://www.youtube.com/watch?v=x2-rSnhpw0g)
 - [GOTO 2016 - Conflict Resolution for Eventual Consistency - Martin Kleppmann](https://www.youtube.com/watch?v=yCcWpzY8dIA)
+- [dotGo 2017 - John Cinnamond - Go Lift](https://www.youtube.com/watch?v=1B71SL6Y0kA)
