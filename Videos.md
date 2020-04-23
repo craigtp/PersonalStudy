@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [Modeling in a Non-Relational World with Oren Eini](https://www.youtube.com/watch?v=CuxdWzllbO4)
 - [Software Architecture Decomposition](https://www.youtube.com/watch?v=VIC7QW62-Tw)
 - [Martin Kleppmann - Correctness proofs of distributed systems with Isabelle | Code Mesh LDN 19](https://www.youtube.com/watch?v=NfdP6wwjsGk)
 - [DDD Greece - Workshop: Practical Event-Sourcing with C# and EventStore with Alexey Zimareff](https://www.youtube.com/watch?v=0RGuoRRHWf8)
