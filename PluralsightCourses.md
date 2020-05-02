@@ -1,13 +1,17 @@
 Currently Watching
 ==================
-Title                                      |
------------------------------------------- |
-Gin: A Website Application Framework In Go |
+Title                               |
+----------------------------------- |
+Object-oriented Programming with Go |
 
 Courses To Watch
 ================
 Title                                                               |
 ------------------------------------------------------------------- |
+GORM - An Object Relational Mapper for Go                           |
+Creating Web Applications with Go                                   |
+Building Better Go Web Apps with the Gorilla Toolkit                |
+Building Distributed Applications with Go                           |
 CQRS Theory and Practice                                            |
 CQRS In Practice                                                    |
 Domain-Driven Design in Practice                                    |
@@ -75,3 +79,4 @@ Concurrent Programming With Go                                       | 27 April 
 Creating Well-Tested Application In Go                               | 28 April 2020
 Exploring Go Modules                                                 | 30 April 2020
 Debugging Go Applications With Delve                                 | 30 April 2020
+Gin: A Website Application Framework In Go                           | 02 May 2020
