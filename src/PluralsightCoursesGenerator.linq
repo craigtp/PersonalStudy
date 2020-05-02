@@ -10,11 +10,12 @@ void Main()
 
 	var currentlyWatching = new []
 	{
-		new { Title = "CQRS Theory and Practice" },
+		new { Title = "Gin: A Website Application Framework In Go" },
 	};
 
 	var coursesToWatch = new[]
 	{
+		new { Title = "CQRS Theory and Practice" },
 		new { Title = "CQRS In Practice" },
 		new { Title = "Domain-Driven Design in Practice" },
 		new { Title = "Refactoring from Anemic Domain Model Towards a Rich One" },
@@ -69,6 +70,17 @@ void Main()
 		new { Title = "Domain Driven Design Fundamentals", LastWatched = DateTime.Parse("3 February 2019") },
 		new { Title = "Terraform - Getting Started", LastWatched = DateTime.Parse("17 February 2019") },
 		new { Title = "Building Concurrent Applications with the Actor Model in Akka.NET", LastWatched = DateTime.Parse("3 December 2019") },
+		new { Title = "Go: Getting Started", LastWatched = DateTime.Parse("07 April 2020") },
+		new { Title = "Go: The Big Picture", LastWatched = DateTime.Parse("07 April 2020") },
+		new { Title = "The Go CLI Playbook", LastWatched = DateTime.Parse("20 April 2020") },
+		new { Title = "Creating Custom DataTypes With Go", LastWatched = DateTime.Parse("23 April 2020") },
+		new { Title = "Advanced Branching And Looping In Go", LastWatched = DateTime.Parse("24 April 2020") },
+		new { Title = "Deep Dive Into Go Packages", LastWatched = DateTime.Parse("26 April 2020") },
+		new { Title = "Deep Dive Into Go Functions", LastWatched = DateTime.Parse("26 April 2020") },
+		new { Title = "Concurrent Programming With Go", LastWatched = DateTime.Parse("27 April 2020") },
+		new { Title = "Creating Well-Tested Application In Go", LastWatched = DateTime.Parse("28 April 2020") },
+		new { Title = "Exploring Go Modules", LastWatched = DateTime.Parse("30 April 2020") },
+		new { Title = "Debugging Go Applications With Delve", LastWatched = DateTime.Parse("30 April 2020") },
 	};
 
 	var coursesMarkdown = new StringBuilder();

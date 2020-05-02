@@ -1,13 +1,14 @@
 Currently Watching
 ==================
-Title                    |
------------------------- |
-CQRS Theory and Practice |
+Title                                      |
+------------------------------------------ |
+Gin: A Website Application Framework In Go |
 
 Courses To Watch
 ================
 Title                                                               |
 ------------------------------------------------------------------- |
+CQRS Theory and Practice                                            |
 CQRS In Practice                                                    |
 Domain-Driven Design in Practice                                    |
 Refactoring from Anemic Domain Model Towards a Rich One             |
@@ -63,3 +64,14 @@ Azure Functions Fundamentals                                         | 07 Januar
 Domain Driven Design Fundamentals                                    | 03 February 2019
 Terraform - Getting Started                                          | 17 February 2019
 Building Concurrent Applications with the Actor Model in Akka.NET    | 03 December 2019
+Go: Getting Started                                                  | 07 April 2020
+Go: The Big Picture                                                  | 07 April 2020
+The Go CLI Playbook                                                  | 20 April 2020
+Creating Custom DataTypes With Go                                    | 23 April 2020
+Advanced Branching And Looping In Go                                 | 24 April 2020
+Deep Dive Into Go Packages                                           | 26 April 2020
+Deep Dive Into Go Functions                                          | 26 April 2020
+Concurrent Programming With Go                                       | 27 April 2020
+Creating Well-Tested Application In Go                               | 28 April 2020
+Exploring Go Modules                                                 | 30 April 2020
+Debugging Go Applications With Delve                                 | 30 April 2020
