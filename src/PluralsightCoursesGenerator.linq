@@ -10,12 +10,11 @@ void Main()
 
 	var currentlyWatching = new []
 	{
-		new { Title = "Object-oriented Programming with Go" },
+		new { Title = "GORM - An Object Relational Mapper for Go" },
 	};
 
 	var coursesToWatch = new[]
 	{
-		new { Title = "GORM - An Object Relational Mapper for Go" },
 		new { Title = "Creating Web Applications with Go" },
 		new { Title = "Building Better Go Web Apps with the Gorilla Toolkit" },
 		new { Title = "Building Distributed Applications with Go" },
@@ -86,6 +85,7 @@ void Main()
 		new { Title = "Exploring Go Modules", LastWatched = DateTime.Parse("30 April 2020") },
 		new { Title = "Debugging Go Applications With Delve", LastWatched = DateTime.Parse("30 April 2020") },
 		new { Title = "Gin: A Website Application Framework In Go", LastWatched = DateTime.Parse("02 May 2020")  },
+		new { Title = "Object-oriented Programming with Go", LastWatched = DateTime.Parse("03 May 2020")   },
 	};
 
 	var coursesMarkdown = new StringBuilder();

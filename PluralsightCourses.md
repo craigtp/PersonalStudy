@@ -1,14 +1,13 @@
 Currently Watching
 ==================
-Title                               |
------------------------------------ |
-Object-oriented Programming with Go |
+Title                                     |
+----------------------------------------- |
+GORM - An Object Relational Mapper for Go |
 
 Courses To Watch
 ================
 Title                                                               |
 ------------------------------------------------------------------- |
-GORM - An Object Relational Mapper for Go                           |
 Creating Web Applications with Go                                   |
 Building Better Go Web Apps with the Gorilla Toolkit                |
 Building Distributed Applications with Go                           |
@@ -80,3 +79,4 @@ Creating Well-Tested Application In Go                               | 28 April 
 Exploring Go Modules                                                 | 30 April 2020
 Debugging Go Applications With Delve                                 | 30 April 2020
 Gin: A Website Application Framework In Go                           | 02 May 2020
+Object-oriented Programming with Go                                  | 03 May 2020
