@@ -10,6 +10,7 @@ Title                                                               |
 ------------------------------------------------------------------- |
 Creating Web Applications with Go                                   |
 Building Better Go Web Apps with the Gorilla Toolkit                |
+Scaling Go Applications Horizontally                                |
 Building Distributed Applications with Go                           |
 CQRS Theory and Practice                                            |
 CQRS In Practice                                                    |

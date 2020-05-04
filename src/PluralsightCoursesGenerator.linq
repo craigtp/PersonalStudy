@@ -17,6 +17,7 @@ void Main()
 	{
 		new { Title = "Creating Web Applications with Go" },
 		new { Title = "Building Better Go Web Apps with the Gorilla Toolkit" },
+		new { Title = "Scaling Go Applications Horizontally" },
 		new { Title = "Building Distributed Applications with Go" },
 		new { Title = "CQRS Theory and Practice" },
 		new { Title = "CQRS In Practice" },
