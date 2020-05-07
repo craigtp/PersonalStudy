@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [GOTO 2019 - "Good Enough" Architecture - Stefan Tilkov](https://www.youtube.com/watch?v=PzEox3szeRc)
 - [Modeling in a Non-Relational World with Oren Eini](https://www.youtube.com/watch?v=CuxdWzllbO4)
 - [Software Architecture Decomposition](https://www.youtube.com/watch?v=VIC7QW62-Tw)
 - [Martin Kleppmann - Correctness proofs of distributed systems with Isabelle | Code Mesh LDN 19](https://www.youtube.com/watch?v=NfdP6wwjsGk)
