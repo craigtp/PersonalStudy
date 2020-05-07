@@ -1,6 +1,5 @@
 # Videos To Watch
 
-- [GOTO 2019 - "Good Enough" Architecture - Stefan Tilkov](https://www.youtube.com/watch?v=PzEox3szeRc)
 - [Modeling in a Non-Relational World with Oren Eini](https://www.youtube.com/watch?v=CuxdWzllbO4)
 - [Software Architecture Decomposition](https://www.youtube.com/watch?v=VIC7QW62-Tw)
 - [Martin Kleppmann - Correctness proofs of distributed systems with Isabelle | Code Mesh LDN 19](https://www.youtube.com/watch?v=NfdP6wwjsGk)
@@ -257,3 +256,4 @@
 - [GOTO 2016 - Conflict Resolution for Eventual Consistency - Martin Kleppmann](https://www.youtube.com/watch?v=yCcWpzY8dIA)
 - [dotGo 2017 - John Cinnamond - Go Lift](https://www.youtube.com/watch?v=1B71SL6Y0kA)
 - [YOW! Nights October 2015 Udi Dahan - Microservices, SOA, DDD](https://www.youtube.com/watch?v=MTArpO7rSQE)
+- [GOTO 2019 - "Good Enough" Architecture - Stefan Tilkov](https://www.youtube.com/watch?v=PzEox3szeRc)
