@@ -1,14 +1,13 @@
 Currently Reading
 =================
-Title                    |
------------------------- |
-The Art Of Readable Code |
+Title                                        |
+-------------------------------------------- |
+Hands-On Domain-Driven Design With .NET Core |
 
 Books To Read
 =============
 Title                                                                                          |
 ---------------------------------------------------------------------------------------------- |
-Hands-On Domain-Driven Design With .NET Core                                                   |
 Exploring CQRS and Event Sourcing (CQRS Journey Guide)                                         |
 Implementing Domain Driven Design                                                              |
 Patterns, Principles and Practices of Domain Driven Design                                     |
@@ -90,3 +89,4 @@ The Unicorn Project: A Novel About Developers, Digital Disruption, and Thriving 
 The Goal - A Process of Ongoing Improvement                                                        | 24 February 2020  | Yes
 CQRS - The Example                                                                                 | 01 March 2020     | No
 Versioning In An Event Sourced System                                                              | 28 March 2020     | No
+The Art Of Readable Code                                                                           | 09 May 2020       | Yes
