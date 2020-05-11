@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [AWS re:Invent 2019: Moving to event-driven architectures (SVS308-R1)](https://www.youtube.com/watch?v=h46IquqjF3E)
 - [Modeling in a Non-Relational World with Oren Eini](https://www.youtube.com/watch?v=CuxdWzllbO4)
 - [Software Architecture Decomposition](https://www.youtube.com/watch?v=VIC7QW62-Tw)
 - [Martin Kleppmann - Correctness proofs of distributed systems with Isabelle | Code Mesh LDN 19](https://www.youtube.com/watch?v=NfdP6wwjsGk)
