@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [The 'What' and 'Why' of Functional Programming Languages, a Lecture](https://www.youtube.com/watch?v=8UfA7tUPil8)
 - [SOA, Microservices, Service Boundaries - Adam Ralph - Loosely Coupled Show #006](https://www.youtube.com/watch?v=IqhtDHPa4ds)
 - [Building on SOLID foundations - Steve Freeman & Nat Pryce](https://www.youtube.com/watch?v=6Bia81dI-JE)
 - [DevTernity 2018: Sandro Mancuso - Does TDD Really Lead to Good Design?](https://www.youtube.com/watch?v=KyFVA4Spcgg)
