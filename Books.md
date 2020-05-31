@@ -1,13 +1,14 @@
 Currently Reading
 =================
-Title                                        |
--------------------------------------------- |
-Hands-On Domain-Driven Design With .NET Core |
+Title          |
+-------------- |
+Impact Mapping |
 
 Books To Read
 =============
 Title                                                                                          |
 ---------------------------------------------------------------------------------------------- |
+Building Microservices                                                                         |
 Exploring CQRS and Event Sourcing (CQRS Journey Guide)                                         |
 Implementing Domain Driven Design                                                              |
 Patterns, Principles and Practices of Domain Driven Design                                     |
@@ -21,7 +22,6 @@ Accelerate                                                                      
 Enterprise Integration Patterns: Designing. Building. and Deploying Messaging Solutions        |
 Patterns Of Enterprise Application Architecture                                                |
 Release It!: Design and Deploy Production-Ready Software 2nd Edition                           |
-Building Microservices                                                                         |
 Monolith To Microservices                                                                      |
 Functional And Reactive Domain Modeling                                                        |
 Domain Modeling Made Functional                                                                |
@@ -90,3 +90,4 @@ The Goal - A Process of Ongoing Improvement                                     
 CQRS - The Example                                                                                 | 01 March 2020     | No
 Versioning In An Event Sourced System                                                              | 28 March 2020     | No
 The Art Of Readable Code                                                                           | 09 May 2020       | Yes
+Hands-On Domain-Driven Design With .NET Core                                                       | 31 May 2020       | No
