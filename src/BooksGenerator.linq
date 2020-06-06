@@ -10,12 +10,12 @@ void Main()
 
 	var currentlyReading = new[]
 	{
-		new { Title = "Impact Mapping"}
+		new { Title = "Building Microservices" },
 	};
 
 	var booksToRead = new[]
 	{
-		new { Title = "Building Microservices" },
+		new { Title = "Monolith To Microservices" },
 		new { Title = "Exploring CQRS and Event Sourcing (CQRS Journey Guide)" },
 		new { Title = "Implementing Domain Driven Design" },
 		new { Title = "Patterns, Principles and Practices of Domain Driven Design" },
@@ -29,7 +29,6 @@ void Main()
 		new { Title = "Enterprise Integration Patterns: Designing. Building. and Deploying Messaging Solutions" },
 		new { Title = "Patterns Of Enterprise Application Architecture" },
 		new { Title = "Release It!: Design and Deploy Production-Ready Software 2nd Edition" },
-		new { Title = "Monolith To Microservices" },
 		new { Title = "Functional And Reactive Domain Modeling" },
 		new { Title = "Domain Modeling Made Functional" },
 		new { Title = "Reactive Applications With Akka.Net" },
@@ -97,6 +96,7 @@ void Main()
 		new { Title = "Versioning In An Event Sourced System", LastRead = DateTime.Parse("28 March 2020"), NotesTaken = false },
 		new { Title = "The Art Of Readable Code", LastRead = DateTime.Parse("09 May 2020"), NotesTaken = true },
 		new { Title = "Hands-On Domain-Driven Design With .NET Core", LastRead = DateTime.Parse("31 May 2020"), NotesTaken = false },
+		new { Title = "Impact Mapping", LastRead = DateTime.Parse("31 May 2020"), NotesTaken = false },
 	};
 
 	var booksMarkdown = new StringBuilder();
