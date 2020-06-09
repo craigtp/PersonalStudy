@@ -10,17 +10,17 @@ void Main()
 
 	var currentlyReading = new[]
 	{
-		new { Title = "Building Microservices" },
+		new { Title = "Functional Programming In C# (Manning)" },
 	};
 
 	var booksToRead = new[]
 	{
+		new { Title = "Building Microservices" },
 		new { Title = "Monolith To Microservices" },
 		new { Title = "Exploring CQRS and Event Sourcing (CQRS Journey Guide)" },
 		new { Title = "Implementing Domain Driven Design" },
 		new { Title = "Patterns, Principles and Practices of Domain Driven Design" },
 		new { Title = "Hands On Domain Driven Design By Example" },
-		new { Title = "Functional Programming In C# (Manning)" },
 		new { Title = "Designing Data Intensive Applications" },
 		new { Title = "The Design Of Everyday Things" },
 		new { Title = "Rework" },

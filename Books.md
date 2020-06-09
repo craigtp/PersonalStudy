@@ -1,19 +1,19 @@
 Currently Reading
 =================
-Title                  |
----------------------- |
-Building Microservices |
+Title                                  |
+-------------------------------------- |
+Functional Programming In C# (Manning) |
 
 Books To Read
 =============
 Title                                                                                          |
 ---------------------------------------------------------------------------------------------- |
+Building Microservices                                                                         |
 Monolith To Microservices                                                                      |
 Exploring CQRS and Event Sourcing (CQRS Journey Guide)                                         |
 Implementing Domain Driven Design                                                              |
 Patterns, Principles and Practices of Domain Driven Design                                     |
 Hands On Domain Driven Design By Example                                                       |
-Functional Programming In C# (Manning)                                                         |
 Designing Data Intensive Applications                                                          |
 The Design Of Everyday Things                                                                  |
 Rework                                                                                         |
