@@ -264,3 +264,4 @@
 - [The 'What' and 'Why' of Functional Programming Languages, a Lecture](https://www.youtube.com/watch?v=8UfA7tUPil8)
 - [SOA, Microservices, Service Boundaries - Adam Ralph - Loosely Coupled Show #006](https://www.youtube.com/watch?v=IqhtDHPa4ds)
 - [Monolith Decomposition Patterns - Sam Newman](https://www.infoq.com/presentations/microservices-principles-patterns/)
+- [Clean Architecture with ASP.NET Core with Steve "Ardalis" Smith (2020-06-01)](https://www.youtube.com/watch?v=joNTQy-KXiU)
