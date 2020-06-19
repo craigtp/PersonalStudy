@@ -10,6 +10,7 @@ Title                                                                           
 ---------------------------------------------------------------------------------------------- |
 Building Microservices                                                                         |
 Monolith To Microservices                                                                      |
+Righting Software                                                                              |
 Exploring CQRS and Event Sourcing (CQRS Journey Guide)                                         |
 Implementing Domain Driven Design                                                              |
 Patterns, Principles and Practices of Domain Driven Design                                     |

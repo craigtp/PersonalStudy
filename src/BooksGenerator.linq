@@ -17,6 +17,7 @@ void Main()
 	{
 		new { Title = "Building Microservices" },
 		new { Title = "Monolith To Microservices" },
+		new { Title = "Righting Software" },
 		new { Title = "Exploring CQRS and Event Sourcing (CQRS Journey Guide)" },
 		new { Title = "Implementing Domain Driven Design" },
 		new { Title = "Patterns, Principles and Practices of Domain Driven Design" },
