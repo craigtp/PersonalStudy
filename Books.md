@@ -8,6 +8,7 @@ Books To Read
 =============
 Title                                                                                          |
 ---------------------------------------------------------------------------------------------- |
+Pragmatic Thinking & Learning                                                                  |
 Building Microservices                                                                         |
 Monolith To Microservices                                                                      |
 Righting Software                                                                              |

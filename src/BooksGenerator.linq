@@ -6,7 +6,7 @@
 
 void Main()
 {
-	var booksFilePath = Path.Combine(System.IO.Directory.GetCurrentDirectory(), @"..\Books.md");
+	var booksFilePath = Path.Combine(Path.GetDirectoryName(Util.CurrentQueryPath), @"..\Books.md");
 
 	var currentlyReading = new[]
 	{
@@ -15,6 +15,7 @@ void Main()
 
 	var booksToRead = new[]
 	{
+		new { Title = "Pragmatic Thinking & Learning"},
 		new { Title = "Building Microservices" },
 		new { Title = "Monolith To Microservices" },
 		new { Title = "Righting Software" },
@@ -60,7 +61,7 @@ void Main()
 		new { Title = "Code Complete: A Practical Handbook of Software Construction (2nd Edition)" },
 		new { Title = "The Pragmatic Programmer: From Journeyman to Master 2nd Edition" },
 		new { Title = "Introduction to Algorithms 3rd Edition"},
-		new { Title = "Structure And Interpretation of Computer Programs"}
+		new { Title = "Structure And Interpretation of Computer Programs"},
 	};
 	
 	var booksAlreadyRead = new[]
