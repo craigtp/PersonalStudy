@@ -265,3 +265,4 @@
 - [SOA, Microservices, Service Boundaries - Adam Ralph - Loosely Coupled Show #006](https://www.youtube.com/watch?v=IqhtDHPa4ds)
 - [Monolith Decomposition Patterns - Sam Newman](https://www.infoq.com/presentations/microservices-principles-patterns/)
 - [Clean Architecture with ASP.NET Core with Steve "Ardalis" Smith (2020-06-01)](https://www.youtube.com/watch?v=joNTQy-KXiU)
+- [Concurrency Patterns In Go](https://www.youtube.com/watch?v=YEKjSzIwAdA)
