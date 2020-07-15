@@ -15,6 +15,7 @@ void Main()
 
 	var booksToRead = new[]
 	{
+		new { Title = "Get Programming With F#"},
 		new { Title = "Pragmatic Thinking & Learning"},
 		new { Title = "Building Microservices" },
 		new { Title = "Monolith To Microservices" },

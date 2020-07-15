@@ -8,6 +8,7 @@ Books To Read
 =============
 Title                                                                                          |
 ---------------------------------------------------------------------------------------------- |
+Get Programming With F#                                                                        |
 Pragmatic Thinking & Learning                                                                  |
 Building Microservices                                                                         |
 Monolith To Microservices                                                                      |
