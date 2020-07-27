@@ -1,15 +1,14 @@
 Currently Reading
 =================
-Title                                  |
--------------------------------------- |
-Functional Programming In C# (Manning) |
+Title                         |
+----------------------------- |
+Pragmatic Thinking & Learning |
 
 Books To Read
 =============
 Title                                                                                          |
 ---------------------------------------------------------------------------------------------- |
 Get Programming With F#                                                                        |
-Pragmatic Thinking & Learning                                                                  |
 Building Microservices                                                                         |
 Monolith To Microservices                                                                      |
 Righting Software                                                                              |
@@ -94,3 +93,4 @@ Versioning In An Event Sourced System                                           
 The Art Of Readable Code                                                                           | 09 May 2020       | Yes
 Hands-On Domain-Driven Design With .NET Core                                                       | 31 May 2020       | No
 Impact Mapping                                                                                     | 31 May 2020       | No
+Functional Programming In C# (Manning)                                                             | 23 July 2020      | Yes

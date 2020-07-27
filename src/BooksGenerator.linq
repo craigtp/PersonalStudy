@@ -10,13 +10,12 @@ void Main()
 
 	var currentlyReading = new[]
 	{
-		new { Title = "Functional Programming In C# (Manning)" },
+		new { Title = "Pragmatic Thinking & Learning"},
 	};
 
 	var booksToRead = new[]
 	{
 		new { Title = "Get Programming With F#"},
-		new { Title = "Pragmatic Thinking & Learning"},
 		new { Title = "Building Microservices" },
 		new { Title = "Monolith To Microservices" },
 		new { Title = "Righting Software" },
@@ -100,6 +99,7 @@ void Main()
 		new { Title = "The Art Of Readable Code", LastRead = DateTime.Parse("09 May 2020"), NotesTaken = true },
 		new { Title = "Hands-On Domain-Driven Design With .NET Core", LastRead = DateTime.Parse("31 May 2020"), NotesTaken = false },
 		new { Title = "Impact Mapping", LastRead = DateTime.Parse("31 May 2020"), NotesTaken = false },
+		new { Title = "Functional Programming In C# (Manning)", LastRead = DateTime.Parse("23 July 2020"), NotesTaken = true },
 	};
 
 	var booksMarkdown = new StringBuilder();
