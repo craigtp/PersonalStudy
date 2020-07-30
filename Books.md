@@ -11,6 +11,7 @@ Title                                                                           
 Get Programming With F#                                                                        |
 Building Microservices                                                                         |
 Monolith To Microservices                                                                      |
+Building Event-Driven Microservices                                                            |
 Righting Software                                                                              |
 Exploring CQRS and Event Sourcing (CQRS Journey Guide)                                         |
 Implementing Domain Driven Design                                                              |
