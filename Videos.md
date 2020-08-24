@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [A Philosophy of Software Design - John Ousterhout - Talks at Google](https://www.youtube.com/watch?v=bmSAYlu0NcY)
 - [Building on SOLID foundations - Steve Freeman & Nat Pryce](https://www.youtube.com/watch?v=6Bia81dI-JE)
 - [DevTernity 2018: Sandro Mancuso - Does TDD Really Lead to Good Design?](https://www.youtube.com/watch?v=KyFVA4Spcgg)
 - [Modeling in a Non-Relational World with Oren Eini](https://www.youtube.com/watch?v=CuxdWzllbO4)
