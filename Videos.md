@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [Learn Docker In A Month Of Lunches](https://www.youtube.com/playlist?list=PLXl_isu8qxvmDOAnUkG5x16LzBzGzY_Ww)
 - [Building on SOLID foundations - Steve Freeman & Nat Pryce](https://www.youtube.com/watch?v=6Bia81dI-JE)
 - [DevTernity 2018: Sandro Mancuso - Does TDD Really Lead to Good Design?](https://www.youtube.com/watch?v=KyFVA4Spcgg)
 - [Modeling in a Non-Relational World with Oren Eini](https://www.youtube.com/watch?v=CuxdWzllbO4)
