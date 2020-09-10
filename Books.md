@@ -1,8 +1,8 @@
 Currently Reading
 =================
-Title                         |
------------------------------ |
-Pragmatic Thinking & Learning |
+Title                                 |
+------------------------------------- |
+Designing Data Intensive Applications |
 
 Books To Read
 =============
@@ -17,7 +17,6 @@ Exploring CQRS and Event Sourcing (CQRS Journey Guide)                          
 Implementing Domain Driven Design                                                              |
 Patterns, Principles and Practices of Domain Driven Design                                     |
 Hands On Domain Driven Design By Example                                                       |
-Designing Data Intensive Applications                                                          |
 The Design Of Everyday Things                                                                  |
 Rework                                                                                         |
 The Lean Startup                                                                               |
@@ -95,3 +94,4 @@ The Art Of Readable Code                                                        
 Hands-On Domain-Driven Design With .NET Core                                                       | 31 May 2020       | No
 Impact Mapping                                                                                     | 31 May 2020       | No
 Functional Programming In C# (Manning)                                                             | 23 July 2020      | Yes
+Pragmatic Thinking & Learning                                                                      | 10 September 2020 | Yes

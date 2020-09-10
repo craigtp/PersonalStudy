@@ -10,7 +10,7 @@ void Main()
 
 	var currentlyReading = new[]
 	{
-		new { Title = "Pragmatic Thinking & Learning"},
+		new { Title = "Designing Data Intensive Applications" }
 	};
 
 	var booksToRead = new[]
@@ -23,8 +23,7 @@ void Main()
 		new { Title = "Exploring CQRS and Event Sourcing (CQRS Journey Guide)" },
 		new { Title = "Implementing Domain Driven Design" },
 		new { Title = "Patterns, Principles and Practices of Domain Driven Design" },
-		new { Title = "Hands On Domain Driven Design By Example" },
-		new { Title = "Designing Data Intensive Applications" },
+		new { Title = "Hands On Domain Driven Design By Example" },		
 		new { Title = "The Design Of Everyday Things" },
 		new { Title = "Rework" },
 		new { Title = "The Lean Startup" },
@@ -64,7 +63,7 @@ void Main()
 		new { Title = "Introduction to Algorithms 3rd Edition"},
 		new { Title = "Structure And Interpretation of Computer Programs"},
 	};
-	
+
 	var booksAlreadyRead = new[]
 	{
 		new { Title = "Broken Agile", LastRead = DateTime.Parse("6 December 2017"), NotesTaken = false },
@@ -101,6 +100,7 @@ void Main()
 		new { Title = "Hands-On Domain-Driven Design With .NET Core", LastRead = DateTime.Parse("31 May 2020"), NotesTaken = false },
 		new { Title = "Impact Mapping", LastRead = DateTime.Parse("31 May 2020"), NotesTaken = false },
 		new { Title = "Functional Programming In C# (Manning)", LastRead = DateTime.Parse("23 July 2020"), NotesTaken = true },
+		new { Title = "Pragmatic Thinking & Learning", LastRead = DateTime.Parse("10 September 2020"), NotesTaken = true }
 	};
 
 	var booksMarkdown = new StringBuilder();
