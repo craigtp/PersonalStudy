@@ -1,6 +1,5 @@
 # Videos To Watch
 
-- [Avoiding Microservice Megadisasters - Jimmy Bogard](https://www.youtube.com/watch?v=gfh-VCTwMw8)
 - [Learn Docker In A Month Of Lunches](https://www.youtube.com/playlist?list=PLXl_isu8qxvmDOAnUkG5x16LzBzGzY_Ww)
 - [Building on SOLID foundations - Steve Freeman & Nat Pryce](https://www.youtube.com/watch?v=6Bia81dI-JE)
 - [DevTernity 2018: Sandro Mancuso - Does TDD Really Lead to Good Design?](https://www.youtube.com/watch?v=KyFVA4Spcgg)
@@ -270,3 +269,4 @@
 - [Concurrency Patterns In Go](https://www.youtube.com/watch?v=YEKjSzIwAdA)
 - [A Philosophy of Software Design - John Ousterhout - Talks at Google](https://www.youtube.com/watch?v=bmSAYlu0NcY)
 - [DDD Europe 2020 - Udi Dahan Keynote](https://www.youtube.com/watch?v=-iuMjjKQnhg)
+- [Avoiding Microservice Megadisasters - Jimmy Bogard](https://www.youtube.com/watch?v=gfh-VCTwMw8)
