@@ -1,7 +1,6 @@
 # Videos To Watch
 
 - [Learn Docker In A Month Of Lunches](https://www.youtube.com/playlist?list=PLXl_isu8qxvmDOAnUkG5x16LzBzGzY_Ww)
-- [DevTernity 2018: Sandro Mancuso - Does TDD Really Lead to Good Design?](https://www.youtube.com/watch?v=KyFVA4Spcgg)
 - [Modeling in a Non-Relational World with Oren Eini](https://www.youtube.com/watch?v=CuxdWzllbO4)
 - [Software Architecture Decomposition](https://www.youtube.com/watch?v=VIC7QW62-Tw)
 - [Martin Kleppmann - Correctness proofs of distributed systems with Isabelle | Code Mesh LDN 19](https://www.youtube.com/watch?v=NfdP6wwjsGk)
@@ -274,3 +273,4 @@
 - [Projections Explained - Yves Reynhout - DDD Europe 2020](https://www.youtube.com/watch?v=b2kSlDcAcps)
 - [Real-Time, Distributed Applications w/ Akka.NET, Kubernetes, .NET Core, and Azure Kubernetes Service](https://www.youtube.com/watch?v=dzI7tfK0p2I)
 - [Building on SOLID foundations - Steve Freeman & Nat Pryce](https://www.youtube.com/watch?v=6Bia81dI-JE)
+- [DevTernity 2018: Sandro Mancuso - Does TDD Really Lead to Good Design?](https://www.youtube.com/watch?v=KyFVA4Spcgg)
