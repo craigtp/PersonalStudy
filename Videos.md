@@ -34,7 +34,6 @@
 - [Erlang Factroy SF 2016 - Keynote - John Hughes - Why Functional Programming Matters](https://www.youtube.com/watch?v=Z35Tt87pIpg)
 - [What is the actual life expectancy of your code? - Karoline Klever](https://vimeo.com/142347209)
 - [The Principles of Clean Architecture by Uncle Bob Martin](https://www.youtube.com/watch?v=o_TH-Y78tt4)
-- [Crafting Wicked Domain Models - Jimmy Bogard](https://vimeo.com/43598193)
 - [Domain-Driven Design: The Good Parts - Jimmy Bogard](https://vimeo.com/179889630)
 - [Building an event sourced system in .NET - Michiel Overeem](https://www.youtube.com/watch?v=9ZR4U6iSMbo)
 - [DDD, TDD, BDD - Gojko Adzic](https://skillsmatter.com/skillscasts/1007-ddd-tdd-bdd)
@@ -274,3 +273,4 @@
 - [Real-Time, Distributed Applications w/ Akka.NET, Kubernetes, .NET Core, and Azure Kubernetes Service](https://www.youtube.com/watch?v=dzI7tfK0p2I)
 - [Building on SOLID foundations - Steve Freeman & Nat Pryce](https://www.youtube.com/watch?v=6Bia81dI-JE)
 - [DevTernity 2018: Sandro Mancuso - Does TDD Really Lead to Good Design?](https://www.youtube.com/watch?v=KyFVA4Spcgg)
+- [Crafting Wicked Domain Models - Jimmy Bogard](https://vimeo.com/43598193)
