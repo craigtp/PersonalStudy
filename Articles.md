@@ -1,5 +1,6 @@
 # Articles To Read
 
+- [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 - [Designing an event-driven business process at scale: A health management example, Part 1](https://developers.redhat.com/blog/2020/02/19/designing-an-event-driven-business-process-at-scale-a-health-management-example-part-1/)
 - [Designing an event-driven process at scale: Part 2](https://developers.redhat.com/blog/2020/02/20/designing-an-event-driven-process-at-scale-part-2/)
 - [Designing an event-driven process at scale: Part 3](https://developers.redhat.com/blog/2020/02/21/designing-an-event-driven-process-at-scale-part-3/)
