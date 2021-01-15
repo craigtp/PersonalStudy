@@ -1,8 +1,9 @@
 # Videos To Watch
 
+- [Modeling in a Non-Relational World with Oren Eini](https://www.youtube.com/watch?v=CuxdWzllbO4)
+- [Event-based Architecture and Implementations with Kafka and Atom - Eberhard Wolff](https://www.youtube.com/watch?v=Ecg7lvvm8aU)
 - [CS 436: Distributed Computer Systems](https://www.youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N)
 - [Learn Docker In A Month Of Lunches](https://www.youtube.com/playlist?list=PLXl_isu8qxvmDOAnUkG5x16LzBzGzY_Ww)
-- [Modeling in a Non-Relational World with Oren Eini](https://www.youtube.com/watch?v=CuxdWzllbO4)
 - [Software Architecture Decomposition](https://www.youtube.com/watch?v=VIC7QW62-Tw)
 - [Martin Kleppmann - Correctness proofs of distributed systems with Isabelle | Code Mesh LDN 19](https://www.youtube.com/watch?v=NfdP6wwjsGk)
 - [DDD Greece - Workshop: Practical Event-Sourcing with C# and EventStore with Alexey Zimareff](https://www.youtube.com/watch?v=0RGuoRRHWf8)
