@@ -1,6 +1,5 @@
 # Videos To Watch
 
-- [SCaLE 13x Derek Collison NATS A new nervous system for distributed cloud platforms](https://www.youtube.com/watch?v=t_USxxOGzcw)
 - [Event-based Architecture and Implementations with Kafka and Atom - Eberhard Wolff](https://www.youtube.com/watch?v=Ecg7lvvm8aU)
 - [CS 436: Distributed Computer Systems](https://www.youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N)
 - [Learn Docker In A Month Of Lunches](https://www.youtube.com/playlist?list=PLXl_isu8qxvmDOAnUkG5x16LzBzGzY_Ww)
@@ -277,3 +276,4 @@
 - [DevTernity 2018: Sandro Mancuso - Does TDD Really Lead to Good Design?](https://www.youtube.com/watch?v=KyFVA4Spcgg)
 - [Crafting Wicked Domain Models - Jimmy Bogard](https://vimeo.com/43598193)
 - [Modeling in a Non-Relational World with Oren Eini](https://www.youtube.com/watch?v=CuxdWzllbO4)
+- [SCaLE 13x Derek Collison NATS A new nervous system for distributed cloud platforms](https://www.youtube.com/watch?v=t_USxxOGzcw)
