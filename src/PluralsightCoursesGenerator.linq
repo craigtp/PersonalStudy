@@ -86,7 +86,12 @@ void Main()
 		new { Title = "Exploring Go Modules", LastWatched = DateTime.Parse("30 April 2020") },
 		new { Title = "Debugging Go Applications With Delve", LastWatched = DateTime.Parse("30 April 2020") },
 		new { Title = "Gin: A Website Application Framework In Go", LastWatched = DateTime.Parse("02 May 2020")  },
-		new { Title = "Object-oriented Programming with Go", LastWatched = DateTime.Parse("03 May 2020")   },
+		new { Title = "Object-oriented Programming with Go", LastWatched = DateTime.Parse("03 May 2020")},
+		new { Title = "Domain-Driven Design in Practice", LastWatched = DateTime.Parse("07 Feb 2021")},
+		new { Title = "Implementing a Data Management Strategy for an ASP.NET Core Microservices Architecture", LastWatched = DateTime.Parse("08 Feb 2021")},
+		new { Title = "Spring: The Big Picture", LastWatched = DateTime.Parse("08 Feb 2021")},
+		new { Title = "Dependency Injection in ASP.NET Core", LastWatched = DateTime.Parse("20 Feb 2021")},
+		new { Title = "Strategies for Microservice Scalability and Availability in ASP.NET Core", LastWatched = DateTime.Parse("06 March 2021")}
 	};
 
 	var coursesMarkdown = new StringBuilder();
