@@ -10,17 +10,18 @@ void Main()
 
 	var currentlyReading = new[]
 	{
-		new { Title = "Designing Data Intensive Applications" }
+		new { Title = "Release It!: Design and Deploy Production-Ready Software 2nd Edition" }
 	};
 
 	var booksToRead = new[]
 	{
+		new { Title = "Exploring CQRS and Event Sourcing (CQRS Journey Guide)" },
+		new { Title = "Designing Data Intensive Applications" },
 		new { Title = "Get Programming With F#"},
 		new { Title = "Building Microservices" },
 		new { Title = "Monolith To Microservices" },
 		new { Title = "Building Event-Driven Microservices" },
-		new { Title = "Righting Software" },
-		new { Title = "Exploring CQRS and Event Sourcing (CQRS Journey Guide)" },
+		new { Title = "Righting Software" },		
 		new { Title = "Implementing Domain Driven Design" },
 		new { Title = "Patterns, Principles and Practices of Domain Driven Design" },
 		new { Title = "Hands On Domain Driven Design By Example" },		
@@ -30,7 +31,6 @@ void Main()
 		new { Title = "Accelerate" },
 		new { Title = "Enterprise Integration Patterns: Designing. Building. and Deploying Messaging Solutions" },
 		new { Title = "Patterns Of Enterprise Application Architecture" },
-		new { Title = "Release It!: Design and Deploy Production-Ready Software 2nd Edition" },
 		new { Title = "Functional And Reactive Domain Modeling" },
 		new { Title = "Domain Modeling Made Functional" },
 		new { Title = "Reactive Applications With Akka.Net" },

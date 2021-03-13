@@ -1,19 +1,20 @@
 Currently Reading
 =================
-Title                                 |
-------------------------------------- |
-Designing Data Intensive Applications |
+Title                                                                |
+-------------------------------------------------------------------- |
+Release It!: Design and Deploy Production-Ready Software 2nd Edition |
 
 Books To Read
 =============
 Title                                                                                          |
 ---------------------------------------------------------------------------------------------- |
+Exploring CQRS and Event Sourcing (CQRS Journey Guide)                                         |
+Designing Data Intensive Applications                                                          |
 Get Programming With F#                                                                        |
 Building Microservices                                                                         |
 Monolith To Microservices                                                                      |
 Building Event-Driven Microservices                                                            |
 Righting Software                                                                              |
-Exploring CQRS and Event Sourcing (CQRS Journey Guide)                                         |
 Implementing Domain Driven Design                                                              |
 Patterns, Principles and Practices of Domain Driven Design                                     |
 Hands On Domain Driven Design By Example                                                       |
@@ -23,7 +24,6 @@ The Lean Startup                                                                
 Accelerate                                                                                     |
 Enterprise Integration Patterns: Designing. Building. and Deploying Messaging Solutions        |
 Patterns Of Enterprise Application Architecture                                                |
-Release It!: Design and Deploy Production-Ready Software 2nd Edition                           |
 Functional And Reactive Domain Modeling                                                        |
 Domain Modeling Made Functional                                                                |
 Reactive Applications With Akka.Net                                                            |
