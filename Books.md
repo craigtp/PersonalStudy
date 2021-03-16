@@ -10,6 +10,7 @@ Title                                                                           
 ---------------------------------------------------------------------------------------------- |
 Exploring CQRS and Event Sourcing (CQRS Journey Guide)                                         |
 Designing Data Intensive Applications                                                          |
+The Art of Immutable Architecture                                                              |
 Get Programming With F#                                                                        |
 Building Microservices                                                                         |
 Monolith To Microservices                                                                      |

@@ -17,6 +17,7 @@ void Main()
 	{
 		new { Title = "Exploring CQRS and Event Sourcing (CQRS Journey Guide)" },
 		new { Title = "Designing Data Intensive Applications" },
+		new { Title = "The Art of Immutable Architecture"},
 		new { Title = "Get Programming With F#"},
 		new { Title = "Building Microservices" },
 		new { Title = "Monolith To Microservices" },
