@@ -1,19 +1,18 @@
 Currently Reading
 =================
-Title                                                                |
--------------------------------------------------------------------- |
-Release It!: Design and Deploy Production-Ready Software 2nd Edition |
+Title                                                  |
+------------------------------------------------------ |
+Exploring CQRS and Event Sourcing (CQRS Journey Guide) |
 
 Books To Read
 =============
 Title                                                                                          |
 ---------------------------------------------------------------------------------------------- |
-Exploring CQRS and Event Sourcing (CQRS Journey Guide)                                         |
+Building Microservices                                                                         |
+Monolith To Microservices                                                                      |
 Designing Data Intensive Applications                                                          |
 The Art of Immutable Architecture                                                              |
 Get Programming With F#                                                                        |
-Building Microservices                                                                         |
-Monolith To Microservices                                                                      |
 Building Event-Driven Microservices                                                            |
 Righting Software                                                                              |
 Implementing Domain Driven Design                                                              |
@@ -96,3 +95,4 @@ Hands-On Domain-Driven Design With .NET Core                                    
 Impact Mapping                                                                                     | 31 May 2020       | No
 Functional Programming In C# (Manning)                                                             | 23 July 2020      | Yes
 Pragmatic Thinking & Learning                                                                      | 10 September 2020 | Yes
+Release It!: Design and Deploy Production-Ready Software 2nd Edition                               | 05 April 2021     | No
