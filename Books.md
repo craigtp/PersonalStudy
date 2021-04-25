@@ -1,14 +1,13 @@
 Currently Reading
 =================
-Title                                                  |
------------------------------------------------------- |
-Exploring CQRS and Event Sourcing (CQRS Journey Guide) |
+Title                  |
+---------------------- |
+Building Microservices |
 
 Books To Read
 =============
 Title                                                                                          |
 ---------------------------------------------------------------------------------------------- |
-Building Microservices                                                                         |
 Monolith To Microservices                                                                      |
 Designing Data Intensive Applications                                                          |
 The Art of Immutable Architecture                                                              |
@@ -96,3 +95,4 @@ Impact Mapping                                                                  
 Functional Programming In C# (Manning)                                                             | 23 July 2020      | Yes
 Pragmatic Thinking & Learning                                                                      | 10 September 2020 | Yes
 Release It!: Design and Deploy Production-Ready Software 2nd Edition                               | 05 April 2021     | No
+Exploring CQRS and Event Sourcing (CQRS Journey Guide)                                             | 25 April 2021     | No

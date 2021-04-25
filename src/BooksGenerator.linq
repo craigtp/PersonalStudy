@@ -10,12 +10,11 @@ void Main()
 
 	var currentlyReading = new[]
 	{
-		new { Title = "Exploring CQRS and Event Sourcing (CQRS Journey Guide)" }
+		new { Title = "Building Microservices" }
 	};
 
 	var booksToRead = new[]
 	{
-		new { Title = "Building Microservices" },
 		new { Title = "Monolith To Microservices" },
 		new { Title = "Designing Data Intensive Applications" },
 		new { Title = "The Art of Immutable Architecture"},
@@ -101,7 +100,8 @@ void Main()
 		new { Title = "Impact Mapping", LastRead = DateTime.Parse("31 May 2020"), NotesTaken = false },
 		new { Title = "Functional Programming In C# (Manning)", LastRead = DateTime.Parse("23 July 2020"), NotesTaken = true },
 		new { Title = "Pragmatic Thinking & Learning", LastRead = DateTime.Parse("10 September 2020"), NotesTaken = true },
-		new { Title = "Release It!: Design and Deploy Production-Ready Software 2nd Edition", LastRead = DateTime.Parse("05 April 2021"), NotesTaken = false }
+		new { Title = "Release It!: Design and Deploy Production-Ready Software 2nd Edition", LastRead = DateTime.Parse("05 April 2021"), NotesTaken = false },
+		new { Title = "Exploring CQRS and Event Sourcing (CQRS Journey Guide)", LastRead = DateTime.Parse("25 April 2021"), NotesTaken = false  }
 	};
 
 	var booksMarkdown = new StringBuilder();
