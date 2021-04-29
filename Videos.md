@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [Event sourcing meetup with Alexey Zimarev and Greg Young](https://www.youtube.com/watch?v=DDefPUCB9ao)
 - [On .NET Live - Commands, Queries, and other architectural patterns for your .NET Application](https://www.youtube.com/watch?v=ysxgpVfyeNA)
 - [Event-based Architecture and Implementations with Kafka and Atom - Eberhard Wolff](https://www.youtube.com/watch?v=Ecg7lvvm8aU)
 - [CS 436: Distributed Computer Systems](https://www.youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N)
