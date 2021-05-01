@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [Martin Schimak - Talk Session: Know the Flow! Events, Commands & Long-Running Services](https://www.youtube.com/watch?v=uSF5hyfez60)
 - [Event sourcing meetup with Alexey Zimarev and Greg Young](https://www.youtube.com/watch?v=DDefPUCB9ao)
 - [On .NET Live - Commands, Queries, and other architectural patterns for your .NET Application](https://www.youtube.com/watch?v=ysxgpVfyeNA)
 - [Event-based Architecture and Implementations with Kafka and Atom - Eberhard Wolff](https://www.youtube.com/watch?v=Ecg7lvvm8aU)
