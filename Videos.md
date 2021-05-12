@@ -284,3 +284,4 @@
 - [Gregory Young - Querying Events](https://www.youtube.com/watch?v=BWOaUT9T-jA)
 - [Learn Docker In A Month Of Lunches](https://www.youtube.com/playlist?list=PLXl_isu8qxvmDOAnUkG5x16LzBzGzY_Ww)
 - [Software Architecture Decomposition](https://www.youtube.com/watch?v=VIC7QW62-Tw)
+- [Keynote: CUPID ‒ for joyful coding! - Daniel Terhorst-North - JAX Online 2021](https://www.youtube.com/watch?v=knNaUSLhx-U)
