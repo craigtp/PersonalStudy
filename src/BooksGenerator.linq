@@ -10,12 +10,11 @@ void Main()
 
 	var currentlyReading = new[]
 	{
-		new { Title = "Building Microservices" }
+		new { Title = "Monolith To Microservices" }
 	};
 
 	var booksToRead = new[]
 	{
-		new { Title = "Monolith To Microservices" },
 		new { Title = "Designing Data Intensive Applications" },
 		new { Title = "The Art of Immutable Architecture"},
 		new { Title = "Get Programming With F#"},
@@ -101,7 +100,8 @@ void Main()
 		new { Title = "Functional Programming In C# (Manning)", LastRead = DateTime.Parse("23 July 2020"), NotesTaken = true },
 		new { Title = "Pragmatic Thinking & Learning", LastRead = DateTime.Parse("10 September 2020"), NotesTaken = true },
 		new { Title = "Release It!: Design and Deploy Production-Ready Software 2nd Edition", LastRead = DateTime.Parse("05 April 2021"), NotesTaken = false },
-		new { Title = "Exploring CQRS and Event Sourcing (CQRS Journey Guide)", LastRead = DateTime.Parse("25 April 2021"), NotesTaken = false  }
+		new { Title = "Exploring CQRS and Event Sourcing (CQRS Journey Guide)", LastRead = DateTime.Parse("25 April 2021"), NotesTaken = false  },
+		new { Title = "Building Microservices", LastRead = DateTime.Parse("22 May 2021"), NotesTaken = false  },
 	};
 
 	var booksMarkdown = new StringBuilder();

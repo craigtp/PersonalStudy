@@ -1,14 +1,13 @@
 Currently Reading
 =================
-Title                  |
----------------------- |
-Building Microservices |
+Title                     |
+------------------------- |
+Monolith To Microservices |
 
 Books To Read
 =============
 Title                                                                                          |
 ---------------------------------------------------------------------------------------------- |
-Monolith To Microservices                                                                      |
 Designing Data Intensive Applications                                                          |
 The Art of Immutable Architecture                                                              |
 Get Programming With F#                                                                        |
@@ -96,3 +95,4 @@ Functional Programming In C# (Manning)                                          
 Pragmatic Thinking & Learning                                                                      | 10 September 2020 | Yes
 Release It!: Design and Deploy Production-Ready Software 2nd Edition                               | 05 April 2021     | No
 Exploring CQRS and Event Sourcing (CQRS Journey Guide)                                             | 25 April 2021     | No
+Building Microservices                                                                             | 22 May 2021       | No
