@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [Gojko Adzic: Facilitating Impact Mapping sessions (Avanscoperta Meetup)](https://www.youtube.com/watch?v=ZgHkdJ6T8oQ)
 - [Dave Snowden - Cynefin with Multiple Methods](https://www.solutioneers.co.uk/video/dave-snowden-cynefin-with-multiple-methods/)
 - [Martin Schimak - Talk Session: Know the Flow! Events, Commands & Long-Running Services](https://www.youtube.com/watch?v=uSF5hyfez60)
 - [Event sourcing meetup with Alexey Zimarev and Greg Young](https://www.youtube.com/watch?v=DDefPUCB9ao)
