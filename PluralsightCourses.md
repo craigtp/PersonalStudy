@@ -8,6 +8,7 @@ Courses To Watch
 ================
 Title                                                               |
 ------------------------------------------------------------------- |
+Go Fundamentals                                                     |
 Creating Web Applications with Go                                   |
 Building Better Go Web Apps with the Gorilla Toolkit                |
 Scaling Go Applications Horizontally                                |
@@ -38,12 +39,6 @@ Accessing Data with F# Type Providers                               |
 Building Distributed Systems with Akka.NET Clustering               |
 Implementing Logging and Dependency Injection in Akka.NET           |
 Improving Message Throughput in Akka NET                            |
-Go Fundamentals                                                     |
-Object-Oriented Programming With Go                                 |
-Building Distributed Applications With Go                           |
-Scaling Go Applications Horizontally                                |
-Concurrent Programming with Go                                      |
-Creating Web Applications with Go                                   |
 Scaling Applications with Microservices, MassTransit, and RabbitMQ  |
 
 Courses Already Watched

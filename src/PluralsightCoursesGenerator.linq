@@ -15,6 +15,7 @@ void Main()
 
 	var coursesToWatch = new[]
 	{
+		new { Title = "Go Fundamentals" },
 		new { Title = "Creating Web Applications with Go" },
 		new { Title = "Building Better Go Web Apps with the Gorilla Toolkit" },
 		new { Title = "Scaling Go Applications Horizontally" },
@@ -45,12 +46,6 @@ void Main()
 		new { Title = "Building Distributed Systems with Akka.NET Clustering" },
 		new { Title = "Implementing Logging and Dependency Injection in Akka.NET" },
 		new { Title = "Improving Message Throughput in Akka NET" },
-		new { Title = "Go Fundamentals" },
-		new { Title = "Object-Oriented Programming With Go" },
-		new { Title = "Building Distributed Applications With Go" },
-		new { Title = "Scaling Go Applications Horizontally" },
-		new { Title = "Concurrent Programming with Go" },
-		new { Title = "Creating Web Applications with Go" },
 		new { Title = "Scaling Applications with Microservices, MassTransit, and RabbitMQ" },
 	};
 	
