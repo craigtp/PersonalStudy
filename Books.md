@@ -1,14 +1,13 @@
 Currently Reading
 =================
-Title                       |
---------------------------- |
-We need to talk about Scrum |
+Title                                 |
+------------------------------------- |
+Designing Data Intensive Applications |
 
 Books To Read
 =============
 Title                                                                                          |
 ---------------------------------------------------------------------------------------------- |
-Designing Data Intensive Applications                                                          |
 The Art of Immutable Architecture                                                              |
 Get Programming With F#                                                                        |
 Building Event-Driven Microservices                                                            |
@@ -97,3 +96,4 @@ Release It!: Design and Deploy Production-Ready Software 2nd Edition            
 Exploring CQRS and Event Sourcing (CQRS Journey Guide)                                             | 25 April 2021     | No
 Building Microservices                                                                             | 22 May 2021       | No
 Monolith To Microservices                                                                          | 16 June 2021      | No
+We need to talk about Scrum                                                                        | 18 June 2021      | No
