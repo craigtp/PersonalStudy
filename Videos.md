@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [David Fowler - Implementation Details Matter](https://www.youtube.com/watch?v=Cmh5wxM1NkI)
 - [Gojko Adzic: Facilitating Impact Mapping sessions (Avanscoperta Meetup)](https://www.youtube.com/watch?v=ZgHkdJ6T8oQ)
 - [Dave Snowden - Cynefin with Multiple Methods](https://www.solutioneers.co.uk/video/dave-snowden-cynefin-with-multiple-methods/)
 - [Martin Schimak - Talk Session: Know the Flow! Events, Commands & Long-Running Services](https://www.youtube.com/watch?v=uSF5hyfez60)
