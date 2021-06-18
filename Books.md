@@ -1,8 +1,8 @@
 Currently Reading
 =================
-Title                     |
-------------------------- |
-Monolith To Microservices |
+Title                       |
+--------------------------- |
+We need to talk about Scrum |
 
 Books To Read
 =============
@@ -96,3 +96,4 @@ Pragmatic Thinking & Learning                                                   
 Release It!: Design and Deploy Production-Ready Software 2nd Edition                               | 05 April 2021     | No
 Exploring CQRS and Event Sourcing (CQRS Journey Guide)                                             | 25 April 2021     | No
 Building Microservices                                                                             | 22 May 2021       | No
+Monolith To Microservices                                                                          | 16 June 2021      | No

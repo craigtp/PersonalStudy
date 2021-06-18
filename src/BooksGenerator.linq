@@ -10,7 +10,7 @@ void Main()
 
 	var currentlyReading = new[]
 	{
-		new { Title = "Monolith To Microservices" }
+		new { Title = "We need to talk about Scrum" }		
 	};
 
 	var booksToRead = new[]
@@ -102,6 +102,7 @@ void Main()
 		new { Title = "Release It!: Design and Deploy Production-Ready Software 2nd Edition", LastRead = DateTime.Parse("05 April 2021"), NotesTaken = false },
 		new { Title = "Exploring CQRS and Event Sourcing (CQRS Journey Guide)", LastRead = DateTime.Parse("25 April 2021"), NotesTaken = false  },
 		new { Title = "Building Microservices", LastRead = DateTime.Parse("22 May 2021"), NotesTaken = false  },
+		new { Title = "Monolith To Microservices", LastRead = DateTime.Parse("16 June 2021"), NotesTaken = false }
 	};
 
 	var booksMarkdown = new StringBuilder();
