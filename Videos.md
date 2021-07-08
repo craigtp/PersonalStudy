@@ -1,6 +1,5 @@
 # Videos To Watch
 
-- [James Coplien  - How Agile and OO have lost their way together](https://www.youtube.com/watch?v=DOyNfmqwR98)
 - [David Fowler - Implementation Details Matter](https://www.youtube.com/watch?v=Cmh5wxM1NkI)
 - [Gojko Adzic: Facilitating Impact Mapping sessions (Avanscoperta Meetup)](https://www.youtube.com/watch?v=ZgHkdJ6T8oQ)
 - [Dave Snowden - Cynefin with Multiple Methods](https://www.solutioneers.co.uk/video/dave-snowden-cynefin-with-multiple-methods/)
@@ -290,3 +289,4 @@
 - [Keynote: CUPID ‒ for joyful coding! - Daniel Terhorst-North - JAX Online 2021](https://www.youtube.com/watch?v=knNaUSLhx-U)
 - [Using Channels in C# to Enhance Concurrent Code - Jeremy Clark. Dot Net North - May 2021](https://www.youtube.com/watch?v=YxDORrTvIGM)
 - [David West - The Past and Future of Domain-Driven Design](https://www.youtube.com/watch?v=XH_awPS6hK4)
+- [James Coplien  - How Agile and OO have lost their way together](https://www.youtube.com/watch?v=DOyNfmqwR98)
