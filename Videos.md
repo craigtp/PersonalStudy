@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [James Coplien  - How Agile and OO have lost their way together](https://www.youtube.com/watch?v=DOyNfmqwR98)
 - [David Fowler - Implementation Details Matter](https://www.youtube.com/watch?v=Cmh5wxM1NkI)
 - [Gojko Adzic: Facilitating Impact Mapping sessions (Avanscoperta Meetup)](https://www.youtube.com/watch?v=ZgHkdJ6T8oQ)
 - [Dave Snowden - Cynefin with Multiple Methods](https://www.solutioneers.co.uk/video/dave-snowden-cynefin-with-multiple-methods/)
