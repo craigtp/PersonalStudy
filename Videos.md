@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [Don Teaches Guido F# | #dotNETConf: Focus on F#](https://www.youtube.com/watch?v=e2J9PGC-K1E)
 - [David Fowler - Implementation Details Matter](https://www.youtube.com/watch?v=Cmh5wxM1NkI)
 - [Gojko Adzic: Facilitating Impact Mapping sessions (Avanscoperta Meetup)](https://www.youtube.com/watch?v=ZgHkdJ6T8oQ)
 - [Dave Snowden - Cynefin with Multiple Methods](https://www.solutioneers.co.uk/video/dave-snowden-cynefin-with-multiple-methods/)
