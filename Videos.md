@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [Life is easier with an Event-Sourced system... Yves talks to Damian Hickey: Event Store Conversation](https://www.youtube.com/watch?v=ePnHV7zktQk)
 - [Don Teaches Guido F# | #dotNETConf: Focus on F#](https://www.youtube.com/watch?v=e2J9PGC-K1E)
 - [David Fowler - Implementation Details Matter](https://www.youtube.com/watch?v=Cmh5wxM1NkI)
 - [Gojko Adzic: Facilitating Impact Mapping sessions (Avanscoperta Meetup)](https://www.youtube.com/watch?v=ZgHkdJ6T8oQ)
