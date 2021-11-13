@@ -1,6 +1,5 @@
 # Videos To Watch
 
-- [The Journey of a .NET Object - from allocation to collection](https://www.youtube.com/watch?v=1Qmvme70w9c)
 - [Don Teaches Guido F# | #dotNETConf: Focus on F#](https://www.youtube.com/watch?v=e2J9PGC-K1E)
 - [David Fowler - Implementation Details Matter](https://www.youtube.com/watch?v=Cmh5wxM1NkI)
 - [Gojko Adzic: Facilitating Impact Mapping sessions (Avanscoperta Meetup)](https://www.youtube.com/watch?v=ZgHkdJ6T8oQ)
@@ -293,3 +292,4 @@
 - [David West - The Past and Future of Domain-Driven Design](https://www.youtube.com/watch?v=XH_awPS6hK4)
 - [James Coplien  - How Agile and OO have lost their way together](https://www.youtube.com/watch?v=DOyNfmqwR98)
 - [Life is easier with an Event-Sourced system... Yves talks to Damian Hickey: Event Store Conversation](https://www.youtube.com/watch?v=ePnHV7zktQk)
+- [The Journey of a .NET Object - from allocation to collection](https://www.youtube.com/watch?v=1Qmvme70w9c)
