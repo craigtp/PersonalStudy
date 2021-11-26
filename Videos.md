@@ -1,6 +1,5 @@
 # Videos To Watch
 
-- [Q&A on Advanced Distributed Systems with Udi Dahan](https://particular.net/videos/ndeva-qa-with-udi)
 - [Mini Course #1 Clean Architecture + CQRS](https://www.youtube.com/watch?v=NzcZcim9tp8)
 - [Don Teaches Guido F# | #dotNETConf: Focus on F#](https://www.youtube.com/watch?v=e2J9PGC-K1E)
 - [David Fowler - Implementation Details Matter](https://www.youtube.com/watch?v=Cmh5wxM1NkI)
@@ -295,3 +294,4 @@
 - [James Coplien  - How Agile and OO have lost their way together](https://www.youtube.com/watch?v=DOyNfmqwR98)
 - [Life is easier with an Event-Sourced system... Yves talks to Damian Hickey: Event Store Conversation](https://www.youtube.com/watch?v=ePnHV7zktQk)
 - [The Journey of a .NET Object - from allocation to collection](https://www.youtube.com/watch?v=1Qmvme70w9c)
+- [Q&A on Advanced Distributed Systems with Udi Dahan](https://particular.net/videos/ndeva-qa-with-udi)
