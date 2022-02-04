@@ -295,3 +295,4 @@
 - [James Coplien  - How Agile and OO have lost their way together](https://www.youtube.com/watch?v=DOyNfmqwR98)
 - [Life is easier with an Event-Sourced system... Yves talks to Damian Hickey: Event Store Conversation](https://www.youtube.com/watch?v=ePnHV7zktQk)
 - [The Journey of a .NET Object - from allocation to collection](https://www.youtube.com/watch?v=1Qmvme70w9c)
+- [Q&A on Advanced Distributed Systems with Udi Dahan](https://particular.net/videos/ndeva-qa-with-udi)
