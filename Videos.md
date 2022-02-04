@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [Object-Oriented Programming is Bad](https://www.youtube.com/watch?v=QM1iUe6IofM)
 - [Mini Course #1 Clean Architecture + CQRS](https://www.youtube.com/watch?v=NzcZcim9tp8)
 - [Don Teaches Guido F# | #dotNETConf: Focus on F#](https://www.youtube.com/watch?v=e2J9PGC-K1E)
 - [David Fowler - Implementation Details Matter](https://www.youtube.com/watch?v=Cmh5wxM1NkI)
