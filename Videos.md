@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [Implementing an Event Sourcing strategy on Azure - Olena Borzenko & Eldert Grootenboer](https://www.youtube.com/watch?v=-AjxMmNAHic)
 - [Mini Course #1 Clean Architecture + CQRS](https://www.youtube.com/watch?v=NzcZcim9tp8)
 - [Don Teaches Guido F# | #dotNETConf: Focus on F#](https://www.youtube.com/watch?v=e2J9PGC-K1E)
 - [David Fowler - Implementation Details Matter](https://www.youtube.com/watch?v=Cmh5wxM1NkI)
