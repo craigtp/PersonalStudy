@@ -21,7 +21,6 @@
 - [Not Just Events: Developing Asynchronous Microservices - Chris Richardson](https://www.youtube.com/watch?v=kyNL7yCvQQc)
 - ["Transactions: myths, surprises and opportunities" by Martin Kleppmann](https://www.youtube.com/watch?v=5ZjhNTM8XU8)
 - [Look Mommy, No GC! - Dina Goldshtein](https://www.youtube.com/watch?v=G49baWvzCOI)
-- [Security in ASP.NET Core 2.1 - Barry Dorrans](https://www.youtube.com/watch?v=yMB-VSPKDPI)
 - [Deliberate Architecture - Robert Smallshire](https://www.youtube.com/watch?v=E3dSXDNEx7c)
 - [Udi Dahan - Commands, Queries, and Consistency](https://vimeo.com/43612850)
 - [Vaughn Vernon - GOTO, Berlin 2017 • DDD Today "Modeling Uncertainty"](https://www.youtube.com/watch?v=uhZx7Pim_tc)
@@ -300,3 +299,4 @@
 - [Object-Oriented Programming is Bad](https://www.youtube.com/watch?v=QM1iUe6IofM)
 - [Implementing an Event Sourcing strategy on Azure - Olena Borzenko & Eldert Grootenboer](https://www.youtube.com/watch?v=-AjxMmNAHic)
 - [Distributed Systems Lecture Series - Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+- [Security in ASP.NET Core 2.1 - Barry Dorrans](https://www.youtube.com/watch?v=yMB-VSPKDPI)
