@@ -1,7 +1,6 @@
 # Videos To Watch
 
 - [What CUPID means to engineers: a conversation with Daniel Terhorst-North](https://www.youtube.com/watch?v=OZGWKrwIT-8)
-- [CRDT's The Hard Parts - Martin Kleppmann](https://www.youtube.com/watch?v=x7drE24geUw)
 - [Mini Course #1 Clean Architecture + CQRS](https://www.youtube.com/watch?v=NzcZcim9tp8)
 - [Don Teaches Guido F# | #dotNETConf: Focus on F#](https://www.youtube.com/watch?v=e2J9PGC-K1E)
 - [David Fowler - Implementation Details Matter](https://www.youtube.com/watch?v=Cmh5wxM1NkI)
@@ -300,3 +299,4 @@
 - [Implementing an Event Sourcing strategy on Azure - Olena Borzenko & Eldert Grootenboer](https://www.youtube.com/watch?v=-AjxMmNAHic)
 - [Distributed Systems Lecture Series - Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
 - [Security in ASP.NET Core 2.1 - Barry Dorrans](https://www.youtube.com/watch?v=yMB-VSPKDPI)
+- [CRDT's The Hard Parts - Martin Kleppmann](https://www.youtube.com/watch?v=x7drE24geUw)
