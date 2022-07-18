@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [Domain-Driven Refactoring - Jimmy Bogard](https://www.youtube.com/watch?v=gxgKgMvPH9I)
 - [Share Pie: The DDD Treasure hidden in plain sight - Nick Tune](https://www.youtube.com/watch?v=fI8QJmogfvk)
 - [Do Distributed Systems they said. It'll be fun they said - Sara Pellegrini & Milan Savić](https://www.youtube.com/watch?v=XSHTdCfdxp4)
 - [Mini Course #1 Clean Architecture + CQRS](https://www.youtube.com/watch?v=NzcZcim9tp8)
