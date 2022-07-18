@@ -1,6 +1,5 @@
 # Videos To Watch
 
-- [Domain-Driven Refactoring - Jimmy Bogard](https://www.youtube.com/watch?v=gxgKgMvPH9I)
 - [Share Pie: The DDD Treasure hidden in plain sight - Nick Tune](https://www.youtube.com/watch?v=fI8QJmogfvk)
 - [Do Distributed Systems they said. It'll be fun they said - Sara Pellegrini & Milan Savić](https://www.youtube.com/watch?v=XSHTdCfdxp4)
 - [Mini Course #1 Clean Architecture + CQRS](https://www.youtube.com/watch?v=NzcZcim9tp8)
@@ -303,3 +302,4 @@
 - [Security in ASP.NET Core 2.1 - Barry Dorrans](https://www.youtube.com/watch?v=yMB-VSPKDPI)
 - [CRDT's The Hard Parts - Martin Kleppmann](https://www.youtube.com/watch?v=x7drE24geUw)
 - [What CUPID means to engineers: a conversation with Daniel Terhorst-North](https://www.youtube.com/watch?v=OZGWKrwIT-8)
+- [Domain-Driven Refactoring - Jimmy Bogard](https://www.youtube.com/watch?v=gxgKgMvPH9I)
