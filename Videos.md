@@ -303,3 +303,6 @@
 - [CRDT's The Hard Parts - Martin Kleppmann](https://www.youtube.com/watch?v=x7drE24geUw)
 - [What CUPID means to engineers: a conversation with Daniel Terhorst-North](https://www.youtube.com/watch?v=OZGWKrwIT-8)
 - [Domain-Driven Refactoring - Jimmy Bogard](https://www.youtube.com/watch?v=gxgKgMvPH9I)
+- [Architecture: The Stuff That's Hard to Change - Dylan Beattie](https://www.youtube.com/watch?v=3LtQWxhqjqI)
+- [Nick Tune - Share Pie: The DDD Treasure Hidden in Plain Sight - NDC London 2022](https://www.youtube.com/watch?v=cM4CABxMmk8)
+- [Architecture. The Hard Parts by Neal Ford](https://www.youtube.com/watch?v=v55IV8IhwKM)
