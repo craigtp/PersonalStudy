@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [.NET DC August: Event Sourcing and CQRS with Marten - Jeremy Miller](https://www.youtube.com/watch?v=XaztVpahD1k)
 - [Share Pie: The DDD Treasure hidden in plain sight - Nick Tune](https://www.youtube.com/watch?v=fI8QJmogfvk)
 - [Do Distributed Systems they said. It'll be fun they said - Sara Pellegrini & Milan Savić](https://www.youtube.com/watch?v=XSHTdCfdxp4)
 - [Mini Course #1 Clean Architecture + CQRS](https://www.youtube.com/watch?v=NzcZcim9tp8)
