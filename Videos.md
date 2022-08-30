@@ -1,6 +1,5 @@
 # Videos To Watch
 
-- [.NET DC August: Event Sourcing and CQRS with Marten - Jeremy Miller](https://www.youtube.com/watch?v=XaztVpahD1k)
 - [Do Distributed Systems they said. It'll be fun they said - Sara Pellegrini & Milan Savić](https://www.youtube.com/watch?v=XSHTdCfdxp4)
 - [Mini Course #1 Clean Architecture + CQRS](https://www.youtube.com/watch?v=NzcZcim9tp8)
 - [Don Teaches Guido F# | #dotNETConf: Focus on F#](https://www.youtube.com/watch?v=e2J9PGC-K1E)
@@ -306,3 +305,4 @@
 - [Architecture: The Stuff That's Hard to Change - Dylan Beattie](https://www.youtube.com/watch?v=3LtQWxhqjqI)
 - [Nick Tune - Share Pie: The DDD Treasure Hidden in Plain Sight - NDC London 2022](https://www.youtube.com/watch?v=cM4CABxMmk8)
 - [Architecture. The Hard Parts by Neal Ford](https://www.youtube.com/watch?v=v55IV8IhwKM)
+- [.NET DC August: Event Sourcing and CQRS with Marten - Jeremy Miller](https://www.youtube.com/watch?v=XaztVpahD1k)
