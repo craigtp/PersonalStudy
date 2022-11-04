@@ -308,3 +308,4 @@
 - [Architecture. The Hard Parts by Neal Ford](https://www.youtube.com/watch?v=v55IV8IhwKM)
 - [.NET DC August: Event Sourcing and CQRS with Marten - Jeremy Miller](https://www.youtube.com/watch?v=XaztVpahD1k)
 - [OSS Power-Ups: Serilog](https://www.youtube.com/watch?v=LDuCD1WjoXo)
+- ["Monad I Love You Now Get Out Of My Type System" by Gjeta Gjyshinca (Strange Loop 2022)](https://www.youtube.com/watch?v=2PxsyWqZ5dI)
