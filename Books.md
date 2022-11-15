@@ -8,6 +8,7 @@ Books To Read
 =============
 Title                                                                                          |
 ---------------------------------------------------------------------------------------------- |
+Domain Modeling Made Functional                                                                |
 The Art of Immutable Architecture                                                              |
 Get Programming With F#                                                                        |
 Building Event-Driven Microservices                                                            |
@@ -22,7 +23,6 @@ Accelerate                                                                      
 Enterprise Integration Patterns: Designing. Building. and Deploying Messaging Solutions        |
 Patterns Of Enterprise Application Architecture                                                |
 Functional And Reactive Domain Modeling                                                        |
-Domain Modeling Made Functional                                                                |
 Reactive Applications With Akka.Net                                                            |
 Hands-On Software Architecture With C# 8 and .NET Core 3                                       |
 The Imposter's Handbook                                                                        |

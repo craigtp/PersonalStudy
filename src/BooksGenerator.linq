@@ -15,6 +15,7 @@ void Main()
 
 	var booksToRead = new[]
 	{
+		new { Title = "Domain Modeling Made Functional" },
 		new { Title = "The Art of Immutable Architecture"},
 		new { Title = "Get Programming With F#"},
 		new { Title = "Building Event-Driven Microservices" },
@@ -29,7 +30,6 @@ void Main()
 		new { Title = "Enterprise Integration Patterns: Designing. Building. and Deploying Messaging Solutions" },
 		new { Title = "Patterns Of Enterprise Application Architecture" },
 		new { Title = "Functional And Reactive Domain Modeling" },
-		new { Title = "Domain Modeling Made Functional" },
 		new { Title = "Reactive Applications With Akka.Net" },
 		new { Title = "Hands-On Software Architecture With C# 8 and .NET Core 3" },
 		new { Title = "The Imposter's Handbook"},
