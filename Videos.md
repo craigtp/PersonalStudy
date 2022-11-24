@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [Domain-Driven Design, Event Sourcing and CQRS with F# and EventStore](https://www.youtube.com/watch?v=MHvr71T_LZw)
 - [Do Distributed Systems they said. It'll be fun they said - Sara Pellegrini & Milan Savić](https://www.youtube.com/watch?v=XSHTdCfdxp4)
 - [Mini Course #1 Clean Architecture + CQRS](https://www.youtube.com/watch?v=NzcZcim9tp8)
 - [Don Teaches Guido F# | #dotNETConf: Focus on F#](https://www.youtube.com/watch?v=e2J9PGC-K1E)
