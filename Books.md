@@ -9,11 +9,12 @@ Books To Read
 Title                                                                                          |
 ---------------------------------------------------------------------------------------------- |
 Domain Modeling Made Functional                                                                |
+Implementing Domain Driven Design                                                              |
+Domain Storytelling                                                                            |
 The Art of Immutable Architecture                                                              |
 Get Programming With F#                                                                        |
 Building Event-Driven Microservices                                                            |
 Righting Software                                                                              |
-Implementing Domain Driven Design                                                              |
 Patterns, Principles and Practices of Domain Driven Design                                     |
 Hands On Domain Driven Design By Example                                                       |
 The Design Of Everyday Things                                                                  |

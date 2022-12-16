@@ -1,13 +1,14 @@
 Currently Watching
 ==================
-Title                                     |
------------------------------------------ |
-GORM - An Object Relational Mapper for Go |
+Title     |
+--------- |
+[Nothing] |
 
 Courses To Watch
 ================
 Title                                                               |
 ------------------------------------------------------------------- |
+GORM - An Object Relational Mapper for Go                           |
 Go Fundamentals                                                     |
 Creating Web Applications with Go                                   |
 Building Better Go Web Apps with the Gorilla Toolkit                |

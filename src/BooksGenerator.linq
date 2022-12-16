@@ -6,7 +6,7 @@
 
 void Main()
 {
-	var booksFilePath = Path.Combine(Path.GetDirectoryName(Util.CurrentQueryPath), @"..\Books.md");
+	var booksFilePath = Path.Combine(Path.GetDirectoryName(Util.CurrentQueryPath), @"..\Books.md");;
 
 	var currentlyReading = new[]
 	{
@@ -16,11 +16,12 @@ void Main()
 	var booksToRead = new[]
 	{
 		new { Title = "Domain Modeling Made Functional" },
+		new { Title = "Implementing Domain Driven Design" },
+		new { Title	= "Domain Storytelling" },
 		new { Title = "The Art of Immutable Architecture"},
 		new { Title = "Get Programming With F#"},
 		new { Title = "Building Event-Driven Microservices" },
 		new { Title = "Righting Software" },		
-		new { Title = "Implementing Domain Driven Design" },
 		new { Title = "Patterns, Principles and Practices of Domain Driven Design" },
 		new { Title = "Hands On Domain Driven Design By Example" },		
 		new { Title = "The Design Of Everyday Things" },

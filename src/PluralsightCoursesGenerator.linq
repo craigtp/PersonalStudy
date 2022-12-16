@@ -6,15 +6,16 @@
 
 void Main()
 {
-	var coursesFilePath = Path.Combine(System.IO.Directory.GetCurrentDirectory(), @"..\PluralsightCourses.md");
+	var coursesFilePath = Path.Combine(Path.GetDirectoryName(Util.CurrentQueryPath), @"..\PluralsightCourses.md");
 
 	var currentlyWatching = new []
 	{
-		new { Title = "GORM - An Object Relational Mapper for Go" },
+		new { Title = "[Nothing]" },
 	};
 
 	var coursesToWatch = new[]
 	{
+		new { Title = "GORM - An Object Relational Mapper for Go" },
 		new { Title = "Go Fundamentals" },
 		new { Title = "Creating Web Applications with Go" },
 		new { Title = "Building Better Go Web Apps with the Gorilla Toolkit" },
