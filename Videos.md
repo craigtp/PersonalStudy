@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [Advanced API and Integration Problems & Patterns - Udi Dahan - NDC Oslo 2022](https://www.youtube.com/watch?v=vNouCMGP1eE)
 - [Domain-Driven Design, Event Sourcing and CQRS with F# and EventStore](https://www.youtube.com/watch?v=MHvr71T_LZw)
 - [Do Distributed Systems they said. It'll be fun they said - Sara Pellegrini & Milan Savić](https://www.youtube.com/watch?v=XSHTdCfdxp4)
 - [Mini Course #1 Clean Architecture + CQRS](https://www.youtube.com/watch?v=NzcZcim9tp8)
