@@ -1,6 +1,5 @@
 # Videos To Watch
 
-- [Advanced API and Integration Problems & Patterns - Udi Dahan - NDC Oslo 2022](https://www.youtube.com/watch?v=vNouCMGP1eE)
 - [Domain-Driven Design, Event Sourcing and CQRS with F# and EventStore](https://www.youtube.com/watch?v=MHvr71T_LZw)
 - [Do Distributed Systems they said. It'll be fun they said - Sara Pellegrini & Milan Savić](https://www.youtube.com/watch?v=XSHTdCfdxp4)
 - [Mini Course #1 Clean Architecture + CQRS](https://www.youtube.com/watch?v=NzcZcim9tp8)
@@ -310,3 +309,4 @@
 - [.NET DC August: Event Sourcing and CQRS with Marten - Jeremy Miller](https://www.youtube.com/watch?v=XaztVpahD1k)
 - [OSS Power-Ups: Serilog](https://www.youtube.com/watch?v=LDuCD1WjoXo)
 - ["Monad I Love You Now Get Out Of My Type System" by Gjeta Gjyshinca (Strange Loop 2022)](https://www.youtube.com/watch?v=2PxsyWqZ5dI)
+- [Advanced API and Integration Problems & Patterns - Udi Dahan - NDC Oslo 2022](https://www.youtube.com/watch?v=vNouCMGP1eE)
