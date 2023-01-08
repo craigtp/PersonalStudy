@@ -64,8 +64,6 @@
 - [2 men and a Whiteboard - Alberto Brandolini](https://skillsmatter.com/skillscasts/2145-2-men-and-a-whiteboard)
 - [EventStorming Recipes - Alberto Brandolini](https://skillsmatter.com/skillscasts/5193-alberto-brandolini)
 - [It’s not simple at all! - Alberto Brandolini](https://skillsmatter.com/skillscasts/3995-its-not-simple-at-all)
-- [What Lies Beneath - Alberto Brandolini](https://skillsmatter.com/skillscasts/7798-what-lies-beneath)
-- [Reactive DDD—Modeling Uncertainty by Vaughn Vernon](https://www.youtube.com/watch?v=f2EYaqzMlKQ)
 
 # Videos Already Watched
 - [Red, Green...What Now?!](https://www.youtube.com/watch?v=fSr8LDcb0Y0)
@@ -310,3 +308,4 @@
 - [OSS Power-Ups: Serilog](https://www.youtube.com/watch?v=LDuCD1WjoXo)
 - ["Monad I Love You Now Get Out Of My Type System" by Gjeta Gjyshinca (Strange Loop 2022)](https://www.youtube.com/watch?v=2PxsyWqZ5dI)
 - [Advanced API and Integration Problems & Patterns - Udi Dahan - NDC Oslo 2022](https://www.youtube.com/watch?v=vNouCMGP1eE)
+- [What Lies Beneath - Alberto Brandolini](https://skillsmatter.com/skillscasts/7798-what-lies-beneath)
