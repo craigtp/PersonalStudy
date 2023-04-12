@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [Event Modeling • Adam Dymitruk • YOW! 2022](https://www.youtube.com/watch?v=cVyVmcwiPWw)
 - [How An EventStore actually works - Greg Young](https://www.youtube.com/watch?v=YUjO1wM0PZM)
 - [Domain-Driven Design, Event Sourcing and CQRS with F# and EventStore](https://www.youtube.com/watch?v=MHvr71T_LZw)
 - [Do Distributed Systems they said. It'll be fun they said - Sara Pellegrini & Milan Savić](https://www.youtube.com/watch?v=XSHTdCfdxp4)
