@@ -312,3 +312,4 @@
 - [What Lies Beneath - Alberto Brandolini](https://skillsmatter.com/skillscasts/7798-what-lies-beneath)
 - [How to start with DDD when you have a monolith - Javiera Laso - DDD Europe 2022](https://www.youtube.com/watch?v=ASNnN6rK65k)
 - [Event Modeling • Adam Dymitruk • YOW! 2022](https://www.youtube.com/watch?v=cVyVmcwiPWw)
+- [Practical Refactoring - How to clean code in many small steps](https://www.youtube.com/watch?v=aWiwDdx_rdo)
