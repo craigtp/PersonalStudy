@@ -1,6 +1,5 @@
 # Videos To Watch
 
-- [How An EventStore actually works - Greg Young](https://www.youtube.com/watch?v=YUjO1wM0PZM)
 - [Domain-Driven Design, Event Sourcing and CQRS with F# and EventStore](https://www.youtube.com/watch?v=MHvr71T_LZw)
 - [Do Distributed Systems they said. It'll be fun they said - Sara Pellegrini & Milan Savić](https://www.youtube.com/watch?v=XSHTdCfdxp4)
 - [Mini Course #1 Clean Architecture + CQRS](https://www.youtube.com/watch?v=NzcZcim9tp8)
@@ -313,3 +312,4 @@
 - [How to start with DDD when you have a monolith - Javiera Laso - DDD Europe 2022](https://www.youtube.com/watch?v=ASNnN6rK65k)
 - [Event Modeling • Adam Dymitruk • YOW! 2022](https://www.youtube.com/watch?v=cVyVmcwiPWw)
 - [Practical Refactoring - How to clean code in many small steps](https://www.youtube.com/watch?v=aWiwDdx_rdo)
+- [How An EventStore actually works - Greg Young](https://www.youtube.com/watch?v=YUjO1wM0PZM)
