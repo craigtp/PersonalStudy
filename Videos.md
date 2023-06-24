@@ -313,3 +313,4 @@
 - [Event Modeling • Adam Dymitruk • YOW! 2022](https://www.youtube.com/watch?v=cVyVmcwiPWw)
 - [Practical Refactoring - How to clean code in many small steps](https://www.youtube.com/watch?v=aWiwDdx_rdo)
 - [How An EventStore actually works - Greg Young](https://www.youtube.com/watch?v=YUjO1wM0PZM)
+- [YOW! Singapore 2018 - Michael Nygard - Uncoupling](https://www.youtube.com/watch?v=mAw4ygX1c-4)
