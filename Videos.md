@@ -1,7 +1,5 @@
 # Videos To Watch
 
-- [Git Hidden Gems - Enrico Campidoglio - NDC Oslo 2023](https://www.youtube.com/watch?v=WtUCZYyv-_w)
-- [CQRS pitfalls and patterns - Udi Dahan - NDC Oslo 2023](https://www.youtube.com/watch?v=Lw04HRF8ies)
 - [.NET Systems Programming Learned the Hard Way - Aaron Stannard - NDC Oslo 2023](https://www.youtube.com/watch?v=fi9P3-7VqHo)
 - [Balancing Coupling in Software Design - Vlad Khononov - NDC Oslo 2023](https://www.youtube.com/watch?v=eQOM-UrNTS4)
 - [Tactics for Building Background Services in .NET - Kevin Griffin - NDC Oslo 2023](https://www.youtube.com/watch?v=XFCUQKTwdIU)
@@ -48,7 +46,6 @@
 - [Crunching 'real-life stories' with DDD & Event Storming - Kenny Baas-Schwegler - KanDDDinsky 2018](https://www.youtube.com/watch?v=WvkBKvMnyuc)
 - [Event Sourcing after launch - Michiel Overeem](https://www.youtube.com/watch?v=JzWJI8kW2kc)
 - [Event Sourcing with Azure Cosmos DB - Roman Provaznik](https://www.youtube.com/watch?v=E2oVmA3QKpA)
-- [ASP.NET Core 2.0 - Microsoft Virtual Academy](https://mva.microsoft.com/learning-path/asp-net-core-2-0-23)
 - [The Many Meanings of Event-Driven Architecture - Martin Fowler](https://www.youtube.com/watch?v=STKCRSUsyP0)
 - [The Future of Event-driven Microservices - Kenny Bastani](https://youtu.be/0C7J7hFv_pk)
 - [Using sagas to maintain data consistency in a microservice architecture - Chris Richardson](https://youtu.be/YPbGW3Fnmbc)
@@ -332,3 +329,5 @@
 - [Practical Refactoring - How to clean code in many small steps](https://www.youtube.com/watch?v=aWiwDdx_rdo)
 - [How An EventStore actually works - Greg Young](https://www.youtube.com/watch?v=YUjO1wM0PZM)
 - [YOW! Singapore 2018 - Michael Nygard - Uncoupling](https://www.youtube.com/watch?v=mAw4ygX1c-4)
+- [Git Hidden Gems - Enrico Campidoglio - NDC Oslo 2023](https://www.youtube.com/watch?v=WtUCZYyv-_w)
+- [CQRS pitfalls and patterns - Udi Dahan - NDC Oslo 2023](https://www.youtube.com/watch?v=Lw04HRF8ies)
