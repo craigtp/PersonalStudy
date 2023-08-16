@@ -332,4 +332,4 @@
 - [Git Hidden Gems - Enrico Campidoglio - NDC Oslo 2023](https://www.youtube.com/watch?v=WtUCZYyv-_w)
 - [CQRS pitfalls and patterns - Udi Dahan - NDC Oslo 2023](https://www.youtube.com/watch?v=Lw04HRF8ies)
 - [Intentional Code - Minimalism in a World of Dogmatic Design - David Whitney - NDC London 2023](https://www.youtube.com/watch?v=vw2XffPmlYo)
-
+- [Microservices and Rules Engines – a blast from the past - Udi Dahan](https://www.youtube.com/watch?v=Fuac__g928E)
