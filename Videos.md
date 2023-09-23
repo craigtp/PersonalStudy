@@ -1,6 +1,5 @@
 # Videos To Watch
 
-- [Domain-Driven Design patterns for a distributed system - Szymon Pobiega](https://www.youtube.com/watch?v=i3d_jzpf0gE)
 - [Building Operable Software with TDD (but not the way you think) - Martin Thwaites - NDC London 2023](https://www.youtube.com/watch?v=prLRI3VEVq4)
 - [Refactoring Is Not Just Clickbait - Kevlin Henney - NDC London 2023](https://www.youtube.com/watch?v=NMPeAW2RWdc)
 - [From Domain Boundaries to Software Architecture - Maxime Sanglan-Charlier](https://www.youtube.com/watch?v=Yo6N66lud50)
@@ -344,3 +343,4 @@
 - [2 men and a Whiteboard - Alberto Brandolini](https://skillsmatter.com/skillscasts/2145-2-men-and-a-whiteboard)
 - [EventStorming Recipes - Alberto Brandolini](https://skillsmatter.com/skillscasts/5193-alberto-brandolini)
 - [It’s not simple at all! - Alberto Brandolini](https://skillsmatter.com/skillscasts/3995-its-not-simple-at-all)
+- [Domain-Driven Design patterns for a distributed system - Szymon Pobiega](https://www.youtube.com/watch?v=i3d_jzpf0gE)
