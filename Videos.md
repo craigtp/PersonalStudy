@@ -1,12 +1,13 @@
 # Videos To Watch
 
+- [Technical Neglect: Kelvin Henney](https://www.youtube.com/watch?v=YJPu_TNedTs)
+- [Kevlin Henney — The Case for Technical Excellence](https://www.youtube.com/watch?v=LLEXAdO3X1o)
+- [Evolution of Financial Exchange Architectures](https://www.youtube.com/watch?v=qDhTjE0XmkE)
 - [Building Operable Software with TDD (but not the way you think) - Martin Thwaites - NDC London 2023](https://www.youtube.com/watch?v=prLRI3VEVq4)
-- [Refactoring Is Not Just Clickbait - Kevlin Henney - NDC London 2023](https://www.youtube.com/watch?v=NMPeAW2RWdc)
 - [From Domain Boundaries to Software Architecture - Maxime Sanglan-Charlier](https://www.youtube.com/watch?v=Yo6N66lud50)
 - [Top 5 techniques for building the worst microservice system ever - William Brander - NDC London 2023](https://www.youtube.com/watch?v=88_LUw1Wwe4)
 - [Building confidence in concurrent code with a model checker - Scott Wlaschin - NDC London 2023](https://www.youtube.com/watch?v=qs_mmezrOWs)
 - [Apache Kafka in 1 hour for C# Developers - Guilherme Ferreira - NDC London 2023](https://www.youtube.com/watch?v=4xpjlqIlfY8)
-- [Where we're going... we don't need batch jobs - Adam Ralph - NDC London 2023](https://www.youtube.com/watch?v=9ix0vVL34-M)
 - [Building Secure Microservices in Azure - Jimmy Bogard - NDC London 2023](https://www.youtube.com/watch?v=3611y9h-U-0)
 - [Writing Code with Code: Getting Started with the Roslyn APIs - Steve Gordon - NDC London 2023](https://www.youtube.com/watch?v=2AtNjxnwxZk)
 - [.NET Systems Programming Learned the Hard Way - Aaron Stannard - NDC Oslo 2023](https://www.youtube.com/watch?v=fi9P3-7VqHo)
@@ -344,3 +345,5 @@
 - [EventStorming Recipes - Alberto Brandolini](https://skillsmatter.com/skillscasts/5193-alberto-brandolini)
 - [It’s not simple at all! - Alberto Brandolini](https://skillsmatter.com/skillscasts/3995-its-not-simple-at-all)
 - [Domain-Driven Design patterns for a distributed system - Szymon Pobiega](https://www.youtube.com/watch?v=i3d_jzpf0gE)
+- [Where we're going... we don't need batch jobs - Adam Ralph - NDC London 2023](https://www.youtube.com/watch?v=9ix0vVL34-M)
+- [Refactoring Is Not Just Clickbait - Kevlin Henney - NDC London 2023](https://www.youtube.com/watch?v=NMPeAW2RWdc)
