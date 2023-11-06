@@ -347,3 +347,4 @@
 - [Domain-Driven Design patterns for a distributed system - Szymon Pobiega](https://www.youtube.com/watch?v=i3d_jzpf0gE)
 - [Where we're going... we don't need batch jobs - Adam Ralph - NDC London 2023](https://www.youtube.com/watch?v=9ix0vVL34-M)
 - [Refactoring Is Not Just Clickbait - Kevlin Henney - NDC London 2023](https://www.youtube.com/watch?v=NMPeAW2RWdc)
+- [Intentional Code - Minimalism in a World of Dogmatic Design - David Whitney - Copenhagen DevFest](https://www.youtube.com/watch?v=CDcP5e7-NOU)
