@@ -1,6 +1,13 @@
 # Videos To Watch
 
-- [Technical Neglect: Kelvin Henney](https://www.youtube.com/watch?v=YJPu_TNedTs)
+- [Modelling vs Reality - Einar Høst - Copenhagen DevFest 2023](https://www.youtube.com/watch?v=qpoRnBZlh7Y)
+- [Bounded Contexts: Manage the Understandability of Your Systems - Gien Verschatse & Mathias Verraes](https://www.youtube.com/watch?v=GKQR8auJvdM)
+- [How Work Works - James Lewis - Copenhagen DevFest 2023](https://www.youtube.com/watch?v=qT6WY051nY4)
+- [Architecture Modernization: Aligning Software, Strategy, and Structure - Nick Tune](https://www.youtube.com/watch?v=Ls3XnV3BIyU)
+- [Correcting Common Async/Await Mistakes in .NET 8 - Brandon Minnick - Copenhagen DevFest 2023](https://www.youtube.com/watch?v=zhCRX3B7qwY)
+- [From Domain Boundaries to Software Architecture - Maxime Sanglan-Charlier & Nick Tune](https://www.youtube.com/watch?v=rU-F8op6f-I)
+- [What’s Next in C#? - Mads Torgersen - Copenhagen DevFest 2023](https://www.youtube.com/watch?v=gGzfAJwoH5A)
+- [Unleashing Clean Architecture in .NET 8 - Jason Taylor - Copenhagen DevFest 2023](https://www.youtube.com/watch?v=yB01HaG0i0w)
 - [Kevlin Henney — The Case for Technical Excellence](https://www.youtube.com/watch?v=LLEXAdO3X1o)
 - [Evolution of Financial Exchange Architectures](https://www.youtube.com/watch?v=qDhTjE0XmkE)
 - [Building Operable Software with TDD (but not the way you think) - Martin Thwaites - NDC London 2023](https://www.youtube.com/watch?v=prLRI3VEVq4)
@@ -348,3 +355,4 @@
 - [Where we're going... we don't need batch jobs - Adam Ralph - NDC London 2023](https://www.youtube.com/watch?v=9ix0vVL34-M)
 - [Refactoring Is Not Just Clickbait - Kevlin Henney - NDC London 2023](https://www.youtube.com/watch?v=NMPeAW2RWdc)
 - [Intentional Code - Minimalism in a World of Dogmatic Design - David Whitney - Copenhagen DevFest](https://www.youtube.com/watch?v=CDcP5e7-NOU)
+- [Technical Neglect: Kelvin Henney](https://www.youtube.com/watch?v=YJPu_TNedTs)
