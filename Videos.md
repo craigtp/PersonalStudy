@@ -1,5 +1,7 @@
 # Videos To Watch
 
+- [Keynote -- CQRS Global Introduction. DDD IASA (3/8) - Udi Dahan](https://www.youtube.com/watch?v=EkEz3pcLdgY)
+- [OSS Power-Ups: MassTransit](https://www.youtube.com/watch?v=sbt9p7jqe74)
 - [Modelling vs Reality - Einar Høst - Copenhagen DevFest 2023](https://www.youtube.com/watch?v=qpoRnBZlh7Y)
 - [Bounded Contexts: Manage the Understandability of Your Systems - Gien Verschatse & Mathias Verraes](https://www.youtube.com/watch?v=GKQR8auJvdM)
 - [How Work Works - James Lewis - Copenhagen DevFest 2023](https://www.youtube.com/watch?v=qT6WY051nY4)
@@ -14,7 +16,6 @@
 - [From Domain Boundaries to Software Architecture - Maxime Sanglan-Charlier](https://www.youtube.com/watch?v=Yo6N66lud50)
 - [Top 5 techniques for building the worst microservice system ever - William Brander - NDC London 2023](https://www.youtube.com/watch?v=88_LUw1Wwe4)
 - [Building confidence in concurrent code with a model checker - Scott Wlaschin - NDC London 2023](https://www.youtube.com/watch?v=qs_mmezrOWs)
-- [Apache Kafka in 1 hour for C# Developers - Guilherme Ferreira - NDC London 2023](https://www.youtube.com/watch?v=4xpjlqIlfY8)
 - [Building Secure Microservices in Azure - Jimmy Bogard - NDC London 2023](https://www.youtube.com/watch?v=3611y9h-U-0)
 - [Writing Code with Code: Getting Started with the Roslyn APIs - Steve Gordon - NDC London 2023](https://www.youtube.com/watch?v=2AtNjxnwxZk)
 - [.NET Systems Programming Learned the Hard Way - Aaron Stannard - NDC Oslo 2023](https://www.youtube.com/watch?v=fi9P3-7VqHo)
@@ -356,3 +357,4 @@
 - [Refactoring Is Not Just Clickbait - Kevlin Henney - NDC London 2023](https://www.youtube.com/watch?v=NMPeAW2RWdc)
 - [Intentional Code - Minimalism in a World of Dogmatic Design - David Whitney - Copenhagen DevFest](https://www.youtube.com/watch?v=CDcP5e7-NOU)
 - [Technical Neglect: Kelvin Henney](https://www.youtube.com/watch?v=YJPu_TNedTs)
+- [Apache Kafka in 1 hour for C# Developers - Guilherme Ferreira - NDC London 2023](https://www.youtube.com/watch?v=4xpjlqIlfY8)
