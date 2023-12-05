@@ -98,3 +98,4 @@ Exploring CQRS and Event Sourcing (CQRS Journey Guide)                          
 Building Microservices                                                                             | 22 May 2021       | No
 Monolith To Microservices                                                                          | 16 June 2021      | No
 We need to talk about Scrum                                                                        | 18 June 2021      | No
+Tidy First?                                                                                        | 05 December 2023  | No
