@@ -89,8 +89,6 @@
 - [CQRS Pattern, Event Sourcing and Their Real World Applications - Neil Robbins](https://skillsmatter.com/skillscasts/1261-neil-robbins-cqrs-pattern-event-sourcing-and-their-real-world-applications)
 - [DDD, The Hotel Business & The Effects Of Time - Jeremie Chassaing](https://skillsmatter.com/skillscasts/5298-jeremie-chassaing)
 - [Architectural Innovation: CQRS and the biggest mistakes teams make when applying DDD - Udi Dahan](https://skillsmatter.com/skillscasts/1253-architectural-innovation-cqrs-and-the-biggest-mistakes-teams-make-when-applying-ddd)
-- [Recording of a Q&A session at the DDD eXchange on, you guessed it: DDD, CQRS & Event Sourcing - Udi Dahan](https://skillsmatter.com/skillscasts/1430-qa)
-- [Challenging the fundamental assumptions of DDD - Eric Evans](https://skillsmatter.com/skillscasts/5192-eric-evans)
 
 # Videos Already Watched
 - [Red, Green...What Now?!](https://www.youtube.com/watch?v=fSr8LDcb0Y0)
@@ -360,3 +358,5 @@
 - [Intentional Code - Minimalism in a World of Dogmatic Design - David Whitney - Copenhagen DevFest](https://www.youtube.com/watch?v=CDcP5e7-NOU)
 - [Technical Neglect: Kelvin Henney](https://www.youtube.com/watch?v=YJPu_TNedTs)
 - [Apache Kafka in 1 hour for C# Developers - Guilherme Ferreira - NDC London 2023](https://www.youtube.com/watch?v=4xpjlqIlfY8)
+- [Challenging the fundamental assumptions of DDD - Eric Evans](https://skillsmatter.com/skillscasts/5192-eric-evans)
+- [Recording of a Q&A session at the DDD eXchange on, you guessed it: DDD, CQRS & Event Sourcing - Udi Dahan](https://skillsmatter.com/skillscasts/1430-qa)
