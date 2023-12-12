@@ -1,6 +1,6 @@
 # Videos To Watch
 
-- [.NET Systems Programming Learned the Hard Way - Aaron Stannard](https://www.youtube.com/watch?v=lx39ih2eyeE)
+- [Large-Scale Architecture: The Unreasonable Effectiveness of Simplicity - Randy Shoup - YOW! 2022](https://www.youtube.com/watch?v=oejXFgvAwTA)
 - [CQRS with Event Sourcing using the “Critter Stack” | .NET Conf 2023](https://www.youtube.com/watch?v=KousO1UsHYM)
 - [Keynote -- CQRS Global Introduction. DDD IASA (3/8) - Udi Dahan](https://www.youtube.com/watch?v=EkEz3pcLdgY)
 - [OSS Power-Ups: MassTransit](https://www.youtube.com/watch?v=sbt9p7jqe74)
