@@ -1,6 +1,6 @@
 # Videos To Watch
 
-- [Large-Scale Architecture: The Unreasonable Effectiveness of Simplicity - Randy Shoup - YOW! 2022](https://www.youtube.com/watch?v=oejXFgvAwTA)
+- [Software Art Thou: Glenn Vanderburg - Real Software Engineering](https://www.youtube.com/watch?v=RhdlBHHimeM)
 - [CQRS with Event Sourcing using the “Critter Stack” | .NET Conf 2023](https://www.youtube.com/watch?v=KousO1UsHYM)
 - [Keynote -- CQRS Global Introduction. DDD IASA (3/8) - Udi Dahan](https://www.youtube.com/watch?v=EkEz3pcLdgY)
 - [OSS Power-Ups: MassTransit](https://www.youtube.com/watch?v=sbt9p7jqe74)
@@ -360,3 +360,4 @@
 - [Apache Kafka in 1 hour for C# Developers - Guilherme Ferreira - NDC London 2023](https://www.youtube.com/watch?v=4xpjlqIlfY8)
 - [Challenging the fundamental assumptions of DDD - Eric Evans](https://skillsmatter.com/skillscasts/5192-eric-evans)
 - [Recording of a Q&A session at the DDD eXchange on, you guessed it: DDD, CQRS & Event Sourcing - Udi Dahan](https://skillsmatter.com/skillscasts/1430-qa)
+- [Large-Scale Architecture: The Unreasonable Effectiveness of Simplicity - Randy Shoup - YOW! 2022](https://www.youtube.com/watch?v=oejXFgvAwTA)
