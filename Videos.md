@@ -12,7 +12,6 @@
 - [From Domain Boundaries to Software Architecture - Maxime Sanglan-Charlier & Nick Tune](https://www.youtube.com/watch?v=rU-F8op6f-I)
 - [What’s Next in C#? - Mads Torgersen - Copenhagen DevFest 2023](https://www.youtube.com/watch?v=gGzfAJwoH5A)
 - [Unleashing Clean Architecture in .NET 8 - Jason Taylor - Copenhagen DevFest 2023](https://www.youtube.com/watch?v=yB01HaG0i0w)
-- [Kevlin Henney — The Case for Technical Excellence](https://www.youtube.com/watch?v=LLEXAdO3X1o)
 - [Evolution of Financial Exchange Architectures](https://www.youtube.com/watch?v=qDhTjE0XmkE)
 - [Building Operable Software with TDD (but not the way you think) - Martin Thwaites - NDC London 2023](https://www.youtube.com/watch?v=prLRI3VEVq4)
 - [From Domain Boundaries to Software Architecture - Maxime Sanglan-Charlier](https://www.youtube.com/watch?v=Yo6N66lud50)
@@ -361,3 +360,4 @@
 - [Challenging the fundamental assumptions of DDD - Eric Evans](https://skillsmatter.com/skillscasts/5192-eric-evans)
 - [Recording of a Q&A session at the DDD eXchange on, you guessed it: DDD, CQRS & Event Sourcing - Udi Dahan](https://skillsmatter.com/skillscasts/1430-qa)
 - [Large-Scale Architecture: The Unreasonable Effectiveness of Simplicity - Randy Shoup - YOW! 2022](https://www.youtube.com/watch?v=oejXFgvAwTA)
+- [Kevlin Henney — The Case for Technical Excellence](https://www.youtube.com/watch?v=LLEXAdO3X1o)
