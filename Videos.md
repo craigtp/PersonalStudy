@@ -1,7 +1,15 @@
 # Videos To Watch
 
+- [Don't Build a Distributed Monolith: How to Avoid Doing Microservices Wrong - Jonathan J. Tower](https://www.youtube.com/watch?v=9iW_2MMLd4w)
+- [C4 models as code - Simon Brown - NDC Porto 2023](https://www.youtube.com/watch?v=OmAiWPLrwkw)
+- [Top 5 techniques for building the worst microservice system ever - William Brander - NDC Porto 2023](https://www.youtube.com/watch?v=gjqZLEyS5ww)
+- [Performance tricks I learned from contributing to the Azure .NET SDK - Daniel Marbach - NDC Porto 2023](https://www.youtube.com/watch?v=HRWI1LULNsM)
+- [My Worst Code Was My Best Code - Liam Westley - NDC Porto 2023](https://www.youtube.com/watch?v=_Mb0gQmTtB8)
+- [Mirror, mirror on the wall... Am I a critical thinker after all? - Laila Bougria - NDC Porto 2023](https://www.youtube.com/watch?v=fxB2aMKcZDw)
+- [Email vs Capitalism, or, Why We Can't Have Nice Things - Dylan Beattie - NDC Porto 2023](https://www.youtube.com/watch?v=6siutYQYSig)
+- [Keynote: Where Web Tech is Going Now - Steve Sanderson - NDC Porto 2023](https://www.youtube.com/watch?v=fIYYC_p_uU8)
 - [Designing A Data-Intensive Future: Expert Talk - Martin Kleppmann & Jesse Anderson - GOTO 2023](https://www.youtube.com/watch?v=P-9FwZxO1zE)
-- [CQRS with Event Sourcing using the “Critter Stack” | .NET Conf 2023](https://www.youtube.com/watch?v=KousO1UsHYM)
+- [CQRS with Event Sourcing using the "Critter Stack" | .NET Conf 2023](https://www.youtube.com/watch?v=KousO1UsHYM)
 - [Keynote -- CQRS Global Introduction. DDD IASA (3/8) - Udi Dahan](https://www.youtube.com/watch?v=EkEz3pcLdgY)
 - [OSS Power-Ups: MassTransit](https://www.youtube.com/watch?v=sbt9p7jqe74)
 - [Modelling vs Reality - Einar Høst - Copenhagen DevFest 2023](https://www.youtube.com/watch?v=qpoRnBZlh7Y)
