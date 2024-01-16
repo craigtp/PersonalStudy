@@ -370,3 +370,4 @@
 - [Large-Scale Architecture: The Unreasonable Effectiveness of Simplicity - Randy Shoup - YOW! 2022](https://www.youtube.com/watch?v=oejXFgvAwTA)
 - [Kevlin Henney — The Case for Technical Excellence](https://www.youtube.com/watch?v=LLEXAdO3X1o)
 - [Software Art Thou: Glenn Vanderburg - Real Software Engineering](https://www.youtube.com/watch?v=RhdlBHHimeM)
+- [DDD in large product portfolios - Andreas Pinhammer - DDD Europe](https://www.youtube.com/watch?v=FzycqiJVioI)
