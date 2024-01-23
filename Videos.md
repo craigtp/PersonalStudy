@@ -371,3 +371,4 @@
 - [Kevlin Henney — The Case for Technical Excellence](https://www.youtube.com/watch?v=LLEXAdO3X1o)
 - [Software Art Thou: Glenn Vanderburg - Real Software Engineering](https://www.youtube.com/watch?v=RhdlBHHimeM)
 - [DDD in large product portfolios - Andreas Pinhammer - DDD Europe](https://www.youtube.com/watch?v=FzycqiJVioI)
+- [Pushing C# to the Limit - Joseph Albahari - YOW! 2017](https://www.youtube.com/watch?v=T8WzpYzq2wI)
