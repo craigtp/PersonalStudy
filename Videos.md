@@ -1,7 +1,8 @@
 # Videos To Watch
 
+- [Microservices Meetup Munich - Event Modeling with Adam Dymitruk](https://www.youtube.com/watch?v=MbkDDnqUm90)
+- [Pipeline-oriented programming - Scott Wlaschin - NDC Porto 2023](https://www.youtube.com/watch?v=ipceTuJlw-M)
 - [Don't Build a Distributed Monolith: How to Avoid Doing Microservices Wrong - Jonathan J. Tower](https://www.youtube.com/watch?v=9iW_2MMLd4w)
-- [C4 models as code - Simon Brown - NDC Porto 2023](https://www.youtube.com/watch?v=OmAiWPLrwkw)
 - [Top 5 techniques for building the worst microservice system ever - William Brander - NDC Porto 2023](https://www.youtube.com/watch?v=gjqZLEyS5ww)
 - [Performance tricks I learned from contributing to the Azure .NET SDK - Daniel Marbach - NDC Porto 2023](https://www.youtube.com/watch?v=HRWI1LULNsM)
 - [My Worst Code Was My Best Code - Liam Westley - NDC Porto 2023](https://www.youtube.com/watch?v=_Mb0gQmTtB8)
@@ -372,3 +373,4 @@
 - [Software Art Thou: Glenn Vanderburg - Real Software Engineering](https://www.youtube.com/watch?v=RhdlBHHimeM)
 - [DDD in large product portfolios - Andreas Pinhammer - DDD Europe](https://www.youtube.com/watch?v=FzycqiJVioI)
 - [Pushing C# to the Limit - Joseph Albahari - YOW! 2017](https://www.youtube.com/watch?v=T8WzpYzq2wI)
+- [Simon Brown - The lost art of software design](https://www.youtube.com/watch?v=UzFpFQgeEyc)
