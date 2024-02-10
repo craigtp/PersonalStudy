@@ -99,3 +99,4 @@ Building Microservices                                                          
 Monolith To Microservices                                                                          | 16 June 2021      | No
 We need to talk about Scrum                                                                        | 18 June 2021      | No
 Tidy First?                                                                                        | 05 December 2023  | No
+Understanding the Four Rules of Simple Design                                                      | 10 February 2024  | No
