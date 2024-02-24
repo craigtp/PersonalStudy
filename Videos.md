@@ -1,8 +1,8 @@
 # Videos To Watch
 
+- [Gregor Hohpe - AWS re:Invent 2023 - Application architecture as code (GBL301) - English version](https://www.youtube.com/watch?v=vasvpFRPx9c)
 - [Microservices Meetup Munich - Event Modeling with Adam Dymitruk](https://www.youtube.com/watch?v=MbkDDnqUm90)
 - [Pipeline-oriented programming - Scott Wlaschin - NDC Porto 2023](https://www.youtube.com/watch?v=ipceTuJlw-M)
-- [Don't Build a Distributed Monolith: How to Avoid Doing Microservices Wrong - Jonathan J. Tower](https://www.youtube.com/watch?v=9iW_2MMLd4w)
 - [Top 5 techniques for building the worst microservice system ever - William Brander - NDC Porto 2023](https://www.youtube.com/watch?v=gjqZLEyS5ww)
 - [Performance tricks I learned from contributing to the Azure .NET SDK - Daniel Marbach - NDC Porto 2023](https://www.youtube.com/watch?v=HRWI1LULNsM)
 - [My Worst Code Was My Best Code - Liam Westley - NDC Porto 2023](https://www.youtube.com/watch?v=_Mb0gQmTtB8)
@@ -38,7 +38,6 @@
 - [.NET gRPC - deep dive - Irina Scurtu - NDC Oslo 2023](https://www.youtube.com/watch?v=x_OKoJ_1j8U)
 - [Developing microservices like a boss with Dapr and Azure Container Apps - Jakob Ehn - NDC Oslo 2023](https://www.youtube.com/watch?v=npVfxDiEyeg)
 - [A Contrarian View of Software Architecture - Jeremy Miller - NDC Oslo 2023](https://www.youtube.com/watch?v=ttYQzHPe5s4)
-- [Practical OpenTelemetry for .NET - Martin Thwaites - NDC Oslo 2023](https://www.youtube.com/watch?v=c4AJlZeX2fE)
 - [Celebrity Deathmatch: Akka.NET vs Orleans - Hannes Lowette - NDC Oslo 2023](https://www.youtube.com/watch?v=HEiv03q8lcU)
 - [C4 models as code - Simon Brown - NDC Oslo 2023](https://www.youtube.com/watch?v=4HEd1EEQLR0)
 - [Introduction to Actor-based Development with Project Orleans - Chris Klug - NDC Oslo 2023](https://www.youtube.com/watch?v=-NdkAW_NAb8)
@@ -374,3 +373,5 @@
 - [DDD in large product portfolios - Andreas Pinhammer - DDD Europe](https://www.youtube.com/watch?v=FzycqiJVioI)
 - [Pushing C# to the Limit - Joseph Albahari - YOW! 2017](https://www.youtube.com/watch?v=T8WzpYzq2wI)
 - [Simon Brown - The lost art of software design](https://www.youtube.com/watch?v=UzFpFQgeEyc)
+- [Practical OpenTelemetry for .NET - Martin Thwaites - NDC Oslo 2023](https://www.youtube.com/watch?v=c4AJlZeX2fE)
+- [Don't Build a Distributed Monolith: How to Avoid Doing Microservices Wrong - Jonathan J. Tower](https://www.youtube.com/watch?v=9iW_2MMLd4w)
