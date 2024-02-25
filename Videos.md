@@ -1,7 +1,6 @@
 # Videos To Watch
 
 - [Gregor Hohpe - AWS re:Invent 2023 - Application architecture as code (GBL301) - English version](https://www.youtube.com/watch?v=vasvpFRPx9c)
-- [Microservices Meetup Munich - Event Modeling with Adam Dymitruk](https://www.youtube.com/watch?v=MbkDDnqUm90)
 - [Pipeline-oriented programming - Scott Wlaschin - NDC Porto 2023](https://www.youtube.com/watch?v=ipceTuJlw-M)
 - [Top 5 techniques for building the worst microservice system ever - William Brander - NDC Porto 2023](https://www.youtube.com/watch?v=gjqZLEyS5ww)
 - [Performance tricks I learned from contributing to the Azure .NET SDK - Daniel Marbach - NDC Porto 2023](https://www.youtube.com/watch?v=HRWI1LULNsM)
@@ -375,3 +374,4 @@
 - [Simon Brown - The lost art of software design](https://www.youtube.com/watch?v=UzFpFQgeEyc)
 - [Practical OpenTelemetry for .NET - Martin Thwaites - NDC Oslo 2023](https://www.youtube.com/watch?v=c4AJlZeX2fE)
 - [Don't Build a Distributed Monolith: How to Avoid Doing Microservices Wrong - Jonathan J. Tower](https://www.youtube.com/watch?v=9iW_2MMLd4w)
+- [Microservices Meetup Munich - Event Modeling with Adam Dymitruk](https://www.youtube.com/watch?v=MbkDDnqUm90)
