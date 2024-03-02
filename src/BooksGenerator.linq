@@ -105,7 +105,8 @@ void Main()
 		new { Title = "Monolith To Microservices", LastRead = DateTime.Parse("16 June 2021"), NotesTaken = false },
 		new { Title = "We need to talk about Scrum", LastRead = DateTime.Parse("18 June 2021"), NotesTaken = false },
 		new { Title = "Tidy First?", LastRead = DateTime.Parse("05 December 2023"), NotesTaken = false },
-		new { Title = "Understanding the Four Rules of Simple Design", LastRead = DateTime.Parse("10 February 2024"), NotesTaken = false }
+		new { Title = "Understanding the Four Rules of Simple Design", LastRead = DateTime.Parse("10 February 2024"), NotesTaken = false },
+		new { Title = "Accelerate: Building and Scaling High Performing Technology Organizations", LastRead = DateTime.Parse("2 March 2024"), NotesTaken = false }
 	};
 
 	var booksMarkdown = new StringBuilder();
