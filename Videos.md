@@ -1,5 +1,8 @@
 # Videos To Watch
 
+- [The Code Quality Advantage: How Empirical Data Shatters the Speed vs Quality Myth by Adam Tornhill](https://www.youtube.com/watch?v=ty9d7wEVTwc)
+- [Build Abstractions Not Illusions - Gregor Hohpe - YOW! 2023](https://www.youtube.com/watch?v=aWZFRk-w3ng)
+- [Beyond producers and consumers: Avoiding common issues with event-driven architectures - David Boyne](https://www.youtube.com/watch?v=8jGJbtb88YA)
 - [Gregor Hohpe - AWS re:Invent 2023 - Application architecture as code (GBL301) - English version](https://www.youtube.com/watch?v=vasvpFRPx9c)
 - [Pipeline-oriented programming - Scott Wlaschin - NDC Porto 2023](https://www.youtube.com/watch?v=ipceTuJlw-M)
 - [Top 5 techniques for building the worst microservice system ever - William Brander - NDC Porto 2023](https://www.youtube.com/watch?v=gjqZLEyS5ww)
