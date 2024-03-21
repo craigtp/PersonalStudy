@@ -6,53 +6,12 @@ Designing Data Intensive Applications |
 
 Books To Read
 =============
-Title                                                                                          |
----------------------------------------------------------------------------------------------- |
-Domain Modeling Made Functional                                                                |
-Implementing Domain Driven Design                                                              |
-Domain Storytelling                                                                            |
-The Art of Immutable Architecture                                                              |
-Get Programming With F#                                                                        |
-Building Event-Driven Microservices                                                            |
-Righting Software                                                                              |
-Patterns, Principles and Practices of Domain Driven Design                                     |
-Hands On Domain Driven Design By Example                                                       |
-The Design Of Everyday Things                                                                  |
-Rework                                                                                         |
-The Lean Startup                                                                               |
-Accelerate                                                                                     |
-Enterprise Integration Patterns: Designing. Building. and Deploying Messaging Solutions        |
-Patterns Of Enterprise Application Architecture                                                |
-Functional And Reactive Domain Modeling                                                        |
-Reactive Applications With Akka.Net                                                            |
-Hands-On Software Architecture With C# 8 and .NET Core 3                                       |
-The Imposter's Handbook                                                                        |
-The Imposter's Handbook Season 2                                                               |
-Clean Code: A Handbook of Agile Software Craftsmanship                                         |
-Refactoring: Improving the Design of Existing Code                                             |
-Test Driven Development By Example                                                             |
-Working Effectively With Legacy Code                                                           |
-Agile Principles, Patterns, and Practices in C#                                                |
-Design Patterns: Elements of Reusable Object-Oriented Software                                 |
-Peopleware: Productive Projects and Teams (3rd Edition)                                        |
-The Mythical Man-Month: Essays on Software Engineering (Anniversary Edition)                   |
-Growing Object-Oriented Software Guided by Tests                                               |
-Dependency Injection In .NET                                                                   |
-Refactoring to patterns                                                                        |
-The Clean Coder                                                                                |
-The Passionate Programmer: Creating a Remarkable Career in Software Development                |
-Concurrency in C#                                                                              |
-Beautiful Code: Leading Programmers Explain How They Think                                     |
-Programming Pearls (2nd Edition)                                                               |
-Object Oriented Software Construction                                                          |
-Introducing Event Storming                                                                     |
-Code: The Hidden Language of Computer Hardware and Software                                    |
-Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability (3rd Edition)         |
-Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation |
-Code Complete: A Practical Handbook of Software Construction (2nd Edition)                     |
-The Pragmatic Programmer: From Journeyman to Master 2nd Edition                                |
-Introduction to Algorithms 3rd Edition                                                         |
-Structure And Interpretation of Computer Programs                                              |
+Title                             |
+--------------------------------- |
+Code That Fits In Your Head       |
+Domain Modeling Made Functional   |
+Implementing Domain Driven Design |
+Patterns Of Distributed Systems   |
 
 Books Already Read
 ==================
