@@ -10,15 +10,20 @@ void Main()
 
 	var currentlyReading = new[]
 	{
-		new { Title = "Designing Data Intensive Applications" }
+		new { Title = "Code That Fits In Your Head" },
 	};
 
 	var booksToRead = new[]
 	{
-		new { Title = "Code That Fits In Your Head" },
+		new { Title = "Team Topologies" },
 		new { Title = "Domain Modeling Made Functional" },
+		new { Title = "Modern Software Engineering" },
 		new { Title = "Implementing Domain Driven Design" },
 		new { Title = "Patterns Of Distributed Systems" },
+		new { Title = "Fundamentals of Software Architecture: An Engineering Approach" },
+		new { Title	= "Building Event-Driven Microservices" },
+		new { Title = "Software Architecture: The Hard Parts" },
+		new { Title = "Foundations of Scalable Systems" },
 	};
 
 	var booksAlreadyRead = new[]
@@ -65,7 +70,8 @@ void Main()
 		new { Title = "We need to talk about Scrum", LastRead = DateTime.Parse("18 June 2021"), NotesTaken = false },
 		new { Title = "Tidy First?", LastRead = DateTime.Parse("05 December 2023"), NotesTaken = false },
 		new { Title = "Understanding the Four Rules of Simple Design", LastRead = DateTime.Parse("10 February 2024"), NotesTaken = false },
-		new { Title = "Accelerate: Building and Scaling High Performing Technology Organizations", LastRead = DateTime.Parse("2 March 2024"), NotesTaken = false }
+		new { Title = "Accelerate: Building and Scaling High Performing Technology Organizations", LastRead = DateTime.Parse("2 March 2024"), NotesTaken = false },
+		new { Title = "Designing Data-Intensive Applications", LastRead = DateTime.Parse("4 April 2024"), NotesTaken = true }
 	};
 
 	var booksMarkdown = new StringBuilder();

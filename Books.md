@@ -1,17 +1,22 @@
 Currently Reading
 =================
-Title                                 |
-------------------------------------- |
-Designing Data Intensive Applications |
+Title                       |
+--------------------------- |
+Code That Fits In Your Head |
 
 Books To Read
 =============
-Title                             |
---------------------------------- |
-Code That Fits In Your Head       |
-Domain Modeling Made Functional   |
-Implementing Domain Driven Design |
-Patterns Of Distributed Systems   |
+Title                                                          |
+-------------------------------------------------------------- |
+Team Topologies                                                |
+Domain Modeling Made Functional                                |
+Modern Software Engineering                                    |
+Implementing Domain Driven Design                              |
+Patterns Of Distributed Systems                                |
+Fundamentals of Software Architecture: An Engineering Approach |
+Building Event-Driven Microservices                            |
+Software Architecture: The Hard Parts                          |
+Foundations of Scalable Systems                                |
 
 Books Already Read
 ==================
@@ -60,3 +65,4 @@ We need to talk about Scrum                                                     
 Tidy First?                                                                                        | 05 December 2023  | No
 Understanding the Four Rules of Simple Design                                                      | 10 February 2024  | No
 Accelerate: Building and Scaling High Performing Technology Organizations                          | 02 March 2024     | No
+Designing Data-Intensive Applications                                                              | 04 April 2024     | Yes
