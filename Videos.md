@@ -379,3 +379,4 @@
 - [Practical OpenTelemetry for .NET - Martin Thwaites - NDC Oslo 2023](https://www.youtube.com/watch?v=c4AJlZeX2fE)
 - [Don't Build a Distributed Monolith: How to Avoid Doing Microservices Wrong - Jonathan J. Tower](https://www.youtube.com/watch?v=9iW_2MMLd4w)
 - [Microservices Meetup Munich - Event Modeling with Adam Dymitruk](https://www.youtube.com/watch?v=MbkDDnqUm90)
+- [Writing async/await from scratch in C# with Stephen Toub](https://www.youtube.com/watch?v=R-z2Hv-7nxk)
