@@ -13,10 +13,16 @@ Domain Modeling Made Functional                                |
 Modern Software Engineering                                    |
 Implementing Domain Driven Design                              |
 Patterns Of Distributed Systems                                |
+Enterprise Integration Patterns                                |
 Fundamentals of Software Architecture: An Engineering Approach |
 Building Event-Driven Microservices                            |
 Software Architecture: The Hard Parts                          |
+Patterns of Enterprise Application Architecture                |
 Foundations of Scalable Systems                                |
+Continuous Delivery                                            |
+Working Effectively with Legacy Code                           |
+Refactoring                                                    |
+A Philosophy of Software Design 2nd Edition                    |
 
 Books Already Read
 ==================

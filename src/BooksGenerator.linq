@@ -20,10 +20,16 @@ void Main()
 		new { Title = "Modern Software Engineering" },
 		new { Title = "Implementing Domain Driven Design" },
 		new { Title = "Patterns Of Distributed Systems" },
+		new { Title = "Enterprise Integration Patterns" },
 		new { Title = "Fundamentals of Software Architecture: An Engineering Approach" },
 		new { Title	= "Building Event-Driven Microservices" },
 		new { Title = "Software Architecture: The Hard Parts" },
+		new { Title = "Patterns of Enterprise Application Architecture" },
 		new { Title = "Foundations of Scalable Systems" },
+		new { Title = "Continuous Delivery" },
+		new { Title = "Working Effectively with Legacy Code" },
+		new { Title = "Refactoring" },
+		new { Title = "A Philosophy of Software Design 2nd Edition" },
 	};
 
 	var booksAlreadyRead = new[]
