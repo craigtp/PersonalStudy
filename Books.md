@@ -30,7 +30,7 @@ Title                                                                           
 -------------------------------------------------------------------------------------------------- | ----------------- | -----------
 Professional Test-Driven Development with C#                                                       | 16 December 2014  | No
 Kanban in Action                                                                                   | 10 March 2015     | No
-ServiceStack Succintly                                                                             | 10 July 2015      | No
+ServiceStack Succinctly                                                                            | 10 July 2015      | No
 ASP.NET Web API 2 - Building a REST service from start to finish                                   | 01 September 2015 | No
 The Pragmatic Programmer                                                                           | 30 November 2015  | No
 Async In C#                                                                                        | 10 January 2016   | No
@@ -47,7 +47,7 @@ Agile Software Development Succinctly                                           
 Broken Agile                                                                                       | 06 December 2017  | No
 The Imposter's Handbook                                                                            | 27 January 2018   | No
 Software Requirements (3rd Edition)                                                                | 06 April 2018     | Yes
-Architecting Modern Web Aplications With ASP.NET Core and Microsoft Azure                          | 09 May 2018       | No
+Architecting Modern Web Applications With ASP.NET Core and Microsoft Azure                         | 09 May 2018       | No
 RabbitMQ Succinctly                                                                                | 30 August 2018    | No
 Git Pocket Guide                                                                                   | 25 September 2018 | No
 It Doesn't Have To Be Crazy At Work                                                                | 26 January 2019   | No
