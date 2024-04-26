@@ -1,5 +1,7 @@
 # Videos To Watch
 
+- [Deep Dive on LINQ with Stephen Toub](https://www.youtube.com/watch?v=xKr96nIyCFM)
+- [An even DEEPER Dive into LINQ with Stephen Toub](https://www.youtube.com/watch?v=W4-NVVNwCWs)
 - [The Code Quality Advantage: How Empirical Data Shatters the Speed vs Quality Myth by Adam Tornhill](https://www.youtube.com/watch?v=ty9d7wEVTwc)
 - [Build Abstractions Not Illusions - Gregor Hohpe - YOW! 2023](https://www.youtube.com/watch?v=aWZFRk-w3ng)
 - [Beyond producers and consumers: Avoiding common issues with event-driven architectures - David Boyne](https://www.youtube.com/watch?v=8jGJbtb88YA)
