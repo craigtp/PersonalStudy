@@ -16,6 +16,7 @@ void Main()
 	var booksToRead = new[]
 	{
 		new { Title = "Team Topologies" },
+		new { Title = "Refactoring at Scale" },
 		new { Title = "Domain Modeling Made Functional" },
 		new { Title = "Modern Software Engineering" },
 		new { Title = "Implementing Domain Driven Design" },

@@ -9,6 +9,7 @@ Books To Read
 Title                                                          |
 -------------------------------------------------------------- |
 Team Topologies                                                |
+Refactoring at Scale                                           |
 Domain Modeling Made Functional                                |
 Modern Software Engineering                                    |
 Implementing Domain Driven Design                              |
