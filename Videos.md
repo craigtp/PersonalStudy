@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [How to Bake a Change • Daniel Terhorst-North - GOTO 2023](https://www.youtube.com/watch?v=wO8M6M39vZk)
 - [Deep Dive on LINQ with Stephen Toub](https://www.youtube.com/watch?v=xKr96nIyCFM)
 - [An even DEEPER Dive into LINQ with Stephen Toub](https://www.youtube.com/watch?v=W4-NVVNwCWs)
 - [The Code Quality Advantage: How Empirical Data Shatters the Speed vs Quality Myth by Adam Tornhill](https://www.youtube.com/watch?v=ty9d7wEVTwc)
@@ -11,7 +12,6 @@
 - [Performance tricks I learned from contributing to the Azure .NET SDK - Daniel Marbach - NDC Porto 2023](https://www.youtube.com/watch?v=HRWI1LULNsM)
 - [My Worst Code Was My Best Code - Liam Westley - NDC Porto 2023](https://www.youtube.com/watch?v=_Mb0gQmTtB8)
 - [Mirror, mirror on the wall... Am I a critical thinker after all? - Laila Bougria - NDC Porto 2023](https://www.youtube.com/watch?v=fxB2aMKcZDw)
-- [Email vs Capitalism, or, Why We Can't Have Nice Things - Dylan Beattie - NDC Porto 2023](https://www.youtube.com/watch?v=6siutYQYSig)
 - [Keynote: Where Web Tech is Going Now - Steve Sanderson - NDC Porto 2023](https://www.youtube.com/watch?v=fIYYC_p_uU8)
 - [Designing A Data-Intensive Future: Expert Talk - Martin Kleppmann & Jesse Anderson - GOTO 2023](https://www.youtube.com/watch?v=P-9FwZxO1zE)
 - [CQRS with Event Sourcing using the "Critter Stack" | .NET Conf 2023](https://www.youtube.com/watch?v=KousO1UsHYM)
@@ -383,3 +383,7 @@
 - [Microservices Meetup Munich - Event Modeling with Adam Dymitruk](https://www.youtube.com/watch?v=MbkDDnqUm90)
 - [Writing async/await from scratch in C# with Stephen Toub](https://www.youtube.com/watch?v=R-z2Hv-7nxk)
 - [Open-Source Exploitation - David Whitney - NDC London 2024](https://www.youtube.com/watch?v=9YQgNDLFYq8)
+- [Email vs Capitalism, or, Why We Can't Have Nice Things - Dylan Beattie - NDC Porto 2023](https://www.youtube.com/watch?v=6siutYQYSig)
+- [Success On Your Own Terms - Todd Gardner - NDC London 2024](https://www.youtube.com/watch?v=3III5Dtyjrg)
+- [Devoxx Greece 2024 - Java Language Update -- a look at where the language is going by Brian Goetz](https://www.youtube.com/watch?v=bKwzONOGLxs)
+- 
