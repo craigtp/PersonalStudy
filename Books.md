@@ -24,6 +24,7 @@ Continuous Delivery                                            |
 Working Effectively with Legacy Code                           |
 Refactoring                                                    |
 A Philosophy of Software Design 2nd Edition                    |
+Test-Driven Development By Example                             |
 
 Books Already Read
 ==================

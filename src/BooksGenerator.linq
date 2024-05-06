@@ -31,6 +31,7 @@ void Main()
 		new { Title = "Working Effectively with Legacy Code" },
 		new { Title = "Refactoring" },
 		new { Title = "A Philosophy of Software Design 2nd Edition" },
+		new { Title = "Test-Driven Development By Example" },
 	};
 
 	var booksAlreadyRead = new[]
