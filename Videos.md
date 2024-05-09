@@ -1,6 +1,7 @@
 # Videos To Watch
 
-- [How to Bake a Change • Daniel Terhorst-North - GOTO 2023](https://www.youtube.com/watch?v=wO8M6M39vZk)
+- [Deep Dive into RegEx with Stephen Toub](https://www.youtube.com/watch?v=ptKjWPC7pqw)
+- [How to Bake a Change - Daniel Terhorst-North - GOTO 2023](https://www.youtube.com/watch?v=wO8M6M39vZk)
 - [Deep Dive on LINQ with Stephen Toub](https://www.youtube.com/watch?v=xKr96nIyCFM)
 - [An even DEEPER Dive into LINQ with Stephen Toub](https://www.youtube.com/watch?v=W4-NVVNwCWs)
 - [The Code Quality Advantage: How Empirical Data Shatters the Speed vs Quality Myth by Adam Tornhill](https://www.youtube.com/watch?v=ty9d7wEVTwc)
@@ -99,7 +100,6 @@
 - [Keynote: Exploring Time - Eric Evans](https://skillsmatter.com/skillscasts/11432-looking-forward-to-eric-evans-keynote-at-dddx-2018)
 - [CQRS Pattern, Event Sourcing and Their Real World Applications - Neil Robbins](https://skillsmatter.com/skillscasts/1261-neil-robbins-cqrs-pattern-event-sourcing-and-their-real-world-applications)
 - [DDD, The Hotel Business & The Effects Of Time - Jeremie Chassaing](https://skillsmatter.com/skillscasts/5298-jeremie-chassaing)
-- [Architectural Innovation: CQRS and the biggest mistakes teams make when applying DDD - Udi Dahan](https://skillsmatter.com/skillscasts/1253-architectural-innovation-cqrs-and-the-biggest-mistakes-teams-make-when-applying-ddd)
 
 # Videos Already Watched
 - [Red, Green...What Now?!](https://www.youtube.com/watch?v=fSr8LDcb0Y0)
@@ -386,4 +386,4 @@
 - [Email vs Capitalism, or, Why We Can't Have Nice Things - Dylan Beattie - NDC Porto 2023](https://www.youtube.com/watch?v=6siutYQYSig)
 - [Success On Your Own Terms - Todd Gardner - NDC London 2024](https://www.youtube.com/watch?v=3III5Dtyjrg)
 - [Devoxx Greece 2024 - Java Language Update -- a look at where the language is going by Brian Goetz](https://www.youtube.com/watch?v=bKwzONOGLxs)
-- 
+- [Architectural Innovation: CQRS and the biggest mistakes teams make when applying DDD - Udi Dahan](https://skillsmatter.com/skillscasts/1253-architectural-innovation-cqrs-and-the-biggest-mistakes-teams-make-when-applying-ddd)
