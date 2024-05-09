@@ -1,14 +1,13 @@
 Currently Reading
 =================
-Title                       |
---------------------------- |
-Code That Fits In Your Head |
+Title           |
+--------------- |
+Team Topologies |
 
 Books To Read
 =============
 Title                                                          |
 -------------------------------------------------------------- |
-Team Topologies                                                |
 Refactoring at Scale                                           |
 Domain Modeling Made Functional                                |
 Modern Software Engineering                                    |
@@ -74,3 +73,4 @@ Tidy First?                                                                     
 Understanding the Four Rules of Simple Design                                                      | 10 February 2024  | No
 Accelerate: Building and Scaling High Performing Technology Organizations                          | 02 March 2024     | No
 Designing Data-Intensive Applications                                                              | 04 April 2024     | Yes
+Code That Fits In Your Head                                                                        | 09 May 2024       | Yes

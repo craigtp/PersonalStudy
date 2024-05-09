@@ -10,12 +10,11 @@ void Main()
 
 	var currentlyReading = new[]
 	{
-		new { Title = "Code That Fits In Your Head" },
+		new { Title = "Team Topologies" }	
 	};
 
 	var booksToRead = new[]
 	{
-		new { Title = "Team Topologies" },
 		new { Title = "Refactoring at Scale" },
 		new { Title = "Domain Modeling Made Functional" },
 		new { Title = "Modern Software Engineering" },
@@ -79,7 +78,8 @@ void Main()
 		new { Title = "Tidy First?", LastRead = DateTime.Parse("05 December 2023"), NotesTaken = false },
 		new { Title = "Understanding the Four Rules of Simple Design", LastRead = DateTime.Parse("10 February 2024"), NotesTaken = false },
 		new { Title = "Accelerate: Building and Scaling High Performing Technology Organizations", LastRead = DateTime.Parse("2 March 2024"), NotesTaken = false },
-		new { Title = "Designing Data-Intensive Applications", LastRead = DateTime.Parse("4 April 2024"), NotesTaken = true }
+		new { Title = "Designing Data-Intensive Applications", LastRead = DateTime.Parse("4 April 2024"), NotesTaken = true },
+		new { Title = "Code That Fits In Your Head", LastRead = DateTime.Parse("9 May 2024"), NotesTaken = true },
 	};
 
 	var booksMarkdown = new StringBuilder();
