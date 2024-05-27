@@ -1,5 +1,7 @@
 # Videos To Watch
 
+- [Clean Code - Uncle Bob - all lessons](https://www.youtube.com/playlist?list=PLmmYSbUCWJ4x1GO839azG_BBw8rkh-zOj)
+- [A Complete .NET Developer's Guide to Span with Stephen Toub](https://www.youtube.com/watch?v=5KdICNWOfEQ)
 - [Deep Dive into RegEx with Stephen Toub](https://www.youtube.com/watch?v=ptKjWPC7pqw)
 - [How to Bake a Change - Daniel Terhorst-North - GOTO 2023](https://www.youtube.com/watch?v=wO8M6M39vZk)
 - [Deep Dive on LINQ with Stephen Toub](https://www.youtube.com/watch?v=xKr96nIyCFM)
@@ -319,8 +321,7 @@
 - [Crafting Wicked Domain Models - Jimmy Bogard](https://vimeo.com/43598193)
 - [Modeling in a Non-Relational World with Oren Eini](https://www.youtube.com/watch?v=CuxdWzllbO4)
 - [SCaLE 13x Derek Collison NATS A new nervous system for distributed cloud platforms](https://www.youtube.com/watch?v=t_USxxOGzcw)
-- [Practical Event Sourcing with Marten - Oskar Dudycz](https://www.youtube.com/watch?v=L_ized5xwww)
-- [Why Event Sourced Systems Fail / Greg Young](https://www.youtube.com/watch?v=FKFu78ZEIi8)
+- [Why Event Sourced Systems Fail - Greg Young](https://www.youtube.com/watch?v=FKFu78ZEIi8)
 - [Gregory Young - Querying Events](https://www.youtube.com/watch?v=BWOaUT9T-jA)
 - [Learn Docker In A Month Of Lunches](https://www.youtube.com/playlist?list=PLXl_isu8qxvmDOAnUkG5x16LzBzGzY_Ww)
 - [Software Architecture Decomposition](https://www.youtube.com/watch?v=VIC7QW62-Tw)
