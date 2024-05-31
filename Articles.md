@@ -1,5 +1,6 @@
 # Articles To Read
 
+- [The Transformation Priority Premise - Uncle Bob](https://blog.cleancoder.com/uncle-bob/2013/05/27/TheTransformationPriorityPremise.html)
 - [Category Theory For Programmers - Bartosz Milewski](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 - [How to Build an Event-Driven ASP.NET Core Microservice Architecture](https://itnext.io/how-to-build-an-event-driven-asp-net-core-microservice-architecture-e0ef2976f33f)
 - [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
