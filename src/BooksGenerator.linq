@@ -10,17 +10,17 @@ void Main()
 
 	var currentlyReading = new[]
 	{
-		new { Title = "Team Topologies" }	
+		new { Title = "Domain-Driven Design Distilled" }
 	};
 
 	var booksToRead = new[]
 	{
 		new { Title = "Refactoring at Scale" },
 		new { Title = "Domain Modeling Made Functional" },
-		new { Title = "Modern Software Engineering" },
 		new { Title = "Implementing Domain Driven Design" },
 		new { Title = "Patterns Of Distributed Systems" },
 		new { Title = "Enterprise Integration Patterns" },
+		new { Title = "Modern Software Engineering" },
 		new { Title = "Fundamentals of Software Architecture: An Engineering Approach" },
 		new { Title	= "Building Event-Driven Microservices" },
 		new { Title = "Software Architecture: The Hard Parts" },
@@ -80,6 +80,7 @@ void Main()
 		new { Title = "Accelerate: Building and Scaling High Performing Technology Organizations", LastRead = DateTime.Parse("2 March 2024"), NotesTaken = false },
 		new { Title = "Designing Data-Intensive Applications", LastRead = DateTime.Parse("4 April 2024"), NotesTaken = true },
 		new { Title = "Code That Fits In Your Head", LastRead = DateTime.Parse("9 May 2024"), NotesTaken = true },
+		new { Title = "Team Topologies", LastRead = DateTime.Parse("7 June 2024"), NotesTaken = false },
 	};
 
 	var booksMarkdown = new StringBuilder();

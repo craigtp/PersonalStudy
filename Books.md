@@ -1,8 +1,8 @@
 Currently Reading
 =================
-Title           |
---------------- |
-Team Topologies |
+Title                          |
+------------------------------ |
+Domain-Driven Design Distilled |
 
 Books To Read
 =============
@@ -10,10 +10,10 @@ Title                                                          |
 -------------------------------------------------------------- |
 Refactoring at Scale                                           |
 Domain Modeling Made Functional                                |
-Modern Software Engineering                                    |
 Implementing Domain Driven Design                              |
 Patterns Of Distributed Systems                                |
 Enterprise Integration Patterns                                |
+Modern Software Engineering                                    |
 Fundamentals of Software Architecture: An Engineering Approach |
 Building Event-Driven Microservices                            |
 Software Architecture: The Hard Parts                          |
@@ -74,3 +74,4 @@ Understanding the Four Rules of Simple Design                                   
 Accelerate: Building and Scaling High Performing Technology Organizations                          | 02 March 2024     | No
 Designing Data-Intensive Applications                                                              | 04 April 2024     | Yes
 Code That Fits In Your Head                                                                        | 09 May 2024       | Yes
+Team Topologies                                                                                    | 07 June 2024      | No
