@@ -1,6 +1,7 @@
 # Videos To Watch
 
-- [What’s new in C# 13 | BRK186](https://www.youtube.com/watch?v=O3hx6oPWzX8)
+- [AWS re:Invent 2022 - Are you integrating or building distributed applications? (API308) - Gregor Hohpe](https://www.youtube.com/watch?v=Zrj7RD7G24Q)
+- [What's new in C# 13 | BRK186](https://www.youtube.com/watch?v=O3hx6oPWzX8)
 - [Demystify cloud-native development with .NET Aspire | BRK181](https://www.youtube.com/watch?v=jVILDZtuUrI)
 - [Let's build the worst Event Sourcing system! - Oskar Dudycz - NDC London 2024](https://www.youtube.com/watch?v=20zvAJAhqS0)
 - [How to get a grip on your microservices system using a service-mesh - Edwin van Wijk](https://www.youtube.com/watch?v=adzdJB_zr98)
