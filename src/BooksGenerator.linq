@@ -10,14 +10,13 @@ void Main()
 
 	var currentlyReading = new[]
 	{
-		new { Title = "Domain-Driven Design Distilled" }
+		new { Title = "Implementing Domain Driven Design" }
 	};
 
 	var booksToRead = new[]
 	{
 		new { Title = "Refactoring at Scale" },
 		new { Title = "Domain Modeling Made Functional" },
-		new { Title = "Implementing Domain Driven Design" },
 		new { Title = "Patterns Of Distributed Systems" },
 		new { Title = "Enterprise Integration Patterns" },
 		new { Title = "Modern Software Engineering" },
@@ -81,6 +80,7 @@ void Main()
 		new { Title = "Designing Data-Intensive Applications", LastRead = DateTime.Parse("4 April 2024"), NotesTaken = true },
 		new { Title = "Code That Fits In Your Head", LastRead = DateTime.Parse("9 May 2024"), NotesTaken = true },
 		new { Title = "Team Topologies", LastRead = DateTime.Parse("7 June 2024"), NotesTaken = false },
+		new { Title = "Domain-Driven Design Distilled", LastRead = DateTime.Parse("15 July 2024"), NotesTaken = true },
 	};
 
 	var booksMarkdown = new StringBuilder();

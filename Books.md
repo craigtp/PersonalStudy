@@ -1,8 +1,8 @@
 Currently Reading
 =================
-Title                          |
------------------------------- |
-Domain-Driven Design Distilled |
+Title                             |
+--------------------------------- |
+Implementing Domain Driven Design |
 
 Books To Read
 =============
@@ -10,7 +10,6 @@ Title                                                          |
 -------------------------------------------------------------- |
 Refactoring at Scale                                           |
 Domain Modeling Made Functional                                |
-Implementing Domain Driven Design                              |
 Patterns Of Distributed Systems                                |
 Enterprise Integration Patterns                                |
 Modern Software Engineering                                    |
@@ -75,3 +74,4 @@ Accelerate: Building and Scaling High Performing Technology Organizations       
 Designing Data-Intensive Applications                                                              | 04 April 2024     | Yes
 Code That Fits In Your Head                                                                        | 09 May 2024       | Yes
 Team Topologies                                                                                    | 07 June 2024      | No
+Domain-Driven Design Distilled                                                                     | 15 July 2024      | Yes
