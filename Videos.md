@@ -124,7 +124,6 @@
 - [Erlang Factroy SF 2016 - Keynote - John Hughes - Why Functional Programming Matters](https://www.youtube.com/watch?v=Z35Tt87pIpg)
 - [What is the actual life expectancy of your code? - Karoline Klever](https://vimeo.com/142347209)
 - [The Principles of Clean Architecture by Uncle Bob Martin](https://www.youtube.com/watch?v=o_TH-Y78tt4)
-- [Domain-Driven Design: The Good Parts - Jimmy Bogard](https://vimeo.com/179889630)
 - [Building an event sourced system in .NET - Michiel Overeem](https://www.youtube.com/watch?v=9ZR4U6iSMbo)
 
 ## SkillsMatter Videos (no longer available as of 29/05/2024)
@@ -423,3 +422,4 @@
 - [Success On Your Own Terms - Todd Gardner - NDC London 2024](https://www.youtube.com/watch?v=3III5Dtyjrg)
 - [Devoxx Greece 2024 - Java Language Update -- a look at where the language is going by Brian Goetz](https://www.youtube.com/watch?v=bKwzONOGLxs)
 - [Architectural Innovation: CQRS and the biggest mistakes teams make when applying DDD - Udi Dahan](https://skillsmatter.com/skillscasts/1253-architectural-innovation-cqrs-and-the-biggest-mistakes-teams-make-when-applying-ddd)
+- [Domain-Driven Design: The Good Parts - Jimmy Bogard](https://www.youtube.com/watch?v=U6CeaA-Phqo)
