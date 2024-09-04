@@ -1,5 +1,8 @@
 # Videos To Watch
 
+- [Let's Build Our Own ArrayPool - Deep .NET with Stephen & Scott](https://www.youtube.com/watch?v=bw7ljmvbrr0)
+- [Capt. Grace Hopper on Future Possibilities: Data, Hardware, Software, and People (Part One, 1982)](https://www.youtube.com/watch?v=si9iqF5uTFk)
+- [Capt. Grace Hopper on Future Possibilities: Data, Hardware, Software, and People (Part Two, 1982)](https://www.youtube.com/watch?v=AW7ZHpKuqZg)
 - [AWS re:Invent 2022 - Are you integrating or building distributed applications? (API308) - Gregor Hohpe](https://www.youtube.com/watch?v=Zrj7RD7G24Q)
 - [What's new in C# 13 | BRK186](https://www.youtube.com/watch?v=O3hx6oPWzX8)
 - [Demystify cloud-native development with .NET Aspire | BRK181](https://www.youtube.com/watch?v=jVILDZtuUrI)
