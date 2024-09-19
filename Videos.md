@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [Deep .NET: Let's Talk Parallel Programming with Stephen Toub and Scott Hanselman](https://www.youtube.com/watch?v=18w4QOWGJso)
 - [Let's Build Our Own ArrayPool - Deep .NET with Stephen & Scott](https://www.youtube.com/watch?v=bw7ljmvbrr0)
 - [Capt. Grace Hopper on Future Possibilities: Data, Hardware, Software, and People (Part One, 1982)](https://www.youtube.com/watch?v=si9iqF5uTFk)
 - [Capt. Grace Hopper on Future Possibilities: Data, Hardware, Software, and People (Part Two, 1982)](https://www.youtube.com/watch?v=AW7ZHpKuqZg)
