@@ -427,3 +427,4 @@
 - [Devoxx Greece 2024 - Java Language Update -- a look at where the language is going by Brian Goetz](https://www.youtube.com/watch?v=bKwzONOGLxs)
 - [Architectural Innovation: CQRS and the biggest mistakes teams make when applying DDD - Udi Dahan](https://skillsmatter.com/skillscasts/1253-architectural-innovation-cqrs-and-the-biggest-mistakes-teams-make-when-applying-ddd)
 - [Domain-Driven Design: The Good Parts - Jimmy Bogard](https://www.youtube.com/watch?v=U6CeaA-Phqo)
+- [The Worst Programming Language Ever - Mark Rendle - NDC Oslo 2021](https://www.youtube.com/watch?v=vcFBwt1nu2U)
