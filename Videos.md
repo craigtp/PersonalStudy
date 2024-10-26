@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [Let's build event store in one hour! - Oskar Dudycz - NDC Oslo 2022](https://www.youtube.com/watch?v=gaoZdtQSOTo)
 - [Deep .NET: Let's Talk Parallel Programming with Stephen Toub and Scott Hanselman](https://www.youtube.com/watch?v=18w4QOWGJso)
 - [Let's Build Our Own ArrayPool - Deep .NET with Stephen & Scott](https://www.youtube.com/watch?v=bw7ljmvbrr0)
 - [Capt. Grace Hopper on Future Possibilities: Data, Hardware, Software, and People (Part One, 1982)](https://www.youtube.com/watch?v=si9iqF5uTFk)
@@ -428,3 +429,4 @@
 - [Architectural Innovation: CQRS and the biggest mistakes teams make when applying DDD - Udi Dahan](https://skillsmatter.com/skillscasts/1253-architectural-innovation-cqrs-and-the-biggest-mistakes-teams-make-when-applying-ddd)
 - [Domain-Driven Design: The Good Parts - Jimmy Bogard](https://www.youtube.com/watch?v=U6CeaA-Phqo)
 - [The Worst Programming Language Ever - Mark Rendle - NDC Oslo 2021](https://www.youtube.com/watch?v=vcFBwt1nu2U)
+- [Baking Domain Concepts Into Code - Paul Rayner - DDD Europe 2023](https://www.youtube.com/watch?v=o_vAjX2vHu8)
