@@ -2,7 +2,7 @@ Currently Reading
 =================
 Title                             |
 --------------------------------- |
-Implementing Domain Driven Design |
+The Software Engineer's Guidebook |
 
 Books To Read
 =============
@@ -75,3 +75,4 @@ Designing Data-Intensive Applications                                           
 Code That Fits In Your Head                                                                        | 09 May 2024       | Yes
 Team Topologies                                                                                    | 07 June 2024      | No
 Domain-Driven Design Distilled                                                                     | 15 July 2024      | Yes
+Implementing Domain Driven Design                                                                  | 14 November 2024  | Yes
