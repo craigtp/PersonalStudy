@@ -14,7 +14,6 @@
 - [Domain Driven Design in practice - how to draw your domain boundaries IRL - Vilde Opsal](https://www.youtube.com/watch?v=k1BuULoib3c)
 - [Orchestration vs. Choreography: The good, the bad, and the trade-offs - Laila Bougria - NDC Oslo](https://www.youtube.com/watch?v=Jfwriqqkwi4)
 - [Developer Joy – How great teams get s%*t done - Sven Peters - NDC Oslo 2024](https://www.youtube.com/watch?v=zqjyPl5ytZc)
-- [Keynote: Decades in the Machine - Meaning and Purpose in Technology - David Whitney - NDC Sydney](https://www.youtube.com/watch?v=zKnKMupMK9w)
 - [Migrate Your Legacy ASP.NET Projects to ASP.NET Core Incrementally with YARP - Jonathan "J." Tower](https://www.youtube.com/watch?v=caOwWJOIlPE)
 - [C#'s Functional Journey - Mads Torgersen - NDC Sydney 2024](https://www.youtube.com/watch?v=vVtpqkKaBSA)
 - [.NET and Containers - each layer of abstraction indistinguishable from magic - Scott Hanselman](https://www.youtube.com/watch?v=KqhhaMgbGhU)
@@ -455,3 +454,4 @@
 - [The Worst Programming Language Ever - Mark Rendle - NDC Oslo 2021](https://www.youtube.com/watch?v=vcFBwt1nu2U)
 - [Baking Domain Concepts Into Code - Paul Rayner - DDD Europe 2023](https://www.youtube.com/watch?v=o_vAjX2vHu8)
 - [You don't need an Event Sourcing framework. Or do you? - Alexey Zimarev](https://www.youtube.com/watch?v=qYGKqm7CmFM)
+- [Keynote: Decades in the Machine - Meaning and Purpose in Technology - David Whitney - NDC Sydney](https://www.youtube.com/watch?v=zKnKMupMK9w)
