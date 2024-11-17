@@ -7,7 +7,6 @@
 - [Distributed Async Await • A new programming model for the cloud - Dominik Tornow - NDC Oslo 2024](https://www.youtube.com/watch?v=lfSIunYUsSg)
 - [Performance tuning for Azure Cosmos DB - Hasan Savran - NDC Oslo 2024](https://www.youtube.com/watch?v=YU71Rmfx0y0)
 - [Are Rewrites always a Bad Idea? - Adele Carpenter - NDC Oslo 2024](https://www.youtube.com/watch?v=MZz6Gt_Uv08)
-- [Stabilising eccentric systems - Jessica Brentnall - NDC Oslo 2024](https://www.youtube.com/watch?v=CELF_qOW2Pw)
 - [Being Staff Plus - Ian Cooper - NDC Oslo 2024](https://www.youtube.com/watch?v=l-oCDQGH3EU)
 - [Get old, go slow, write code! - Tobias Modig - NDC Oslo 2024](https://www.youtube.com/watch?v=lfCQhiibI5M)
 - [Designing for change with Vertical Slice Architecture - Chris Sainty - NDC Oslo 2024](https://www.youtube.com/watch?v=1PAGtLwOH4Y)
@@ -455,3 +454,4 @@
 - [Baking Domain Concepts Into Code - Paul Rayner - DDD Europe 2023](https://www.youtube.com/watch?v=o_vAjX2vHu8)
 - [You don't need an Event Sourcing framework. Or do you? - Alexey Zimarev](https://www.youtube.com/watch?v=qYGKqm7CmFM)
 - [Keynote: Decades in the Machine - Meaning and Purpose in Technology - David Whitney - NDC Sydney](https://www.youtube.com/watch?v=zKnKMupMK9w)
+- [Stabilising eccentric systems - Jessica Brentnall - NDC Oslo 2024](https://www.youtube.com/watch?v=CELF_qOW2Pw)
