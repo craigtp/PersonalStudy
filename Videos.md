@@ -455,3 +455,4 @@
 - [You don't need an Event Sourcing framework. Or do you? - Alexey Zimarev](https://www.youtube.com/watch?v=qYGKqm7CmFM)
 - [Keynote: Decades in the Machine - Meaning and Purpose in Technology - David Whitney - NDC Sydney](https://www.youtube.com/watch?v=zKnKMupMK9w)
 - [Stabilising eccentric systems - Jessica Brentnall - NDC Oslo 2024](https://www.youtube.com/watch?v=CELF_qOW2Pw)
+- [How to understand almost anything - Markus Völter - DDD Europe](https://www.youtube.com/watch?v=4UHhaOCjMgY)
