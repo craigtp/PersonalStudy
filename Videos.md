@@ -152,17 +152,9 @@
 - [What is the actual life expectancy of your code? - Karoline Klever](https://www.youtube.com/watch?v=jtH9TBxyBYU)
 - [The Principles of Clean Architecture by Uncle Bob Martin](https://www.youtube.com/watch?v=o_TH-Y78tt4)
 - [Building an event sourced system in .NET - Michiel Overeem](https://www.youtube.com/watch?v=9ZR4U6iSMbo)
-
-## SkillsMatter Videos (no longer available as of 29/05/2024)
-- [DDD, TDD, BDD - Gojko Adzic](https://skillsmatter.com/skillscasts/1007-ddd-tdd-bdd)
-- [Tackling Complexity in the Heart of Software - Eric Evans](https://skillsmatter.com/skillscasts/8288-tackling-complexity-in-the-heart-of-software)
-- [DDD and Microservices: At last, some boundaries! - Eric Evans](https://skillsmatter.com/skillscasts/6259-ddd-and-microservices-at-last-some-bounderies)
-- [DDD Strategies for Moving Away from Legacy Systems - Eric Evans](https://skillsmatter.com/skillscasts/1948-talk-from-eric-evans)
-- [Folding together DDD & Agile - Eric Evans](https://skillsmatter.com/skillscasts/1012-folding-together-ddd-agile)
-- [Case Study Involving Strategic Design And Established Formalisms - Eric Evans](https://skillsmatter.com/skillscasts/3389-case-study-involving-strategic-design-and-established-formalisms)
-- [Keynote: Exploring Time - Eric Evans](https://skillsmatter.com/skillscasts/11432-looking-forward-to-eric-evans-keynote-at-dddx-2018)
-- [CQRS Pattern, Event Sourcing and Their Real World Applications - Neil Robbins](https://skillsmatter.com/skillscasts/1261-neil-robbins-cqrs-pattern-event-sourcing-and-their-real-world-applications)
-- [DDD, The Hotel Business & The Effects Of Time - Jeremie Chassaing](https://skillsmatter.com/skillscasts/5298-jeremie-chassaing)
+- [Tackling Complexity in the Heart of Software - Eric Evans](https://www.youtube.com/watch?v=dnUFEg68ESM)
+- [DDD and Microservices: At last, some boundaries! - Eric Evans](https://www.youtube.com/watch?v=yPvef9R3k-M)
+- [Aggregates Composition: A new view on Aggregates - Jérémie Chassaing - DDD Europe 2023](https://www.youtube.com/watch?v=72TOhMpEVlA)
 
 # Videos Already Watched
 - [Red, Green...What Now?!](https://www.youtube.com/watch?v=fSr8LDcb0Y0)
