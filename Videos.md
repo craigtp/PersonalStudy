@@ -448,3 +448,4 @@
 - [Keynote: Decades in the Machine - Meaning and Purpose in Technology - David Whitney - NDC Sydney](https://www.youtube.com/watch?v=zKnKMupMK9w)
 - [Stabilising eccentric systems - Jessica Brentnall - NDC Oslo 2024](https://www.youtube.com/watch?v=CELF_qOW2Pw)
 - [How to understand almost anything - Markus Völter - DDD Europe](https://www.youtube.com/watch?v=4UHhaOCjMgY)
+- [How to Test Legacy Code (Emily Bache)](https://www.youtube.com/watch?v=cKj5cz8uAOM)
