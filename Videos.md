@@ -449,3 +449,5 @@
 - [Stabilising eccentric systems - Jessica Brentnall - NDC Oslo 2024](https://www.youtube.com/watch?v=CELF_qOW2Pw)
 - [How to understand almost anything - Markus Völter - DDD Europe](https://www.youtube.com/watch?v=4UHhaOCjMgY)
 - [How to Test Legacy Code (Emily Bache)](https://www.youtube.com/watch?v=cKj5cz8uAOM)
+- [DDD - Service Boundaries (Adam Ralph)](https://www.youtube.com/watch?v=I5fhtBQ2wQU)
+- [Designing a UI for Microservices | Mauro Servienti](https://www.youtube.com/watch?v=AxWGAiIg7_0)
