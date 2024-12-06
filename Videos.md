@@ -1,5 +1,12 @@
 # Videos To Watch
 
+- [Rust-ifying Your C# Codebase: A Tale of Adventure and Transformation - Chris Woody Woodruff](https://www.youtube.com/watch?v=K4DP21OlktM)
+- [How to Build a Database - Liam McLennan - CPH DevFest 2024](https://www.youtube.com/watch?v=32L69tv8300)
+- [Are Rewrites always a Bad Idea? - Adele Carpenter - CPH DevFest 2024](https://www.youtube.com/watch?v=r8FiuiNrDPE)
+- [Build Microservices At Your Own Pace with .NET Aspire - Jiachen Jiang - CPH DevFest 2024](https://www.youtube.com/watch?v=JzjCi1Sm22Y)
+- [Breaking Java Stereotypes: It's Not Your Dad's Language Anymore - Bazlur Rahman - CPH DevFest 2024](https://www.youtube.com/watch?v=s1biE4I-KXc)
+- [10 things you didn't know EF Core can do - Hannes Lowette - CPH DevFest 2024](https://www.youtube.com/watch?v=qaHwgWc38vY)
+- [Exposing the not-so-secret practices of the cult of DDD - Chris Klug - CPH DevFest 2024](https://www.youtube.com/watch?v=ucGhUU7KuaY)
 - [Design more decoupled services with one weird trick - Udi Dahan - NDC Oslo 2024](https://www.youtube.com/watch?v=mT5bhj1Wygg)
 - [Functional Programming on .NET - The Best of Both Worlds - Isaac Abraham - NDC Oslo 2024](https://www.youtube.com/watch?v=V9GYPOsPj4M)
 - [The performance loop—A practical guide to profiling and benchmarking - Daniel Marbach - NDC Oslo 2024](https://www.youtube.com/watch?v=eJbIDdMl27Q)
@@ -451,3 +458,4 @@
 - [How to Test Legacy Code (Emily Bache)](https://www.youtube.com/watch?v=cKj5cz8uAOM)
 - [DDD - Service Boundaries (Adam Ralph)](https://www.youtube.com/watch?v=I5fhtBQ2wQU)
 - [Designing a UI for Microservices | Mauro Servienti](https://www.youtube.com/watch?v=AxWGAiIg7_0)
+- [The Best Programmer I Know - Daniel Terhorst-North - GOTO 2024](https://www.youtube.com/watch?v=tgaKAF_eiOg)
