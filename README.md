@@ -7,4 +7,4 @@ A repository to hold lists of books, articles, videos, courses etc. to read/watc
  
 [List of Videos to watch and videos already watched](Videos.md)
 
-[List of Pluralsight courses to watch and courses already watched](PluralsightCourses.md)
+[List of Training courses to watch and Training courses already watched](TrainingCourses.md)
