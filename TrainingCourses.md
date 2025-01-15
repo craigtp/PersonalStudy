@@ -24,6 +24,7 @@ Dometrain   | Getting Started Messaging in .NET with MassTransit                
 Dometrain   | Getting Started Microservices Architecture                          |
 Dometrain   | Getting Started Modular Monoliths in .NET                           |
 Dometrain   | Getting Started Solution Architecture                               |
+Pearson     | Strategic Monoliths and Microservices                               |
 Pluralsight | GORM - An Object Relational Mapper for Go                           |
 Pluralsight | Go Fundamentals                                                     |
 Pluralsight | Creating Web Applications with Go                                   |

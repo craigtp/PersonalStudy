@@ -31,6 +31,7 @@ void Main()
 		new { Vendor = "Dometrain", Title = "Getting Started Microservices Architecture" },
 		new { Vendor = "Dometrain", Title = "Getting Started Modular Monoliths in .NET" },
 		new { Vendor = "Dometrain", Title = "Getting Started Solution Architecture" },
+		new { Vendor = "Pearson", Title = "Strategic Monoliths and Microservices" },
 		new { Vendor = "Pluralsight", Title = "GORM - An Object Relational Mapper for Go" },
 		new { Vendor = "Pluralsight", Title = "Go Fundamentals" },
 		new { Vendor = "Pluralsight", Title = "Creating Web Applications with Go" },
