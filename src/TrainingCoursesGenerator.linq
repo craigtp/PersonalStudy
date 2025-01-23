@@ -10,7 +10,7 @@ void Main()
 
 	var currentlyWatching = new []
 	{
-		new { Vendor = "Dometrain", Title = "From Zero to Hero Jetbrains Rider" }
+		new { Vendor = "Dometrain", Title = "From Zero to Hero OpenTelemetry in .NET" }
 	};
 
 	var coursesToWatch = new[]
@@ -23,7 +23,6 @@ void Main()
 		new { Vendor = "Dometrain", Title = "From Zero to Hero Docker For Developers" },
 		new { Vendor = "Dometrain", Title = "From Zero to Hero Event-Driven Architecture" },
 		new { Vendor = "Dometrain", Title = "From Zero to Hero Kubernetes For Developers" },
-		new { Vendor = "Dometrain", Title = "From Zero to Hero OpenTelemetry in .NET" },
 		new { Vendor = "Dometrain", Title = "From Zero to Hero Refactoring for C# Developers" },
 		new { Vendor = "Dometrain", Title = "Getting Started Clean Architecture in .NET" },
 		new { Vendor = "Dometrain", Title = "Getting Started Domain-Driven Design" },
@@ -107,6 +106,7 @@ void Main()
 		new { Vendor = "Pluralsight", Title = "Strategies for Microservice Scalability and Availability in ASP.NET Core", LastWatched = DateTime.Parse("06 March 2021")},
 		new { Vendor = "Dometrain", Title = "Getting Started Event Sourcing in .NET", LastWatched = DateTime.Parse("05 January 2025") },
 		new { Vendor = "Dometrain", Title = "From Zero to Hero From Microservices To Modular Monoliths", LastWatched = DateTime.Parse("12 January 2025") },
+		new { Vendor = "Dometrain", Title = "From Zero to Hero Jetbrains Rider", LastWatched = DateTime.Parse("23 January 2025") },
 	};
 
 	var coursesMarkdown = new StringBuilder();

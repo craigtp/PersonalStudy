@@ -1,8 +1,8 @@
 Currently Watching
 ==================
-Vendor    | Title                             |
---------- | --------------------------------- |
-Dometrain | From Zero to Hero Jetbrains Rider |
+Vendor    | Title                                   |
+--------- | --------------------------------------- |
+Dometrain | From Zero to Hero OpenTelemetry in .NET |
 
 Courses To Watch
 ================
@@ -16,7 +16,6 @@ Dometrain   | Career - Getting Promoted As A Software Engineer                  
 Dometrain   | From Zero to Hero Docker For Developers                             |
 Dometrain   | From Zero to Hero Event-Driven Architecture                         |
 Dometrain   | From Zero to Hero Kubernetes For Developers                         |
-Dometrain   | From Zero to Hero OpenTelemetry in .NET                             |
 Dometrain   | From Zero to Hero Refactoring for C# Developers                     |
 Dometrain   | Getting Started Clean Architecture in .NET                          |
 Dometrain   | Getting Started Domain-Driven Design                                |
@@ -101,3 +100,4 @@ Pluralsight | Dependency Injection in ASP.NET Core                              
 Pluralsight | Strategies for Microservice Scalability and Availability in ASP.NET Core               | 06 March 2021
 Dometrain   | Getting Started Event Sourcing in .NET                                                 | 05 January 2025
 Dometrain   | From Zero to Hero From Microservices To Modular Monoliths                              | 12 January 2025
+Dometrain   | From Zero to Hero Jetbrains Rider                                                      | 23 January 2025
