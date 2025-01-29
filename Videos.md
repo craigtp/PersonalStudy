@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [Domain Re-discovery Patterns for Legacy Code - Richard Groß - DDD Europe 2024](https://www.youtube.com/watch?v=_TKqc784PH8)
 - [Functional programming design patterns by Scott Wlaschin](https://www.youtube.com/watch?v=E8I19uA-wGY)
 - [Balancing Coupling in Software Design - Vlad Khononov - DDD Europe 2023](https://www.youtube.com/watch?v=KTy4rqgPOjg)
 - [Rust-ifying Your C# Codebase: A Tale of Adventure and Transformation - Chris Woody Woodruff](https://www.youtube.com/watch?v=K4DP21OlktM)
@@ -21,7 +22,7 @@
 - [Designing for change with Vertical Slice Architecture - Chris Sainty - NDC Oslo 2024](https://www.youtube.com/watch?v=1PAGtLwOH4Y)
 - [Domain Driven Design in practice - how to draw your domain boundaries IRL - Vilde Opsal](https://www.youtube.com/watch?v=k1BuULoib3c)
 - [Orchestration vs. Choreography: The good, the bad, and the trade-offs - Laila Bougria - NDC Oslo](https://www.youtube.com/watch?v=Jfwriqqkwi4)
-- [Developer Joy – How great teams get s%*t done - Sven Peters - NDC Oslo 2024](https://www.youtube.com/watch?v=zqjyPl5ytZc)
+- [Developer Joy - How great teams get s%*t done - Sven Peters - NDC Oslo 2024](https://www.youtube.com/watch?v=zqjyPl5ytZc)
 - [Migrate Your Legacy ASP.NET Projects to ASP.NET Core Incrementally with YARP - Jonathan "J." Tower](https://www.youtube.com/watch?v=caOwWJOIlPE)
 - [C#'s Functional Journey - Mads Torgersen - NDC Sydney 2024](https://www.youtube.com/watch?v=vVtpqkKaBSA)
 - [.NET and Containers - each layer of abstraction indistinguishable from magic - Scott Hanselman](https://www.youtube.com/watch?v=KqhhaMgbGhU)
