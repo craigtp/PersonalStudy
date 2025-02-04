@@ -20,7 +20,7 @@
 - [Get old, go slow, write code! - Tobias Modig - NDC Oslo 2024](https://www.youtube.com/watch?v=lfCQhiibI5M)
 - [Designing for change with Vertical Slice Architecture - Chris Sainty - NDC Oslo 2024](https://www.youtube.com/watch?v=1PAGtLwOH4Y)
 - [Domain Driven Design in practice - how to draw your domain boundaries IRL - Vilde Opsal](https://www.youtube.com/watch?v=k1BuULoib3c)
-- [Orchestration vs. Choreography: The good, the bad, and the trade-offs - Laila Bougria - NDC Oslo](https://www.youtube.com/watch?v=Jfwriqqkwi4)
+- [Orchestration vs. Choreography: The good, the bad, and the trade-offs - Laila Bougria - NDC Oslo 2024](https://www.youtube.com/watch?v=Jfwriqqkwi4)
 - [Developer Joy - How great teams get s%*t done - Sven Peters - NDC Oslo 2024](https://www.youtube.com/watch?v=zqjyPl5ytZc)
 - [Migrate Your Legacy ASP.NET Projects to ASP.NET Core Incrementally with YARP - Jonathan "J." Tower](https://www.youtube.com/watch?v=caOwWJOIlPE)
 - [C#'s Functional Journey - Mads Torgersen - NDC Sydney 2024](https://www.youtube.com/watch?v=vVtpqkKaBSA)
