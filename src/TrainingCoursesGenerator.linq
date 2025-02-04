@@ -10,19 +10,18 @@ void Main()
 
 	var currentlyWatching = new []
 	{
-		new { Vendor = "Dometrain", Title = "From Zero to Hero OpenTelemetry in .NET" }
+		new { Vendor = "Dometrain", Title = "From Zero to Hero Docker For Developers" },
 	};
 
 	var coursesToWatch = new[]
 	{
+		new { Vendor = "Dometrain", Title = "From Zero to Hero Kubernetes For Developers" },
 		new { Vendor = "Dometrain", Title = "Deep Dive Clean Architecture in .NET" },
 		new { Vendor = "Dometrain", Title = "Deep Dive Domain-Driven Design" },
 		new { Vendor = "Dometrain", Title = "Deep Dive Microservices Architecture" },
-		new { Vendor = "Dometrain", Title = "Deep Drive Modular Monoliths in .NET" },
+		new { Vendor = "Dometrain", Title = "Deep Dive Modular Monoliths in .NET" },
 		new { Vendor = "Dometrain", Title = "Career - Getting Promoted As A Software Engineer" },
-		new { Vendor = "Dometrain", Title = "From Zero to Hero Docker For Developers" },
 		new { Vendor = "Dometrain", Title = "From Zero to Hero Event-Driven Architecture" },
-		new { Vendor = "Dometrain", Title = "From Zero to Hero Kubernetes For Developers" },
 		new { Vendor = "Dometrain", Title = "From Zero to Hero Refactoring for C# Developers" },
 		new { Vendor = "Dometrain", Title = "Getting Started Clean Architecture in .NET" },
 		new { Vendor = "Dometrain", Title = "Getting Started Domain-Driven Design" },
@@ -107,6 +106,7 @@ void Main()
 		new { Vendor = "Dometrain", Title = "Getting Started Event Sourcing in .NET", LastWatched = DateTime.Parse("05 January 2025") },
 		new { Vendor = "Dometrain", Title = "From Zero to Hero From Microservices To Modular Monoliths", LastWatched = DateTime.Parse("12 January 2025") },
 		new { Vendor = "Dometrain", Title = "From Zero to Hero Jetbrains Rider", LastWatched = DateTime.Parse("23 January 2025") },
+		new { Vendor = "Dometrain", Title = "From Zero to Hero OpenTelemetry in .NET", LastWatched = DateTime.Parse("4 February 2025") },
 	};
 
 	var coursesMarkdown = new StringBuilder();

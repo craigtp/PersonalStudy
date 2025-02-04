@@ -2,20 +2,19 @@ Currently Watching
 ==================
 Vendor    | Title                                   |
 --------- | --------------------------------------- |
-Dometrain | From Zero to Hero OpenTelemetry in .NET |
+Dometrain | From Zero to Hero Docker For Developers |
 
 Courses To Watch
 ================
 Vendor      | Title                                                               |
 ----------- | ------------------------------------------------------------------- |
+Dometrain   | From Zero to Hero Kubernetes For Developers                         |
 Dometrain   | Deep Dive Clean Architecture in .NET                                |
 Dometrain   | Deep Dive Domain-Driven Design                                      |
 Dometrain   | Deep Dive Microservices Architecture                                |
-Dometrain   | Deep Drive Modular Monoliths in .NET                                |
+Dometrain   | Deep Dive Modular Monoliths in .NET                                 |
 Dometrain   | Career - Getting Promoted As A Software Engineer                    |
-Dometrain   | From Zero to Hero Docker For Developers                             |
 Dometrain   | From Zero to Hero Event-Driven Architecture                         |
-Dometrain   | From Zero to Hero Kubernetes For Developers                         |
 Dometrain   | From Zero to Hero Refactoring for C# Developers                     |
 Dometrain   | Getting Started Clean Architecture in .NET                          |
 Dometrain   | Getting Started Domain-Driven Design                                |
@@ -101,3 +100,4 @@ Pluralsight | Strategies for Microservice Scalability and Availability in ASP.NE
 Dometrain   | Getting Started Event Sourcing in .NET                                                 | 05 January 2025
 Dometrain   | From Zero to Hero From Microservices To Modular Monoliths                              | 12 January 2025
 Dometrain   | From Zero to Hero Jetbrains Rider                                                      | 23 January 2025
+Dometrain   | From Zero to Hero OpenTelemetry in .NET                                                | 04 February 2025
