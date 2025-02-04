@@ -13,7 +13,6 @@ Dometrain   | Deep Dive Clean Architecture in .NET                              
 Dometrain   | Deep Dive Domain-Driven Design                                      |
 Dometrain   | Deep Dive Microservices Architecture                                |
 Dometrain   | Deep Dive Modular Monoliths in .NET                                 |
-Dometrain   | Career - Getting Promoted As A Software Engineer                    |
 Dometrain   | From Zero to Hero Event-Driven Architecture                         |
 Dometrain   | From Zero to Hero Refactoring for C# Developers                     |
 Dometrain   | Getting Started Clean Architecture in .NET                          |

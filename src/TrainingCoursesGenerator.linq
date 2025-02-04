@@ -20,7 +20,6 @@ void Main()
 		new { Vendor = "Dometrain", Title = "Deep Dive Domain-Driven Design" },
 		new { Vendor = "Dometrain", Title = "Deep Dive Microservices Architecture" },
 		new { Vendor = "Dometrain", Title = "Deep Dive Modular Monoliths in .NET" },
-		new { Vendor = "Dometrain", Title = "Career - Getting Promoted As A Software Engineer" },
 		new { Vendor = "Dometrain", Title = "From Zero to Hero Event-Driven Architecture" },
 		new { Vendor = "Dometrain", Title = "From Zero to Hero Refactoring for C# Developers" },
 		new { Vendor = "Dometrain", Title = "Getting Started Clean Architecture in .NET" },
