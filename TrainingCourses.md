@@ -100,3 +100,4 @@ Dometrain   | Getting Started Event Sourcing in .NET                            
 Dometrain   | From Zero to Hero From Microservices To Modular Monoliths                              | 12 January 2025
 Dometrain   | From Zero to Hero Jetbrains Rider                                                      | 23 January 2025
 Dometrain   | From Zero to Hero OpenTelemetry in .NET                                                | 04 February 2025
+Dometrain   | From Zero to Hero Asynchronous Programming in C#                                       | 18 April 2025

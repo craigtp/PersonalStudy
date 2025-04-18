@@ -106,6 +106,7 @@ void Main()
 		new { Vendor = "Dometrain", Title = "From Zero to Hero From Microservices To Modular Monoliths", LastWatched = DateTime.Parse("12 January 2025") },
 		new { Vendor = "Dometrain", Title = "From Zero to Hero Jetbrains Rider", LastWatched = DateTime.Parse("23 January 2025") },
 		new { Vendor = "Dometrain", Title = "From Zero to Hero OpenTelemetry in .NET", LastWatched = DateTime.Parse("4 February 2025") },
+		new { Vendor = "Dometrain", Title = "From Zero to Hero Asynchronous Programming in C#", LastWatched = DateTime.Parse("18 April 2025") },
 	};
 
 	var coursesMarkdown = new StringBuilder();
