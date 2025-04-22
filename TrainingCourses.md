@@ -101,3 +101,4 @@ Dometrain   | From Zero to Hero From Microservices To Modular Monoliths         
 Dometrain   | From Zero to Hero Jetbrains Rider                                                      | 23 January 2025
 Dometrain   | From Zero to Hero OpenTelemetry in .NET                                                | 04 February 2025
 Dometrain   | From Zero to Hero Asynchronous Programming in C#                                       | 18 April 2025
+Dometrain   | Getting Started Domain-Driven Design                                                   | 22 April 2025
