@@ -1,15 +1,14 @@
 Currently Reading
 =================
-Title                             |
---------------------------------- |
-The Software Engineer's Guidebook |
+Title                           |
+------------------------------- |
+Domain Modeling Made Functional |
 
 Books To Read
 =============
 Title                                                          |
 -------------------------------------------------------------- |
 Refactoring at Scale                                           |
-Domain Modeling Made Functional                                |
 Patterns Of Distributed Systems                                |
 Enterprise Integration Patterns                                |
 Modern Software Engineering                                    |
@@ -76,3 +75,4 @@ Code That Fits In Your Head                                                     
 Team Topologies                                                                                    | 07 June 2024      | No
 Domain-Driven Design Distilled                                                                     | 15 July 2024      | Yes
 Implementing Domain Driven Design                                                                  | 14 November 2024  | Yes
+The Software Engineer's Guidebook                                                                  | 23 April 2025     | No
