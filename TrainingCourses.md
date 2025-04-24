@@ -10,13 +10,11 @@ Vendor      | Title                                                             
 ----------- | ------------------------------------------------------------------- |
 Dometrain   | From Zero to Hero Kubernetes For Developers                         |
 Dometrain   | Deep Dive Clean Architecture in .NET                                |
-Dometrain   | Deep Dive Domain-Driven Design                                      |
 Dometrain   | Deep Dive Microservices Architecture                                |
 Dometrain   | Deep Dive Modular Monoliths in .NET                                 |
 Dometrain   | From Zero to Hero Event-Driven Architecture                         |
 Dometrain   | From Zero to Hero Refactoring for C# Developers                     |
 Dometrain   | Getting Started Clean Architecture in .NET                          |
-Dometrain   | Getting Started Domain-Driven Design                                |
 Dometrain   | Getting Started Messaging in .NET with MassTransit                  |
 Dometrain   | Getting Started Microservices Architecture                          |
 Dometrain   | Getting Started Modular Monoliths in .NET                           |
@@ -102,3 +100,4 @@ Dometrain   | From Zero to Hero Jetbrains Rider                                 
 Dometrain   | From Zero to Hero OpenTelemetry in .NET                                                | 04 February 2025
 Dometrain   | From Zero to Hero Asynchronous Programming in C#                                       | 18 April 2025
 Dometrain   | Getting Started Domain-Driven Design                                                   | 22 April 2025
+Dometrain   | Deep Dive Domain-Driven Design                                                         | 24 April 2025

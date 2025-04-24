@@ -17,13 +17,11 @@ void Main()
 	{
 		new { Vendor = "Dometrain", Title = "From Zero to Hero Kubernetes For Developers" },
 		new { Vendor = "Dometrain", Title = "Deep Dive Clean Architecture in .NET" },
-		new { Vendor = "Dometrain", Title = "Deep Dive Domain-Driven Design" },
 		new { Vendor = "Dometrain", Title = "Deep Dive Microservices Architecture" },
 		new { Vendor = "Dometrain", Title = "Deep Dive Modular Monoliths in .NET" },
 		new { Vendor = "Dometrain", Title = "From Zero to Hero Event-Driven Architecture" },
 		new { Vendor = "Dometrain", Title = "From Zero to Hero Refactoring for C# Developers" },
 		new { Vendor = "Dometrain", Title = "Getting Started Clean Architecture in .NET" },
-		new { Vendor = "Dometrain", Title = "Getting Started Domain-Driven Design" },
 		new { Vendor = "Dometrain", Title = "Getting Started Messaging in .NET with MassTransit" },
 		new { Vendor = "Dometrain", Title = "Getting Started Microservices Architecture" },
 		new { Vendor = "Dometrain", Title = "Getting Started Modular Monoliths in .NET" },
@@ -108,6 +106,7 @@ void Main()
 		new { Vendor = "Dometrain", Title = "From Zero to Hero OpenTelemetry in .NET", LastWatched = DateTime.Parse("4 February 2025") },
 		new { Vendor = "Dometrain", Title = "From Zero to Hero Asynchronous Programming in C#", LastWatched = DateTime.Parse("18 April 2025") },
 		new { Vendor = "Dometrain", Title = "Getting Started Domain-Driven Design", LastWatched = DateTime.Parse("22 April 2025") },
+		new { Vendor = "Dometrain", Title = "Deep Dive Domain-Driven Design", LastWatched = DateTime.Parse("24 April 2025") },
 	};
 
 	var coursesMarkdown = new StringBuilder();
