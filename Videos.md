@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [.NET Aspire for Beginners - Full Series](https://www.youtube.com/watch?v=4ixWtXK7KzY)
 - [Functional programming design patterns by Scott Wlaschin](https://www.youtube.com/watch?v=E8I19uA-wGY)
 - [Balancing Coupling in Software Design - Vlad Khononov - DDD Europe 2023](https://www.youtube.com/watch?v=KTy4rqgPOjg)
 - [Rust-ifying Your C# Codebase: A Tale of Adventure and Transformation - Chris Woody Woodruff](https://www.youtube.com/watch?v=K4DP21OlktM)

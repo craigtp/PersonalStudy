@@ -10,11 +10,12 @@ void Main()
 
 	var currentlyWatching = new []
 	{
-		new { Vendor = "Dometrain", Title = "From Zero to Hero Docker For Developers" },
+		new { Vendor = "Dometrain", Title = "From Zero to Hero Working with Null in C#" },
 	};
 
 	var coursesToWatch = new[]
 	{
+		new { Vendor = "Dometrain", Title = "From Zero to Hero Docker For Developers" },
 		new { Vendor = "Dometrain", Title = "From Zero to Hero Kubernetes For Developers" },
 		new { Vendor = "Dometrain", Title = "Deep Dive Clean Architecture in .NET" },
 		new { Vendor = "Dometrain", Title = "Deep Dive Microservices Architecture" },
