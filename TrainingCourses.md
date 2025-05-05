@@ -1,14 +1,13 @@
 Currently Watching
 ==================
-Vendor    | Title                                     |
---------- | ----------------------------------------- |
-Dometrain | From Zero to Hero Working with Null in C# |
+Vendor    | Title                                   |
+--------- | --------------------------------------- |
+Dometrain | From Zero to Hero Docker For Developers |
 
 Courses To Watch
 ================
 Vendor      | Title                                                               |
 ----------- | ------------------------------------------------------------------- |
-Dometrain   | From Zero to Hero Docker For Developers                             |
 Dometrain   | From Zero to Hero Kubernetes For Developers                         |
 Dometrain   | Deep Dive Clean Architecture in .NET                                |
 Dometrain   | Deep Dive Microservices Architecture                                |
@@ -102,3 +101,4 @@ Dometrain   | From Zero to Hero OpenTelemetry in .NET                           
 Dometrain   | From Zero to Hero Asynchronous Programming in C#                                       | 18 April 2025
 Dometrain   | Getting Started Domain-Driven Design                                                   | 22 April 2025
 Dometrain   | Deep Dive Domain-Driven Design                                                         | 24 April 2025
+Dometrain   | From Zero to Hero Working with Null in C#                                              | 05 May 2025

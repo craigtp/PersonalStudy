@@ -10,12 +10,11 @@ void Main()
 
 	var currentlyWatching = new []
 	{
-		new { Vendor = "Dometrain", Title = "From Zero to Hero Working with Null in C#" },
+		new { Vendor = "Dometrain", Title = "From Zero to Hero Docker For Developers" },
 	};
 
 	var coursesToWatch = new[]
 	{
-		new { Vendor = "Dometrain", Title = "From Zero to Hero Docker For Developers" },
 		new { Vendor = "Dometrain", Title = "From Zero to Hero Kubernetes For Developers" },
 		new { Vendor = "Dometrain", Title = "Deep Dive Clean Architecture in .NET" },
 		new { Vendor = "Dometrain", Title = "Deep Dive Microservices Architecture" },
@@ -108,6 +107,7 @@ void Main()
 		new { Vendor = "Dometrain", Title = "From Zero to Hero Asynchronous Programming in C#", LastWatched = DateTime.Parse("18 April 2025") },
 		new { Vendor = "Dometrain", Title = "Getting Started Domain-Driven Design", LastWatched = DateTime.Parse("22 April 2025") },
 		new { Vendor = "Dometrain", Title = "Deep Dive Domain-Driven Design", LastWatched = DateTime.Parse("24 April 2025") },
+		new { Vendor = "Dometrain", Title = "From Zero to Hero Working with Null in C#", LastWatched = DateTime.Parse("5 MAy 2025")  }
 	};
 
 	var coursesMarkdown = new StringBuilder();
