@@ -1,8 +1,8 @@
 Currently Reading
 =================
-Title                           |
-------------------------------- |
-Domain Modeling Made Functional |
+Title              |
+------------------ |
+User Story Mapping |
 
 Books To Read
 =============
@@ -76,3 +76,4 @@ Team Topologies                                                                 
 Domain-Driven Design Distilled                                                                     | 15 July 2024      | Yes
 Implementing Domain Driven Design                                                                  | 14 November 2024  | Yes
 The Software Engineer's Guidebook                                                                  | 23 April 2025     | No
+Domain Modeling Made Functional                                                                    | 09 May 2025       | No

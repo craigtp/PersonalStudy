@@ -10,7 +10,7 @@ void Main()
 
 	var currentlyReading = new[]
 	{
-		new { Title = "Domain Modeling Made Functional" }
+		new { Title = "User Story Mapping" }
 	};
 
 	var booksToRead = new[]
@@ -81,7 +81,8 @@ void Main()
 		new { Title = "Team Topologies", LastRead = DateTime.Parse("7 June 2024"), NotesTaken = false },
 		new { Title = "Domain-Driven Design Distilled", LastRead = DateTime.Parse("15 July 2024"), NotesTaken = true },
 		new { Title = "Implementing Domain Driven Design", LastRead = DateTime.Parse("14 November 2024"), NotesTaken = true },
-		new { Title = "The Software Engineer's Guidebook", LastRead = DateTime.Parse("23 April 2025"), NotesTaken = false  },
+		new { Title = "The Software Engineer's Guidebook", LastRead = DateTime.Parse("23 April 2025"), NotesTaken = false },
+		new { Title = "Domain Modeling Made Functional", LastRead = DateTime.Parse("09 May 2025"), NotesTaken = false  }
 	};
 
 	var booksMarkdown = new StringBuilder();
