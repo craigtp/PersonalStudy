@@ -19,7 +19,6 @@
 - [Keynote: Tidy First? A Daily Exercise in Empirical Design - Kent Beck - NDC Porto 2024](https://www.youtube.com/watch?v=A9vRp9T8pkU)
 - [.NET Aspire for Beginners - Full Series](https://www.youtube.com/watch?v=4ixWtXK7KzY)
 - [Functional programming design patterns by Scott Wlaschin](https://www.youtube.com/watch?v=E8I19uA-wGY)
-- [Balancing Coupling in Software Design - Vlad Khononov - DDD Europe 2023](https://www.youtube.com/watch?v=KTy4rqgPOjg)
 - [Rust-ifying Your C# Codebase: A Tale of Adventure and Transformation - Chris Woody Woodruff](https://www.youtube.com/watch?v=K4DP21OlktM)
 - [How to Build a Database - Liam McLennan - CPH DevFest 2024](https://www.youtube.com/watch?v=32L69tv8300)
 - [Are Rewrites always a Bad Idea? - Adele Carpenter - CPH DevFest 2024](https://www.youtube.com/watch?v=r8FiuiNrDPE)
@@ -481,3 +480,4 @@
 - [The Best Programmer I Know - Daniel Terhorst-North - GOTO 2024](https://www.youtube.com/watch?v=tgaKAF_eiOg)
 - [Domain Re-discovery Patterns for Legacy Code - Richard Groß - DDD Europe 2024](https://www.youtube.com/watch?v=_TKqc784PH8)
 - [Upskilling your Team in DDD - Craig McCallum - DDD Europe 2025](https://www.youtube.com/watch?v=g0047beVND4)
+- [Balancing Coupling in Software Design - Vlad Khononov - DDD Europe 2023](https://www.youtube.com/watch?v=KTy4rqgPOjg)
