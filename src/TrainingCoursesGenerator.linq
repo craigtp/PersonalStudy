@@ -10,7 +10,7 @@ void Main()
 
 	var currentlyWatching = new []
 	{
-		new { Vendor = "Dometrain", Title = "From Zero to Hero Kubernetes For Developers" }
+		new { Vendor = "Dometrain", Title = "From Zero to Hero GitHub Actions" }
 	};
 
 	var coursesToWatch = new[]
@@ -107,7 +107,8 @@ void Main()
 		new { Vendor = "Dometrain", Title = "Getting Started Domain-Driven Design", LastWatched = DateTime.Parse("22 April 2025") },
 		new { Vendor = "Dometrain", Title = "Deep Dive Domain-Driven Design", LastWatched = DateTime.Parse("24 April 2025") },
 		new { Vendor = "Dometrain", Title = "From Zero to Hero Working with Null in C#", LastWatched = DateTime.Parse("5 May 2025") },
-		new { Vendor = "Dometrain", Title = "From Zero to Hero Docker For Developers", LastWatched = DateTime.Parse("29 July 2025")  }
+		new { Vendor = "Dometrain", Title = "From Zero to Hero Docker For Developers", LastWatched = DateTime.Parse("29 July 2025") },
+		new { Vendor = "Dometrain", Title = "From Zero to Hero Kubernetes For Developers", LastWatched = DateTime.Parse("3 August 2025") }
 	};
 
 	var coursesMarkdown = new StringBuilder();

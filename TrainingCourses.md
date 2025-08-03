@@ -1,8 +1,8 @@
 Currently Watching
 ==================
-Vendor    | Title                                       |
---------- | ------------------------------------------- |
-Dometrain | From Zero to Hero Kubernetes For Developers |
+Vendor    | Title                            |
+--------- | -------------------------------- |
+Dometrain | From Zero to Hero GitHub Actions |
 
 Courses To Watch
 ================
@@ -102,3 +102,4 @@ Dometrain   | Getting Started Domain-Driven Design                              
 Dometrain   | Deep Dive Domain-Driven Design                                                         | 24 April 2025
 Dometrain   | From Zero to Hero Working with Null in C#                                              | 05 May 2025
 Dometrain   | From Zero to Hero Docker For Developers                                                | 29 July 2025
+Dometrain   | From Zero to Hero Kubernetes For Developers                                            | 03 August 2025
