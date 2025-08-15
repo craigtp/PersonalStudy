@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [Impact Mapping - The Secret Sauce with Krisztina Hirth](https://www.youtube.com/watch?v=XG985T2mMMQ)
 - [Advanced Cloud Native Development with .NET Aspire - Scott Hunter & Maddy Montaquila](https://www.youtube.com/watch?v=izLJ7Ztf-BM)
 - [Getting to 300 million requests a month with a one man AI/Dev-Ops team - Rob Frelow](https://www.youtube.com/watch?v=ZFQq5Djd5JY)
 - [Navigating complexity in event-driven architectures: A domain-driven approach - David Boyne](https://www.youtube.com/watch?v=HpFWRpyyvrk)
@@ -481,3 +482,5 @@
 - [Domain Re-discovery Patterns for Legacy Code - Richard Groß - DDD Europe 2024](https://www.youtube.com/watch?v=_TKqc784PH8)
 - [Upskilling your Team in DDD - Craig McCallum - DDD Europe 2025](https://www.youtube.com/watch?v=g0047beVND4)
 - [Balancing Coupling in Software Design - Vlad Khononov - DDD Europe 2023](https://www.youtube.com/watch?v=KTy4rqgPOjg)
+- [I'm SO Glad I'm Uncoordinated: Coordination Is Increasingly Painful... What Can Be Done? - Pat Helland](https://www.youtube.com/watch?v=E6JUA_XH_tE)
+
