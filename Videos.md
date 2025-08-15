@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [BDD + DDD: Aligning Business and Code - Igor Sosman](https://www.youtube.com/watch?v=Q-Beh1dYNlM)
 - [Impact Mapping - The Secret Sauce with Krisztina Hirth](https://www.youtube.com/watch?v=XG985T2mMMQ)
 - [Advanced Cloud Native Development with .NET Aspire - Scott Hunter & Maddy Montaquila](https://www.youtube.com/watch?v=izLJ7Ztf-BM)
 - [Getting to 300 million requests a month with a one man AI/Dev-Ops team - Rob Frelow](https://www.youtube.com/watch?v=ZFQq5Djd5JY)
