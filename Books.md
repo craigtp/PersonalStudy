@@ -1,14 +1,13 @@
 Currently Reading
 =================
-Title              |
------------------- |
-User Story Mapping |
+Title                |
+-------------------- |
+Refactoring at Scale |
 
 Books To Read
 =============
 Title                                                          |
 -------------------------------------------------------------- |
-Refactoring at Scale                                           |
 Patterns Of Distributed Systems                                |
 Enterprise Integration Patterns                                |
 Modern Software Engineering                                    |
@@ -77,3 +76,4 @@ Domain-Driven Design Distilled                                                  
 Implementing Domain Driven Design                                                                  | 14 November 2024  | Yes
 The Software Engineer's Guidebook                                                                  | 23 April 2025     | No
 Domain Modeling Made Functional                                                                    | 09 May 2025       | No
+User Story Mapping                                                                                 | 02 October 2025   | No
