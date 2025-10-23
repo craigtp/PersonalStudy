@@ -1,5 +1,12 @@
 # Videos To Watch
 
+- [Preventing Emu Wars with Domain-Driven Design - Lee Dunkley - NDC Melbourne 2025](https://www.youtube.com/watch?v=jL6Hy8HffCs)
+- [Levelling up your dev workflow with .NET Aspire - Aaron Powell - NDC Melbourne 2025](https://www.youtube.com/watch?v=gNXzqNHzCR8)
+- [Strategic Decision-Making for Tech Leaders and Developers - Stephen Sennett - NDC Melbourne 2025](https://www.youtube.com/watch?v=vW_MgFBYlVw)
+- [Platform Engineering vs DevOps - Dylan McCarthy - NDC Melbourne 2025](https://www.youtube.com/watch?v=nFa4k7GWyok)
+- [Back to the Future of Time Series Data - Heather Downing - NDC Melbourne 2025](https://www.youtube.com/watch?v=JB-FKzzMLMk)
+- [Getting Good (or Better) at Code Reviews - Rhia Dixon - NDC Melbourne 2025](https://www.youtube.com/watch?v=FM2NaTUsoz4)
+- [AI-Driven Code Refactoring: Improving Legacy Codebases Automatically - Jorrik Klijnsma - NDC Melbourne 2025](https://www.youtube.com/watch?v=u8tvVxUOwvY)
 - [BDD + DDD: Aligning Business and Code - Igor Sosman](https://www.youtube.com/watch?v=Q-Beh1dYNlM)
 - [Impact Mapping - The Secret Sauce with Krisztina Hirth](https://www.youtube.com/watch?v=XG985T2mMMQ)
 - [Advanced Cloud Native Development with .NET Aspire - Scott Hunter & Maddy Montaquila](https://www.youtube.com/watch?v=izLJ7Ztf-BM)
