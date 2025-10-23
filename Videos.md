@@ -1,6 +1,5 @@
 # Videos To Watch
 
-- [Keynote: Machines, Learning, and Machine Learning - Dylan Beattie - NDC Porto 2025](https://www.youtube.com/watch?v=J9ZKxsPpRFk)
 - [BDD + DDD: Aligning Business and Code - Igor Sosman](https://www.youtube.com/watch?v=Q-Beh1dYNlM)
 - [Impact Mapping - The Secret Sauce with Krisztina Hirth](https://www.youtube.com/watch?v=XG985T2mMMQ)
 - [Advanced Cloud Native Development with .NET Aspire - Scott Hunter & Maddy Montaquila](https://www.youtube.com/watch?v=izLJ7Ztf-BM)
@@ -484,4 +483,4 @@
 - [Upskilling your Team in DDD - Craig McCallum - DDD Europe 2025](https://www.youtube.com/watch?v=g0047beVND4)
 - [Balancing Coupling in Software Design - Vlad Khononov - DDD Europe 2023](https://www.youtube.com/watch?v=KTy4rqgPOjg)
 - [I'm SO Glad I'm Uncoordinated: Coordination Is Increasingly Painful... What Can Be Done? - Pat Helland](https://www.youtube.com/watch?v=E6JUA_XH_tE)
-
+- [Keynote: Machines, Learning, and Machine Learning - Dylan Beattie - NDC Porto 2025](https://www.youtube.com/watch?v=J9ZKxsPpRFk)
