@@ -24,7 +24,6 @@
 - [Functional programming design patterns by Scott Wlaschin](https://www.youtube.com/watch?v=E8I19uA-wGY)
 - [Rust-ifying Your C# Codebase: A Tale of Adventure and Transformation - Chris Woody Woodruff](https://www.youtube.com/watch?v=K4DP21OlktM)
 - [How to Build a Database - Liam McLennan - CPH DevFest 2024](https://www.youtube.com/watch?v=32L69tv8300)
-- [Are Rewrites always a Bad Idea? - Adele Carpenter - CPH DevFest 2024](https://www.youtube.com/watch?v=r8FiuiNrDPE)
 - [Build Microservices At Your Own Pace with .NET Aspire - Jiachen Jiang - CPH DevFest 2024](https://www.youtube.com/watch?v=JzjCi1Sm22Y)
 - [Breaking Java Stereotypes: It's Not Your Dad's Language Anymore - Bazlur Rahman - CPH DevFest 2024](https://www.youtube.com/watch?v=s1biE4I-KXc)
 - [10 things you didn't know EF Core can do - Hannes Lowette - CPH DevFest 2024](https://www.youtube.com/watch?v=qaHwgWc38vY)
