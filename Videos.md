@@ -2,11 +2,11 @@
 
 - [Modernizing Legacy Code - While Not Bringing Down Prod - Joel Tosi - NDC Oslo 2025](https://www.youtube.com/watch?v=zACEkcRXrXI)
 - [Mastering Containers: A Practical Guide for .NET Developers - Oliver Sturm - NDC Oslo 2025](https://www.youtube.com/watch?v=hn64LdVOgmc)
-- [Tales from the trenches: Building a distributed system with Aspire and Dapr - Nico Vermeir](https://www.youtube.com/watch?v=AdCC9g4qU5g)
+- [Tales from the trenches: Building a distributed system with Aspire and Dapr - Nico Vermeir - NDC Oslo 2025](https://www.youtube.com/watch?v=AdCC9g4qU5g)
 - [10 Things I Do On Every .NET App - Scott Sauber - NDC Oslo 2025](https://www.youtube.com/watch?v=SvcRvolP2NE)
 - [Reproducable environments using nix - Martin Ertsås - NDC Oslo 2025](https://www.youtube.com/watch?v=aRo6C4hn_E8)
 - [Fine-grained Real-time Apps with Blazor & Orleans - Sjoerd van der Meer - NDC Oslo 2025](https://www.youtube.com/watch?v=Y3aopzc0vnI)
-- [Navigating Uncertainty in Software Development: Effective Planning Techniques - Jodi Jones](https://www.youtube.com/watch?v=Lyrfwn1l988)
+- [Navigating Uncertainty in Software Development: Effective Planning Techniques - Jodi Jones - NDC Oslo 2025](https://www.youtube.com/watch?v=Lyrfwn1l988)
 - [Zero-bug policy success - Peter Hilton - NDC Oslo 2025](https://www.youtube.com/watch?v=iaXfYWEc1yY)
 - [How to sell a big refactor or rewrite to the business? - Ivett Ördög - NDC Oslo 2025](https://www.youtube.com/watch?v=wdz90PQ2Ak4)
 - [Responsibility Driven Design Revisited - Ian Cooper - NDC Oslo 2025](https://www.youtube.com/watch?v=xOpUpRIpH6k)
