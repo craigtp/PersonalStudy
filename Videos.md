@@ -11,7 +11,6 @@
 - [Design for Developers - Lex Lofthouse - NDC Copenhagen 2025](https://www.youtube.com/watch?v=eZwdZKs9zAQ)
 - [Implementing Domain Driven Design as a Pragmatic .NET Developer - Halil İbrahim Kalkan - NDC Copenhagen 2025](https://www.youtube.com/watch?v=JqwLcLZ8lD8)
 - [Modern Observability: Making OpenTelemetry work for you - Martin Thwaites - NDC Copenhagen 2025](https://www.youtube.com/watch?v=kd4aSELkgds)
-- [If only I had known ... - Hannes Lowette - NDC Copenhagen 2025](https://www.youtube.com/watch?v=mwUwcHAiKq4)
 - [Avoiding common pitfalls with async/await - Stephen Cleary - NDC Copenhagen 2025](https://www.youtube.com/watch?v=a_O53k9mexk)
 - [How to Ensure Code Quality and Consistency in Distributed Teams - Denny Biasiolli - NDC Copenhagen 2025](https://www.youtube.com/watch?v=eXwX066a17k)
 - [Java Sucks (So C# Didn't Have To) - Adele Carpenter - NDC Copenhagen 2025](https://www.youtube.com/watch?v=GiRz1t5ptrQ)
@@ -518,3 +517,4 @@
 - [Balancing Coupling in Software Design - Vlad Khononov - DDD Europe 2023](https://www.youtube.com/watch?v=KTy4rqgPOjg)
 - [I'm SO Glad I'm Uncoordinated: Coordination Is Increasingly Painful... What Can Be Done? - Pat Helland](https://www.youtube.com/watch?v=E6JUA_XH_tE)
 - [Keynote: Machines, Learning, and Machine Learning - Dylan Beattie - NDC Porto 2025](https://www.youtube.com/watch?v=J9ZKxsPpRFk)
+- [If only I had known ... - Hannes Lowette - NDC Copenhagen 2025](https://www.youtube.com/watch?v=mwUwcHAiKq4)
