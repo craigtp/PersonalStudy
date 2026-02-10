@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [Immutable Patterns of System Design; From Monolith to Agentic AI - James Eastham - NDC London 2026](https://www.youtube.com/watch?v=EDwtofkScdI)
 - [Supercharging Local Development with Aspire - Jimmy Bogard - NDC London 2026](https://www.youtube.com/watch?v=B6YyCXxJM3g)
 - [Connascence: beyond Coupling and Cohesion - KanDDDinsky - Marco Consolaro](https://www.youtube.com/watch?v=j8HEbPx53Ls)
 - [Modernizing your legacy application - Nico Vermeir - NDC Copenhagen 2025](https://www.youtube.com/watch?v=P_OSJ3AmXVo)
