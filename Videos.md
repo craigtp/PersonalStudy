@@ -1,5 +1,17 @@
 # Videos To Watch
 
+- [Keynote: The dangers of probably-working software - Damian Brady - NDC London 2026](https://www.youtube.com/watch?v=DZpR0GojoWQ)
+- [Beyond the AI Hype: What's Real, What's Next - Richard Campbell - NDC London 2026](https://www.youtube.com/watch?v=65TGxZ9yHT0)
+- [What in the Hunger Games is Happening with Recruitment? - Suzi Edwards-Alexander](https://www.youtube.com/watch?v=oFsujSNDk1A)
+- [Indiana Jones and the Temple of Legacy Code - William Brander - NDC London 2026](https://www.youtube.com/watch?v=q7kQDFEWECg)
+- [Quantum Physics for Software Developers - Filip W. - NDC London 2026](https://www.youtube.com/watch?v=GOB4yVvKVoA)
+- [Keynote: AI-Powered App Development - Steve Sanderson - NDC London 2026](https://www.youtube.com/watch?v=L1w6wBxhpgE)
+- [Reliable Agentic Systems need Durable Execution 🤖 - Marc Duiker - NDC London 2026](https://www.youtube.com/watch?v=rY8GpdjVQL0)
+- [Advanced Pattern Matching in C# - Oliver Sturm - NDC London 2026](https://www.youtube.com/watch?v=oKNAKc41zBs)
+- [Modular Code with Examples in C# - Ian Cooper - NDC London 2026](https://www.youtube.com/watch?v=ayJ_WJ-8zHo)
+- [10 Tips To Level Up Your AI-Assisted Coding - Aleksander Stensby - NDC London 2026](https://www.youtube.com/watch?v=NbenxkeJkEA)
+- [AI Agents Need Permission Slips - Heather Downing - NDC London 2026](https://www.youtube.com/watch?v=NI6sTgOlK74)
+- [Resilient by Design - Chris Ayers - NDC London 2026](https://www.youtube.com/watch?v=vgOzZBAfMpA)
 - [Immutable Patterns of System Design; From Monolith to Agentic AI - James Eastham - NDC London 2026](https://www.youtube.com/watch?v=EDwtofkScdI)
 - [Supercharging Local Development with Aspire - Jimmy Bogard - NDC London 2026](https://www.youtube.com/watch?v=B6YyCXxJM3g)
 - [Connascence: beyond Coupling and Cohesion - KanDDDinsky - Marco Consolaro](https://www.youtube.com/watch?v=j8HEbPx53Ls)
