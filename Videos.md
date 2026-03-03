@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [Meditations on Code As Art - David Whitney - NDC London 2026](https://www.youtube.com/watch?v=althUQZR5O0)
 - [Keynote: The dangers of probably-working software - Damian Brady - NDC London 2026](https://www.youtube.com/watch?v=DZpR0GojoWQ)
 - [Beyond the AI Hype: What's Real, What's Next - Richard Campbell - NDC London 2026](https://www.youtube.com/watch?v=65TGxZ9yHT0)
 - [What in the Hunger Games is Happening with Recruitment? - Suzi Edwards-Alexander](https://www.youtube.com/watch?v=oFsujSNDk1A)
