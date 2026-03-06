@@ -1,12 +1,11 @@
 # Videos To Watch
 
+- [A Defence of Technical Excellence - Chris Simon - NDC London 2026](https://www.youtube.com/watch?v=BkxIwxSp7V0)
 - [Meditations on Code As Art - David Whitney - NDC London 2026](https://www.youtube.com/watch?v=althUQZR5O0)
 - [Keynote: The dangers of probably-working software - Damian Brady - NDC London 2026](https://www.youtube.com/watch?v=DZpR0GojoWQ)
-- [Beyond the AI Hype: What's Real, What's Next - Richard Campbell - NDC London 2026](https://www.youtube.com/watch?v=65TGxZ9yHT0)
 - [What in the Hunger Games is Happening with Recruitment? - Suzi Edwards-Alexander](https://www.youtube.com/watch?v=oFsujSNDk1A)
 - [Indiana Jones and the Temple of Legacy Code - William Brander - NDC London 2026](https://www.youtube.com/watch?v=q7kQDFEWECg)
 - [Quantum Physics for Software Developers - Filip W. - NDC London 2026](https://www.youtube.com/watch?v=GOB4yVvKVoA)
-- [Keynote: AI-Powered App Development - Steve Sanderson - NDC London 2026](https://www.youtube.com/watch?v=L1w6wBxhpgE)
 - [Reliable Agentic Systems need Durable Execution 🤖 - Marc Duiker - NDC London 2026](https://www.youtube.com/watch?v=rY8GpdjVQL0)
 - [Advanced Pattern Matching in C# - Oliver Sturm - NDC London 2026](https://www.youtube.com/watch?v=oKNAKc41zBs)
 - [Modular Code with Examples in C# - Ian Cooper - NDC London 2026](https://www.youtube.com/watch?v=ayJ_WJ-8zHo)
@@ -536,3 +535,5 @@
 - [Do It With Style: Rethinking CSS - Dylan Beattie - NDC London 2026](https://www.youtube.com/watch?v=nhbYveaV0pk)
 - [Modular Monoliths and Other Facepalms - Kevlin Henney - NDC London 2026](https://www.youtube.com/watch?v=4qfsmE11Ejo)
 - [How I Tamed Claude - Emmz Rendle - NDC London 2026](https://www.youtube.com/watch?v=pey9u_ANXZM)
+- [Keynote: AI-Powered App Development - Steve Sanderson - NDC London 2026](https://www.youtube.com/watch?v=L1w6wBxhpgE)
+- [Beyond the AI Hype: What's Real, What's Next - Richard Campbell - NDC London 2026](https://www.youtube.com/watch?v=65TGxZ9yHT0)
