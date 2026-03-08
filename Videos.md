@@ -9,7 +9,6 @@
 - [Reliable Agentic Systems need Durable Execution - Marc Duiker - NDC London 2026](https://www.youtube.com/watch?v=rY8GpdjVQL0)
 - [Advanced Pattern Matching in C# - Oliver Sturm - NDC London 2026](https://www.youtube.com/watch?v=oKNAKc41zBs)
 - [Modular Code with Examples in C# - Ian Cooper - NDC London 2026](https://www.youtube.com/watch?v=ayJ_WJ-8zHo)
-- [AI Agents Need Permission Slips - Heather Downing - NDC London 2026](https://www.youtube.com/watch?v=NI6sTgOlK74)
 - [Resilient by Design - Chris Ayers - NDC London 2026](https://www.youtube.com/watch?v=vgOzZBAfMpA)
 - [Immutable Patterns of System Design; From Monolith to Agentic AI - James Eastham - NDC London 2026](https://www.youtube.com/watch?v=EDwtofkScdI)
 - [Supercharging Local Development with Aspire - Jimmy Bogard - NDC London 2026](https://www.youtube.com/watch?v=B6YyCXxJM3g)
@@ -537,3 +536,4 @@
 - [Beyond the AI Hype: What's Real, What's Next - Richard Campbell - NDC London 2026](https://www.youtube.com/watch?v=65TGxZ9yHT0)
 - [10 Tips To Level Up Your AI-Assisted Coding - Aleksander Stensby - NDC London 2026](https://www.youtube.com/watch?v=NbenxkeJkEA)
 - [What in the Hunger Games is Happening with Recruitment? - Suzi Edwards-Alexander](https://www.youtube.com/watch?v=oFsujSNDk1A)
+- [AI Agents Need Permission Slips - Heather Downing - NDC London 2026](https://www.youtube.com/watch?v=NI6sTgOlK74)
