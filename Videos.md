@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [Let's Learn Claude Code - Dylan Beattie](https://www.youtube.com/playlist?list=PLw0jj21rhfkNPdETKsoyPEbKkZpCpB4Gh)
 - [Going Passwordless - A Practical Guide to Passkeys in ASP.NET Core - Maarten Balliauw - NDC London 2026](https://www.youtube.com/watch?v=-BV2BCWQGiQ)
 - [Application Performance Optimisation in Practice - Steve Gordon - NDC London 2026](https://www.youtube.com/watch?v=vtXXObjZZBM)
 - [Optimizing your HttpClient usage - Nico Vermeir - NDC London 2026](https://www.youtube.com/watch?v=HnKIkLO07Dg)
