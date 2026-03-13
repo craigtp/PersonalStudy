@@ -1,6 +1,8 @@
 # Videos To Watch
 
-- [Crafting Intelligent Agents with Context Engineering - Carly Richmond - NDC London 2026](https://www.youtube.com/watch?v=HZVLtpz63uM)
+- [Going Passwordless - A Practical Guide to Passkeys in ASP.NET Core - Maarten Balliauw - NDC London 2026](https://www.youtube.com/watch?v=-BV2BCWQGiQ)
+- [Application Performance Optimisation in Practice - Steve Gordon - NDC London 2026](https://www.youtube.com/watch?v=vtXXObjZZBM)
+- [Optimizing your HttpClient usage - Nico Vermeir - NDC London 2026](https://www.youtube.com/watch?v=HnKIkLO07Dg)
 - [A Defence of Technical Excellence - Chris Simon - NDC London 2026](https://www.youtube.com/watch?v=BkxIwxSp7V0)
 - [Meditations on Code As Art - David Whitney - NDC London 2026](https://www.youtube.com/watch?v=althUQZR5O0)
 - [Keynote: The dangers of probably-working software - Damian Brady - NDC London 2026](https://www.youtube.com/watch?v=DZpR0GojoWQ)
@@ -12,7 +14,6 @@
 - [Resilient by Design - Chris Ayers - NDC London 2026](https://www.youtube.com/watch?v=vgOzZBAfMpA)
 - [Immutable Patterns of System Design; From Monolith to Agentic AI - James Eastham - NDC London 2026](https://www.youtube.com/watch?v=EDwtofkScdI)
 - [Supercharging Local Development with Aspire - Jimmy Bogard - NDC London 2026](https://www.youtube.com/watch?v=B6YyCXxJM3g)
-- [Connascence: beyond Coupling and Cohesion - KanDDDinsky - Marco Consolaro](https://www.youtube.com/watch?v=j8HEbPx53Ls)
 - [Modernizing your legacy application - Nico Vermeir - NDC Copenhagen 2025](https://www.youtube.com/watch?v=P_OSJ3AmXVo)
 - [.NET Aspire Beyond the Introduction - Chris Klug - NDC Copenhagen 2025](https://www.youtube.com/watch?v=4bvkIajqDjQ)
 - [Navigating complexity in event-driven architectures: A domain-driven approach - David Boyne - NDC Copenhagen 2025](https://www.youtube.com/watch?v=6E0_Zsj88Gw)
@@ -537,3 +538,5 @@
 - [10 Tips To Level Up Your AI-Assisted Coding - Aleksander Stensby - NDC London 2026](https://www.youtube.com/watch?v=NbenxkeJkEA)
 - [What in the Hunger Games is Happening with Recruitment? - Suzi Edwards-Alexander](https://www.youtube.com/watch?v=oFsujSNDk1A)
 - [AI Agents Need Permission Slips - Heather Downing - NDC London 2026](https://www.youtube.com/watch?v=NI6sTgOlK74)
+- [Crafting Intelligent Agents with Context Engineering - Carly Richmond - NDC London 2026](https://www.youtube.com/watch?v=HZVLtpz63uM)
+- [Connascence: beyond Coupling and Cohesion - KanDDDinsky - Marco Consolaro](https://www.youtube.com/watch?v=j8HEbPx53Ls)
