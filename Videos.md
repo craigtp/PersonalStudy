@@ -11,7 +11,6 @@
 - [Quantum Physics for Software Developers - Filip W. - NDC London 2026](https://www.youtube.com/watch?v=GOB4yVvKVoA)
 - [Reliable Agentic Systems need Durable Execution - Marc Duiker - NDC London 2026](https://www.youtube.com/watch?v=rY8GpdjVQL0)
 - [Advanced Pattern Matching in C# - Oliver Sturm - NDC London 2026](https://www.youtube.com/watch?v=oKNAKc41zBs)
-- [Modular Code with Examples in C# - Ian Cooper - NDC London 2026](https://www.youtube.com/watch?v=ayJ_WJ-8zHo)
 - [Resilient by Design - Chris Ayers - NDC London 2026](https://www.youtube.com/watch?v=vgOzZBAfMpA)
 - [Immutable Patterns of System Design; From Monolith to Agentic AI - James Eastham - NDC London 2026](https://www.youtube.com/watch?v=EDwtofkScdI)
 - [Supercharging Local Development with Aspire - Jimmy Bogard - NDC London 2026](https://www.youtube.com/watch?v=B6YyCXxJM3g)
@@ -541,3 +540,4 @@
 - [AI Agents Need Permission Slips - Heather Downing - NDC London 2026](https://www.youtube.com/watch?v=NI6sTgOlK74)
 - [Crafting Intelligent Agents with Context Engineering - Carly Richmond - NDC London 2026](https://www.youtube.com/watch?v=HZVLtpz63uM)
 - [Connascence: beyond Coupling and Cohesion - KanDDDinsky - Marco Consolaro](https://www.youtube.com/watch?v=j8HEbPx53Ls)
+- [Modular Code with Examples in C# - Ian Cooper - NDC London 2026](https://www.youtube.com/watch?v=ayJ_WJ-8zHo)
