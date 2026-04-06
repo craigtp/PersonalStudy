@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [Post-quantum cryptography for .NET developers - Filip W. - NDC Security 2026](https://www.youtube.com/watch?v=HEi5m2TCz6E)
 - [Let's Learn Claude Code - Dylan Beattie](https://www.youtube.com/playlist?list=PLw0jj21rhfkNPdETKsoyPEbKkZpCpB4Gh)
 - [Going Passwordless - A Practical Guide to Passkeys in ASP.NET Core - Maarten Balliauw - NDC London 2026](https://www.youtube.com/watch?v=-BV2BCWQGiQ)
 - [Application Performance Optimisation in Practice - Steve Gordon - NDC London 2026](https://www.youtube.com/watch?v=vtXXObjZZBM)
@@ -541,3 +542,4 @@
 - [Crafting Intelligent Agents with Context Engineering - Carly Richmond - NDC London 2026](https://www.youtube.com/watch?v=HZVLtpz63uM)
 - [Connascence: beyond Coupling and Cohesion - KanDDDinsky - Marco Consolaro](https://www.youtube.com/watch?v=j8HEbPx53Ls)
 - [Modular Code with Examples in C# - Ian Cooper - NDC London 2026](https://www.youtube.com/watch?v=ayJ_WJ-8zHo)
+- [David Whitney - The Unbearable Weight of Architecture - DDD Europe 2025](https://www.youtube.com/watch?v=QVd5-FI0TEw)
