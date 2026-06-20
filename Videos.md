@@ -543,3 +543,4 @@
 - [Connascence: beyond Coupling and Cohesion - KanDDDinsky - Marco Consolaro](https://www.youtube.com/watch?v=j8HEbPx53Ls)
 - [Modular Code with Examples in C# - Ian Cooper - NDC London 2026](https://www.youtube.com/watch?v=ayJ_WJ-8zHo)
 - [David Whitney - The Unbearable Weight of Architecture - DDD Europe 2025](https://www.youtube.com/watch?v=QVd5-FI0TEw)
+- [Principle Misunderstandings – Kevlin Henney | Craft 2026](https://www.youtube.com/watch?v=bBCjSRHWyDw)
