@@ -556,3 +556,4 @@
 - [Modular Code with Examples in C# - Ian Cooper - NDC London 2026](https://www.youtube.com/watch?v=ayJ_WJ-8zHo)
 - [David Whitney - The Unbearable Weight of Architecture - DDD Europe 2025](https://www.youtube.com/watch?v=QVd5-FI0TEw)
 - [Principle Misunderstandings – Kevlin Henney | Craft 2026](https://www.youtube.com/watch?v=bBCjSRHWyDw)
+- [Completing the Rewrite from Hell: Five Years of Technical Debt and How We Escaped - Aaron Stannard - NDC Copenhagen 2026](https://www.youtube.com/watch?v=deke8dAsLTI)
