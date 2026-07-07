@@ -1,5 +1,17 @@
 # Videos To Watch
 
+- [HitchHacker's Guide to Building Secure Agents - Kenneth Yeung & Kasimir Schulz - NDC AI 2026](https://www.youtube.com/watch?v=eRaay8rBU_I)
+- [SOTA Agentic Coding with OpenCode, Greek Gods and Custom Workflows - Tjalve Aarflot - NDC AI 2026](https://www.youtube.com/watch?v=EowOzx0NiOA)
+- [How We Built an Autonomous Development Workflow at Nordic Corporate Bank - Hallstein Brotan - NDC AI 2026](https://www.youtube.com/watch?v=p8M8--12h1Y)
+- [The playbook we built for 2,000 developers (and the parts any team can steal) - Håkon Eriksson & Øyvind Viken - NDC AI 2026](https://www.youtube.com/watch?v=hvBYTbdfH2k)
+- [What Claude Code Can Do That You Haven't Tried - Gui Ferreira - NDC AI 2026](https://www.youtube.com/watch?v=zaDbZt40kRg)
+- [Agentic Engineering: Notes from Building and Shipping with Agents - Mats Oustad - NDC AI 2026](https://www.youtube.com/watch?v=Tj6Df_K-IRc)
+- [10 tips to level up your ai-assisted coding - Aleksander Stensby - NDC AI 2026](https://www.youtube.com/watch?v=K7dBRuSDWTw)
+- [AI Agents That Don't Suck: How to Build Ones That Actually Drive Business Value - Robert Koch - NDC Sydney 2026](https://www.youtube.com/watch?v=_vaIfRXXiIY)
+- [Spec-Driven Development: The Fast Track to 10x? - Jerry Nixon - NDC Sydney 2026](https://www.youtube.com/watch?v=m0Le7rXlsNs)
+- [Attacking AI - Jason Haddix - NDC Security 2026](https://www.youtube.com/watch?v=j51uMah-3js)
+- [Prompt Hardening - Secure Code Generation Using AI - Sean Sinclair - NDC Security 2026](https://www.youtube.com/watch?v=Jigo5fkA1gM)
+- [The evolution of fighting crime. From handcuffs to keyboard. - Ruben van Well - NDC Security 2026](https://www.youtube.com/watch?v=rERVcZMX9ag)
 - [Post-quantum cryptography for .NET developers - Filip W. - NDC Security 2026](https://www.youtube.com/watch?v=HEi5m2TCz6E)
 - [Let's Learn Claude Code - Dylan Beattie](https://www.youtube.com/playlist?list=PLw0jj21rhfkNPdETKsoyPEbKkZpCpB4Gh)
 - [Going Passwordless - A Practical Guide to Passkeys in ASP.NET Core - Maarten Balliauw - NDC London 2026](https://www.youtube.com/watch?v=-BV2BCWQGiQ)
