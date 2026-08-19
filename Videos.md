@@ -557,3 +557,4 @@
 - [David Whitney - The Unbearable Weight of Architecture - DDD Europe 2025](https://www.youtube.com/watch?v=QVd5-FI0TEw)
 - [Principle Misunderstandings – Kevlin Henney | Craft 2026](https://www.youtube.com/watch?v=bBCjSRHWyDw)
 - [Completing the Rewrite from Hell: Five Years of Technical Debt and How We Escaped - Aaron Stannard - NDC Copenhagen 2026](https://www.youtube.com/watch?v=deke8dAsLTI)
+- [The History of NET - Richard Campbell - Build Stuff](https://www.youtube.com/watch?v=k9EZ-81s-L8)
