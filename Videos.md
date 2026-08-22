@@ -13,7 +13,6 @@
 - [Prompt Hardening - Secure Code Generation Using AI - Sean Sinclair - NDC Security 2026](https://www.youtube.com/watch?v=Jigo5fkA1gM)
 - [The evolution of fighting crime. From handcuffs to keyboard. - Ruben van Well - NDC Security 2026](https://www.youtube.com/watch?v=rERVcZMX9ag)
 - [Post-quantum cryptography for .NET developers - Filip W. - NDC Security 2026](https://www.youtube.com/watch?v=HEi5m2TCz6E)
-- [Let's Learn Claude Code - Dylan Beattie](https://www.youtube.com/playlist?list=PLw0jj21rhfkNPdETKsoyPEbKkZpCpB4Gh)
 - [Going Passwordless - A Practical Guide to Passkeys in ASP.NET Core - Maarten Balliauw - NDC London 2026](https://www.youtube.com/watch?v=-BV2BCWQGiQ)
 - [Application Performance Optimisation in Practice - Steve Gordon - NDC London 2026](https://www.youtube.com/watch?v=vtXXObjZZBM)
 - [Optimizing your HttpClient usage - Nico Vermeir - NDC London 2026](https://www.youtube.com/watch?v=HnKIkLO07Dg)
@@ -558,3 +557,4 @@
 - [Principle Misunderstandings – Kevlin Henney | Craft 2026](https://www.youtube.com/watch?v=bBCjSRHWyDw)
 - [Completing the Rewrite from Hell: Five Years of Technical Debt and How We Escaped - Aaron Stannard - NDC Copenhagen 2026](https://www.youtube.com/watch?v=deke8dAsLTI)
 - [The History of NET - Richard Campbell - Build Stuff](https://www.youtube.com/watch?v=k9EZ-81s-L8)
+- [Let's Learn Claude Code - Dylan Beattie](https://www.youtube.com/playlist?list=PLw0jj21rhfkNPdETKsoyPEbKkZpCpB4Gh)
