@@ -1,6 +1,5 @@
 # Videos To Watch
 
-- [How Anthropic uses Claude Code: Agentic Software Engineering at Scale - Daisy Hollman - NDC Copenhagen 2026](https://www.youtube.com/watch?v=shZgedW15vg)
 - [Machines, Learning, and Machine Learning - Dylan Beattie - NDC Copenhagen 2026](https://www.youtube.com/watch?v=xunx7VvlOgs)
 - [AI: It AI-n't What You Think! - Venkat Subramaniam - NDC Copenhagen 2026](https://www.youtube.com/watch?v=imejbnfQFJA)
 - [Everything a .NET developer needs to know about configuration & secret management - Sander ten Brinke - NDC Copenhagen 2026](https://www.youtube.com/watch?v=-MaqqhPw38A)
@@ -574,3 +573,4 @@
 - [Let's Learn Claude Code - Dylan Beattie](https://www.youtube.com/playlist?list=PLw0jj21rhfkNPdETKsoyPEbKkZpCpB4Gh)
 - [Keynote: After the AI Hype – What’s Real, and What’s Next - Richard Campbell - NDC Copenhagen 2026](https://www.youtube.com/watch?v=uWnUnMphmPM)
 - [How I Tamed Claude - Emmz Rendle - NDC Copenhagen 2026](https://www.youtube.com/watch?v=GoQzVjk8rzc)
+- [How Anthropic uses Claude Code: Agentic Software Engineering at Scale - Daisy Hollman - NDC Copenhagen 2026](https://www.youtube.com/watch?v=shZgedW15vg)
