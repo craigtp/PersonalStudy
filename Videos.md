@@ -559,3 +559,4 @@
 - [The History of NET - Richard Campbell - Build Stuff](https://www.youtube.com/watch?v=k9EZ-81s-L8)
 - [Let's Learn Claude Code - Dylan Beattie](https://www.youtube.com/playlist?list=PLw0jj21rhfkNPdETKsoyPEbKkZpCpB4Gh)
 - [Keynote: After the AI Hype – What’s Real, and What’s Next - Richard Campbell - NDC Copenhagen 2026](https://www.youtube.com/watch?v=uWnUnMphmPM)
+- [How I Tamed Claude - Emmz Rendle - NDC Copenhagen 2026](https://www.youtube.com/watch?v=GoQzVjk8rzc)
