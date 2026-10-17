@@ -1,5 +1,15 @@
 # Videos To Watch
 
+- [Unf*ck your mind: How to finally build something great again - Marin Niehues - NDC Oslo 2026](https://www.youtube.com/watch?v=HVkH8xMibR0)
+- [From Code to Intelligence: The Rise of the Full-Stack AI Engineer - Adam Stephensen - NDC Oslo 2026](https://www.youtube.com/watch?v=cxz9xw09oa0)
+- [Like Having an Intern? The Impact of LLMs on Software Engineering Careers -Tom Sellek & Netta Avnoon - NDC Toronto 2026](https://www.youtube.com/watch?v=QjetA7FyqI0)
+- ["Looks Good to Me": A Practical Guide to Handling AI-Generated Code - Roman Zhukov - NDC Toronto 2026](https://www.youtube.com/watch?v=LnZDY6XC5pA)
+- [10 tips to level up your ai-assisted coding - Aleksander Stensby - NDC AI 2026](https://www.youtube.com/watch?v=K7dBRuSDWTw)
+- [AI Agents In-Depth – Function Calling, MCP and Tool Use Under the Hood - Alan Smith - NDC AI 2026](https://www.youtube.com/watch?v=Mvcxa35_PMA)
+- [Teaching your coding agent defensive coding - Erlend Oftedal - NDC AI 2026](https://www.youtube.com/watch?v=VUZpQgNaO4s)
+- [Agentic Engineering: Notes from Building and Shipping with Agents - Mats Oustad - NDC AI 2026](https://www.youtube.com/watch?v=Tj6Df_K-IRc)
+- [The playbook we built for 2,000 developers - Håkon Eriksson & Øyvind Viken - NDC AI 2026](https://www.youtube.com/watch?v=hvBYTbdfH2k)
+- [How We Built an Autonomous Development Workflow at Nordic Corporate Bank - NDC AI 2026](https://www.youtube.com/watch?v=p8M8--12h1Y)
 - [Machines, Learning, and Machine Learning - Dylan Beattie - NDC Copenhagen 2026](https://www.youtube.com/watch?v=xunx7VvlOgs)
 - [AI: It AI-n't What You Think! - Venkat Subramaniam - NDC Copenhagen 2026](https://www.youtube.com/watch?v=imejbnfQFJA)
 - [Everything a .NET developer needs to know about configuration & secret management - Sander ten Brinke - NDC Copenhagen 2026](https://www.youtube.com/watch?v=-MaqqhPw38A)
