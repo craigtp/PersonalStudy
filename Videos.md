@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [Spec-Driven Development with ATDD & AI (Valentina Jemuović)](https://www.youtube.com/watch?v=ILzsytgTz8A)
 - [Unf*ck your mind: How to finally build something great again - Marin Niehues - NDC Oslo 2026](https://www.youtube.com/watch?v=HVkH8xMibR0)
 - [From Code to Intelligence: The Rise of the Full-Stack AI Engineer - Adam Stephensen - NDC Oslo 2026](https://www.youtube.com/watch?v=cxz9xw09oa0)
 - [Like Having an Intern? The Impact of LLMs on Software Engineering Careers -Tom Sellek & Netta Avnoon - NDC Toronto 2026](https://www.youtube.com/watch?v=QjetA7FyqI0)
