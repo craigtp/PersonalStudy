@@ -1,5 +1,6 @@
 # Videos To Watch
 
+- [AI Software Factory: How to Deliver Features During Lunch - Jeffrey Palermo - TechBash 2026 Keynote](https://www.youtube.com/watch?v=Sni5qAi2Rf8)
 - [Unf*ck your mind: How to finally build something great again - Marin Niehues - NDC Oslo 2026](https://www.youtube.com/watch?v=HVkH8xMibR0)
 - [From Code to Intelligence: The Rise of the Full-Stack AI Engineer - Adam Stephensen - NDC Oslo 2026](https://www.youtube.com/watch?v=cxz9xw09oa0)
 - [Like Having an Intern? The Impact of LLMs on Software Engineering Careers -Tom Sellek & Netta Avnoon - NDC Toronto 2026](https://www.youtube.com/watch?v=QjetA7FyqI0)
