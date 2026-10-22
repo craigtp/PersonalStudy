@@ -582,3 +582,4 @@
 - [How Anthropic uses Claude Code: Agentic Software Engineering at Scale - Daisy Hollman - NDC Copenhagen 2026](https://www.youtube.com/watch?v=shZgedW15vg)
 - [Spec-Driven Development with ATDD & AI (Valentina Jemuović)](https://www.youtube.com/watch?v=ILzsytgTz8A)
 - [10 tips to level up your ai-assisted coding - Aleksander Stensby - NDC AI 2026](https://www.youtube.com/watch?v=K7dBRuSDWTw)
+- [Being the Human in the Loop – Kevlin Henney](https://www.youtube.com/watch?v=vpYJMr1pJRY)
