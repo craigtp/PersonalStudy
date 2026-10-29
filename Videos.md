@@ -23,7 +23,6 @@
 - [SOTA Agentic Coding with OpenCode, Greek Gods and Custom Workflows - Tjalve Aarflot - NDC AI 2026](https://www.youtube.com/watch?v=EowOzx0NiOA)
 - [How We Built an Autonomous Development Workflow at Nordic Corporate Bank - Hallstein Brotan - NDC AI 2026](https://www.youtube.com/watch?v=p8M8--12h1Y)
 - [The playbook we built for 2,000 developers (and the parts any team can steal) - Håkon Eriksson & Øyvind Viken - NDC AI 2026](https://www.youtube.com/watch?v=hvBYTbdfH2k)
-- [What Claude Code Can Do That You Haven't Tried - Gui Ferreira - NDC AI 2026](https://www.youtube.com/watch?v=zaDbZt40kRg)
 - [Agentic Engineering: Notes from Building and Shipping with Agents - Mats Oustad - NDC AI 2026](https://www.youtube.com/watch?v=Tj6Df_K-IRc)
 - [AI Agents That Don't Suck: How to Build Ones That Actually Drive Business Value - Robert Koch - NDC Sydney 2026](https://www.youtube.com/watch?v=_vaIfRXXiIY)
 - [Spec-Driven Development: The Fast Track to 10x? - Jerry Nixon - NDC Sydney 2026](https://www.youtube.com/watch?v=m0Le7rXlsNs)
@@ -585,3 +584,5 @@
 - [AI Software Factory: How to Deliver Features During Lunch - Jeffrey Palermo - TechBash 2026 Keynote](https://www.youtube.com/watch?v=Sni5qAi2Rf8)
 - [Verifying AI-Generated Code: Lessons from NASA (Leonid Bugaev)](https://www.youtube.com/watch?v=Qh5SGXSsgXI)
 - [Software Engineering in the Age of AI - Kent Beck - Prodacity 2026](https://www.youtube.com/watch?v=F8fBgDCf2Y4)
+- [What Claude Code Can Do That You Haven't Tried - Gui Ferreira - NDC Oslo 2026](https://www.youtube.com/watch?v=P3TCZ2xrvbo)
+- [AI Your Way: MCPs vs Skills vs SubAgents - Sam Basu - NDC Oslo 2026](https://www.youtube.com/watch?v=daZ7OXSFQqw)
