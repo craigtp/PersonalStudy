@@ -5,7 +5,6 @@
 - [Like Having an Intern? The Impact of LLMs on Software Engineering Careers -Tom Sellek & Netta Avnoon - NDC Toronto 2026](https://www.youtube.com/watch?v=QjetA7FyqI0)
 - ["Looks Good to Me": A Practical Guide to Handling AI-Generated Code - Roman Zhukov - NDC Toronto 2026](https://www.youtube.com/watch?v=LnZDY6XC5pA)
 - [Machines, Learning, and Machine Learning - Dylan Beattie - NDC Copenhagen 2026](https://www.youtube.com/watch?v=xunx7VvlOgs)
-- [AI: It AI-n't What You Think! - Venkat Subramaniam - NDC Copenhagen 2026](https://www.youtube.com/watch?v=imejbnfQFJA)
 - [Everything a .NET developer needs to know about configuration & secret management - Sander ten Brinke - NDC Copenhagen 2026](https://www.youtube.com/watch?v=-MaqqhPw38A)
 - [Designing REST APIs for the age of AI agents - Boyan Mihaylov - NDC Copenhagen 2026](https://www.youtube.com/watch?v=FlAJJr7LfU8)
 - [Imagine If We Made It Simple - Gui Ferreira - NDC Copenhagen 2026](https://www.youtube.com/watch?v=6P3RhjNN84A)
@@ -586,3 +585,5 @@
 - [Software Engineering in the Age of AI - Kent Beck - Prodacity 2026](https://www.youtube.com/watch?v=F8fBgDCf2Y4)
 - [What Claude Code Can Do That You Haven't Tried - Gui Ferreira - NDC Oslo 2026](https://www.youtube.com/watch?v=P3TCZ2xrvbo)
 - [AI Your Way: MCPs vs Skills vs SubAgents - Sam Basu - NDC Oslo 2026](https://www.youtube.com/watch?v=daZ7OXSFQqw)
+- [AI Writes the Code. So What's Left for Engineers? - Laurie Voss - Arize AI](https://www.youtube.com/watch?v=kspZP5BgkEU)
+- [AI: It AI-n't What You Think! - Venkat Subramaniam - NDC Copenhagen 2026](https://www.youtube.com/watch?v=imejbnfQFJA)
