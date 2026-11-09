@@ -587,3 +587,5 @@
 - [AI Your Way: MCPs vs Skills vs SubAgents - Sam Basu - NDC Oslo 2026](https://www.youtube.com/watch?v=daZ7OXSFQqw)
 - [AI Writes the Code. So What's Left for Engineers? - Laurie Voss - Arize AI](https://www.youtube.com/watch?v=kspZP5BgkEU)
 - [AI: It AI-n't What You Think! - Venkat Subramaniam - NDC Copenhagen 2026](https://www.youtube.com/watch?v=imejbnfQFJA)
+- [Understanding Distributed Architectures - The Patterns Approach - Unmesh Joshi - YOW! 2024](https://www.youtube.com/watch?v=z7hJ1BHa5Oo)
+- [The 3 Golden Rules of Distributed Systems - Sam Newman](https://www.youtube.com/watch?v=yebUpcBTdtQ)
